@@ -1400,18 +1400,18 @@ https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
 #KODIPROP:inputstream.adaptive.license_key=b489136b34aa4166a9c9984f19155d30:2c6de796954779fd6f51584425ac834e
 https://atemeshield1-voe.sysln.id/live/eds/CinemaxHD/mpd/CinemaxHD.mpd
 
-#EXTINF:-1 tvg-id="HBO HD" tvg-name="" tvg-logo="https://static.hbo.com/2021-11/hbo-static-1920.jpg" group-title="🔵FIRSTMEDIA"", HBO
+#EXTINF:-1 tvg-id="HBO HD" tvg-name="" tvg-logo="https://static.hbo.com/2021-11/hbo-static-1920.jpg" group-title="🔵FIRSTMEDIA", HBO
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=21ffca10810542af9734b82f4000c274:e3d2e4843ffadf510f6c91668a03e183
 https://atemeshield1-voe.sysln.id/live/eds/HBOHD/mpd/HBOHD.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="🔵FIRSTMEDIA"" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
+#EXTINF:0 tvg-id="" tvg-name="" group-title="🔵FIRSTMEDIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd 
 
-#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="🔵FIRSTMEDIA"" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
+#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="🔵FIRSTMEDIA" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n3VVRA+zEDQd2wDNvGOM6g", "kid":"8L397w9WSBmitDNFsyj5iQ" } ], "type":"temporary" }
