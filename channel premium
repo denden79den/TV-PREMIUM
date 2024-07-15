@@ -797,7 +797,7 @@ https://akam.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc106wh3yw)/m
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,like Gecko) Chrome/81.0.4044.138 Safari/537.36
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chpptvhd3/index.m3u8
 
-#EXTINF:-1 tvg-id="T-☆OLAHRAGA☆7.th" group-title="☆OLAHRAGA☆" group-logo="https://i.pinimg.com/236x/aa/5e/db/aa5edbfd6a615381da006a02310518fb.jpg" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-SPORT
+#EXTINF:-1 tvg-id="T-☆OLAHRAGA☆7.th" group-title="☆OLAHRAGA☆" tvg-logo="https://i.imgur.com/hnfiUbK.png",T-SPORT
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 ExoPlayerLib/2.14.1
 https://cdn6.goprimetime.info/feed/eI5rczhSQpWBcgOtqRLNWw/chtsport3/index.m3u8|user-agent=Mozilla/5.0
 
@@ -970,8 +970,6 @@ https://livestreamf1.com/aHR0cDovLzE0OC4yNTEuNi4yMDc6ODA4OC9obHMvc3RyZWFtLm0zdTg
 =======================================KIDSTV===================================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵KIDSTV"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵KIDSTV"
 #EXTINF:0 tvg-id="outdoor" group-title="🔵KIDSTV",KARTUN SIS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h227/02.m3u8
@@ -1057,8 +1055,6 @@ https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(c99739b1-
 ===============================ENTERTAINMENT=============================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🎭ENTERTAIN🎭"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🎭ENTERTAIN🎭"
 #EXTINF:-1 tvg-id="5735" tvg-logo="https://i.pinimg.com/236x/40/00/c3/4000c3a554dcd4c1ad19133cdbc83a3d.jpg" group-title="🎭ENTERTAIN🎭",JUST FOR LAUGHT
 https://i.mjh.nz/Stirr/5735.m3u8
 #EXTINF:-1 tvg-id="FashionFinds.us" tvg-logo="https://i.pinimg.com/236x/54/4f/58/544f58719296767371e5afeb4ae88dc5.jpg" group-title="🎭ENTERTAIN🎭",FASHION FIND (HD)
@@ -1171,8 +1167,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h229/index2.m3u8
 ===================================MUSIK===============================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🎵MUSIK🎵"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🎵MUSIK🎵"
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGRhNmU1M2UtNGE3Ni0zZGRkLWJhMmQtYTFmMzE2YTRlMTY3
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -1254,8 +1248,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 ==============================SPORTS=====================================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="☆SPORT+☆"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="☆SPORT+☆"
 #EXTINF:-1 tvg-name="SPORTSTARS 3" tvg-logo="https://i.pinimg.com/236x/73/f4/1d/73f41d015f6ccee6d153d1b782a9ccde.jpg" group-title="☆SPORT+☆",BEINMAX
 http://tprohd.net:8080/live/234769298598/65cfc6c118435/58028.m3u8
 
@@ -1444,7 +1436,7 @@ http://fortv.cc:8080/live/PyRR3Hy/DthK0fv/167745.ts
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="ASTROSPORTS"
 
-#EXTINF:-1 group-title="ASTROSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport HD
+#EXTINF:-1 group-title="ASTROSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png",Astro SuperSport 1 HD
 http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59220
 #EXTINF:-1 group-title="ASTROSPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png",Astro SuperSport 2 HD
 http://newlife3.wanicelife.com:8880/6mmk170005/92179118/59219
