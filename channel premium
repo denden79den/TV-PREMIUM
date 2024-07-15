@@ -190,8 +190,6 @@ https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 =============================PENGETAHUAN==========================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵PENGETAHUAN"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵PENGETAHUAN"
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f7/f6/32/f7f632d42084d6c5b741abe1234f8bd7.jpg" group-title="🔵PENGETAHUAN",DISCOVERY SCIENCE
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/discoverysci.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/99/7a/d4/997ad472eae9af02a0413c781fe082c9.jpg" group-title="🔵PENGETAHUAN", DMAX
@@ -607,8 +605,6 @@ https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/62
 =================================BERITA===========================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵BERITA"
-
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵BERITA"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCBLk2T.png?v=1.0.0.1" group-title="🔵BERITA" tvg-id="BNTV" tvg-name="BN TV", BN TV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -730,7 +726,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorl
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="☆OLAHRAGA☆"
 
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="☆OLAHRAGA☆"
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="☆OLAHRAGA☆"
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/73/66/b0/7366b0646aca8ee31104b9cc6b47bd18.jpg" group-title="☆OLAHRAGA☆",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; U; Android 4.2.2; he-il; NEO-X5-116A Build/JDQ39) AppleWebKit/534.30 (KHTML, like Gecko) Version/4.0 Safari/534.30
