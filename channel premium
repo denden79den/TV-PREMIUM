@@ -3345,14 +3345,12 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 
 ===========================SONYTEN==================================
 
-#EXTINF: -1 group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://iili.io/dBh41n4.png" group-title=🔵"SONYTEN", SONY TEN 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12173
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title= "🔵SONYTEN",Sony Ten 1
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title= "🔵SONYTEN",Sony Ten 2
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title= "🔵SONYTEN",Sony Ten 3
+http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title= "🔵SONYTEN",Sony Ten 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
-#EXTINF: -1 group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://iili.io/dBh4pSt.png" group-title=🔵"SONYTEN",SONY TEN 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12174
-
-#EXTINF: -1 group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://iili.io/dBh6IDb.png" group-title=🔵"SONYTEN",SONY TEN 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; CrOS x86_64 14541.0.0) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36
-https://play.gachor99.my.id:443/hmtv_v3/qKAGARWRTk/12175
