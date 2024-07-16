@@ -3345,12 +3345,12 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 
 ===========================SONYTEN==================================
 
-#EXTINF:-1 group-title="🔵SONYTEN" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Ten 1
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵SONY SPORTS",Sony Ten 1
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109983
-#EXTINF:-1 group-title="🔵SONYTEN" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Ten 2
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="🔵SONY SPORTS",Sony Ten 2
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109984
-#EXTINF:-1 group-title="🔵SONYTEN" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png",Sony Ten 3
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="🔵SONY SPORTS",Sony Ten 3
 http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
-#EXTINF:-1 group-title="🔵SONYTEN" group-logo="https://iili.io/dBMB0Yu.png" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" ,Sony Ten 4
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="🔵SONY SPORTS",Sony Ten 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
