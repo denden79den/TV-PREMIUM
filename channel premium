@@ -568,11 +568,6 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(cec31cdd-d2ff
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1-cb85-94a9-7fa84858b877)/manifest.mpd
 
-
-#EXTINF:-1 group-title="🔵FILM" tvg-id="" tvg-logo="https://i.pinimg.com/236x/a9/96/ed/a996ed4423412f236de06f1f0d8da2c8.jpg",WARNER HD
-#EXTVLCOPT:http-user-agent=Player (Linux; Android 10)
-https://play.gachor99.my.id:443/hometv_lite/h6NwHhGE43/129
-
 =================================BERITA===========================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵BERITA"
