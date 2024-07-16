@@ -508,7 +508,7 @@ http://pop5clustera00de07172379a62d6189.hypp.tv/PLTV/88888888/224/3221227923/322
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik_dash/manifest.mpd 
 
-#EXTINF:-1 tvg-logo="https://www.kindpng.com/picc/m/1-13782_warner-tv-channel-logo-hd-png-download.png" group-title="🔵FILM", WARNER TV
+#EXTINF:-1 tvg-logo="https://iili.io/dBiNYGt.png" group-title="🔵FILM", WARNER TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
