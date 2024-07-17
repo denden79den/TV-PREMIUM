@@ -3370,7 +3370,7 @@ https://node3.olelive.com:6443/live/CCTV5PHD/hls.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/vPJ3pjY/TSN1.png" group-title="🔵LIVE EVENT",TSN 1
 http://cord-cutter.net:8080/live/j3McKd/673709/47440.ts
 
-#EXTINF:-1 tvg-logo="https://www.googleapis.com/drive/v3/files/1p33YZNnzzFz2MzpD-cTmanwLvBXxCNuj?alt=media&key=AIzaSyDrQ86QJRiJlyPcLFYdxT22_oC2H1verR4" group-title="🔵LIVE EVENT",RPC
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/nwPHpSt/rpc.png" group-title="🔵LIVE EVENT",RPC
 http://live.budtvlight.com:25461/live/rafanewl/t37DDpJuwD5j/11315.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CbXhbr0/5.png" group-title="🔵LIVE EVENT",CCTV 5+ (Back Up)
