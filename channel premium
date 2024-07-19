@@ -1375,6 +1375,25 @@ http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1720
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="🔵ASTROSPORTS",Astro Super Sport 4 (Backup)
 http://kmkus.wanicelife.com:8880/3ca04303n08/asfefd4wr34/1719
 
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵ASTROSPORTS",MY013:Super Sport 1
+http://vo01.mohdtv.com:8880/voby5183/41179153/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵ASTROSPORTS",MY014:Super Sport 2
+http://vo01.mohdtv.com:8880/voby5183/41179153/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵ASTROSPORTS",MY015:Super Sport 3
+http://vo01.mohdtv.com:8880/voby5183/41179153/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵ASTROSPORTS",MY016:Super Sport 4
+http://vo01.mohdtv.com:8880/voby5183/41179153/1719
+#EXTINF:-1 tvg-id="" tvg-name="MY022:Super Sport 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="🔵ASTROSPORTS",MY022:Super Sport 5
+http://vo01.mohdtv.com:8880/voby5183/41179153/1713
+
+#EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵ASTROSPORTS",MY040:ASTRO ASSP1 HD
+http://vo01.mohdtv.com:8880/voby5183/41179153/59220
+#EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵ASTROSPORTS",MY041:ASTRO ASSP2 HD
+http://vo01.mohdtv.com:8880/voby5183/41179153/59219
+#EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵ASTROSPORTS",MY042:ASTRO ASSP3 HD
+http://vo01.mohdtv.com:8880/voby5183/41179153/59218
+#EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵ASTROSPORTS",MY043:ASTRO ASSP4 HD
+http://vo01.mohdtv.com:8880/voby5183/41179153/59217
 
 ====================GROUP CITRA==========================
 
