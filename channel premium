@@ -192,6 +192,67 @@ https://rodjatv.com/rodjatv/live.m3u8
 https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
 
 
+EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/uN-9YSAGB4t2sj1D0nFEqroQ42o=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6852/al-quran-al-kareem-tv-62095c.jpg" group-title="🔵TV ISLAM",Mekkah TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Quran_TV
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMjhVQ1EDfQG5XI0oLlhMgEyiG0NVN3FdgkuThZnXhODq2qDC7gJG-QdXU&amp;s=10" group-title="🔵TV ISLAM",Madinah TV
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8?app_type=web&amp;userid=lite&amp;chname=Sunna_TV
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/8/81/Logo_MQTV.png" group-title="🔵TV ISLAM",MQTV
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logo-tv/images/e/e3/Muslim_TV.png/revision/latest?cb=20231127093502" group-title="🔵TV ISLAM",Muslim TV (Vision+)
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest/scale-to-width-down/268?cb=20220525022727" group-title="🔵TV ISLAM",TV9 Nusantara
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/eb/Www.tvmu.co.id_2013.png/revision/latest?cb=20180920093657" group-title="🔵TV ISLAM",TV MUHAMMADIYYAH
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/logo-rodjatv-box.png" group-title="🔵TV ISLAM",RODJA TV (Dens TV)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/116.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h233/02.m3u8
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTQyZjJiZTktNTk1Yi0zYjdhLWFhNWItY2NmNWJhYTAzZTNh
+#EXTVLCOPT:http-referrer=https://b2b-maxstream.visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-ID="" tvg-name="" group-title="🔵TV ISLAM" tvg-logo="http://guki.my.id/logo/religi/muslim.png", MUSLIM TV (M)
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTINF:-1 tvg-ID="alquranalkareem.id" tvg-name="Al Quran Al Kareem ID" group-title="🔵TV ISLAM" tvg-logo="http://guki.my.id/logo/religi/kareem.png", AL QURAN AL KAREEM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTINF:-1 tvg-ID="wow" group-title="🔵TV ISLAM" tvg-logo="http://guki.my.id/logo/religi/tawaf.png", TAWAF TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTINF:-1 tvg-ID="muhammadiyahtv" tvg-name="" group-title="🔵TV ISLAM" tvg-logo="http://guki.my.id/logo/religi/mu.png", TV MUHAMMADIYAH
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTINF:-1 tvg-ID="tv9" tvg-name="" group-title="🔵TV ISLAM" tvg-logo="http://guki.my.id/logo/religi/tv9.png", TV9
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+
 =============================PENGETAHUAN==========================
 
 #EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵PENGETAHUAN"
@@ -4320,4 +4381,233 @@ https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
 https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+
+========================CHANNEL ANAK===============================
+
+#EXTINF:0 tvg-logo="http://guki.my.id/logo/anak/kids.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK",KIDS TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+https://cempedak-live-cdn.mncnow.id/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" tvg-logo="http://guki.my.id/logo/anak/cbeebis.png",CBEEBIES
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTINF:0 tvg-logo="http://guki.my.id/logo/anak/nkjr.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK",NICK JR
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+https://cempedak-live-cdn.mncnow.id/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" tvg-logo="http://guki.my.id/logo/anak/nick.png", NICKELODEON
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/anak/animax.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK", ANIMAX
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" tvg-logo="http://guki.my.id/logo/anak/boomerang.png", BOOMERANG
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Boomerang/sa_dash_vmx/Boomerang.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/anak/aniplus.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK", ANIPLUS
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 9; CPH2083 Build/PPR1.180610.011) AppleWebKit/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h114/S4/mnf.m3u8
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonito.jpg", Cartoonito
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d055f43ff37a5/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/toon.jpg", Toon Goggles
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonprem.jpg", Cartoon TV Premium
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoon.jpg", Cartoon TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f21811dc9/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/duniaanak.jpg", Dunia Anak
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cdc32eb0c439c/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonclassic.jpg", Cartoon TV Classics
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/boonie.jpg", Boonie Cubs TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03b1d9dd1523/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/smurf.jpg", Smurf TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03bb78c91525/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/duck.jpg", Duck TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6858afb4c71018b03bd40c61526/manifest.mpd
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵FILM ANAK" group-logo="" tvg-logo="http://guki.my.id/logo/anak/camp.jpg", Camp Spoopy
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6858afb4c71018b03be407b1527/manifest.mpd
+
+=======================TV NASIONAL2==============================
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/antv.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+EXTINF:-1 tvg-id="IndosiarHD.id" tvg-logo="http://edge.linknetott.swiftserve.com/STBWEBVIEWADS/urlinfo/ui3/channel_logo_icon/218.png"  group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2", Indosiar HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/indosiar.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/mnc.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTINF:-1 tvg-id="rcti.id" tvg-name="RCTI ID" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2" tvg-logo="http://guki.my.id/logo/lokal/rcti.png", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/sctv.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",SCTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/gtv.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",Trans TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/trans7.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/net.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",NET TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZWQ0NjNlZDctNzI1Yy0zY2JlLTg3N2UtOGQ0MTU5MTc0Y2Nh
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-user-agent=MNCNow/6.31.0 (Linux;Android 9) ExoPlayerLib/2.18.1
+https://cempedak-live-cdn.mncnow.id/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/kompas.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/inews.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2", I-News 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/metro.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",MetroTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/tvone.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2",TVONE
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/rtv.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV NASIONAL2", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZjdiMDljNTItMmYzZC0zNDcyLTllYmItY2QxNDdiYzlhZWY0
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/92.0.4515.159 Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd
 
