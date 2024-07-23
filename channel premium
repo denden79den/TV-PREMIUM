@@ -33,6 +33,13 @@ https://melon-live-cdn.mncnow.id/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
 #EXTINF:-1 tvg-id="SCTV.Id" tvg-logo="https://i.pinimg.com/236x/78/1b/27/781b2734b2e56bfe3e0fbe7ee463a319.jpg" group-title="🔵TV LOKAL",SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
 
+
+#EXTINF:-1 tvg-name="SCTV" tvg-logo="https://i.pinimg.com/236x/78/1b/27/781b2734b2e56bfe3e0fbe7ee463a319.jpg" group-title="🔵TV LOKAL",SCTV (Vidio) 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5874021e33f49d4dac5cd55344b0d74:7b49f3eecf4e9336ffdb9a549d2ee781
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 11; SM-A307GN Build/RP1A.200720.012; wv) iPhone (KHTML, like Gecko) Version/4.0 Chrome/107.0.5304.91 Mobile Safari/537.36
+https://etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17578_stream.mpd?hdnts=exp=1721751166~acl=/drm/dash/*~id=69578335~hmac=44bf7474da2b78c6e6955e11d28b9b39eb7a39b4229674b2bad5253d080be2ca
+
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTINF:-1 tvg-id="Indosiar.Id" tvg-logo="https://i.pinimg.com/236x/b0/35/cd/b035cd526dc9d8f513e9d385f1243c82.jpg" group-title="🔵TV LOKAL",INDOSIAR
