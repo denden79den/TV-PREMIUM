@@ -2,7 +2,8 @@
 
 #EXTM3U
 
-#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV LOKAL"
+'#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV LOKAL"
+#EXTINF:-1 group-logo="https://i.ibb.co.com/12t0fKG/Logo-Maker-Ca-1721046102108.png" group-title="🔵TV LOKAL"
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
