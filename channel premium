@@ -3619,6 +3619,12 @@ http://premiumiptvmk.com:8080/e9cd5f24/079fd2c9/286858
 #EXTINF:-1 group-title="🔵LIVE EVENT" tvg-logo="https://hometv.biz.id/logo/lokal2/indosiar.png", INDOSIAR
 https://iptvqreatif.github.io/iptv/indosiar.m3u8
 
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🔵LIVE EVENT" , EUROSPORT 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/manifest.m3u8
+
+#EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🔵LIVE EVENT" , EUROSPORT 2
+https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
+
 =========================VISION+===================================
 
 
