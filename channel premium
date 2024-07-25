@@ -3599,6 +3599,14 @@ http://xtv.ooo:8080/Faisal0333/Adnan2148703/109985
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="🔵SONY SPORTS",Sony Ten 4
 http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
 
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 1" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="🔵SONY SPORTS",SONY TEN 1
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12173.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 2" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="🔵SONY SPORTS",SONY TEN 2
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12174.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SONY TEN 3" tvg-logo="https://play.gachor99.my.id:443/images/tXvDTN7YzfS8wgTso2geV0kX6Oqudl9QL2I6Pl8jXLipKUaEE__WJ_-DTHE8M9HIYkAGi1rjq4OSnYg9nosUzqJPQKnccs508qfdS-M1k3E.png" group-title="🔵SONY SPORTS",SONY TEN 3
+https://play.gachor99.my.id:443/live/hometv_lite2/h6NwHhGE43/12175.m3u8|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
+
+
 ===========================LIVE EVENT==========================
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/CbXhbr0/5.png" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵LIVE EVENT",CCTV 5+
