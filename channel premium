@@ -3625,6 +3625,22 @@ https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:43_HD.smil/mani
 #EXTINF:-1 tvg-logo="https://cdn.dribbble.com/users/1710170/screenshots/4221522/media/fdf1ca34862c66be6f092829a34d6174.jpg?resize=800x600&vertical=center" group-title="🔵LIVE EVENT" , EUROSPORT 2
 https://spa-ha-p005.cdn.masmediatv.es/SVoriginOperatorEdge3/smil:59_HD.smil/manifest.m3u8
 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="🔵LIVE EVENT", INDOSIAR (BACKUP)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302264
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/127dd049bd05a9d07b266c1d8883ca8b.png" group-title="🔵LIVE EVENT",SCTV (BACKUP)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302301
+
+#EXTINF:-1 tvg-id="" tvg-name="|ZA| SuperSport PSL HD" tvg-logo="" group-title="🔵LIVE EVENT", SuperSport PSL HD
+http://deeann.solanaflix.com:8080/TV-62209918/864854516916/105364
+
+#EXTINF:-1 tvg-id="" tvg-name="|ZA| SuperSport Premier League HD" tvg-logo="" group-title="🔵LIVE EVENT", SuperSport Premier League HD
+http://deeann.solanaflix.com:8080/TV-62209918/864854516916/105355
+
+#EXTINF:-1 tvg-id="" tvg-name="|ZA| SuperSport Maximo HD" tvg-logo="" group-title="🔵LIVE EVENT", SuperSport Maximo HD
+http://deeann.solanaflix.com:8080/TV-62209918/864854516916/105351
+
+
 =========================VISION+===================================
 
 
@@ -5820,3 +5836,49 @@ https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8?check
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/36/Liputan6com_2014.png" group-title="🔵INDONESIA CHANNEL (KITKAT)",Liputan 6
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
+
+
+=========================OLIMPIADE PARIS 2024======================
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵OLIMPIADE PARIS 2024",Astro Arena 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303495
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/7806170b5ef2464530dcaedcbe3e9a42.jpg" group-title="🔵OLIMPIADE PARIS 2024",Astro Arena 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303496
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="🔵OLIMPIADE PARIS 2024",Astro SuperSport 1
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303503
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="🔵OLIMPIADE PARIS 2024",Astro SuperSport 2
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303504
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="🔵OLIMPIADE PARIS 2024",Astro SuperSport 3
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303505
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="🔵OLIMPIADE PARIS 2024",Astro SuperSport 4
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-05/cdc1b72c3bb9f35f3bc27530aad3504e.png" group-title="🔵OLIMPIADE PARIS 2024",CCTV 5+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/302334
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/17d276ca2dccc34ee4b96e0a4126c82e.png" group-title="🔵OLIMPIADE PARIS 2024",Eurosport 1 (Rusia)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/317858
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/af207f16b024cd728da0621f8d81af48.png" group-title="🔵OLIMPIADE PARIS 2024",Eurosport 2 (Rusia)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/317859
+
+
+
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/293462
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5cfaf6528fef14945280363aaf81efcf.png" group-title="🔵OLIMPIADE PARIS 2024", Eurosport 1 (German)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/293463
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/44f9f80e44f84ce4533b0cbb3cb62fcd.png" group-title="🔵OLIMPIADE PARIS 2024", Eurosport 2 (German)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/293464
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/3d2dd1a15808bb3cd6e42748df2357b3.png" group-title="🔵OLIMPIADE PARIS 2024", Eurosport 1 (France)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/301898
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/bcd6a910facfc361db274a32e5207ffd.png" group-title="🔵OLIMPIADE PARIS 2024", Eurosport 2 (France)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/301899
+
+
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f596a057554b06e8b7e0e7bad9240e7b.png" group-title="🔵OLIMPIADE PARIS 2024",UK: Eurosport 1 (UK)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290406
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/091378f6123951037d5075a7585c94d9.png" group-title="🔵OLIMPIADE PARIS 2024",UK: Eurosport 2 (UK)
+http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/290407
+
