@@ -5848,6 +5848,11 @@ https://livestream.zazerconer.workers.dev/channel/UC1QpnGo11epfexw1bIiTHTg.m3u8
 
 =========================OLIMPIADE PARIS 2024======================
 
+#EXTINF:0 tvg-logo="https://bintangstreaming.my.id/logo/paris.png" group-title="🔵OLIMPIADE PARIS 2024" tvg-id="001" tvg-name="016-LABURATV",🇸🇬CH1🇸🇬
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c60c741c14e2438a84b267e20532be02:bb88254ae72d4abfce77de5e487b8946
+https://mwmpos03.akamaized.net/out/v1/114a4253f51141ad80f03f6e306fa2a7/manifest.mpd
+
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵OLIMPIADE PARIS 2024",Astro Arena 1
 http://filex.tv:8080/moodyrstm-52936/qdwmpWy5qh/303495
 
