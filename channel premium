@@ -3658,6 +3658,24 @@ http://deeann.solanaflix.com:8080/TV-62209918/864854516916/105355
 http://deeann.solanaflix.com:8080/TV-62209918/864854516916/105351
 
 
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ii/indosiar-id.png", tvg-id="ksport1hd" group-title="🔵LIVE EVENT", LIGA INDO U19
+#http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/162138.ts
+http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/252|User-Agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+
+#EXTINF:-1 tvg-logo="https://karierpintar.com/wp-content/uploads/2023/12/Lowongan-Kerja-PT-Omni-Intivision-mOji-TV-Posisi-Traffic-Officer-630x380.jpg" group-title="🔵LIVE EVENT",MOJI
+http://premiumiptvmk.com:8080//live/e9cd5f24/079fd2c9/298550.ts
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/oo/one-sports-ph.png" group-title="🔵LIVE EVENT",ONE SPORT+
+http://mohdtv.com:8880/voby4887/64694938/66827
+#EXTINF:-1 tvg-logo="https://hometv.pw/logo/lokal/indosiar.png" group-title="🔵LIVE EVENT",INDOSIAR
+http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/241|User-Agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://img.wapka.io/00dxif.gif" group-title="🔵LIVE EVENT",SCTV request
+http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/252|User-Agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+#EXTINF:-1 tvg-logo="https://img.wapka.io/00dxif.gif" group-title="🔵LIVE EVENT",MOJI request
+http://master-stream.my.id/live/EEF121338D194DA97F972D6272CA2BB3/248|User-Agent=OTT Navigator/secure.hometv (Linux;Android) ExoPlayerLib/2.13.2
+
+
+
 =========================VISION+===================================
 
 
