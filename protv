@@ -2500,12 +2500,10 @@ http://117tv.icu:8080/live/X5xRz0/944877/47369.m3u8
 
 ======================TV ISLAM=============================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png.
-" group-title="🔵TV ISLAM"
-
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi
 #EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵TV ISLAM"
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/c0/61/33/c0613314b2483ed5c2354a4b9805a6e8.jpg" group-title="🔵TV ISLAM", AL'QURAN KAREEM
 https://cempedak-live-cdn.mncnow.id/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
 
@@ -2652,7 +2650,6 @@ https://raw.githubusercontent.com/AqFad2811/randomlivefromyt/main/TheKPOP2.m3u8
 =========================TV BERITA==============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵TV BERITA"
-#EXTINF:-1 group-logo="https://i.pinimg.com/236x/5b/18/8a/5b188a9e22989768856352b48c17b52e.jpg" group-title="🔵TV BERITA"
 #EXTINF:-1 tvg-logo="https://i.imgur.com/LCBLk2T.png?v=1.0.0.1" group-title="🔵TV BERITA" tvg-id="BNTV" tvg-name="BN TV", BN TV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
@@ -3090,12 +3087,12 @@ http://103.30.1.14:8080/hls/live.m3u8
 
 =================== HIBURAN =============================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵HIBURAN"
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NzEwNGYwNjEtNzBjNC0zNmJjLTkwZGMtMGQ1Yjg3ZWJhZTBi 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵HIBURAN"
 #EXTINF:-1 tvg-id="AXN HD - [Channel 438].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://static.mncnow.id/images/channel/9c1a8446/733c_r32.jpg" group-logo="https://iili.io/dBMB0Yu.png"group-title="🔵HIBURAN",AXN
 https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
