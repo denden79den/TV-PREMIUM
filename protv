@@ -2693,6 +2693,11 @@ https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 #EXTINF:-1 group-title="🔵TV NASIONAL" tvg-logo="https://i.imgur.com/pThdSD7.png", RCTI
 https://melon-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
+#EXTINF:-1  tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="🔵TV NASIONAL",MOJI 1
+https://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/6.ts
+
+#EXTINF:-1  tvg-logo="https://i.imgur.com/8KN5BFs.png" group-title="🔵TV NASIONAL",MOJI 2
+http://iptvtree.net:8080/F18819/6eb39c7d/298550
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NmQwZmJiNzgtYmMzYi0zNDU4LWEyZjUtYzNiMDAxMjJlYWIx
