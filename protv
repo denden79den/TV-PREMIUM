@@ -1585,9 +1585,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 ==========================INDIHOME==============================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵INDIHOME"  tvg-logo="https://postimg.cc/VS9R8QDC",SPOTV
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵INDIHOME"  tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="🔵INDIHOME"  tvg-logo="https://postimg.cc/zy8vcsbM",SPOTV 2
+#EXTINF:-1 group-title="🔵INDIHOME"  tvg-logo="https://static.mncnow.id/images/channel/9c1465ab/79a6_r32.jpg",SPOTV 2
 https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
 #EXTINF:-1 group-title="🔵INDIHOME"  tvg-logo="https://images.indihometv.com/logo_nba_ver1.png",NBA TV
 https://cdn09jtedge.indihometv.com/joss/133/nba/index.m3u8?c
