@@ -3494,6 +3494,7 @@ http://iptvtree.net:8080/F14995/a84c0963/298529
 
 ======================ASTRO & SUPER SPORTS==========================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵ASTRO & SUPER SPORTS"
 #EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 1
 http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
 #EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 2
@@ -3540,7 +3541,7 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
 ====================OLIMPIADE PARIS 2024==========================
 
-#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV LOKAL"
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵OLIMPIADE PARIS 2024"
 #EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 1
 http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
 #EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 2
