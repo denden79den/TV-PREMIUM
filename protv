@@ -3491,3 +3491,85 @@ http://xtv.ooo:8080/live/Raza335/3355141450/350942.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="🔵ETV BIOSKOP",ETV BIOSKOP 4
 http://iptvtree.net:8080/F14995/a84c0963/298529
 
+
+======================ASTRO & SUPER SPORTS==========================
+
+#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="🔵ASTRO & SUPER SPORTS",ASTRO: SS 5
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
+#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Action
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
+#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Blitz
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
+#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Cricket
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
+#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Football
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
+#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Golf
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
+#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport GrandStand
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
+#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport La Liga
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
+#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Motorsport
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
+#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Premier League
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
+#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport PSL
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
+#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Rugby
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
+#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Tennis
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
+#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Variety 1
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
+#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Variety 2
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
+#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Variety 3
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
+#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="🔵ASTRO & SUPER SPORTS",SuperSport Variety 4
+http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
+
+
+====================OLIMPIADE PARIS 2024==========================
+
+#EXTINF:-1 group-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TV LOKAL"
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 1
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582448.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 2
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582459.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 3
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582449.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 4
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582450.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 5
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582451.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 6
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582452.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 7
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582453.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 8
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582445.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 9
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582446.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 10
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582454.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 11
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582455.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 12
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582456.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 13
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582447.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 14
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582457.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 15
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582460.ts
+#EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵OLIMPIADE PARIS 2024",OLYMPIC LIVE 16
+http://live.audytv.com/live/65712cb42808e5c0xxxx/16c091cfd5db96b5/582458.ts
