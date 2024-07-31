@@ -3921,3 +3921,10 @@ https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF:-1   tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="🔵RELAX TV SHAREIT",Nature
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Live Event" tvg-name="Live Event" tvg-country="" tvg-logo="", VOLY
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17481_stream.mpd?hdnts=exp=1722433756~acl=/drm/dash/*~id=164396008~hmac=b39cc7bb73e153266919fc2eadfae90b82b6d99777139e1d9d7b7ad1b36e49ce
