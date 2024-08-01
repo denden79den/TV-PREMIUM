@@ -3923,8 +3923,20 @@ https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 http://185.57.68.33:8091/232/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵LIVE EVENT" tvg-name="Live Event" tvg-country="" tvg-logo="", VOLY (Vidio) 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8a19bc5f83cec35b4c3503db41d08e4e:e1f3bb13fc1dc7f5a3a5753d35bff8ea
-#EXTVLCOPT:http-referrer=https://www.vidio.com/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
-https://geo-id-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/17481_stream.mpd?hdnts=exp=1722433756~acl=/drm/dash/*~id=164396008~hmac=b39cc7bb73e153266919fc2eadfae90b82b6d99777139e1d9d7b7ad1b36e49ce
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="991" tvg-id="991" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 1 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag1/playlist.m3u8?id=11
+
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="992" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png" ,Channel 2 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag2/playlist.m3u8?id=12
+
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="993" tvg-id="993" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 3 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag3/playlist.m3u8?id=13
+
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="994" tvg-id="994" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 4 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag4/playlist.m3u8?id=14
+
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="995" tvg-id="995" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 5 Paris 2024 Olympics
+https://d30aylox5wvifh.cloudfront.net/event/smil:ag5/playlist.m3u8?id=15
+
+#EXTINF:-1 group-title="🔵LIVE EVENT" ch-number="996" tvg-id="996" tvg-logo="https://image.jimcdn.com/app/cms/image/transf/dimension=450x10000:format=png/path/s293f5a94d3403280/image/ic5d1ed06a1e26c61/version/1677492509/image.png",Channel 6 Paris 2024 Olympics
+https://d25tgymtnqzu8s.cloudfront.net/event/smil:event1/playlist.m3u8?id=16
