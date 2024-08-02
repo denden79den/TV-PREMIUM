@@ -1843,6 +1843,9 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 #EXTINF:-1 group-title="🔵GROUP CITRA" group-logo="https://iili.io/dBMB0Yu.png" tvg-id="" tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049434-.png", CITRA DANGDUT
 https://cdn09jtedge.indihometv.com/joss/130/citradangdut/index.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/MZNvMVR/actro-citra.png" group-title="GROUP CITRA",Astro Citra
+http://fm1077.serv00.net/Smart.php?id=Citra
+
 ==============================HBO GROUP================================
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
