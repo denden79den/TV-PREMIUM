@@ -2077,7 +2077,7 @@ https://cdn08jtedge.indihometv.com/dass/107/cartoonnetwork/manifest.mpd
 https://cdn01-telkomsel-01.akamaized.net:443/Content/DASH/Live/channel(c99739b1-0748-4a2a-b586-2501837adf20)/manifest.mpd 
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="" group-title="🔵KIDSTV", tvg-logo="https://i.ibb.co.com/p43PDGg/astro-ceria.png", ASTRO CERIA
+#EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://i.ibb.co.com/p43PDGg/astro-ceria.png" group-title="🔵KIDSTV", ASTRO CERIA
 http://fm1077.serv00.net/Smart.php?id=Ceria
 
 
