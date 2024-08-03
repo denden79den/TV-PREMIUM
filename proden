@@ -197,6 +197,60 @@ https://cors-proxy.elfsight.com/https://cdn08jtedge.indihometv.com/dassdvr/134/h
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
+#EXTINF:-1 tvg-id="211.unifi" tvg-logo="https://iili.io/Jmo20jS.png" group-title="🔵9. HIBURAN",tvN
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
+ 
+#EXTINF:-1 tvg-id="461.unifi" tvg-logo="https://iili.io/Jmo2Gn9.png" group-title="🔵9. HIBURAN",One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+ 
+#EXTINF:-1 tvg-id="392.astro" tvg-logo="https://iili.io/Jmo21Z7.png" group-title="🔵9. HIBURAN",KBS World
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/81.0.4044.138 Safari/537.36
+https://kbsworld-ott.akamaized.net:443/hls/live/2002341/kbsworld/01.m3u8
+ 
+#EXTINF:-1 tvg-id="Arirang - [Channel 351].id" tvg-logo="https://iili.io/Jmo2lu2.png" group-title="🔵9. HIBURAN",Arirang
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/chunklist_b2256000_sleng.m3u8
+ 
+#EXTINF:-1 tvg-id="396.astro" tvg-logo="https://iili.io/Jmo2MGe.png" group-title="🔵9. HIBURAN",K-Plus
+https://raw.githubusercontent.com/mimipipi22/lalajo/main/kplus.m3u8
+ 
+#EXTINF:-1 tvg-id="472.unifi" tvg-logo="https://iili.io/Jmo2ycG.png" group-title="🔵9. HIBURAN",Animax
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
+ 
+#EXTINF:-1 tvg-id="Aniplus" tvg-logo="https://iili.io/Jmo2bPn.png" group-title="🔵9. HIBURAN",Aniplus
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"uuHkfbVitmiVvrj8zfKtig", "kid":"8sMT/OVTROWlI4l0HR9T+A" } ], "type":"temporary" }
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="398.astro" tvg-logo="https://iili.io/Jmo2pFs.png" group-title="🔵9. HIBURAN",NHK World Premium
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTINF:-1 tvg-id="TV5MONDE HD" tvg-logo="https://iili.io/Jmo33tS.png" group-title="🔵9. HIBURAN",TV5Monde
+https://ott.tv5monde.com/Content/HLS/Live/channel(seasie)/variant.m3u8
+ 
+#EXTINF:-1 tvg-id="52191" tvg-logo="https://iili.io/Jmo3pWP.png" group-title="🔵9. HIBURAN",RTP Internacional
+#KODIPROP:inputstream=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=hls
+#EXTVLCOPT:http-user-agent=Firefox
+https://streaming-live.rtp.pt/liverepeater/smil:rtpi.smil/playlist.m3u8
+  
+#EXTINF:-1 tvg-logo="https://iili.io/JmoKN9f.png" group-title="🔵9. HIBURAN",Das Erste International
+https://derste247liveint.akamaized.net/hls/live/662735/daserste_int/master.m3u8
+
+
+
  ====================FILM=========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
@@ -2258,42 +2312,90 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
+================MUSIK===================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
+#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-logo="https://iili.io/JmnyccQ.png" group-title="🔵14.MUSIK",Music TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+ 
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="🔵14.MUSIK",Musik Indonesia
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="I-Konser" tvg-logo="https://iili.io/JmnyaKx.png" group-title="🔵14.MUSIK",i-Konser
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
+
+#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://iili.io/JZIQRHv.png" group-title="🔵14.MUSIK",MTV Live
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
+ 
+#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" tvg-logo="https://iili.io/JZIQ7Np.png" group-title="🔵14.MUSIK",MTV 90s
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+ 
+#EXTINF:-1 tvg-id="VH1Europe.uk" tvg-logo="https://iili.io/JZIQ5RR.png" group-title="🔵14.MUSIK",MTV 00s
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"a3d9d4bfa5185516b38e082478f027a3":"508b827a7c12a3c66c2707420a60f2a7","60d7c8bf82e65846b63fe754b6aab293":"070a935db9627a0cf39860ea58905b10","e3723805608f5fc2a443e98577fae7c3":"747e135724d11fc641248527ce70990b"}
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+https://tvup-live.secure.footprint.net/vh1/vh1.mpd
+
+#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="🔵14.MUSIK",Myx USA
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+ 
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://iili.io/JZIQYDN.png" group-title="🔵14.MUSIK",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+ 
+#EXTINF:-1 tvg-id="99372" tvg-logo="https://iili.io/JmnytO7.png" group-title="🔵14.MUSIK",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
+
+
 =================ASTROSPORTS====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵11.ASTROSPORTS",Astro Supersport 1  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 1  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵11.ASTROSPORTS",Astro Supersport 2  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 2  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵11.ASTROSPORTS",Astro Supersport 3 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 3 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵11.ASTROSPORTS",Astro Supersport 4 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 4 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵11.ASTROSPORTS",ASTRO ARENA 1 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵13.ASTROSPORTS",ASTRO ARENA 1 
 http://fm1077.serv00.net/Smart.php?id=Arena
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵11.ASTROSPORTS",ASTRO ARENA 2 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵13.ASTROSPORTS",ASTRO ARENA 2 
 http://fm1077.serv00.net/Smart.php?id=Arena2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mssbnR/arena-bola-1.png" group-title="🔵11.ASTROSPORTS",ASTRO BOLA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mssbnR/arena-bola-1.png" group-title="🔵13.ASTROSPORTS",ASTRO BOLA 1
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bJVsC0/arena-bola-2.png" group-title="🔵11.ASTROSPORTS",ASTRO BOLA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bJVsC0/arena-bola-2.png" group-title="🔵13.ASTROSPORTS",ASTRO BOLA 2
 http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 =========================OLAHRAGA==========================
@@ -2399,3 +2501,396 @@ https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
 https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
+#EXTINF:-1 tvg-id="Golf Channel USA" tvg-logo="https://iili.io/JmozPja.png" group-title="🔵12.OLAHRAGA",Golf Channel USA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d5c9203447ab38c5bf5b407cdd9de5e8:501464dfa2ac437098c35e1c4f16bb6b
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(golf)/master.mpd
+ 
+#EXTINF:-1 tvg-id="MLB Network" tvg-logo="https://iili.io/Jmoz6Tg.png" group-title="🔵12.OLAHRAGA",MLB Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-026/stream.mpd
+ 
+#EXTINF:-1 tvg-id="NFL Network" tvg-logo="https://iili.io/JmoziZJ.png" group-title="🔵12.OLAHRAGA",NFL Network
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-023/stream.mpd
+ 
+#EXTINF:-1 tvg-id="WWE" tvg-logo="https://iili.io/JmozbaI.png" group-title="🔵12.OLAHRAGA",WWE Network
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key={"keys": [{"kty": "oct", "k": "CQRZGFqVyZ5rrjMtaJ5vvg", "kid": "QNQhDkdjQOCR1UM9Rf3Y8Q"}], "type": "temporary"}
+https://live-streaming-rsm.azureedge.net/wwehd/wwehd_cenc.isml/.mpd
+
+#EXTINF:-1 tvg-id="TNTSports1.uk" tvg-logo="https://iili.io/JV1byLF.png" group-title="🔵12.OLAHRAGA",TNT Sports 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="TNTSports2.uk" tvg-logo="https://iili.io/JV1mJ1a.png" group-title="🔵12.OLAHRAGA",TNT Sports 2
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="TNTSports3.uk" tvg-logo="https://iili.io/JV1mdrJ.png" group-title="🔵12.OLAHRAGA",TNT Sports 3
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="TNTSports4.uk" tvg-logo="https://iili.io/JV1m3dv.png" group-title="🔵12.OLAHRAGA",TNT Sports 4
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+
+#EXTINF:-1 tvg-logo="https://iili.io/doCIvVt.png" group-title="🔵12.OLAHRAGA",TNT Sports 5
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
+
+#EXTINF:-1 tvg-id="DAZN1HD.uk" tvg-logo="https://iili.io/JhkZfu1.png" group-title="🔵12.OLAHRAGA",DAZN 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-045/stream.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1 HD.de" tvg-logo="https://iili.io/JhkZLiJ.png" group-title="🔵12.OLAHRAGA",DAZN 1 Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-017/stream.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 2 HD.de" tvg-logo="https://iili.io/JhkZtlR.png" group-title="🔵12.OLAHRAGA",DAZN 2 Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-018/stream.mpd
+ 
+#EXTINF:-1 tvg-id="Eurosport1.de" tvg-logo="https://iili.io/JhkZx6v.png" group-title="🔵12.OLAHRAGA",Eurosport 1 Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-027/stream.mpd
+ 
+#EXTINF:-1 tvg-id="Eurosport2.de" tvg-logo="https://iili.io/JhkZIFR.png" group-title="🔵12.OLAHRAGA",Eurosport 2 Deutschland
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-028/stream.mpd
+ 
+#EXTINF:-1 tvg-id="SportdigitalFUSSBALL.de" tvg-logo="https://iili.io/JhkZZKv.png" group-title="🔵12.OLAHRAGA",sportdigital
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
+
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-logo="https://iili.io/JbnBO3N.png" group-title="🔵12.OLAHRAGA",Sony Ten 1
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN1.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-logo="https://iili.io/JbnBjGR.png" group-title="🔵12.OLAHRAGA",Sony Ten 2
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN2.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-logo="https://iili.io/JbnBhCv.png" group-title="🔵12.OLAHRAGA",Sony Ten 3
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN3.m3u8
+ 
+#EXTINF:-1 tvg-id="62289" tvg-logo="https://iili.io/JbnBeaI.png" group-title="🔵12.OLAHRAGA",Sony Ten 4
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN4.m3u8
+ 
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-logo="https://iili.io/JbnBSun.png" group-title="🔵12.OLAHRAGA",Sony Ten 5
+https://raw.githubusercontent.com/tivigratis/tv/main/SonyTEN5.m3u8
+
+#EXTINF:-1 tvg-id="SPOTV HD - [Channel 427].id" tvg-logo="https://iili.io/JjzVsK7.png" group-title="🔵12.OLAHRAGA",SPOTV Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e60ece8f0d9042fcb52508055ec48e5e:213f438bd4961cda987d41b7f154f1e5
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTVHD/mpd/SPOTVHD.mpd
+ 
+#EXTINF:-1 tvg-id="SPOTV 2 HD - [Channel 428].id" tvg-logo="https://iili.io/JjzVPPS.png" group-title="🔵12.OLAHRAGA",SPOTV2 Indonesia
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6ed3fdf6e9f491d9ead109fc0b00cfc:3bc6c45722eb5fa7b343de9bffc4f7c7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SPOTV2HD/mpd/SPOTV2HD.mpd
+ 
+#EXTINF:-1 tvg-id="Sportstars HD - [Channel 421].id" tvg-logo="https://iili.io/JjzV4ol.png" group-title="🔵12.OLAHRAGA",Sportstars
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+ 
+#EXTINF:-1 tvg-id="Sportstars 2 HD - [Channel 422].id" tvg-logo="https://iili.io/JjzV89s.png" group-title="🔵12.OLAHRAGA",Sportstars 2
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+ 
+#EXTINF:-1 tvg-id="Sportstars 3 - [Channel 99].id" tvg-logo="https://iili.io/JjzVUNf.png" group-title="🔵12.OLAHRAGA",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+ 
+#EXTINF:-1 tvg-id="Sportstars 4 HD - [Channel 424].id" tvg-logo="https://iili.io/JjzV6V2.png" group-title="🔵12.OLAHRAGA",Sportstars 4
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+ 
+#EXTINF:-1 tvg-id="Soccer Channel HD - [Channel 420].id" tvg-logo="https://iili.io/JjzVSAG.png" group-title="🔵12.OLAHRAGA",Soccer Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/JjzVLl9.png" group-title="🔵12.OLAHRAGA",TVRI Sport
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+ 
+#EXTINF:-1 tvg-id="Fight Sports - [Channel 304].id" tvg-logo="https://iili.io/JjzVgt4.png" group-title="🔵12.OLAHRAGA",Fight Sports
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-id="V sport 1 HD (N) (T)" tvg-logo="https://iili.io/JmoRSm7.png" group-title="🔵12.OLAHRAGA",V Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d808f2b9a74536cadbd95be141888ed:9dd89f67b8885dc65721a8b1fbeae700
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efc9/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="V sport 2 HD (N) (T)" tvg-logo="https://iili.io/JmoRv72.png" group-title="🔵12.OLAHRAGA",V Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d3ff38c34985fdd81a37567646322b9:6b4504297769acefae2e50920b7c8a77
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6e91dbc891fd422efef/manifest.mpd
+ 
+#EXTINF:-1 tvg-id="V sport 3 HD (N) (T)" tvg-logo="https://iili.io/JmoRkdl.png" group-title="🔵12.OLAHRAGA",V Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fdcb8ee4623458e5832a92801fc723b1:634a67c44b7b7030872043df95c1a55e
+https://rikstv-live-scalstrm.telenorcdn.net/live/rikstv/644bb6ea1dbc891fd422f01e/manifest.mpd
+
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://iili.io/JXBspKQ.png" group-title="🔵12.OLAHRAGA",Eleven 1 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://iili.io/JXBsbix.png" group-title="🔵12.OLAHRAGA",Eleven 2 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://iili.io/JXBstob.png" group-title="🔵12.OLAHRAGA",Eleven 3 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://iili.io/JXBsQDu.png" group-title="🔵12.OLAHRAGA",Eleven 4 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-057/stream.mpd
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://iili.io/JXBsylV.png" group-title="🔵12.OLAHRAGA",Eleven 5 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-058/stream.mpd
+ 
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 6.pt" tvg-logo="https://iili.io/JXBL9UB.png" group-title="🔵12.OLAHRAGA",Eleven 6 Portugal
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-059/stream.mpd
+
+#EXTINF:-1 tvg-id="Arena PREMIUM 1.rs" tvg-logo="https://iili.io/Jmo50Cu.png" group-title="🔵12.OLAHRAGA",Arena Premium 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium1.mpd
+ 
+#EXTINF:-1 tvg-id="Arena PREMIUM 2.rs" tvg-logo="https://iili.io/Jmo5VYQ.png" group-title="🔵12.OLAHRAGA",Arena Premium 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium2.mpd
+ 
+#EXTINF:-1 tvg-id="Arena PREMIUM 3.rs" tvg-logo="https://iili.io/Jmo5E4j.png" group-title="🔵12.OLAHRAGA",Arena Premium 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Fight.rs" tvg-logo="https://iili.io/Jmo5M3x.png" group-title="🔵12.OLAHRAGA",Arena Fight
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_fight.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 1x2.rs" tvg-logo="https://iili.io/Jmo5XyB.png" group-title="🔵12.OLAHRAGA",Arena Sport 1x2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena_1x2.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 1.rs" tvg-logo="https://iili.io/Jmo5WvV.png" group-title="🔵12.OLAHRAGA",Arena Sport 1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena1.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 2.rs" tvg-logo="https://iili.io/Jmo5jTP.png" group-title="🔵12.OLAHRAGA",Arena Sport 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena2.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 3.rs" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="🔵12.OLAHRAGA",Arena Sport 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena3.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 4.rs" tvg-logo="https://iili.io/Jmo5eCg.png" group-title="🔵12.OLAHRAGA",Arena Sport 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena4.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 5.rs" tvg-logo="https://iili.io/Jmo5kGa.png" group-title="🔵12.OLAHRAGA",Arena Sport 5
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
+ 
+#EXTINF:-1 tvg-id="Arena Sport 6.rs" tvg-logo="https://iili.io/Jmo51Eb.png" group-title="🔵12.OLAHRAGA",Arena Sport 6
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
+https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+#EXTINF:-1 tvg-id="DAZN 1" tvg-logo="https://iili.io/JhkZfu1.png" group-title="🔵12.OLAHRAGA",DAZN 1 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44dd9cd370b08a868ead115fe84ecfde:bff19ab0a51cf14e848389b152913fd0
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/bmnelo5c7a/out/v1/3ce2cdc4589f46189322bd3717c77957/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 2" tvg-logo="https://iili.io/JhkZ38B.png" group-title="🔵12.OLAHRAGA",DAZN 2 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0eab5a3f3e3b4ba5d42d40ca30d17571:f3f061ded9b70e8160590d5802ecda6d
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/xnk4m9bnxt/out/v1/4ced7b7329a54652b9bb0521ed38bd4d/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN 3" tvg-logo="https://iili.io/JhkZFyP.png" group-title="🔵12.OLAHRAGA",DAZN 3 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=bad8efff688c0dbb3711e4a7114c22a3:6ba800673b20776c0c850130d45e1920
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/out/v1/bdcffa69fa3b4f3bb3569c9c73ee1c01/cenc.mpd
+ 
+ 
+#EXTINF:-1 tvg-id="DAZN 4" tvg-logo="https://iili.io/JhkZBZg.png" group-title="🔵12.OLAHRAGA",DAZN 4 España
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d27104d427e4f87e75b19395a9f8796b:723593c70e2d4c4862754398e80168f8
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/up7qpwch9b/out/v1/a6d5d1a1287b4893b859c2d6ccf2c65d/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN F1" tvg-logo="https://iili.io/JhkZnna.png" group-title="🔵12.OLAHRAGA",DAZN F1
+#EXTVLCOPT:network-caching=1000
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1061be12d303247426ec25e8369b2647:bd622b0e610295de3b0bccb850ccaaaa
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/cqbcvgkb83/out/v1/4dbe05ecfb1540448d82d68eeebfbb1c/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="DAZN LaLiga" tvg-logo="https://iili.io/JhkZoMJ.png" group-title="🔵12.OLAHRAGA",DAZN LaLiga
+#EXTVLCOPT:network-caching=1000
+#EXTVLCOPT:http-user-agent="FireFox"
+#EXTVLCOPT--http-reconnect=true
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=43d1c3b25207ff38b22ccfe17d302367:7b1f85f6e81059473b114c16a25c829a
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/wjgklbtvhh/out/v1/659736a1e24c40e4865a80ffd75e7de7/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="🔵12.OLAHRAGA",LaLiga TV Hypermotion
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d08b265a6639e32da7c880d5491e3d2:0c92556ca14b95f367993710e7cfbc94
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/dash/enc/tu06vubgf9/out/v1/7668f47d28e345979c072e361f3d3ce3/cenc.mpd
+ 
+ 
+#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="🔵12.OLAHRAGA",LaLiga TV Hypermotion 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0b1fdeaee3ffc51e9a66cf1938d57aaf:28e3cb88ab7b476b81ab8aa0624c4d71
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/woujvkfnmn/out/v1/141b52f08a1e4e97850219729ee48dc8/cenc.mpd
+  
+#EXTINF:-1 tvg-id="LaLiga SmartBank" tvg-logo="https://iili.io/JhkZTap.png" group-title="🔵12.OLAHRAGA",LaLiga TV Hypermotion 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d8235cccf08d0ff149a20dfcd11ff68b:e8ea3a1ae6892eb76a73dc1b14d216d6
+https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/ry1hll2vi2/out/v1/7597903045b6429d8c9ef041b2ad9d98/cenc.mpd
+ 
+#EXTINF:-1 tvg-id="Eurosport 1" tvg-logo="https://iili.io/JhkZx6v.png" group-title="🔵12.OLAHRAGA",Eurosport 1 España
+#EXTVLCOPT:network-caching=1500
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=237be8ca9383755e9f5784dd23f545eb:15a723773c3b3cbce295c0aed0bc71c3
+https://ott.zapitv.com/live/eds_c2/eurosport_1_hd/dash_live_enc/eurosport_1_hd.mpd
+ 
+#EXTINF:-1 tvg-id="Eurosport 2" tvg-logo="https://iili.io/JhkZIFR.png" group-title="🔵12.OLAHRAGA",Eurosport 2 España
+#EXTVLCOPT:network-caching=1500
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=15382879a9bcfa6f1a04a86d5b4324e9:664241133368ab039dc1fb15206ba54b
+https://ott.zapitv.com/live/eds_c2/eurosport_2_hd/dash_live_enc/eurosport_2_hd.mpd
+ 
+#EXTINF:-1 tvg-id="Teledeporte" tvg-logo="https://iili.io/JhkZqwF.png" group-title="🔵12.OLAHRAGA",Teledeporte
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1937b8f0dc833e0a8f457240972e440d:8cbb79a6410cc0d0d80d148f282afd95
+https://ott.zapitv.com/live/eds_c2/teledeporte_hd/dash_live_enc/teledeporte_hd.mpd
+
+#EXTINF:-1 tvg-id="NBA.id" tvg-logo="https://iili.io/JmozryF.png" group-title="🔵12.OLAHRAGA",NBA TV International
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82f8e2a17dac44c0a18f660479349c59:1b144f73e6fefe91cd05f850e2b589d0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-035/stream.mpd
+ 
+#EXTINF:-1 tvg-id="815.astro" tvg-logo="https://iili.io/Jmozz1p.png" group-title="🔵12.OLAHRAGA",W-Sport
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://op-group1-swiftservehd-1.dens.tv/h/h26/S4/mnf.m3u8
+ 
+#EXTINF:-1 tvg-id="MotorvisionTV.id" tvg-logo="https://iili.io/JmoznLv.png" group-title="🔵12.OLAHRAGA",Motorvision TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.2; Win64; x64;) Gecko/20100101 Firefox/20.0
+https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
+ 
+#EXTINF:-1 tvg-id="RedBull TV" tvg-logo="https://iili.io/JmozIrN.png" group-title="🔵12.OLAHRAGA",RedBull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+ 
+#EXTINF:-1 tvg-id="LIFE - [Channel 91].id" tvg-logo="https://iili.io/JmocqcG.png" group-title="RELIGION",Life
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
