@@ -2247,22 +2247,22 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 =================ASTROSPORTS====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-logo="https://imgur.com/1BrXSnd" group-title="🔵ASTROSPORTS",Astro Supersport 1  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵ASTROSPORTS",Astro Supersport 1  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-logo="https://imgur.com/ypatIFm" group-title="🔵ASTROSPORTS",Astro Supersport 2  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵ASTROSPORTS",Astro Supersport 2  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-logo="https://imgur.com/uCf0WBw" group-title="🔵ASTROSPORTS",Astro Supersport 3 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵ASTROSPORTS",Astro Supersport 3 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-logo="https://imgur.com/rSiPkD0" group-title="🔵ASTROSPORTS",Astro Supersport 4 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵ASTROSPORTS",Astro Supersport 4 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
