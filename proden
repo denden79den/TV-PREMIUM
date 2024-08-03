@@ -2348,34 +2348,34 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ================MUSIK===================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-logo="https://iili.io/JmnyccQ.png" group-title="🔵14.MUSIK",Music TV
+#EXTINF:-1 tvg-id="Music TV - [Channel 111].id" tvg-logo="https://iili.io/JmnyccQ.png" group-title="🔵13.MUSIK",Music TV
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
  
-#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="🔵14.MUSIK",Musik Indonesia
+#EXTINF:-1 tvg-id="Musik Indonesia" tvg-logo="https://iili.io/Jmny7Pj.png" group-title="🔵13.MUSIK",Musik Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/musikindo/manifest.mpd
  
-#EXTINF:-1 tvg-id="I-Konser" tvg-logo="https://iili.io/JmnyaKx.png" group-title="🔵14.MUSIK",i-Konser
+#EXTINF:-1 tvg-id="I-Konser" tvg-logo="https://iili.io/JmnyaKx.png" group-title="🔵13.MUSIK",i-Konser
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/ikonser/manifest.mpd
 
-#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://iili.io/JZIQRHv.png" group-title="🔵14.MUSIK",MTV Live
+#EXTINF:-1 tvg-id="718.astro" tvg-logo="https://iili.io/JZIQRHv.png" group-title="🔵13.MUSIK",MTV Live
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV/sa_dash_vmx/MTV.mpd
  
-#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" tvg-logo="https://iili.io/JZIQ7Np.png" group-title="🔵14.MUSIK",MTV 90s
+#EXTINF:-1 tvg-id="MTV 90s - [Channel 149].id" tvg-logo="https://iili.io/JZIQ7Np.png" group-title="🔵13.MUSIK",MTV 90s
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
  
-#EXTINF:-1 tvg-id="VH1Europe.uk" tvg-logo="https://iili.io/JZIQ5RR.png" group-title="🔵14.MUSIK",MTV 00s
+#EXTINF:-1 tvg-id="VH1Europe.uk" tvg-logo="https://iili.io/JZIQ5RR.png" group-title="🔵13.MUSIK",MTV 00s
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
@@ -2383,52 +2383,52 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
 https://tvup-live.secure.footprint.net/vh1/vh1.mpd
 
-#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="🔵14.MUSIK",Myx USA
+#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="🔵13.MUSIK",Myx USA
 https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
  
-#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://iili.io/JZIQYDN.png" group-title="🔵14.MUSIK",Trace Urban
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://iili.io/JZIQYDN.png" group-title="🔵13.MUSIK",Trace Urban
 https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
  
-#EXTINF:-1 tvg-id="99372" tvg-logo="https://iili.io/JmnytO7.png" group-title="🔵14.MUSIK",Trace Latina
+#EXTINF:-1 tvg-id="99372" tvg-logo="https://iili.io/JmnytO7.png" group-title="🔵13.MUSIK",Trace Latina
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 
 =================ASTROSPORTS====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 1  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 1  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 2  
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 2  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 3 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/164_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 3 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵13.ASTROSPORTS",Astro Supersport 4 
+#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/241_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 4 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵13.ASTROSPORTS",ASTRO ARENA 1 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵14.ASTROSPORTS",ASTRO ARENA 1 
 http://fm1077.serv00.net/Smart.php?id=Arena
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵13.ASTROSPORTS",ASTRO ARENA 2 
+#EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵14.ASTROSPORTS",ASTRO ARENA 2 
 http://fm1077.serv00.net/Smart.php?id=Arena2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mssbnR/arena-bola-1.png" group-title="🔵13.ASTROSPORTS",ASTRO BOLA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mssbnR/arena-bola-1.png" group-title="🔵14.ASTROSPORTS",ASTRO BOLA 1
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bJVsC0/arena-bola-2.png" group-title="🔵13.ASTROSPORTS",ASTRO BOLA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bJVsC0/arena-bola-2.png" group-title="🔵14.ASTROSPORTS",ASTRO BOLA 2
 http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 =========================OLAHRAGA==========================
