@@ -2275,11 +2275,11 @@ http://fm1077.serv00.net/Smart.php?id=Arena
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-04/f9cbb250de1822306dc0b7e9cdd23c9a.png" group-title="🔵ASTROSPORTS",ASTRO ARENA 2 
 http://fm1077.serv00.net/Smart.php?id=Arena2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://imgur.com/kkjOQtS " group-title="🔵ASTROSPORTS",ASTRO BOLA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3mssbnR/arena-bola-1.png" group-title="🔵ASTROSPORTS",ASTRO BOLA 1
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://imgur.com/SWpJvE7" group-title="🔵ASTROSPORTS",ASTRO BOLA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/8bJVsC0/arena-bola-2.png" group-title="🔵ASTROSPORTS",ASTRO BOLA 2
 http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 
 
