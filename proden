@@ -1,4 +1,4 @@
-==================TV NASIONAL===========================
+==================TV NASIONAL==========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="🔵6. TV NASIONAL",RCTI
@@ -2888,9 +2888,5 @@ https://stream.ads.ottera.tv/playlist.m3u8?network_id=535
 #EXTINF:-1 tvg-id="RedBull TV" tvg-logo="https://iili.io/JmozIrN.png" group-title="🔵12.OLAHRAGA",RedBull TV
 https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
  
-#EXTINF:-1 tvg-id="LIFE - [Channel 91].id" tvg-logo="https://iili.io/JmocqcG.png" group-title="RELIGION",Life
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-#EXTVLCOPT:http-referrer=https://visionplus.id
-https://cempedak-live-cdn.mncnow.id/live/eds/Life/sa_dash_vmx/Life.mpd
+
 
