@@ -387,6 +387,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵7. FILM"
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HgNRkdH/etv-bio.png" group-title="🔵7. FILM",ETV BIOSKOP 1
+http://xtv.ooo:8080/live/Raza335/3355141450/350941.ts
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/HgNRkdH/etv-bio.png" group-title="🔵7. FILM",ETV BIOSKOP 2
+http://xtv.ooo:8080/live/Raza335/3355141450/350942.ts
+
 ==================ANAK====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
