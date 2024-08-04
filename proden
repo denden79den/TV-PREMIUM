@@ -2402,12 +2402,12 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsung
 =================ASTROSPORTS====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/154_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 1  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/F08WDhG/ASTRO-1.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 1  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/138_144.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 2  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/wNv911b/ASTRO-2.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 2  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
