@@ -74,16 +74,16 @@ https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 #EXTINF:-1 tvg-id="TVRI" tvg-logo="https://i.ibb.co.com/Mgvnc4g/TVRI.png" group-title="🔵6. TV NASIONAL",TVRI
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
  
-#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://iili.io/JMp3rDN.png" group-title="🔵6. TV NASIONAL",Nusantara TV
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://i.ibb.co.com/vYzj5K2/nusantara-tv.png" group-title="🔵6. TV NASIONAL",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
  
-#EXTINF:-1 tvg-id="Daai TV" tvg-logo="https://iili.io/JMp3WNV.png" group-title="🔵6. TV NASIONAL",Da Ai TV
+#EXTINF:-1 tvg-id="Daai TV" tvg-logo="https://i.ibb.co.com/ScrmRv4/Da-I-TV.png" group-title="🔵6. TV NASIONAL",Da Ai TV
 https://dacastmmd.mmdlive.lldns.net/dacastmmd/683cc426c19442a4ba31c53be5c963bb/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3XDB.png" group-title="🔵6. TV NASIONAL",Garuda TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/0XxXf35/Garuda-TV.png" group-title="🔵6. TV NASIONAL",Garuda TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="🔵6. TV NASIONAL",Magna Channel
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M63B2Zt/Magna-Channel.png" group-title="🔵6. TV NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w1139386134_b3884000_sleng.m3u8
 
 ================HIBURAN=====================
