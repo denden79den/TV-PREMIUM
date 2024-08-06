@@ -3255,7 +3255,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 
-#EXTGRP:1. TV NASIONAL
+#EXTGRP:0. 🔵TV NASIONAL 3
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://i.imgur.com/I53PtWX.png", INEWS 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3300,7 +3300,7 @@ https://flv.intechmedia.net/live/ch110.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h211/02.m3u8
 
 #https://www.mnctv.com/
-#EXTGRP:1. TV NASIONAL
+#EXTGRP:3. 🔵TV NASIONAL 3
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://i.imgur.com/ExT0161.png", MNCTV 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
@@ -3319,7 +3319,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c685758bcfff01776bc7624307ab/manifest.mpd
 
-#EXTGRP:1. TV NASIONAL
+#EXTGRP:3. 🔵TV NASIONAL 3
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://i.imgur.com/NK0YIQH.png", RCTI 1
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
