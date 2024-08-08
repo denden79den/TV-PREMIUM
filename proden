@@ -2401,43 +2401,47 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 
-=================ASTROSPORTS====================
+=================ASTROS====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G9qf3ct/ASTRO-1.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 1  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/G9qf3ct/ASTRO-1.png" group-title="🔵14.ASTRO",Astro Supersport 1  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp1
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5j6BVPK/astro-22.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 2  
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/5j6BVPK/astro-22.png" group-title="🔵14.ASTRO",Astro Supersport 2  
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp2
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzGZScv/astro-3.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 3 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/vzGZScv/astro-3.png" group-title="🔵14.ASTRO",Astro Supersport 3 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp3
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1ghHqy/astro-4.png" group-title="🔵14.ASTROSPORTS",Astro Supersport 4 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/v1ghHqy/astro-4.png" group-title="🔵14.ASTRO",Astro Supersport 4 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
 #EXTVLCOPT:network-caching=1000
 http://fm1077.serv00.net/Smart.php?id=go_assp4
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRWmpdv/ASTRO-ARENA-1.png" group-title="🔵14.ASTROSPORTS",ASTRO ARENA 1 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hRWmpdv/ASTRO-ARENA-1.png" group-title="🔵14.ASTRO",ASTRO ARENA 1 
 http://fm1077.serv00.net/Smart.php?id=Arena
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7C70Jss/ASTRO-ARENA-2.png" group-title="🔵14.ASTROSPORTS",ASTRO ARENA 2 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/7C70Jss/ASTRO-ARENA-2.png" group-title="🔵14.ASTRO",ASTRO ARENA 2 
 http://fm1077.serv00.net/Smart.php?id=Arena2
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mhTBVRC/arena-bola-1.png" group-title="🔵14.ASTROSPORTS",ASTRO BOLA 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mhTBVRC/arena-bola-1.png" group-title="🔵14.ASTRO",ASTRO BOLA 1
 http://fm1077.serv00.net/Smart.php?id=Bolaarena1
 
 #EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X2yv34Q/arena-bola-2.png" group-title="🔵14.ASTROSPORTS",ASTRO BOLA 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/X2yv34Q/arena-bola-2.png" group-title="🔵14.ASTRO",ASTRO BOLA 2
 http://fm1077.serv00.net/Smart.php?id=Bolaarena2
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://i.ibb.co.com/p43PDGg/astro-ceria.png" group-title="🔵14.ASTRO", ASTRO CERIA
+http://fm1077.serv00.net/Smart.php?id=Ceria
 
 =========================OLAHRAGA==========================
 
