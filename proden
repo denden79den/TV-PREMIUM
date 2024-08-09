@@ -3495,9 +3495,9 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
 ==============================EUROSPORTS===========================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport
-http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928497
+ #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
+ #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport
+ http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928497
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 2
 http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928498
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 3
@@ -3514,3 +3514,40 @@ http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928503
 http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928504
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 9
 http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928505
+
+===================TSN SPORTS===========================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TSN 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132769&extension=ts&play_token=gTsyprUHq4
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TSN 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132770&extension=ts&play_token=vxscmuOFhC
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TSN 3
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132771&extension=ts&play_token=BGCcgSwJ1e
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TSN 4
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=132772&extension=ts&play_token=zAey8BD3i5
+
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TNT 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=382&extension=ts&play_token=CRSJgNzluK
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TNT 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=385&extension=ts&play_token=bgnbKlbCyy
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",TNT 3
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=388&extension=ts&play_token=jEcqdEn2PU
+
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",DAZN 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=335692&extension=ts&play_token=dAjlAFzF92
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",PREMIER SPORTS 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26113&extension=ts&play_token=l7rWVToLIl
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",PREMIER SPORTS 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26114&extension=ts&play_token=Jjc9u2iNlG
+
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",FS 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26077&extension=ts&play_token=hwt2Nc2Uz8
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",FS 2
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26079&extension=ts&play_token=8zBxg1R3Ow
+
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",BEIN SPORTS
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=428353&extension=ts&play_token=RYAC9km3TD
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",WWE
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extension=ts&play_token=6B6tPbryuQ
+
