@@ -3427,7 +3427,7 @@ http://aflaxtv.xyz:8080/2c258a9b/c73f1cfbce/298550
 #EXTINF:-1 tvg-logo="https://i.imgur.com/HeOtyVH.png" group-title="🔵TV NASIONAL 3",MOJI 2
 http://210.210.155.37/x6bnqe/s/s41/index.m3u8
 
-=====================BEINS SPORTS========================
+=====================BEIN SPORTS========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
 #EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵BEIN SPORTS",beINSports Premium 1 
@@ -3495,9 +3495,9 @@ http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
 
 ==============================EUROSPORTS===========================
 
- #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
- #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 1
- http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928497
+#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 1
+http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928497
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 2
 http://ua-iptv.com:8080/1mgrady85@gmail.com/aMkL3fQq6k/928498
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵EUROSPORTS",Eurosport 3
