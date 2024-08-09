@@ -3555,3 +3555,5 @@ http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=26123&extensi
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=319150&extension=ts&play_token=wvC1T7Dlrg
 #EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",Viaplay sport 2
 http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=319152&extension=ts&play_token=uRQfNizG5n
+#EXTINF:-1  tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵TSN SPORTS",Sky Sports 1
+http://89.46.92.46:8080/play/live.php?mac=00:1A:79:C8:98:57&stream=3338&extension=ts&play_token=qd3YdQyvFS
