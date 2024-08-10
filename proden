@@ -2465,6 +2465,10 @@ http://fm1077.serv00.net/Smart.php?id=Rania
 #EXTINF:-1 tvg-logo="" group-title="🔵14.ASTRO",Astro Prima
 http://fm1077.serv00.net/Smart.php?id=Prima49
 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="🔵14.ASTRO",Astro Aura
+http://fm1077.serv00.net/Smart.php?id=Aura
+
 
 =========================OLAHRAGA==========================
 
