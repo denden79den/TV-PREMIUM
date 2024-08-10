@@ -2454,6 +2454,18 @@ http://fm1077.serv00.net/Smart.php?id=Bolaarena2
 #EXTINF:-1 tvg-name="ASTRO CERIA" tvg-logo="https://i.ibb.co.com/p43PDGg/astro-ceria.png" group-title="🔵14.ASTRO", ASTRO CERIA
 http://fm1077.serv00.net/Smart.php?id=Ceria
 
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="🔵14.ASTRO",Astro Citra
+http://fm1077.serv00.net/Smart.php?id=Citra
+
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="🔵14.ASTRO",Astro Rania
+http://fm1077.serv00.net/Smart.php?id=Rania
+#EXTVLCOPT:http-user-agent=(Windows NT 10.0; Win64; x64) PotPlayer/24.06.18
+#EXTINF:-1 tvg-logo="" group-title="🔵14.ASTRO",Astro Prima
+http://fm1077.serv00.net/Smart.php?id=Prima49
+
+
 =========================OLAHRAGA==========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔵12.OLAHRAGA"
