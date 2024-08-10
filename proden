@@ -1,4 +1,4 @@
-astro==================TV NASIONAL========================
+==================TV NASIONAL========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://i.ibb.co.com/3Ss1Rt2/rcti.png" group-title="🔵6. TV NASIONAL",RCTI
@@ -394,6 +394,16 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 http://xtv.ooo:8080/live/Raza335/3355141450/350941.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5Qgpj/etv-bio.png" group-title="🔵7. FILM",ETV BIOSKOP 2
 http://xtv.ooo:8080/live/Raza335/3355141450/350942.ts
+
+
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🔵7. FILM", ETV1
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et1.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🔵7. FILM", ETV2
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et2.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🔵7. FILM", ETV3
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et3.m3u8
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🔵7. FILM", ETV4
+https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 
 ==================ANAK====================
 
