@@ -5475,10 +5475,10 @@ https://indahtv.net/vidio/dash.mpd?id=17623
 
 =================INTECHMEDIA==================================
 
-#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-logo="https://iili.io/dBMB0Yu.png" group-title="🔴INTECHMEDIA", KOMPAS TV
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/livetv/anytv/KOMPAS_TV_live_streaming_tv.jpg" group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="🔴INTECHMEDIA", KOMPAS TV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
 https://flv.intechmedia.net/live/ch102.m3u8
-#EXTINF:-1 tvg-logo="https://klik.tvri.go.id/po-content/uploads/tvrinasional.jpg" group-title="🔴INTECHMEDIA", TVRI NASIONAL
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Mgvnc4g/TVRI.png" group-title="🔴INTECHMEDIA", TVRI NASIONAL
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 
 https://flv.intechmedia.net/live/ch103.m3u8
