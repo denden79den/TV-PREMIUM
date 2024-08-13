@@ -5520,32 +5520,28 @@ https://flv.intechmedia.net/live/ch114.m3u8
 https://flv.intechmedia.net/live/ch115.m3u8
 
 
-=========================SONY=================================
+============== SONY SPORTS NETWORK =============
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+#EXTINF:-1 group-logo="https://i.imgur.com/NRvLgqh.png",
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="SPORTS ★ TEN 1 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen1_HD_Logo_CLR.png" group-title="⚽️Sony⚽️ ", SONY TEN 1
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=5175&deviceMac=00:1A:79:E5:A9:30
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="SPORTS ★ TEN 2 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="⚽️Sony⚽️ ", SONY TEN 2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=5175&deviceMac=00:1A:79:E5:A9:30
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 4
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="SPORTS ★ TEN 3 HD" tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen3_HD_Logo_CLR.png" group-title="⚽️Sony⚽️ ", SONY TEN 3
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.4 (Linux;Android 10) ExoPlayerLib/2.15.1
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=5175&deviceMac=00:1A:79:E5:A9:30
 
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 5
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
+#EXTINF:-1 xui-id="16327" tvg-id="" tvg-name="Sony Sports 1" tvg-logo="http://103.127.99.190:80/images/3f8313c5ad33fb0d6ab2558843cd5a54.png" group-title="⚽️Sony⚽️ ",Sony Sports Ten 1
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-yylMScpeiK67hOmDNOCiiGxuuNvahI-lfWO16QR6er/ts
+#EXTINF:-1 xui-id="16328" tvg-id="" tvg-name="Sony Sports 2" tvg-logo="http://103.127.99.190:80/images/ed48b7eb3c76f1e3070e9d0bfbf90e6e.png" group-title="⚽️Sony⚽️ ",Sony Sports Ten 2
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-yylMScpeiK67hOmDNOCijaZCIINrQlVDXq9vpvOtmp/ts
+#EXTINF:-1 xui-id="16329" tvg-id="" tvg-name="Sony Sports 3" tvg-logo="http://103.127.99.190:80/images/53f5da630b5455d502444becdf3d9089.png" group-title="⚽️Sony⚽️ ",Sony Sports Ten 3
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-yylMScpeiK67hOmDNOCiihClWZ99Pd3nFo2Peahvja/ts
+#EXTINF:-1 xui-id="16330" tvg-id="" tvg-name="Sony Sports 4" tvg-logo="http://103.127.99.190:80/images/9dcc6291af16e343e1624503b04cff02.png" group-title="⚽️Sony⚽️ ",Sony Sports Ten 4
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh5xlVcPJhXqB5eR_k_Gk3XvN97HnM5Hylgr-s1dQGneq/ts
 
-#EXTINF:-1 group-logo="https://upload.wikimedia.org/wikipedia/en/thumb/7/77/UEFA_Europa_League_%28football_competition%29_logo.svg/1200px-UEFA_Europa_League_%28football_competition%29_logo.svg.png" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 1
-https://dai.google.com/linear/hls/event/wG75n5U8RrOKiFzaWObXbA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
-
-#EXTINF:-1 tvg-logo="https://www.sonypicturesnetworks.com/images/logos/SONY_SportsTen2_HD_Logo_CLR.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 2
-https://dai.google.com/linear/hls/event/V9h-iyOxRiGp41ppQScDSQ/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 3
-https://dai.google.com/linear/hls/event/ltsCG7TBSCSDmyq0rQtvSA/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 4
-https://pubads.g.doubleclick.net/ssai/event/tNzcW2ZhTVaViggo5ocI-A/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
-
-#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="⚽️Sony⚽️ ", SONY SPORTS 5
-https://dai.google.com/linear/hls/event/Sle_TR8rQIuZHWzshEXYjQ/master.m3u8|user-agent=mozilla/89 ExoPlayerLib
 
