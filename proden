@@ -5618,3 +5618,13 @@ http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
 #EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/ZTEwcYC.png" group-title="⚽️TEst⚽️ ",Astro Supersport 4
 http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
+
+
+
+=========================test2================
+
+#EXTM3U
+#EXT-X-VERSION:4
+#EXT-X-INDEPENDENT-SEGMENTS
+#EXT-X-STREAM-INF:BANDWIDTH=4403159,AVERAGE-BANDWIDTH=3716452,RESOLUTION=1280x720,FRAME-RATE=25.000,CODECS="avc1.640029,mp4a.40.2",AUDIO="audio_0"
+http://op-group1-swiftservesd-1.dens.tv/s/s41/01.m3u8
