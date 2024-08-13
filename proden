@@ -3057,7 +3057,7 @@ https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
 https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
 
 
-=================ASTROS====================
+=================ASTRO====================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/G9qf3ct/ASTRO-1.png" group-title="🔵14.ASTRO",Astro Supersport 1  
@@ -4224,51 +4224,40 @@ http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/855426
 #EXTINF:-1 tvg-logo="https://iili.io/dBMB0Yu.png" group-title="🔵BEIN SPORTS",beINSports 2 French 
 http://toh-users.xyz:8080/stevelo84@icloud.com/GHQn3QbAmcNb/855429
 
-====================PREMIUM SPORTS========================
+====================SUPERSPORT========================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png"
-#EXTINF:-1 tvg-id="Astro SuperSport HD" tvg-name="ASTRO: SS 1" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-my.png" group-title="🔵PREMIUM SPORTS",ASTRO: SS 1
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103623
-#EXTINF:-1 tvg-id="Astro SuperSport 2 HD" tvg-name="ASTRO: SS 2" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-2-my.png" group-title="🔵PREMIUM SPORTS",ASTRO: SS 2
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103624
-#EXTINF:-1 tvg-id="Astro SuperSport 3 HD" tvg-name="ASTRO: SS 3" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-3-my.png" group-title="🔵PREMIUM SPORTS",ASTRO: SS 3
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103625
-#EXTINF:-1 tvg-id="Astro SuperSport 4 HD" tvg-name="ASTRO: SS 4" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro-supersport-4-my.png" group-title="🔵PREMIUM SPORTS",ASTRO: SS 4
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/103626
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO: SS 5" tvg-logo="http://163.172.89.228/~msepg/logos/malaysia/astro_superssport_5.png" group-title="🔵PREMIUM SPORTS",ASTRO: SS 5
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/110275
-#EXTINF:-1 tvg-id="ACTION" tvg-name="SuperSport Action" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-action-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Action
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70938
-#EXTINF:-1 tvg-id="BLITZ" tvg-name="SuperSport Blitz" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-blitz-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Blitz
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70932
-#EXTINF:-1 tvg-id="CRICKET" tvg-name="SuperSport Cricket" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-cricket-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Cricket
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102200
-#EXTINF:-1 tvg-id="FOOTBALL" tvg-name="SuperSport Football" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-football-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Football
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70936
-#EXTINF:-1 tvg-id="GOLF" tvg-name="SuperSport Golf" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-golf-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Golf
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70939
-#EXTINF:-1 tvg-id="GRANDSTAND" tvg-name="SuperSport GrandStand" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-grandstand-za.png" group-title="🔵PREMIUM SPORTS",SuperSport GrandStand
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102201
-#EXTINF:-1 tvg-id="LA LIGA" tvg-name="SuperSport La Liga" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-la-liga-za.png" group-title="🔵PREMIUM SPORTS",SuperSport La Liga
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70937
-#EXTINF:-1 tvg-id="MOTORSPORT" tvg-name="SuperSport Motorsport" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-motorsport-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Motorsport
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102202
-#EXTINF:-1 tvg-id="EPL" tvg-name="SuperSport Premier League" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-premier-league-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Premier League
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70934
-#EXTINF:-1 tvg-id="PSL" tvg-name="SuperSport PSL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-psl-za.png" group-title="🔵PREMIUM SPORTS",SuperSport PSL
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70933
-#EXTINF:-1 tvg-id="RUGBY" tvg-name="SuperSport Rugby" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-rugby-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Rugby
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/102199
-#EXTINF:-1 tvg-id="TENNIS" tvg-name="SuperSport Tennis" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-tennis-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Tennis
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70935
-#EXTINF:-1 tvg-id="VARIETY 1" tvg-name="SuperSport Variety 1" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-1-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Variety 1
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70928
-#EXTINF:-1 tvg-id="VARIETY 2" tvg-name="SuperSport Variety 2" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-2-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Variety 2
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70929
-#EXTINF:-1 tvg-id="VARIETY 3" tvg-name="SuperSport Variety 3" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-3-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Variety 3
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70930
-#EXTINF:-1 tvg-id="VARIETY 4" tvg-name="SuperSport Variety 4" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/supersport-variety-4-za.png" group-title="🔵PREMIUM SPORTS",SuperSport Variety 4
-http://lunar.pm:8080/V8637829876/amN3LUMYDXbz/70931
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="Supersport",SS PSL
+https://webufffit.mizhls.ru/lb/eplayerSuperSportPSL/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="Supersport",SS ACTION
+https://webufffit.mizhls.ru/lb/eplayerSuperSportAction/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="Supersport",SS TENNIS
+https://webufffit.mizhls.ru/lb/eplayerSuperSportTennis/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="Supersport",SS CRICKET
+https://webufffit.mizhls.ru/lb/eplayerSuperSportCricket/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="Supersport",SS GRANDSTAND
+https://top1.mizhls.ru:443/top1/eplayerSupersportGrandstand/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="Supersport",SS GOLF
+https://webufffit.mizhls.ru/lb/eplayerSuperSportGolf/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="Supersport",SS RUGBY
+https://webufffit.mizhls.ru/lb/eplayerSuperSportRugby/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="Supersport",SS Football
+https://webufffit.mizhls.ru/lb/eplayerSuperSportFootball/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Supersport",SS Variety 1
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety1/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="Supersport",SS Variety 2
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety2/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="Supersport",SS Variety 3
+https://top1.mizhls.ru:443/top1/eplayerSuperSportVariety3/tracks-v1a1/mono.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="Supersport",SS Variety 4
+https://webufffit.mizhls.ru/lb/eplayerSuperSportVariety4/index.m3u8?|referer=https://olalivehdplay.ru/z.m3u8/&user-agent=Android
+#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="Supersport",SS LaLiga
+https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="Supersport",SS Premier league
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="Supersport",SS MaXimo 1
+https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="Supersport",SS Motorsport
+https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 ==============================EUROSPORTS===========================
 
