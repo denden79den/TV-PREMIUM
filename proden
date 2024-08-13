@@ -5545,3 +5545,76 @@ http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-yylMScpeiK67hOmDNOCiihClWZ99
 http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh5xlVcPJhXqB5eR_k_Gk3XvN97HnM5Hylgr-s1dQGneq/ts
 
 
+====================test=========================
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/p2O9skJ.png" group-title="⚽️TEst⚽️ ",Sony Ten 1
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/y2SYZaI.png" group-title="⚽️TEst⚽️ ",Sony Ten 2
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/xkuhDNF.png" group-title="⚽️TEst⚽️ ",Sony Ten 3
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/b6gqBiW.png" group-title="⚽️TEst⚽️ ",Sony Ten 4
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/QQ5sQHL.png" group-title="⚽️TEst⚽️ ",Sony Ten 5
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Astro SuperSport HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/qNQIpwD.png" group-title="⚽️TEst⚽️ ",Astro Supersport 1
+http://152.89.62.76:8880/live/D12m1495/23236986/1722.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Astro SuperSport 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/Fufc1K4.png" group-title="⚽️TEst⚽️ ",Astro Supersport 2
+http://152.89.62.76:8880/live/D12m1495/23236986/1721.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/atqlVbz.png" group-title="⚽️TEst⚽️ ",Astro Supersport 3
+http://152.89.62.76:8880/live/D12m1495/23236986/1720.ts
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="Astro SuperSport 4 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://i.imgur.com/ZTEwcYC.png" group-title="⚽️TEst⚽️ ",Astro Supersport 4
+http://152.89.62.76:8880/live/D12m1495/23236986/1719.ts
