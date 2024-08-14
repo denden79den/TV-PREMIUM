@@ -1803,7 +1803,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="INDIHOME",RCTI +
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" group-title="INDIHOME",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
@@ -3043,7 +3043,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_v
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="MOVIE"
+#EXTINF:-1 group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" group-title="MOVIE"
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5Qgpj/etv-bio.png" group-title="MOVIE",ETV BIOSKOP 1
 http://xtv.ooo:8080/live/Raza335/3355141450/350941.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/Vw5Qgpj/etv-bio.png" group-title="MOVIE",ETV BIOSKOP 2
@@ -3070,17 +3070,17 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://iili.io/Jmo9Eg4.png" group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="FIRSTMEDIA",HBO
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml.gz" tvg-logo="https://iili.io/Jmo9Eg4.png" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" group-title="FIRSTMEDIA",HBO
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
+#EXTINF:0 tvg-id="" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=0a3aaee779e940db8ff24f9f3eb5c98a:440e1c1ce9ba337844409c8bcad5a268
 https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd 
 
-#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
+#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n3VVRA+zEDQd2wDNvGOM6g", "kid":"8L397w9WSBmitDNFsyj5iQ" } ], "type":"temporary" }
@@ -3169,7 +3169,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=b6486d00c9d842d88ba1660deec8becc:67ed72016590f2138d9fc10b807708b2
 https://atemecdnbalancer-voe.sysln.id/live/eds/TvOne/mpd/TvOne.mpd
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://i.ibb.co.com/LJqWN7L/Logo-Maker-Ca-1721046102108-1.png" group-title="FIRSTMEDIA",RCTI +
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" group-title="FIRSTMEDIA",RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
