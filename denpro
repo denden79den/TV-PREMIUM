@@ -1825,7 +1825,7 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 ==========================DENS TV=====================================
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://i.ibb.co.com/GHxz11T/DENSTV-removebg-preview.png" group-title="DENS.TV",1. RCTI +
+#EXTINF:-1 tvg-id="RCTI.id" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png" group-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png" group-title="DENS.TV",1. RCTI +
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
