@@ -4089,4 +4089,86 @@ http://iptvtree.net:8080/romaniamedia/f35da5aefe/145
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/144
 
 
+================FOX SPORTS======================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/Vp7bY9f/FOX-SPORTS.png"
+#EXTINF:-1 xui-id="16590" tvg-id="" tvg-name="FS1" tvg-logo="https://i.imgur.com/xcgfJhC.png" group-title="FOX SPORTS", FS 1
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMmW31aUsDAdK6YVzIDt0WwC/ts
+
+#EXTINF:-1 xui-id="16591" tvg-id="" tvg-name="FS 2" tvg-logo="https://i.imgur.com/r1wveoe.png" group-title="FOX SPORTS", FS 2
+http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh-Kl4t3s5XYGoAxdx4aiQMlkn9P4uOkS9GY8DftaPsZl/ts
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1fKCLxG/live-stream.png" group-title="FOX SPORTS",Fox Sports Racing CA
+http://live.lordstreams.co:8080/Kelly2022/Kelly2022/3053
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 501" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a920154df6aa27d0a0988f8415c658dd.jpg" group-title="FOX SPORTS",Fox Sports 501
+http://premiumiptvmk.com:8080/F19236/516c41c7/279034
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 502" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/3a660bbb5217b20183e9135bf2aaf562.png" group-title="FOX SPORTS",Fox Sports 502
+http://premiumiptvmk.com:8080/F19236/516c41c7/81784
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 503" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/26e07d10c07649ee3f6a4b2623a7d187.jpg" group-title="FOX SPORTS",Fox Sports 503
+http://premiumiptvmk.com:8080/F19236/516c41c7/280192
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 504" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/c2b1618bc941a9579f6da4ad1f4fe90e.png" group-title="FOX SPORTS",Fox Sports 504
+http://premiumiptvmk.com:8080/F19236/516c41c7/280193
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 505" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-07/326c83b2d11a63ae35efe2906029d3b0.png" group-title="FOX SPORTS",Fox Sports 505
+http://premiumiptvmk.com:8080/F19236/516c41c7/144772
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 506" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0fbe039aa7f3af002897a33f07ca891e.jpg" group-title="FOX SPORTS",Fox Sports 506
+http://premiumiptvmk.com:8080/F19236/516c41c7/279033
+#EXTINF:-1 tvg-id="" tvg-name="Fox Sports 507" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/8967fe172d45a59f3ec20039bcf2ae47.png" group-title="FOX SPORTS",Fox Sports 507
+http://premiumiptvmk.com:8080/F19236/516c41c7/280194
+
+
+======================ASTRO GO=============================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/JvpsfvF/ASTRO-GO.png"
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaw.png" tvg-id="astroawani.my" ,MY| ASTRO AWANI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191859
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroprim.png" tvg-id="astroprima.my" ,MY| ASTRO PRIMA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191865
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrooas.png" tvg-id="astrooasis.my" ,MY| ASTRO OASIS HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191864
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrow.png" tvg-id="astrowarna.my" ,MY| ASTRO WARNA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191874
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/awsm.png" ,MY| AWESOME TV HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200777
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astror.png" tvg-id="astrorania.my" ,MY| ASTRO RANIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191866
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaur.png" tvg-id="astroaura.my" ,MY| ASTRO AURA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191858
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroaec.png" tvg-id="astroaec.my" ,MY| ASTRO AEC HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191841
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/SENSASI.png" ,MY| ASTRO SENSASI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/13490
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroiq.png" tvg-id="astrotviq.my" ,MY| IQIYI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191950
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrohhd.png" tvg-id="astrohuaheedai.my" ,MY| ASTRO HUA HEE DAI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191948
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrohhd.png" ,MY| ASTRO HUA LEE HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5230
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astroohk.png" ,MY| ASTRO OHK HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/5231
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO VELLITHIRAI HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/12305
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrovv.png" tvg-id="astrovaanavil.my" ,MY| ASTRO VAANAVIL HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/192011
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/boo.png" tvg-id="boo.my" ,MY| ASTRO BOO HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/400200333
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/flag.png" ,MY| ASTRO PREMIER HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/38023
+
+#EXTINF:-1 group-title="ASTRO GO" tvg-logo="https://lo1.in/MALAY/astrocer.png" tvg-id="astroceria.my" ,MY| ASTRO CERIA HD
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
