@@ -1,4 +1,4 @@
-======================TV NASIONAL========================
+======================TV NASIONAL=======================
   
 #EXTINF:-1 group-logo="https://i.ibb.co.com/SfD8Chf/TV-INDONESIA.png"
 #EXTINF:-1 tvg-id="TVRI - [Channel 115].id" tvg-name="TVRI" tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_tvri_hd.png" group-title="TV INDONESIA", TVRI ᴴᴰ
@@ -3867,94 +3867,94 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/o
 ========================SKY SPORTS=========================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/wRXFNPR/SKY-SPORTS.png"
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT F1
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", F1
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2686
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT FOOTBALL
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", FOOTBALL
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2685
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT GOLF
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", GOLF
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2684
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT MOTOGP
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", MOTOGP
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28473
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT NBA
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", NBA
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28472
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT F1
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", F1
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2686
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT FOOTBALL
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", FOOTBALL
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2685
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT GOLF
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", GOLF
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2684
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT MOTOGP
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", MOTOGP
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28473
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT NBA
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", NBA
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28472
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports NFL
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", NFL
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28768
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Racing FHD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", FHD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/28741
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT ARENA
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", ARENA
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2688
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT CALCIO
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", CALCIO
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2687
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORTS F1
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", F1
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29075
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT GOLF
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", GOLF
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29074
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT MIX
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", MIX
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29073
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT NEWS
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", NEWS
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29072
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT PREMIER LEAGUE
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", PREMIER LEAGUE
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29071
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT TENNIS
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", TENNIS
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29070
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",SKY SPORT TOP EVENT
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", TOP EVENT
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/29069
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Mix FHD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", Mix FHD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2882
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports MainEvent HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", MainEvent HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2881
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Action HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", Action HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2880
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Cricket HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", Cricket HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2879
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Golf HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", Golf HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2878
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports PremierLeague HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", PremierLeague HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2877
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports F1 HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", F1 HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2876
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports News HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", News HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2875
 
-#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS",Sky Sports Football HD
+#EXTINF:0 tvg-ID="skysports" tvg-name="" tvg-logo="https://img.logo-cdn.cc/skysport.png" group-title="SKYSPORTS", Football HD
 http://mohdtv.com:8880/hdtv30a6120c16db/39024972/2870
 
 
