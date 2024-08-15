@@ -4215,13 +4215,13 @@ https://cdn.qiptv.pro/GTV/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/LpqFvfF/INEWS.png" group-title="LANCAR TV", INEWS TV
 https://cdn.qiptv.pro/INEWS/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/3Ss1Rt2/rcti.png" group-title="LANCAR TV", RCTI
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/yx9f1WQR/rcti.png" group-title="LANCAR TV", RCTI
 https://cdn.qiptv.pro/RCTI/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/28bPYQv/net.png" group-title="LANCAR TV", NET TV
 https://cdn.qiptv.pro/NET_TV/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/H47S1Hh/Antv.png" group-title="LANCAR TV", ANTV
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/3J1RL11s/Antv.png" group-title="LANCAR TV", ANTV
 https://cdn.qiptv.pro/ANTV/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mhHWXS4/vtv.png" group-title="LANCAR TV", VTV
