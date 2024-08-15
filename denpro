@@ -1826,13 +1826,13 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 ==========================DENS TV=====================================
 
 #EXTINF:-1 group-logo="https://pic.dens.tv/wp/img/adv_asset_1_1/1280x720/1650611662_adv_asset_1_1.png"
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png tvg-id="RCTI.id" ,1 RCTI (R+)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png tvg-id="RCTI.id" ,1. RCTI (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/LNXHMWh/mnctv.png" ,2 MNCTV (R+)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/LNXHMWh/mnctv.png" ,2. MNCTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/RvxXfWz/GTV.png" ,3 GTV (R+)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/RvxXfWz/GTV.png" ,3. GTV (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/KjyGmsj/INEWS-png.png" ,4 INEWS (R+)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/KjyGmsj/INEWS-png.png" ,4. INEWS (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" , 5. INDOSIAR
 http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.dens.tv/
@@ -1840,11 +1840,11 @@ http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lit
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" ,6. MOJI
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.imgur.com/sxlxwvA.png?v=1.1.1.1" ,7 ANTV
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.imgur.com/sxlxwvA.png?v=1.1.1.1" ,7. ANTV
 http://stb.mbahnunungonline.net/live/m3u8/id/b630a001384603f.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" ,13.TV One
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,9 VTV
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,9. VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" tvg-id="3" , Live Streaming 1
 http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Live_Streaming_1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
