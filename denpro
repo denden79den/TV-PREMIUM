@@ -4534,3 +4534,137 @@ https://webtvstream.bhtelecom.ba/hls6/arena5.mpd
 #KODIPROP:inputstream.adaptive.license_key=c18b6aa739be4c0b774605fcfb5d6b68:e41c3a6f7532b2e3a828d9580124c89d
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
+
+
+========================SONY TEN======================
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png"
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png" group-title="SONY TEN",SONY TEN 1 HD
+http://starshare.live:8080/live/9991461/9991461/154.ts
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SONY TEN",SONY TEN 2 HD
+http://starshare.live:8080/live/9991461/9991461/192.ts
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="SONY TEN",SONY TEN 2 HD.
+http://starshare.live:8080/live/9991461/9991461/31314.ts
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="SONY TEN", SONY TEN 3 HD
+http://starshare.live:8080/live/9991461/9991461/146.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SONY TEN",SONY TEN 4 (4K)
+http://starshare.live:8080/live/9991461/9991461/29469.ts
+
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="SONY TEN",SONY 5 HD
+http://starshare.live:8080/live/9991461/9991461/176.ts
+
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/qqPkbz9D/FOOTBALL-SOCCER.png"
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name="UK: MUTV HD" tvg-logo="https://e.top4top.io/p_2563oiack1.png" group-title="Football (Soccer)",UK: MUTV HD
+http://starshare.live:8080/live/9991461/9991461/29.ts
+
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LIVERPOOL FC HD" tvg-logo="https://j.top4top.io/p_25631b0671.png" group-title="Football (Soccer)",UK: LIVERPOOL FC HD
+http://starshare.live:8080/live/9991461/9991461/30.ts
+
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV: SUPERSPORTS LALIGA HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" group-title="Football (Soccer)",DSTV: SUPERSPORTS LALIGA HD
+http://starshare.live:8080/live/9991461/9991461/515.ts
+
+
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV : SUPERSPORTS PSL HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS PSL HD
+http://starshare.live:8080/live/9991461/9991461/517.ts
+
+
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV : SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="https://supersport.azureedge.net/web-assets/channels/hos/supersport-premier-league-live.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS PREMIER LEAGUE HD
+http://starshare.live:8080/live/9991461/9991461/518.ts
+
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV : SUPERSPORTS FOOTBALL HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS FOOTBALL HD
+http://starshare.live:8080/live/9991461/9991461/523.ts
+
+
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="DSTV : SUPERSPORTS PSL (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SH2.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS PSL (FHD)
+http://starshare.live:8080/live/9991461/9991461/770.ts
+
+
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: EURO SPORTS 2 HD" tvg-logo="https://h.top4top.io/p_2563me4xs1.png" group-title="Football (Soccer)",UK: EURO SPORTS 2 HD
+http://starshare.live:8080/live/9991461/9991461/1920.ts
+
+
+#EXTINF:-1 tvg-id="" tvg-name="|AR| BEIN SPORT  1 HD" tvg-logo="http://stariptv.fun/logos/Bein%20sports%20hd%201.png" group-title="Football (Soccer)",|AR| BEIN SPORT  1 HD
+http://starshare.live:8080/live/9991461/9991461/4468.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="Football (Soccer)",MY: ASTRO SUPER SPORTS 1 HD
+http://starshare.live:8080/live/9991461/9991461/5480.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="Football (Soccer)",MY: ASTRO SUPER SPORTS 3 HD
+http://starshare.live:8080/live/9991461/9991461/5482.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="Football (Soccer)",MY: ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/9991461/9991461/5483.ts
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS FOOTBALL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/ff/Sky_Sport_Football_-_Logo_2018.svg/1280px-Sky_Sport_Football_-_Logo_2018.svg.png" group-title="Football (Soccer)",UK: SKY SPORTS FOOTBALL
+http://starshare.live:8080/live/9991461/9991461/19.ts
+
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT Sport 3" tvg-logo="https://k.top4top.io/p_2563xxcbn1.png" group-title="Football (Soccer)",UK: TNT Sport 3
+http://starshare.live:8080/live/9991461/9991461/283.ts
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORT 2" tvg-logo="https://f.top4top.io/p_2563wmqo81.png" group-title="Football (Soccer)",UK: TNT SPORT 2
+http://starshare.live:8080/live/9991461/9991461/285.ts
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORT 1" tvg-logo="https://e.top4top.io/p_2563e3ex31.png" group-title="Football (Soccer)",UK: TNT SPORT 1
+http://starshare.live:8080/live/9991461/9991461/286.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: Premier Sports 1" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRBh7B8Yh26JiqbPty0wOGDH2l9HNHFE3QQUA&usqp=CAU" group-title="Football (Soccer)",UK: Premier Sports 1
+http://starshare.live:8080/live/9991461/9991461/5029.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier Sports 2" tvg-logo="https://j.top4top.io/p_2563if13w1.png" group-title="Football (Soccer)",UK: Premier Sports 2
+http://starshare.live:8080/live/9991461/9991461/5030.ts
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League HD" tvg-logo="http://stariptv.fun/logos/skysportspremierleaguehd.png" group-title="Football (Soccer)",UK: Sky Sports Premier League HD
+http://starshare.live:8080/live/9991461/9991461/9891.ts
+
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: Sky Sports Football (FHD)" tvg-logo="https://j.top4top.io/p_2563b7cdj1.png" group-title="Football (Soccer)",UK: Sky Sports Football (FHD)
+http://starshare.live:8080/live/9991461/9991461/23334.ts
+
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: Sky Sports Premier League (FHD)" tvg-logo="http://stariptv.fun/logos/skysportspremierleaguehd.png" group-title="Football (Soccer)",UK: Sky Sports Premier League (FHD)
+http://starshare.live:8080/live/9991461/9991461/23342.ts
+
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: Premier 1 (FHD)" tvg-logo="https://sport-onthebox.com/wp-content/uploads/2019/08/Premier-Sports-1.png" group-title="Football (Soccer)",UK: Premier 1 (FHD)
+http://starshare.live:8080/live/9991461/9991461/23344.ts
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: Premier 2 (FHD)" tvg-logo="https://j.top4top.io/p_2563if13w1.png" group-title="Football (Soccer)",UK: Premier 2 (FHD)
+http://starshare.live:8080/live/9991461/9991461/23345.ts
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2 (FHD)" tvg-logo="https://h.top4top.io/p_2563me4xs1.png" group-title="Football (Soccer)",UK: Eurosport 2 (FHD)
+http://starshare.live:8080/live/9991461/9991461/23348.ts
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: LFC TV FHD" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRd01s6WJLhsYzXf-XZdX9v71NLZ7oFnbp59vJj-cQ0JLdssipfzkDQkfYj4EMObhN1YJw&usqp=CAU" group-title="Football (Soccer)",UK: LFC TV FHD
+http://starshare.live:8080/live/9991461/9991461/24114.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="T SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/11/T_Sports_logo.png" group-title="Football (Soccer)",T SPORTS
+http://starshare.live:8080/live/9991461/9991461/52500.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sports18  (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="Football (Soccer)",IN: Sports18  (4K)
+http://starshare.live:8080/live/9991461/9991461/128843.ts
+#EXTINF:-1 tvg-id="" tvg-name=" Afg_ATN" tvg-logo="https://c.top4top.io/p_2563gerow1.png" group-title="Football (Soccer)", Afg_ATN
+http://starshare.live:8080/live/9991461/9991461/129703.ts
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="DSTV : SUPERSPORTS FOOTBALL (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/MSH.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS FOOTBALL (FHD)
+http://starshare.live:8080/live/9991461/9991461/776.ts
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="DSTV : SUPERSPORTS LALIGA (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/SSH.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS LALIGA (FHD)
+http://starshare.live:8080/live/9991461/9991461/768.ts
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="DSTV : SUPERSPORTS PREMIER LEAGUE (FHD)" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/TS2.png" group-title="Football (Soccer)",DSTV : SUPERSPORTS PREMIER LEAGUE (FHD)
+http://starshare.live:8080/live/9991461/9991461/771.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS English 1 (4k)" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F213%2Fbein-sports-english-1.png" group-title="Football (Soccer)",BEIN SPORTS English 1 (4k)
+http://starshare.live:8080/live/9991461/9991461/138713.ts
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS English 2 (4k)" tvg-logo="https://i.goalzz.com/?i=o%2Fh%2F1%2F214%2Fbein-sports-english-1.png" group-title="Football (Soccer)",BEIN SPORTS English 2 (4k)
+http://starshare.live:8080/live/9991461/9991461/138714.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="US: beIN Sports XTRA" tvg-logo="http://stariptv.fun/logos/beinsportsxtra1.png" group-title="Football (Soccer)",US: beIN Sports XTRA
+http://starshare.live:8080/live/9991461/9991461/142107.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="ARG: TYC SPORTS HD" tvg-logo="" group-title="Football (Soccer)",ARG: TYC SPORTS HD
+http://starshare.live:8080/live/9991461/9991461/205865.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="MLS Live 1: Orlando City vs. Inter Miami CF" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/07/MLS-1.png" group-title="Football (Soccer)",MLS Live 1: Orlando City vs. Inter Miami CF
+http://starshare.live:8080/live/9991461/9991461/333367.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CRI: Sports 18 Khel" tvg-logo="http://stariptv.fun/logos/Sports18Khel.png" group-title="Football (Soccer)",CRI: Sports 18 Khel
+http://starshare.live:8080/live/9991461/9991461/151091.ts
+
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://www.dialog.lk/dialogdocroot/content/images/channel-highlights/sony-ten2-hd.png" group-title="Football (Soccer)",CRI: SONY Ten 2 HD
+http://starshare.live:8080/live/9991461/9991461/192.ts
+
+
