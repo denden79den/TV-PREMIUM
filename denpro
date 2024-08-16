@@ -4668,3 +4668,19 @@ http://starshare.live:8080/live/9991461/9991461/151091.ts
 http://starshare.live:8080/live/9991461/9991461/192.ts
 
 
+======================ASTRO SPORTS======================
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/3ryqjKZG/ASTRO-SPORTS.png"
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 1 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="ASTRO SPORTS", 1 ASTRO SUPER SPORTS 1 HD
+http://starshare.live:8080/live/9991461/9991461/5480.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/6/6b/Astro_SuperSport_2.png/revision/latest?cb=20200924173634" group-title="ASTRO SPORTSY",2 ASTRO SUPER SPORTS 2 HD
+http://starshare.live:8080/live/9991461/9991461/5481.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 3 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="ASTRO SPORTS",3 ASTRO SUPER SPORTS 3 HD
+http://starshare.live:8080/live/9991461/9991461/5482.ts
+
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="MY: ASTRO SUPER SPORTS 4 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d4/Astro_SuperSport_4.png/revision/latest?cb=20200924173748" group-title="ASTRO SPORTS",4 ASTRO SUPER SPORTS 4 HD
+http://starshare.live:8080/live/9991461/9991461/5483.ts
+
+
