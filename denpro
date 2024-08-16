@@ -4268,7 +4268,6 @@ https://cdn.qiptv.pro/INDOSIAR/index.m3u8
 
 ======================BEINS SPORTS TOD===============================
 
-
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png", TOD 360 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=341757&extension=ts&play_token=srOLg0gVZV
@@ -4306,10 +4305,9 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272459&extensio
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272466&extension=ts&play_token=yIM202bR5Y
 
 
-
-
 =======================================
 
+#EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",11 beIN Sports 1 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534831&extension=ts&play_token=UFwhcnWoMG
 
@@ -4340,6 +4338,7 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=578836&extensio
 
 ========================BEIN SPORTS G=========================
 
+#EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",20 beIN Sports 1 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108161&extension=ts&play_token=6CWYgFswdC
 
@@ -4351,7 +4350,6 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108164&extensio
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",23 beIN Sports 4 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108165&extension=ts&play_token=d2qc9MNe7G
-
 
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",24 beIN Sports 5 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108166&extension=ts&play_token=phFHFaBCnw
@@ -4369,12 +4367,9 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108169&extensio
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108170&extension=ts&play_token=GCq5yj82Mu
 
 
-
-https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png
-
 =========================BEINS SPORT ENG & FR =======================
 
-
+#EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png",29 beIN Sports 1 EN HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=2531&extension=ts&play_token=RDEZ2agKRa
