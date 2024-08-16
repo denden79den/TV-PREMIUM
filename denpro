@@ -4539,22 +4539,22 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 ========================SONY TEN======================
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png"
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png" group-title="SONY TEN",SONY TEN 1 HD
+#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png" group-title="SONY TEN",1 SONY TEN 1 HD
 http://starshare.live:8080/live/9991461/9991461/154.ts
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",SONY TEN 2 HD
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",2 SONY TEN 2 HD
 http://starshare.live:8080/live/9991461/9991461/192.ts
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",SONY TEN 2 HD.
+#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",2 SONY TEN 2 HD.
 http://starshare.live:8080/live/9991461/9991461/31314.ts
 
-#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="SONY TEN", SONY TEN 3 HD
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="SONY TEN", 3 SONY TEN 3 HD
 http://starshare.live:8080/live/9991461/9991461/146.ts
 
-#EXTINF:-1 tvg-id="" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SONY TEN",SONY TEN 4 (4K)
+#EXTINF:-1 tvg-id="" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" group-title="SONY TEN",4 SONY TEN 4 (4K)
 http://starshare.live:8080/live/9991461/9991461/29469.ts
 
-#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="SONY TEN",SONY 5 HD
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="SONY TEN",5 SONY 5 HD
 http://starshare.live:8080/live/9991461/9991461/176.ts
 
 
