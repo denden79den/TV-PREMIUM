@@ -4269,39 +4269,39 @@ https://cdn.qiptv.pro/INDOSIAR/index.m3u8
 ======================BEINS SPORTS TOD===============================
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png", TOD 360 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/BEIN.TOD/tod360.png" group-title="BEIN SPORT", TOD 360 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=341757&extension=ts&play_token=srOLg0gVZV
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",1 BEIN SPORTS 1 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT",1 BEIN SPORTS 1 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272468&extension=ts&play_token=9HqvaHD1ql
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",2 BEIN SPORTS 2 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT",2 BEIN SPORTS 2 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272467&extension=ts&play_token=iNXduZ0Y3l
 
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",3 BEIN SPORTS 3 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT",3 BEIN SPORTS 3 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272465&extension=ts&play_token=FFzrXSdCcr
 
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",4 BEIN SPORTS 4 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT",4 BEIN SPORTS 4 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272464&extension=ts&play_token=qf1RBqvg2e
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",5 BEIN SPORTS 5 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT",5 BEIN SPORTS 5 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272463&extension=ts&play_token=bflOmFcPL1
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",6 BEIN SPORTS 6 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT",6 BEIN SPORTS 6 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272462&extension=ts&play_token=s8ddFWr8cs
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",7 BEIN SPORTS 7 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT",7 BEIN SPORTS 7 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272461&extension=ts&play_token=FTZLGkKeVW
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png",8 BEIN SPORTS 8 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT",8 BEIN SPORTS 8 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272460&extension=ts&play_token=p6AJsBRrR1
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png",9 BEIN SPORTS 9 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT",9 BEIN SPORTS 9 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272459&extension=ts&play_token=hgvjQLvyJE
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",10 BEIN SPORTS XSTRA 3 TOD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT",10 BEIN SPORTS XSTRA 3 TOD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272466&extension=ts&play_token=yIM202bR5Y
 
 
