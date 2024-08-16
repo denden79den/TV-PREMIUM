@@ -4308,62 +4308,62 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=272466&extensio
 =======================================
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",11 beIN Sports 1 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT",11 beIN Sports 1 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534831&extension=ts&play_token=UFwhcnWoMG
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",12 beIN Sports 2 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT",12 beIN Sports 2 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534830&extension=ts&play_token=LEeddNEzmr
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",13 beIN Sports 3 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT",13 beIN Sports 3 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534829&extension=ts&play_token=sDeCu66lbw
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",14 beIN Sports 4 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT",14 beIN Sports 4 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534828&extension=ts&play_token=hYjgp3YsPb
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",15 beIN Sports 5 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT",15 beIN Sports 5 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534827&extension=ts&play_token=SddQkhtvIh
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",16 beIN Sports 6 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT",16 beIN Sports 6 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=534826&extension=ts&play_token=O5mB9yaWFd
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",17 beIN Sports 7 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT", 17 beIN Sports 7 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=578834&extension=ts&play_token=6alWzaxFtm
 
-#EXTINF:-1 tvg-logo="",18 beIN Sports 8 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT",18 beIN Sports 8 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=578835&extension=ts&play_token=LIK1SG9CnK
 
-#EXTINF:-1 tvg-logo="",19 beIN Sports 9 HD ❦
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT",19 beIN Sports 9 HD ❦
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=578836&extension=ts&play_token=LUGG8H0qFl
 
 
 ========================BEIN SPORTS G=========================
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png",20 beIN Sports 1 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT1HD.png" group-title="BEIN SPORT",20 beIN Sports 1 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108161&extension=ts&play_token=6CWYgFswdC
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png",21 beIN Sports 2 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT2HD.png" group-title="BEIN SPORT",21 beIN Sports 2 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108162&extension=ts&play_token=lG5Q5rq5tw
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png",22 beIN Sports 3 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT3HD.png" group-title="BEIN SPORT",22 beIN Sports 3 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108164&extension=ts&play_token=rCN9kYKvAJ
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png",23 beIN Sports 4 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT4HD.png" group-title="BEIN SPORT",23 beIN Sports 4 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108165&extension=ts&play_token=d2qc9MNe7G
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png",24 beIN Sports 5 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT5HD.png" group-title="BEIN SPORT",24 beIN Sports 5 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108166&extension=ts&play_token=phFHFaBCnw
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png",25 beIN Sports 6 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT6HD.png" group-title="BEIN SPORT",25 beIN Sports 6 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108167&extension=ts&play_token=S6h47QwoP9
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png",26 beIN Sports 7 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT7HD.png" group-title="BEIN SPORT",26 beIN Sports 7 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108168&extension=ts&play_token=Xr6IH1Wg75
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png",27 beIN Sports 8 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT8HD.png" group-title="BEIN SPORT",27 beIN Sports 8 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108169&extension=ts&play_token=DYnY75sNXP
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png",28 beIN Sports 9 HD (G)
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEINSPORT9HD.png" group-title="BEIN SPORT",28 beIN Sports 9 HD (G)
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108170&extension=ts&play_token=GCq5yj82Mu
 
 
@@ -4371,41 +4371,41 @@ http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=108170&extensio
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
 #EXTINF:-1 group-logo="https://i.postimg.cc/L5fWJ9Hd/BEINSPORTS1.png"
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png",29 beIN Sports 1 EN HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-1HDENG.png" group-title="BEIN SPORT",29 beIN Sports 1 EN HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=2531&extension=ts&play_token=RDEZ2agKRa
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png",30 beIN Sports 2 EN HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/BEIN-2HDENG.png" group-title="BEIN SPORT",30 beIN Sports 2 EN HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=10369&extension=ts&play_token=b5fKb9K281
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png",31 beIN Sports 1 UHD FR
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT",31 beIN Sports 1 UHD FR
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=14&extension=ts&play_token=0Ap2AYrBsQ
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png",32 beIN Sports 1 HD FR
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/119.png" group-title="BEIN SPORT",32 beIN Sports 1 HD FR
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=11016&extension=ts&play_token=NLhxv78XKD
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png",33 beIN Sports 2 UHD FR
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT",33 beIN Sports 2 UHD FR
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=15&extension=ts&play_token=fDi1ApVJWo
 
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png",34 beIN Sports 2 HD FR
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/0tv_logo/120.png" group-title="BEIN SPORT",34 beIN Sports 2 HD FR
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=11017&extension=ts&play_token=BefAmaW5GD
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png",35 beIN Sports Nba HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein/BEINNBA-HD.png" group-title="BEIN SPORT",35 beIN Sports Nba HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=3845&extension=ts&play_token=afwWGiOi8B
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",36 beIN Sports XTRA 1 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT",36 beIN Sports XTRA 1 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=117124&extension=ts&play_token=TubUC2Z7FQ
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png",37 beIN Sports XTRA 1 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA1FHD.png" group-title="BEIN SPORT",37 beIN Sports XTRA 1 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=117125&extension=ts&play_token=MJYrW7hvrg
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",38 beIN Sports XTRA 2 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT",38 beIN Sports XTRA 2 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=117129&extension=ts&play_token=Mlhczag93B
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png",39 beIN Sports XTRA 2 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA2FHD.png" group-title="BEIN SPORT",39 beIN Sports XTRA 2 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=117130&extension=ts&play_token=5GP82VZp7w
 
-#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png",40 beIN Sports XTRA 3 HD
+#EXTINF:-1 tvg-logo="http://138.199.27.237:8080/BEIN/bein-sport/XTRA3FHD.png" group-title="BEIN SPORT",40 beIN Sports XTRA 3 HD
 http://d4k4u.com:2082/play/live.php?mac=00:1A:79:EF:16:1C&stream=3&extension=ts&play_token=wnBtBEnMJP
 
 
