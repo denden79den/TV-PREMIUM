@@ -4463,15 +4463,18 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 ========================SONY TEN======================
 
+
 #EXTINF:-1 group-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png"
-#EXTINF:-1 tvg-id="sonyten1hd.in" tvg-name="CRI: SONY TEN 1 HD" tvg-logo="https://i.ibb.co/6HtV5jJ/Sony-Sports-Ten-1.png" group-title="SONY TEN",1 SONY TEN 1 HD
-http://starshare.live:8080/live/9991461/9991461/154.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sonysports1.png" group-title="SONY TEN",Sony Ten 1
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1-hd&.m3u8
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD" tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",2 SONY TEN 2 HD
-http://starshare.live:8080/live/9991461/9991461/192.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sonysports2.png" group-title="SONY TEN",Sony Ten 2
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2-hd&.m3u8
 
-#EXTINF:-1 tvg-id="sonyten2hd.in" tvg-name="CRI: SONY Ten 2 HD." tvg-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png" group-title="SONY TEN",2 SONY TEN 2 HD.
-http://starshare.live:8080/live/9991461/9991461/31314.ts
 
 #EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="SONY TEN", 3 SONY TEN 3 HD
 http://starshare.live:8080/live/9991461/9991461/146.ts
