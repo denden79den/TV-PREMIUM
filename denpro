@@ -3864,7 +3864,7 @@ https://webtvstream.bhtelecom.ba/hls6/arena6.mpd
 
 
 #EXTINF:-1 group-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png"
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.pngg" group-title="SONY TEN",1. SONY TEN 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.pngg" group-title="SONY TEN",1 SONY TEN 1
 #EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
 https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1-hd&.m3u8
