@@ -5513,7 +5513,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
 =======================LIVE WORLD SPORT======================
  
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-ESPN.png" group-title="LIVE | World Sports",ESPN 1
+#EXTINF:-1 tvg-logo="https://i.imgur.com/jaL4tgZ.png" group-title="LIVE | World Sports",ESPN 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -5522,7 +5522,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 http://iptvtree.net:8080/romaniamedia/f35da5aefe/747
 
-#EXTINF:-1 tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-ESPN-2.png" group-title="LIVE | World Sports",ESPN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/XVOem7M.png" group-title="LIVE | World Sports",ESPN 2
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
