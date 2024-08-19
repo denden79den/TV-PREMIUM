@@ -5510,3 +5510,76 @@ http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
 
 #EXTM3U billed-msg=" INTEK IPTV "
+
+
+=======================LIVE WORLD SPORT======================
+ 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportPSL.za" tvg-name="AF | SS PSL HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-PSL.png" group-title="LIVE | World Sports",AF | SS PSL HD
+http://b1g.ooo:80/suhel/suhel/39039
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportLaLiga.za" tvg-name="AF | SS La Liga HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-La-Liga.png" group-title="LIVE | World Sports",AF | SS La Liga HD
+http://b1g.ooo:80/suhel/suhel/5629
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportFootball.za" tvg-name="AF | SS Football HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Football.png" group-title="LIVE | World Sports",AF | SS Football HD
+http://b1g.ooo:80/suhel/suhel/5628
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportVariety1.za" tvg-name="AF | SS Variety 1 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Variety-1.png" group-title="LIVE | World Sports",AF | SS Variety 1 HD
+http://b1g.ooo:80/suhel/suhel/52061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportVariety2.za" tvg-name="AF | SS Variety 2 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Variety-2.png" group-title="LIVE | World Sports",AF | SS Variety 2 HD
+http://b1g.ooo:80/suhel/suhel/52065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportVariety3" tvg-name="AF | SS Variety 3 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Variety-3.png" group-title="LIVE | World Sports",AF | SS Variety 3 HD
+http://b1g.ooo:80/suhel/suhel/52057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportVariety4.za" tvg-name="AF | SS Variety 4 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Variety-4.png" group-title="LIVE | World Sports",AF | SS Variety 4 HD
+http://b1g.ooo:80/suhel/suhel/52058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportMotorsport.za" tvg-name="AF | SS Motorsports HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/E30.png" group-title="LIVE | World Sports",AF | SS Motorsports HD
+http://b1g.ooo:80/suhel/suhel/52067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportRugby.za" tvg-name="AF | SS Rugby HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Rugby.png" group-title="LIVE | World Sports",AF | SS Rugby HD
+http://b1g.ooo:80/suhel/suhel/52056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportGolf.za" tvg-name="AF | SS Golf HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Golf.png" group-title="LIVE | World Sports",AF | SS Golf HD
+http://b1g.ooo:80/suhel/suhel/52060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportAction.za" tvg-name="AF | SS Action HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Action.png" group-title="LIVE | World Sports",AF | SS Action HD
+http://b1g.ooo:80/suhel/suhel/52063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportCricket.za" tvg-name="AF | SS Cricket HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Cricket.png" group-title="LIVE | World Sports",AF | SS Cricket HD
+http://b1g.ooo:80/suhel/suhel/52064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportMaximo1.za" tvg-name="AF | SS Maximo 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Maximo-1.png" group-title="LIVE | World Sports",AF | SS Maximo 1
+http://b1g.ooo:80/suhel/suhel/52069
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportBlitz.za" tvg-name="AF | SS Blitz" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Blitz.png" group-title="LIVE | World Sports",AF | SS Blitz
+http://b1g.ooo:80/suhel/suhel/52068
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWESuperslam.za" tvg-name="AF | SS WWE HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SSWWE.png" group-title="LIVE | World Sports",AF | SS WWE HD
+http://b1g.ooo:80/suhel/suhel/52070
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPN2Africa.za" tvg-name="AF | SS ESPN 2 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-ESPN-2.png" group-title="LIVE | World Sports",AF | SS ESPN 2 HD
+http://b1g.ooo:80/suhel/suhel/39036
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ESPN1Africa.za" tvg-name="AF | SS ESPN HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-ESPN.png" group-title="LIVE | World Sports",AF | SS ESPN HD
+http://b1g.ooo:80/suhel/suhel/39038
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SupersportPlayAfrica.ke" tvg-name="AF | SS Play HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/SS-Play.png" group-title="LIVE | World Sports",AF | SS Play HD
+http://b1g.ooo:80/suhel/suhel/39040
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports1En.qa" tvg-name="UK | beIN Sports 1 English" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/beIN-English-1.png" group-title="LIVE | World Sports",UK | beIN Sports 1 English
+http://b1g.ooo:80/suhel/suhel/1461
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2En.qa" tvg-name="UK | beIN Sports 2 English" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/beIN-English-2.png" group-title="LIVE | World Sports",UK | beIN Sports 2 English
+http://b1g.ooo:80/suhel/suhel/39037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports3En.qa" tvg-name="UK | beIN Spors 3 English" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/beIN-English-3.png" group-title="LIVE | World Sports",UK | beIN Spors 3 English
+http://b1g.ooo:80/suhel/suhel/405043
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MYS | Astro Cricket FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroCricket.png" group-title="LIVE | World Sports",MYS | Astro Cricket FHD
+http://b1g.ooo:80/suhel/suhel/57513
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport.my" tvg-name="MYS | Astro SuperSport 1 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports.png" group-title="LIVE | World Sports",MYS | Astro SuperSport 1 FHD
+http://b1g.ooo:80/suhel/suhel/57500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport2.my" tvg-name="MYS | Astro SuperSport 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports2.png" group-title="LIVE | World Sports",MYS | Astro SuperSport 2 FHD
+http://b1g.ooo:80/suhel/suhel/57501
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport3.my" tvg-name="MYS | Astro SuperSport 3 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Asto-SuperSports3.png" group-title="LIVE | World Sports",MYS | Astro SuperSport 3 FHD
+http://b1g.ooo:80/suhel/suhel/57502
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport4.my" tvg-name="MYS | Astro SuperSport 4 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-SuperSports4.png" group-title="LIVE | World Sports",MYS | Astro SuperSport 4 FHD
+http://b1g.ooo:80/suhel/suhel/57503
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astrosupersport5.my" tvg-name="MYS | W-Sport FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/W-Sports.png" group-title="LIVE | World Sports",MYS | W-Sport FHD
+http://b1g.ooo:80/suhel/suhel/57510
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWEHD" tvg-name="MYS | Astro WWE FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Astro-WWE.png" group-title="LIVE | World Sports",MYS | Astro WWE FHD
+http://b1g.ooo:80/suhel/suhel/57507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GOLFHDB" tvg-name="MYS | Astro Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="LIVE | World Sports",MYS | Astro Golf FHD
+http://b1g.ooo:80/suhel/suhel/57509
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FS1HD" tvg-name="MYS | Astro Fox Sports 1 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/FoxSports.png" group-title="LIVE | World Sports",MYS | Astro Fox Sports 1 FHD
+http://b1g.ooo:80/suhel/suhel/57512
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="FOX2HDE" tvg-name="MYS | Astro Fox Sports 2 FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/FoxSports.png" group-title="LIVE | World Sports",MYS | Astro Fox Sports 2 FHD
+http://b1g.ooo:80/suhel/suhel/57511
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="BEIN1HD" tvg-name="MYS | Astro beIN Sports FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/BeinSports.png" group-title="LIVE | World Sports",MYS | Astro beIN Sports FHD
+http://b1g.ooo:80/suhel/suhel/57514
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astroarena2.my" tvg-name="MYS | Astro Arena 2 HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroArena.png" group-title="LIVE | World Sports",MYS | Astro Arena 2 HD
+http://b1g.ooo:80/suhel/suhel/57508
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="astroarena.my" tvg-name="MYS | Astro Arena FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroArena.png" group-title="LIVE | World Sports",MYS | Astro Arena FHD
+http://b1g.ooo:80/suhel/suhel/57515
+
