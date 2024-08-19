@@ -4016,6 +4016,7 @@ https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehd
 
 ============Live Event=======
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/C76P2cg/live-event.png"
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="LIVE EVENT",SCTV HD
 https://play-gachor.online/htv@lite/kjTECpmDmq/6|User-Agent=OTT Navigator/hometv.finale (Linux;Android 13) ExoPlayerLib/2.13.2
 
