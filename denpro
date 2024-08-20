@@ -4648,6 +4648,10 @@ https://cdn09jtedge.indihometv.com/joss/130/rtv/index.m3u8
 #EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/fCQkvry/Trans-7.png" group-title="🇮🇩 INDIHOME & TRANSVISION",TRANS 7 HD (INDI)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_ver2.png" group-title="🇮🇩 INDIHOME & TRANSVISION",Transtv (INDI)
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+
 
 ================TV BIOSKOP=================
 
