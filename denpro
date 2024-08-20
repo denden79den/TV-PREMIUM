@@ -4676,6 +4676,15 @@ https://raw.githubusercontent.com/Cutsiffa/on/main/Et3.m3u8
 #EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🇮🇩 TV BIOSKOP", ETV4
 https://raw.githubusercontent.com/Cutsiffa/on/main/Et4.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🇮🇩 TV BIOSKOP", ETV 1
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/298526
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🇮🇩 TV BIOSKOP", ETV 2
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/298527
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🇮🇩 TV BIOSKOP", ETV 3
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/298528
+#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/f9/b7/b3/f9b7b354bb25f663857676f6c2ca6cd7.jpg" group-title="🇮🇩 TV BIOSKOP", ETV 4
+http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/298529
+
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="🇮🇩 TV BIOSKOP",BIOSKOP ACTION
 https://play-gachor.online/htv@lite/kjTECpmDmq/68
