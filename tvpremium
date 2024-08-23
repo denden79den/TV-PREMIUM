@@ -257,7 +257,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/NYFxK46/garuda-removebg-preview.png" group-title="TV NASIONAL", GARUDA TV ᴴᴰ
+#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/garudatv.png" group-title="TV NASIONAL", GARUDA TV ᴴᴰ
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
