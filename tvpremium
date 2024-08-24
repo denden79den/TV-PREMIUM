@@ -458,14 +458,13 @@ https://tglmp02.akamaized.net/out/v1/0fdcb3b643af40ceb3a5b7efa39f7b72/manifest.m
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://iptvtree.net:8080/adastream2023/Bye5XZwQ8d5Cbs5/32023
 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"5KI1mwVWM5nx2a385kFySg", "kid":"aWRrdV8xMDAwMDAwMDAwMA" } ], "type":"temporary" }
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="Movies",Flik (INDI)
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
 
-#EXTINF:-1 tvg-id="1322" tvg-name="&Flix HD" tvg-type="Movies" group-title="Film" tvg-language="English" tvg-logo="http://jiotv.catchup.cdn.jio.com/dare_images/images/And_Flix_HD.png",&Flix HD
-https://reductions-pleased-affiliated-alberta.trycloudflare.com/app/live.php?id=1322&e=.m3u
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueantextreme_ver1.png" group-title="Film",Rock Action (FMX)
-https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
 =========================ANAK==================================
 
