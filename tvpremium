@@ -1283,3 +1283,43 @@ https://play-gachor.online/htv@lite/kjTECpmDmq/71
 https://play-gachor.online/htv@lite/kjTECpmDmq/72
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/bioskop247.png" group-title="🇮🇩 TV BIOSKOP",BIOSKOP WARKOP DKI
 https://play-gachor.online/htv@lite/kjTECpmDmq/73
+
+
+========================SONY TEN======================
+
+
+#EXTINF:-1 group-logo="https://i.postimg.cc/K8sGKpYD/SONYTEN.png"
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/ed/Sony_Sports_Ten_1.png" group-title="SONY TEN",1 SONY TEN 1
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-1-hd&.m3u8
+
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/30/Sony_Sports_Ten_2.png" group-title="SONY TEN",2 SONY TEN 2
+#EXTVLCOPT:http-referrer=https://mhdtvweb.com/sonyliv/Play.php
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Mobile Safari/537.36
+https://mhdtvweb.com/sliv/stream.php?id=sony-ten-2-hd&.m3u8
+
+
+#EXTINF:-1 tvg-id="sonyten3hd.in" tvg-name="CRI: SONY TEN 3 HD" tvg-logo="https://i.ibb.co/t4yVGKQ/Sony-Sports-Ten-3.png" group-title="SONY TEN", 3 SONY TEN 3 HD
+http://starshare.live:8080/live/9991461/9991461/146.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CRI: SONY TEN 4 (4K)" tvg-logo="https://i.postimg.cc/JnmZRyw9/SONYTEN-4.png" group-title="SONY TEN",4 SONY TEN 4 (4K)
+http://starshare.live:8080/live/9991461/9991461/29469.ts
+
+#EXTINF:-1 tvg-id="sonysixhd.in" tvg-name="CRI: SONY 5 HD" tvg-logo="https://i.ibb.co/3NGPRb1/Sony-Sports-Ten-5.png" group-title="SONY TEN",5 SONY 5 HD
+http://starshare.live:8080/live/9991461/9991461/176.ts
+
+#EXTINF:-1 xui-id="7982" tvg-id="" tvg-name="SONY TEN 1 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Sony_Ten_1_HD.jpg/revision/latest?cb=20190322143710" group-title="SONY TEN",SONY TEN 1 HD
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aaxJjDKxWTZF0Rw3RTAgkOY
+
+#EXTINF:-1 xui-id="7983" tvg-id="" tvg-name="SONY TEN 2 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/35/Sony_Ten_2_HD.jpg/revision/latest?cb=20190322144000" group-title="SONY TEN",SONY TEN 2 HD
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aaiC4-fbhrqSYmzT8w6W8xY
+
+#EXTINF:-1 xui-id="7984" tvg-id="" tvg-name="SONY TEN 3 HD" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/80/ST3HD.png/revision/latest?cb=20171031110426" group-title="SONY TEN",SONY TEN 3 HD
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aaomqcn8EqQRvYeP8wjvmZw
+
+#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SONY TEN",Star Sports Select 1
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aSJiApRDDEIcop_rydEAt3A
+
+#EXTINF:-1 xui-id="8107" tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="SONY TEN",Star Sports Select 2
+http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aYZPm7GHPwg2svnjaVc_3w0
