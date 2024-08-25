@@ -565,6 +565,9 @@ https://shls-spacetoon-prod-dub.shahid.net/out/v1/6240b773a3f34cca95d119f9e76aec
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c45ed0d384271e0c0a27077853a1b703.png" group-title="Anak", Astro Ceria
+https://sxj.livednow.us.kg/ziyong?id=astro-ceria
+
 =========================MUSIK===========================
 
 #EXTINF:-1 group-title="MUSIK" tvg-id="musictv.id" tvg-logo="https://iptv.urfan.web.id/logo/musictv.png",Music TV
@@ -1639,3 +1642,78 @@ http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37397.m3u8
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/11/Optussport_app.png" group-title="LIVE EVENT", OPTUS 6 Australia
 http://mytv-extra.com:80/live/t12mgxyb335/9832948789/37396.m3u8
+
+
+=======================SPORT MALAYSIA======================
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/0e894ce2b5280c5fac99050bcebf15b7.png" group-title="SPORTS MALAYSIA", Astro SuperSport
+https://sxj.livednow.us.kg/ziyong?id=super-sports1
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/e83796ad8a9a9a797915bcbf1cd74f06.png" group-title="SPORTS MALAYSIA", Astro SuperSport 2
+https://sxj.livednow.us.kg/ziyong?id=super-sports2
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/2fb77aab0adc589b1e90d2463361b56e.png" group-title="SPORTS MALAYSIA", Astro SuperSport 3
+https://sxj.livednow.us.kg/ziyong?id=super-sports3
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-08-02/f68cbc6b28f78b7de7440572364bfd39.png" group-title="SPORTS MALAYSIA", Astro SuperSport 4
+https://sxj.livednow.us.kg/ziyong?id=super-sports4
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/5ce7611bd2b2872bae85e8bd0e90bcd9.webp" group-title="SPORTS MALAYSIA", Arena Bola
+https://sxj.livednow.us.kg/ziyong?id=arena-bola
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2023-12-30/6931a8a139dd31c9c09e2a161190fcf8.webp" group-title="SPORTS MALAYSIA", Arena Bola2
+https://sxj.livednow.us.kg/ziyong?id=arena-bola2
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-24/006fac1b575fdde207fa199381457a26.webp" group-title="SPORTS MALAYSIA", Astro Arena HD
+https://sxj.livednow.us.kg/ziyong?id=astro-arena-hd
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/c851fe8e2c3ed5e6c88f3bda85e39ba0.png" group-title="SPORTS MALAYSIA", Astro Arena 2
+https://sxj.livednow.us.kg/ziyong?id=astro-arena2
+
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/150679a6b0fc333c6b8d9b708bd79895.webp" group-title="SPORTS MALAYSIA", beIN Sports 1
+https://sxj.livednow.us.kg/ziyong?id=beinsports
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/dd2a0f86994f6ca69f45d79ed7089837.webp" group-title="SPORTS MALAYSIA", beIN Sports 2
+https://sxj.livednow.us.kg/ziyong?id=beinsports2
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-10/daf43524178848fc97c6557bfb4c0d56.webp" group-title="SPORTS MALAYSIA", beIN Sports 3
+https://sxj.livednow.us.kg/ziyong?id=beinsports3
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/6584ad7a64f2e5b57917c88205a0637e.png" group-title="SPORTS MALAYSIA", SPOTV 1
+https://sxj.livednow.us.kg/ziyong?id=spotv
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/img/2023-04-12/58bf83d42a7fd8b5a548ecbfb14437d6.png" group-title="SPORTS MALAYSIA", SPOTV 2
+https://sxj.livednow.us.kg/ziyong?id=spotv2
+
+
+===================NOW SPORTS===================
+
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/9bf6d223da1a7998ce25de20895ed5e4.webp" group-title="NOW SPORTS", Now Sports 1
+https://sxj.livednow.us.kg/ziyong?id=now-sports-1
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/0a5633dac5427187616800837abacbd7.webp" group-title="NOW SPORTS", Now Sports 2
+https://sxj.livednow.us.kg/ziyong?id=now-sports-2
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/751684021e949c5d533ff41fbdf7ef6a.webp" group-title="NOW SPORTS", Now Sports 3
+https://sxj.livednow.us.kg/ziyong?id=now-sports-3
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/5e7c956a12d18f356a83065795ffc595.webp" group-title="NOW SPORTS", Now Sports 4
+https://sxj.livednow.us.kg/ziyong?id=now-sports-4
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/655c00bded182b481fdf71404e14fbaf.webp" group-title="NOW SPORTS", Now Sports 5
+https://sxj.livednow.us.kg/ziyong?id=now-sports-5
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/cac342b292c56bc3cb1ad3808420b76a.webp" group-title="NOW SPORTS", Now Sports 6
+https://sxj.livednow.us.kg/ziyong?id=now-sports-6
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/e942d49d3a616e0810653a692dccfaed.webp" group-title="NOW SPORTS", Now Sports 7
+https://sxj.livednow.us.kg/ziyong?id=now-sports-7
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/57afd22243993f94088d67cf9f3dbe30.webp" group-title="NOW SPORTS", Now Sports Plus
+https://sxj.livednow.us.kg/ziyong?id=now-sports-plus
+
+#EXTINF:-1 tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-01-17/225d2856e1454b49bb0a8304b9b3d9c1.webp" group-title="NOW SPORTS", Now Sports 英超1
+https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
+
