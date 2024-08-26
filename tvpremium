@@ -1723,62 +1723,62 @@ https://sxj.livednow.us.kg/ziyong?id=now-sports-premier-league1
 
 
 //========================================================================
-//Copyright by @mimipipi22 menampilkan playlist >>> ENTERTAINMENT
+//Copyright by denden >>> HIBURAN
 //========================================================================
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" group-title="Entertainment",ABC TV 🇦🇺
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fx4ZTzW/abctv.png" group-title="HIBURAN",ABC TV 🇦🇺
 https://c.mjh.nz/abc-nsw.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ecc5bc0e2dec4b9495db147278fb3904:ca86d9fdad6a8e9b1c13368d734e2095
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="Entertainment",Animax (FMX)
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DgC0xN3/animax.png" group-title="HIBURAN",Animax (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_animax_small.png" group-title="Entertainment",Animax (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_animax_small.png" group-title="HIBURAN",Animax (V+)
 https://melon-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png?v=2.0.0.13" group-title="Entertainment",Aniplus (DNS)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png?v=2.0.0.13" group-title="HIBURAN",Aniplus (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h201/index.m3u8?app_type=web&userid=lite&chname=ANIPLUS_HD
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b7b00124894d4f1f8b91fba79160b896:bb236ab2b198c2ffd722817bfa74cd08
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="Entertainment",AXN (FMX)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="HIBURAN",AXN (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/AXNHD/mpd/AXNHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="Entertainment",AXN (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_axn_ver2.png" group-title="HIBURAN",AXN (V+)
 https://melon-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="Entertainment",Celebrities TV (V+)
+#EXTINF:-1 tvg-logo="https://e7.pngegg.com/pngimages/789/35/png-clipart-logo-celebrity-graphic-design-brand-font-cat-victorious-purple-television.png" group-title="HIBURAN",Celebrities TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13" group-title="Entertainment",Chinese Drama (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_chinesedrama_small.png?v=2.0.0.13" group-title="HIBURAN",Chinese Drama (INDI)
 https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"wvfo+UaN71Jm4BpMZGt2pg", "kid":"6r+7fdXvRhaZyHmwWUHhjQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="Entertainment",Citra Drama (FMX)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="HIBURAN",Citra Drama (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="Entertainment",Citra Drama (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="HIBURAN",Citra Drama (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="Entertainment",Citra Entertainment (FMX)
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="HIBURAN",Citra Entertainment (FMX)
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1786,7 +1786,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857f48ecd2017f5e94be3213e1/a744a889dcd6437eafdc4fe2d3c741ea.png" group-title="Entertainment",Dizi (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6857f48ecd2017f5e94be3213e1/a744a889dcd6437eafdc4fe2d3c741ea.png" group-title="HIBURAN",Dizi (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1794,36 +1794,36 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d45623
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="Entertainment",Dunia Lain (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c68574537fcd0174be2db0a25728/1d04ef38955743af9ac051beba87b578.png" group-title="HIBURAN",Dunia Lain (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856ea34e35016ef8e9fdf951c1/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"10IhiVjhDKmJvmpj8tubbQ", "kid":"ZHVuaWFsYWluMDAwMDAwMA" } ], "type":"temporary" }
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13" group-title="Entertainment",Dunia Lain (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13" group-title="HIBURAN",Dunia Lain (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="Entertainment",Entertainment (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="HIBURAN",Entertainment (V+)
 https://melon-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTINF:-1 tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="Entertainment",ET Live (SamsungTV)
+#EXTINF:-1 tvg-logo="https://www.etonline.com/img/favicons/apple-icon-180x180.png" group-title="HIBURAN",ET Live (SamsungTV)
 https://jmp2.uk/SamsungTVPlus/USBA3700002JF.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="Entertainment",FMN Telenovela (V+)
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/bc/FMN_%28Forget_Me_Not%29_Channel.png" group-title="HIBURAN",FMN Telenovela (V+)
 https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=53b7da012ab34bd4a37e1190174015e2:498fb9e0165554a2de01fded75be092e
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment",Gem (FMX)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="HIBURAN",Gem (FMX)
 #https://atemecdnbalancer-voe.sysln.id/live/eds/GEMHD/mpd/GEMHD.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="Entertainment",Gem (Indi)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sgem_small.png?v=2.0.0.13" group-title="HIBURAN",Gem (Indi)
 #https://cdn08jtedge.indihometv.com/dassdvr/133/sgem/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1831,7 +1831,7 @@ https://melon-live-cdn.mncnow.id/live/eds/FMN/sa_dash_vmx/FMN.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846163f6883d8f/10ae9df09dad4f7eb8c1639600faed27.png" group-title="Entertainment",Gem TV (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846163f6883d8f/10ae9df09dad4f7eb8c1639600faed27.png" group-title="HIBURAN",Gem TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce9454360/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1839,16 +1839,16 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fce
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg" group-title="Entertainment",Gossip (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c6858262bb8001827b6c3a722be5/c57094c5b4b24827ae82a64e01841bc8.jpg" group-title="HIBURAN",Gossip (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68582449a2e01825972ddc221f2/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="Entertainment",Hits (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hits_ver1.png" group-title="HIBURAN",Hits (V+)
 https://melon-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" group-title="Entertainment",Hits Now (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png" group-title="HIBURAN",Hits Now (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1856,7 +1856,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/hitsnow/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13" group-title="Entertainment",Insert (CBM)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_insert_small1.png?v=2.0.0.13" group-title="HIBURAN",Insert (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294b4f8e/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1864,36 +1864,36 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016cdc51294
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="Entertainment",Joke TV (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846165390f3e5c/0bbba8c1f15c49af9344999c3b8ac020.jpg" group-title="HIBURAN",Joke TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455fe09894361/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="Entertainment",Kplus (L)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_kplus_ver2.png" group-title="HIBURAN",Kplus (L)
 https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/entertainment/kplus.m3u8
 https://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/996/49996-SNAPSHOT-m.png" group-title="Entertainment",OK TV (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/996/49996-SNAPSHOT-m.png" group-title="HIBURAN",OK TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="Entertainment",Okzone TV (V+)
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_95.png" group-title="HIBURAN",Okzone TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a7e68d7c2667465f976361eb0d6bd0c1:32a856d04efbf93cee7b2c97643d7998
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Entertainment",One (FMX)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="HIBURAN",One (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="Entertainment",One (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_sone_small.png?v=2.0.0.13" group-title="HIBURAN",One (V+)
 https://melon-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1901,21 +1901,21 @@ https://melon-live-cdn.mncnow.id/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166123a3e5d/5b5da997a5f948b8be7225f4074e6a51.jpg" group-title="Entertainment",One TV (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff04901846166123a3e5d/5b5da997a5f948b8be7225f4074e6a51.jpg" group-title="HIBURAN",One TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff049018455ff15294362/manifest.mpd
 
-#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JIdOcQa6tk7rmBki2ZgfLtfw0QWGBE9YqK5mFf-rLG7i.png" group-title="Entertainment",Paramount Network
+#EXTINF:-1 tvg-name="Paramount Network" tvg-logo="http://startv.solutions:80/images/QCqX5p5x3Y181Q8jwb82JIdOcQa6tk7rmBki2ZgfLtfw0QWGBE9YqK5mFf-rLG7i.png" group-title="HIBURAN",Paramount Network
 https://webhdrunns.mizhls.ru/lb/premium334/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5468e719846d4dd4adc59e85312375e8:98566155c257462809a8705f5efd7819
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="Entertainment",Rock Entertainment (FMX)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="HIBURAN",Rock Entertainment (FMX)
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockEntertainmentHD/mpd/RockEntertainmentHD.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="Entertainment",Rock Entertainment (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_blueant_small.png?v=2.5" group-title="HIBURAN",Rock Entertainment (V+)
 https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1923,7 +1923,7 @@ https://melon-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rockente
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="Entertainment",Series Zone (CBM)
+#EXTINF:-1 tvg-logo="https://cdnjkt4.transvision.co.id:1000/image/web/channel/4028c685840ff0490184616a87db3e62/8eea39bac1c64a668bfc87419b92ce98.jpg" group-title="HIBURAN",Series Zone (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606fc274367/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1931,36 +1931,36 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff04901845606f
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="Entertainment",Seru Channel (CBM)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="HIBURAN",Seru Channel (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729c921bc43c00/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="Entertainment",Seru Channel (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_seru_small.png" group-title="HIBURAN",Seru Channel (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/134/seru/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" group-title="Entertainment",DensShowBiz (DNS)
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" group-title="HIBURAN",DensShowBiz (DNS)
 https://op-group1-swiftservehd-1.dens.tv/h/h244/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZGL0S1S/skyopenplus1.png" group-title="Entertainment",Sky OPEN+1 🇳🇿
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/ZGL0S1S/skyopenplus1.png" group-title="HIBURAN",Sky OPEN+1 🇳🇿
 https://linear-p.media.skyone.co.nz/primeplus1.clear.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="Entertainment",TVN (V+)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="HIBURAN",TVN (V+)
 https://melon-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="Entertainment",TVN (INDI)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_tvn_ver1.png" group-title="HIBURAN",TVN (INDI)
 https://cdn08jtedge.indihometv.com/dassdvr/133/tvn/manifest.mpd
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-m.png" group-title="Entertainment",Vision Prime (V+)
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-m.png" group-title="HIBURAN",Vision Prime (V+)
 https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -1968,15 +1968,15 @@ https://melon-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mp
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="Entertainment",Warner TV (CBM)
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_warner_ver1.png" group-title="HIBURAN",Warner TV (CBM)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="Entertainment",Warner TV (INDI)
+#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/warner.png" group-title="HIBURAN",Warner TV (INDI)
 https://streaming.indihometv.com/atm/DASH/warner/manifest.mpd|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="Entertainment",Xing Kong TV (V+)
+#EXTINF:-1 tvg-logo="https://myrepublic.co.id/wp-content/uploads/2019/05/Xing-Kong.jpg" group-title="HIBURAN",Xing Kong TV (V+)
 https://melon-live-cdn.mncnow.id/live/eds/XingKongTV/sa_dash_vmx/XingKongTV.mpd
