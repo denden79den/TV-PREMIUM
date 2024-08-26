@@ -997,6 +997,15 @@ http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/191871.m3u8
 #EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 FHD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="🇲🇾 | ASTRO SPORTS",MY| ASTRO SUPERSPORT 4 HEVC
 http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/191872.m3u8
 
+
+#EXTINF:-1 tvg-id="beinsports.my" tvg-name="MY| BEIN SPORTS HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="🇲🇾 | ASTRO SPORTS",MY| BEIN SPORTS 1 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/191881.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 2 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="🇲🇾 | ASTRO SPORTS",MY| BEIN SPORTS 2 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/29639.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| BEIN SPORTS 3 HD" tvg-logo="https://lo1.in/MALAY/bs.png" group-title="🇲🇾 | ASTRO SPORTS",MY| BEIN SPORTS 3 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/29637.m3u8
+
+
 ========================DAZN & SPORTV==================
  
 #EXTINF:-1 group-title="DAZN & SPORTV" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/dazn_eleven.png",DAZN ELEVEN 1
