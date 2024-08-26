@@ -2409,3 +2409,23 @@ http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9622.m3u8
 http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117499.m3u8
 #EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 6 HD" tvg-logo="https://lo1.in/pol/plpz35.png" group-title="POLSAT SPORT PREMIUM", PS SUPER PPV 6 HD
 http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9621.m3u8
+
+
+===========================SPORTIVO TV=======================
+
+#EXTINF:-1 tvg-id="sporttvplus.pt" tvg-name="PT| SPORT TV+ HEVC" tvg-logo="https://lo1.in/por/sppls.png" group-title="SPORTIVO TV", SPORT TV+ HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/165779.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PT| SPORT TV 1 4K" tvg-logo="https://lo1.in/por/sptv1.png" group-title="SPORTIVO TV", SPORT TV 1 4K
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/21231.m3u8
+#EXTINF:-1 tvg-id="sporttv1.pt" tvg-name="PT| SPORT TV 1 HEVC" tvg-logo="https://lo1.in/por/sptv1.png" group-title="SPORTIVO TV", SPORT TV 1 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/161493.m3u8
+#EXTINF:-1 tvg-id="sporttv2.pt" tvg-name="PT| SPORT TV 2 HEVC" tvg-logo="https://lo1.in/por/spttvv2.png" group-title="SPORTIVO TV", SPORT TV 2 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/161494.m3u8
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="PT| SPORT TV 3 HEVC" tvg-logo="https://lo1.in/por/spotv3.png" group-title="SPORTIVO TV", SPORT TV 3 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/161495.m3u8
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="PT| SPORT TV 4 HEVC" tvg-logo="https://lo1.in/por/sptvv4.png" group-title="SPORTIVO TV", SPORT TV 4 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/161496.m3u8
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="PT| SPORT TV 5 HEVC" tvg-logo="https://lo1.in/por/spotv5.png" group-title="SPORTIVO TV", SPORT TV 5 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/161497.m3u8
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="PT| SPORT TV 6 HEVC" tvg-logo="https://lo1.in/por/spotv6.png" group-title="SPORTIVO TV", SPORT TV 6 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/400229657.m3u8
