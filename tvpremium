@@ -2347,3 +2347,65 @@ http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/190009.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ZA| SUPERSPORT VARIETY 4 FHD" tvg-logo="https://lo1.in/uk/supsp.png" group-title="EU | UK SPORT",ZA| SUPERSPORT VARIETY 4 FHD
 http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/190010.m3u8
 
+===========================CANAL+ SPORTS===============================
+
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL| CANAL+ SPORT 1 FHD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 1 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117348.m3u8
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL| CANAL+ SPORT 1 HD" tvg-logo="https://lo1.in/pol/cs.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 1 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9634.m3u8
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL| CANAL+ SPORT 2 FHD" tvg-logo="https://lo1.in/pol/cs2.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 2 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117351.m3u8
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL| CANAL+ SPORT 2 HD" tvg-logo="https://lo1.in/pol/ccs2.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 2 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117338.m3u8
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL| CANAL+ SPORT 3 FHD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 3 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117352.m3u8
+#EXTINF:-1 tvg-id="canalplussport3.pl" tvg-name="PL| CANAL+ SPORT 3 HD" tvg-logo="https://lo1.in/pol/cs3.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 3 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9633.m3u8
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL| CANAL+ SPORT 4 FHD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 4 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117353.m3u8
+#EXTINF:-1 tvg-id="canalplussport4.pl" tvg-name="PL| CANAL+ SPORT 4 HD" tvg-logo="https://lo1.in/pol/cs4.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 4 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9632.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ SPORT 5 FHD" tvg-logo="https://lo1.in/pol/CANAL+ SPORT 5.png" group-title="CANAL+ SPORTS", CANAL+ SPORT 5 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/157144.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 1 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 1 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349321.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 2 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 2 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349320.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 3 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 3 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349319.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 4 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 4 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349318.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 5 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 5 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349317.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 6 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 6 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349316.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| CANAL+ EXTRA 7 HD" tvg-logo="https://lo1.in/pol/CANAL+ 1.png" group-title="CANAL+ SPORTS", CANAL+ EXTRA 7 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/401349315.m3u8
+
+
+==========================POLSAT SPORT PREMIUM==============================
+
+#EXTINF:-1 tvg-id="polsatsportpremium1.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM SUPER 1 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117495.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 1 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM SUPER 1 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9626.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium2.pl" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 FHD" tvg-logo="https://lo1.in/pol/pmpr1.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM SUPER 2 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117496.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="PL| POLSAT SPORT PREMIUM SUPER 2 HD" tvg-logo="https://lo1.in/pol/pmpr1.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM SUPER 2 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9625.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 3 FHD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 3 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117497.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium3ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 3 HD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 3 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9624.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 4 FHD" tvg-logo="https://lo1.in/pol/plpr.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 4 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/360185.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium4ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 4 HD" tvg-logo="https://lo1.in/pol/plpr.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 4 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9623.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 5 FHD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 5 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117498.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium5ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 5 HD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 5 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9622.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 6 FHD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 6 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/117499.m3u8
+#EXTINF:-1 tvg-id="polsatsportpremium6ppv.pl" tvg-name="PL| POLSAT SPORT PREMIUM PPV 6 HD" tvg-logo="https://lo1.in/pol/plpz35.png" ggroup-title="POLSAT SPORT PREMIUM", POLSAT SPORT PREMIUM PPV 6 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/9621.m3u8
