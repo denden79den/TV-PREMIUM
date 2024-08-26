@@ -1067,7 +1067,8 @@ https://play-gachor.online/htv@lite/kjTECpmDmq/358
 https://play-gachor.online/htv@lite/kjTECpmDmq/353
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/eurosports.png" group-title="OLAHRAGA",EUROSPORTS 2 UK
 https://play-gachor.online/htv@lite/kjTECpmDmq/354
-
+#EXTINF:-1 group-title="OLAHRAGA" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cctv-5-plus-cn.png" tvg-id="6" ,CCTV5+体育赛事
+http://metatvpro.xyz:25461/K4011/5244/398
 
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/skysports_uk.png" group-title="OLAHRAGA",Sky Premier League
