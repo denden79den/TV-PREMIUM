@@ -1350,11 +1350,18 @@ http://metatvpro.xyz:25461/K4011/5244/178
 http://metatvpro.xyz:25461/K4011/5244/179
 'http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aaomqcn8EqQRvYeP8wjvmZw
 
-#EXTINF:-1 xui-id="8106" tvg-id="" tvg-name="Star Sports Select 1" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/37/Star-sports-select-1.png/revision/latest?cb=20230128174436" group-title="SONY TEN",Star Sports Select 1
-http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aSJiApRDDEIcop_rydEAt3A
-
-#EXTINF:-1 xui-id="8107" tvg-id="" tvg-name="Star Sports Select 2" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3b/Star-sports-select-2.png/revision/latest?cb=20230128175646" group-title="SONY TEN",Star Sports Select 2
-http://play.fastkobar.my.id:8080/play/Ut2q-cEtJ5KRqTVuOdZ3aYZPm7GHPwg2svnjaVc_3w0
+#EXTINF:-1 tvg-id="starsports1.in" tvg-name="IN| STAR SPORTS 1 FHD" tvg-logo="https://lo1.in/ind/starsp1.png" group-title="SONY TEN", STAR SPORTS 1 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/187268.m3u8
+#EXTINF:-1 tvg-id="starsports2hd.in" tvg-name="IN| STAR SPORTS 2 FHD" tvg-logo="https://lo1.in/ind/starsp2.png" group-title="SONY TEN", STAR SPORTS 2 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/378740.m3u8
+#EXTINF:-1 tvg-id="starsports3.in" tvg-name="IN| STAR SPORTS 3 HD" tvg-logo="https://lo1.in/ind/strsp3.png" group-title="SONY TEN", STAR SPORTS 3 HD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/400159568.m3u8
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-name="IN| STAR SPORTS SELECT 1 FHD" tvg-logo="https://lo1.in/ind/strsps1.png" group-title="SONY TEN", STAR SPORTS SELECT 1 FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/378739.m3u8
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-name="IN| STAR SPORTS SELECT 2  FHD" tvg-logo="https://lo1.in/ind/strsps2.png" group-title="SONY TEN", STAR SPORTS SELECT 2  FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/376465.m3u8
+#EXTINF:-1 tvg-id="starsports1hdhindi.in" tvg-name="IN| STAR SPORTS 1 HINDI FHD" tvg-logo="https://lo1.in/ind/strsp1hnd.png" group-title="SONY TEN", STAR SPORTS 1 HINDI FHD
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/400159571.m3u8
 
 
 ======================BEINS SPORTS TOD===============================
