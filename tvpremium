@@ -979,15 +979,22 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/master.m3u8
 
 ============================ASTRO SPORTS=========================
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp1.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 1
-https://play-gachor.online/htv@lite/kjTECpmDmq/332
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp2.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 2
-https://play-gachor.online/htv@lite/kjTECpmDmq/333
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp3.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 3
-https://play-gachor.online/htv@lite/kjTECpmDmq/334
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp4.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 4
-https://play-gachor.online/htv@lite/kjTECpmDmq/335
+'#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp1.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 1
+'https://play-gachor.online/htv@lite/kjTECpmDmq/332
+'#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp2.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 2
+'https://play-gachor.online/htv@lite/kjTECpmDmq/333
+'#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp3.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 3
+'https://play-gachor.online/htv@lite/kjTECpmDmq/334
+'EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp4.png" group-title="🇲🇾 | ASTRO SPORTS",ASSP 4
+'https://play-gachor.online/htv@lite/kjTECpmDmq/335
 
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 1 HEVC" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="🇲🇾 | ASTRO SPORTS",MY| ASTRO SUPERSPORT 1 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/6591.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SUPERSPORT 2 HEVC" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="🇲🇾 | ASTRO SPORTS",MY| ASTRO SUPERSPORT 2 HEVC
+#EXTINF:-1 tvg-id="astrosupersport3.my" tvg-name="MY| ASTRO SUPERSPORT 3 FHD" tvg-logo="https://lo1.in/MALAY/astroassp3.png" group-title="🇲🇾 | ASTRO SPORTS",MY| ASTRO SUPERSPORT 3 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/191871.m3u8
+#EXTINF:-1 tvg-id="astrosupersport4.my" tvg-name="MY| ASTRO SUPERSPORT 4 FHD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="🇲🇾 | ASTRO SPORTS",MY| ASTRO SUPERSPORT 4 HEVC
+http://ajzrhwd.mexamo.xyz:80/live/0162786570/1235805060/191872.m3u8
 
 ========================DAZN & SPORTV==================
  
