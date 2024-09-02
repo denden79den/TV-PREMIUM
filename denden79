@@ -2456,6 +2456,29 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/335
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/astro_arena.png" group-title="OLAHRAGA",ASTRO ARENA 1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/347
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/astro_arena.png" group-title="OLAHRAGA",ASTRO ARENA 2
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/348
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_my.png" group-title="OLAHRAGA",beIN SPORTS 1 MY
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/349
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_my.png" group-title="OLAHRAGA",beIN SPORTS 2 MY
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/350
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/bein_my.png" group-title="OLAHRAGA",beIN SPORTS 3 MY
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/351
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title="OLAHRAGA",SPO TV 1 MY
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/352
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="OLAHRAGA",SPO TV 2 MY
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/353
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/fight/unifi_sports.png" group-title="OLAHRAGA",UNIFI SPORTS
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/354
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/astro_sports/premiersports.png" group-title="OLAHRAGA",PREMIER SPORTS
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/355
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/astro_sports/wsport.png" group-title="OLAHRAGA",W-SPORTS
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/356
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/astro_sports/sukan.png" group-title="OLAHRAGA",SUKAN RTM
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/357
+#EXTINF:-1 tvg-logo="https://play.gachor99.my.id:443/images/LIQTBDP4bSCZ4H0Gg5Eoa06gykMTlHjpyE83GX1iHHwMp8C7IU8iv5HrBS6t0zda.png" group-title="OLAHRAGA",ASTRO CRICKET
+https://play.gachor99.my.id:443/win_htv@lite/n5zcaJ2Gwk/122
+
 
 #EXTINF:-1 group-title="OLAHRAGA" tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/dazn_eleven.png",DAZN ELEVEN 1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/365
@@ -2663,7 +2686,6 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/320
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
 https://dcj-ak-livedazn.akamaized.net/dash/dazn-linear-505/stream.mpd
-
 
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/nba.png" group-title="OLAHRAGA",NBA - 1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/312
