@@ -2734,7 +2734,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/cnn_indonesia.png" group-title="HOME TV",CNN INDONESIA
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/cnbc_indonesia.png" group-title="HOME TV",CNBC INDONESIA
-https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1841569157_b384000_sleng.m3u8
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_kamiselaluada_b384000_sleng.m3u8
+
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvri.png" group-title="HOME TV",TVRI Auto Reso
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/daaitv.png" group-title="HOME TV",DAAI TV Auto Reso
