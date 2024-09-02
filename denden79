@@ -2411,3 +2411,48 @@ http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRI3)/index.m3u8?checkedby:iptvc
 #EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5c/Logo_GarudaTV_Merah_Putih_Silver_Merah.png/1200px-Logo_GarudaTV_Merah_Putih_Silver_Merah.png" group-title="TV NASIONAL",Garuda TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
+
+
+======================OLAHRAGA====================
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/moji.png" group-title="OLAHRAGA",MOJI HD
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/305
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="OLAHRAGA",SPORTSTARS 1 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/sportstars.png" group-title="OLAHRAGA",SPORTSTARS 2 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/soccer_channel.png" group-title="OLAHRAGA",SOCCER CHANNEL Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv1.png" group-title="OLAHRAGA",SPO TV 1 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/spotv2.png" group-title="OLAHRAGA",SPO TV 2 Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tvri_sports.png" group-title="OLAHRAGA",TVRI SPORT HD
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/fight_sports.png" group-title="OLAHRAGA",FIGHT SPORTS Auto reso
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp1.png" group-title="OLAHRAGA",ASSP 1
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/332
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp2.png" group-title="OLAHRAGA",ASSP 2
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/333
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp3.png" group-title="OLAHRAGA",ASSP 3
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/334
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/assp4.png" group-title="OLAHRAGA",ASSP 4
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/335
+
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/astro_arena.png" group-title="OLAHRAGA",ASTRO ARENA 1
+https://play-gachor.xyz/htv@lite/Y6gMYnZdGp/347
