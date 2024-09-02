@@ -1192,15 +1192,15 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6857fe540a10180164aa1c
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png"
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="MOVIES",HBO HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="FIRSTMEDIA",HBO HD
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/39
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="MOVIES",HBO SIGN HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="FIRSTMEDIA",HBO SIGN HD
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/41
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_hits.png" group-title="MOVIES",HBO HITS HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_hits.png" group-title="FIRSTMEDIA",HBO HITS HD
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/40
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_family.png" group-title="MOVIES",HBO FAMILY HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_family.png" group-title="FIRSTMEDIA"",HBO FAMILY HD
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/42
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="MOVIES",CINEMAX HD
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="FIRSTMEDIA",CINEMAX HD
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/43
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
