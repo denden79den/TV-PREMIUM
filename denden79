@@ -2657,7 +2657,7 @@ https://play-gachor.xyz/htv@lite/kjTECpmDmq/309
 #EXTINF:-1 tvg-logo="https://hometv.biz.id/logo@xciptv_475638/sports/motorsports.png" group-title="OLAHRAGA",MOTOGP - 2
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/310
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/canal_plus_motogp.png" group-title="OLAHRAGA",MOTOGP - 3
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/311
+https://play-gachor.xyz/htv@lit0e/kjTECpmDmq/311
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN 2" tvg-logo="https://play-gachor.my.id/logo/htv2/sports/ais_bein.png" group-title="OLAHRAGA",TENNIS - 1
 https://play-gachor.xyz/htv@lite/kjTECpmDmq/314
@@ -2872,4 +2872,20 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 1
+https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 2
+https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 3
+https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 4
+https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
+ 
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 5
+https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
 
