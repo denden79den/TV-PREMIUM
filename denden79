@@ -1,4 +1,4 @@
-==========================INDIHOME=============================\
+==========================INDIHOME=============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="INDIHOME"  tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
@@ -3230,3 +3230,14 @@ https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560ac
 
 #EXTINF:-1 tvg-logo="https://cdn.nng.cloudns.us/img/zg4YPTD.png?v=1.0.0.1" group-title="🎵MUSIK🎵" tvg-id="Maleo Channel" tvg-name="Maleo Channel", Maleo Channel
 https://raw.githubusercontent.com/warningfm/utubeLive/main/nagaswarafmbgr.m3u8
+
+#EXTINF:-1 tvg-id="61394" tvg-logo="https://iili.io/JZIQuUJ.png" group-title="🎵MUSIK🎵",Myx USA
+https://myxnola-abscbn-ono.amagi.tv/index_2.m3u8
+ 
+#EXTINF:-1 tvg-id="TraceUrban.fr" tvg-logo="https://iili.io/JZIQYDN.png" group-title="🎵MUSIK🎵",Trace Urban
+https://lightning-traceurban-samsungau.amagi.tv/playlist1080p.m3u8
+ 
+#EXTINF:-1 tvg-id="99372" tvg-logo="https://iili.io/JmnytO7.png" group-title="🎵MUSIK🎵",Trace Latina
+https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsungch/playlist.m3u8
+
+
