@@ -2805,6 +2805,24 @@ https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblive
 https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
+==========================CANAL+ SPORT=======================
+
+EXTINF:-1 tvg-name="Canal+ Sport 1 Afrique" tvg-logo="https://lo1.in/pol/cs.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="OLAHRAGA",Canal+ Sport 1 Afrique
+https://webhdrunns.mizhls.ru/lb/premium486/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Canal+ Sport 2 Afrique" tvg-logo="https://lo1.in/pol/cs2.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="OLAHRAGA",Canal+ Sport 2 Afrique
+https://webhdrunns.mizhls.ru/lb/premium487/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Canal+ Sport 3 Afrique" tvg-logo="https://lo1.in/pol/cs3.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="OLAHRAGA",Canal+ Sport 3 Afrique
+https://webhdrunns.mizhls.ru/lb/premium488/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Canal+ Sport 4 Afrique" tvg-logo="https://lo1.in/pol/cs4.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="OLAHRAGA",Canal+ Sport 4 Afrique
+https://webhdrunns.mizhls.ru/lb/premium489/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="Canal+ Sport 5 Afrique" tvg-logo="https://lo1.in/pol/CANAL+ SPORT 5.png?rlkey=2mtykzok5wq8aj6538oazwlsc&dl=0" group-title="OLAHRAGA",Canal+ Sport 5 Afrique
+https://webhdrunns.mizhls.ru/lb/premium490/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL ID HD
 //========================================================================
