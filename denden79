@@ -2873,5 +2873,27 @@ https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (HLS) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6685&type=hls 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (HLS) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6686&type=hls 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (MPD) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm https://sritv.serv00.net/red/play.mpd?id=6685&type=dash 
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (MPD) 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6686&type=drm https://sritv.serv00.net/red/play.mpd?id=6686&type=dash 
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 3 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6786&type=drm https://sritv.serv00.net/red/play.mpd?id=6786&type=dash 
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 5 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm https://sritv.serv00.net/red/play.mpd?id=9182&type=dash 
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 6 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm https://sritv.serv00.net/red/play.mpd?id=9183&type=dash 
 
-#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (HLS) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6685&type=hls #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (HLS) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6686&type=hls #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (MPD) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm https://sritv.serv00.net/red/play.mpd?id=6685&type=dash #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (MPD) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6686&type=drm https://sritv.serv00.net/red/play.mpd?id=6686&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 3 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6786&type=drm https://sritv.serv00.net/red/play.mpd?id=6786&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 5 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm https://sritv.serv00.net/red/play.mpd?id=9182&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 6 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm https://sritv.serv00.net/red/play.mpd?id=9183&type=dash 
+
