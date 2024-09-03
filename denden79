@@ -2874,18 +2874,4 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 1
-https://dai.google.com/linear/hls/event/6WhVNGKTRXyu588zZv1Lkg/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 2
-https://dai.google.com/linear/hls/event/LK-ik89MQIi_pWBbg74KNQ/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 3
-https://dai.google.com/linear/hls/event/BCOFZq1JQjq12fmaO6lAAA/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 4
-https://dai.google.com/linear/hls/event/smYybI_JToWaHzwoxSE9qA/master.m3u8
- 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/5p2ljgpieleogc9/sonysports.png" group-title="OLAHRAGA", Sony Ten 5
-https://dai.google.com/linear/hls/event/r-eLp41YTHWTagvQSXFtAQ/master.m3u8
-
+#EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (HLS) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6685&type=hls #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (HLS) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6686&type=hls #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (MPD) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm https://sritv.serv00.net/red/play.mpd?id=6685&type=dash #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (MPD) #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6686&type=drm https://sritv.serv00.net/red/play.mpd?id=6686&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 3 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6786&type=drm https://sritv.serv00.net/red/play.mpd?id=6786&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 5 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm https://sritv.serv00.net/red/play.mpd?id=9182&type=dash #EXTINF:0 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 6 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm https://sritv.serv00.net/red/play.mpd?id=9183&type=dash 
