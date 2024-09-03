@@ -2887,11 +2887,14 @@ https://cempedak-live-cdn.mncnow.id/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
 
 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (HLS) 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6685&type=hls 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://sritv.serv00.net/red/play.m3u8?id=6685&type=hls 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (HLS) 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS https://sritv.serv00.net/red/play.m3u8?id=6686&type=hls 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
+https://sritv.serv00.net/red/play.m3u8?id=6686&type=hls 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 1 (MPD) 
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm https://sritv.serv00.net/red/play.mpd?id=6685&type=dash 
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS #KODIPROP:inputstreamaddon=inputstream.adaptive #KODIPROP:inputstream.adaptive.manifest_type=dash #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha #KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm 
+https://sritv.serv00.net/red/play.mpd?id=6685&type=dash 
 #EXTINF:-1 tvg-logo="https://tinyurl.com/logo-champion" group-title="Champion TV",Champ TV 2 (MPD) 
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
