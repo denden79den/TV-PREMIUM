@@ -2824,6 +2824,19 @@ https://webhdrunns.mizhls.ru/lb/premium490/index.m3u8|referer=https://lewblivehd
 
 
 //========================================================================
+//copy right by,@hometv menampilkan playlist >>> UK | TNT SPORTS
+//========================================================================
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tnt_sports2.png" group-title="OLAHRAGA",TNT 1
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/369
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tnt_sports2.png" group-title="OLAHRAGA",TNT 2
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/370
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tnt_sports2.png" group-title="OLAHRAGA",TNT 3
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/371
+#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/sports/tnt_sports2.png" group-title="OLAHRAGA",TNT 4
+https://play-gachor.xyz/htv@lite/kjTECpmDmq/372
+
+
+//========================================================================
 //copy right by,@hometv menampilkan playlist >>> LOKAL ID HD
 //========================================================================
 #EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/trans7.png" group-title="HOME TV",TRANS 7 HD
