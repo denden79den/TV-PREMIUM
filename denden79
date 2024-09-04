@@ -3088,6 +3088,26 @@ https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.ey
 https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
 
 
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI1NTk3OTU5fQ
+#EXTINF:-1 tvg-id="Indosiar.IPTV" tvg-name="Indosiar.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/indosiar.png",INDOSIAR (VIDIO)
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiSW5kb3NpYXJIRCIsInNpZ25hdHVyZUtleSI6ImQ0YmViZmZkYmQ0ZjQ2OTI3ZTBhODkzZDA5NDE2MTE0IiwicHJvdmlkZXIiOiJmbSIsInR5cGUiOiJkYXNoIiwiZXhwIjoxNzI1NTk3OTU5fQ
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiTU9KSU9DaGFubmVsIiwic2lnbmF0dXJlS2V5IjoiMjM1OGFhOWMwMjNkNmU2MmY5ZTczNmRhMzExZDgxMTAiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+#EXTINF:-1 tvg-id="Moji.IPTV" tvg-name="Moji.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/moji.png",MOJI (VIDIO)
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiTU9KSU9DaGFubmVsIiwic2lnbmF0dXJlS2V5IjoiMjM1OGFhOWMwMjNkNmU2MmY5ZTczNmRhMzExZDgxMTAiLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://license.iptvsystem.my.id/?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+#EXTINF:-1 tvg-id="SCTV.IPTV" tvg-name="SCTV.IPTV" group-title="TV NASIONAL" tvg-logo="https://iptvsystem.my.id/img/sctv.png",SCTV (VIDIO) 
+https://iptvsystem.my.id/index.mpd?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpcEFkZHJlc3MiOiIxMDMuMTMzLjY5LjEzNCIsImRldmljZVR5cGUiOiJVbmtub3duIiwiY2hhbm5lbElkIjoiU0NUVkhEIiwic2lnbmF0dXJlS2V5IjoiNzIzYmI1Y2FjODI0YzRmMmU1MGQwNzBhYzk1OWM3ZDciLCJwcm92aWRlciI6ImZtIiwidHlwZSI6ImRhc2giLCJleHAiOjE3MjU1OTc5NTl9
+
+
+
 ==================HBO MAXSTREAM==========================
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
