@@ -2143,24 +2143,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/HoreeHD/mpd/HoreeHD.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS_K3coLiqMjTutCqE9aq33qQy7LXEj8GRBhA&usqp=CAU" group-title="KIDS",Cartoon TV Premium
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856b8d2390016b9c47b6f01de1/manifest.mpd
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/M2YjSP9/carton-classic.png" group-title="KIDS",Cartoon TV Classics
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/100/4028c685840ff0490184560100c34363/manifest.mpd
-
 #EXTINF:-1 group-title="KIDS"  tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png",FUN PLANET
 https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 
@@ -2402,3 +2384,48 @@ http://gatotkaca007.serv00.net/red/play.mpd?id=6299&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://gatotkaca007.serv00.net/red/play.php?id=6317&type=drm
 http://gatotkaca007.serv00.net/red/play.mpd?id=6317&type=dash
+
+
+
+======================LOKAL ID (HOME TV)====================================
+
+#EXTINF:-1 xui-id="3" tvg-id="" tvg-name="TRANS 7" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="LOKAL ID",TRANS 7
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0-b_XsA4e4JiXPr4-OzZbsQ
+#EXTINF:-1 xui-id="4" tvg-id="" tvg-name="TRANS TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="LOKAL ID",TRANS TV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06TVa8zJnaqTSAzp7t3f1_U
+#EXTINF:-1 xui-id="5" tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="LOKAL ID",INDOSIAR
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX011xBaQqPJu9Y2kZbYb2TBI
+#EXTINF:-1 xui-id="6" tvg-id="" tvg-name="SCTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="LOKAL ID",SCTV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xO2A43x4Rw7cLMss3UAnuI
+#EXTINF:-1 xui-id="7" tvg-id="" tvg-name="RCTI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="LOKAL ID",RCTI
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX09MhdZKklAf1HAGi7fmhQjo
+#EXTINF:-1 xui-id="8" tvg-id="" tvg-name="MNC TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="LOKAL ID",MNC TV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02az1-HW9F42AX0RiQ5CRV8
+#EXTINF:-1 xui-id="9" tvg-id="" tvg-name="GTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="LOKAL ID",GTV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03Cqn0CCsPc7lLdHaLqlRNU
+#EXTINF:-1 xui-id="10" tvg-id="" tvg-name="iNEWS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="LOKAL ID",iNEWS
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0w98ldpFXYtt_lLA1xEtnyE
+#EXTINF:-1 xui-id="11" tvg-id="" tvg-name="ANTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="LOKAL ID",ANTV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0-bYyBiJBEYGjG6nXDeWgA4
+#EXTINF:-1 xui-id="12" tvg-id="" tvg-name="TV ONE" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="LOKAL ID",TV ONE
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX01LsvyoMNdsr_Zffr_HldSk
+#EXTINF:-1 xui-id="13" tvg-id="" tvg-name="NET TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqEYM5QLVAShBtZ2GQRxWHiw.png" group-title="LOKAL ID",NET TV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06ZGt-LSKb9cNgT-pdKe81w
+#EXTINF:-1 xui-id="14" tvg-id="" tvg-name="METRO TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="LOKAL ID",METRO TV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06Lsthwtxs0EsY1p08mdZmw
+#EXTINF:-1 xui-id="15" tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="LOKAL ID",KOMPAS TV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06_Eg2RkOcJ1UYGLrySIJ3M
+#EXTINF:-1 xui-id="16" tvg-id="" tvg-name="RTV" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="LOKAL ID",RTV
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03UzGZBmCqZ5_gGkifG_sYs
+#EXTINF:-1 xui-id="17" tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="LOKAL ID",BERITA SATU
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX068OD8xL4grXOo1H1R75SVI
+#EXTINF:-1 xui-id="18" tvg-id="" tvg-name="TVRI" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="LOKAL ID",TVRI
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0-HZzTvn5dQddrdjZucdCUM
+#EXTINF:-1 xui-id="19" tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="LOKAL ID",SINDO NEWS
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX090uETh64ryb7jKXb46NZRM
+#EXTINF:-1 xui-id="20" tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="LOKAL ID",CNN INDONESIA
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX008BwhgfiOc6ECUmgT2IAF4
+#EXTINF:-1 xui-id="21" tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="LOKAL ID",CNBC INDONESIA
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06jFFCWm-bCYQlyObhrq6qU
+
+
