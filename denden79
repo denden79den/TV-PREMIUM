@@ -1372,19 +1372,19 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
 
-#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png"group-title="VISION+",iNews
+#EXTINF:-1 tvg-id="iNews HD - [Channel 433].id" tvg-logo="https://iili.io/JV3x4Fs.png" group-title="VISION+",iNews
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
  
-#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://iili.io/JV3xQN2.png"group-title="VISION+",Sindonews TV
+#EXTINF:-1 tvg-id="Sindo News TV HD - [Channel 434].id" tvg-logo="https://iili.io/JV3xQN2.png" group-title="VISION+",Sindonews TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
  
-#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://iili.io/JV3xvtI.png"group-title="VISION+",IDX Channel
+#EXTINF:-1 tvg-id="IDX HD - [Channel 436].id" tvg-logo="https://iili.io/JV3xvtI.png" group-title="VISION+",IDX Channel
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -1728,7 +1728,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globalt
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
 
-#EXTINF:-1 tvg-id="Outdoor Channel.id" tvg-logo="https://iili.io/JmoCZ5g.png"group-title="VISION+",Outdoor Channel
+#EXTINF:-1 tvg-id="Outdoor Channel.id" tvg-logo="https://iili.io/JmoCZ5g.png" group-title="VISION+",Outdoor Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alphastro supersporta
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 #EXTVLCOPT:http-referrer=https://visionplus.id
