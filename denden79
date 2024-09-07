@@ -1148,6 +1148,15 @@ https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01131-tracetv-tracelatinach-samsung
 
 =============================HUB PREMIER===============================
 
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_307.png" group-title="HUB PREMIER",SPOTV1 (IDN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-logo="https://mncvision.id/userfiles/image/channel/channel_308.png" group-title="HUB PREMIER",SPOTV2 (IDN)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd|Referer=https://www.visionplus.id/
 #EXTINF:-1 tvg-id="Hub Premier 1" tvg-name="Hub Premier 1" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-06/699e24ba4a47fb0e10678ee6c293252d.webp" group-title="HUB PREMIER",Hub Premier 1
 https://sxj.livednow.us.kg/ziyong?id=hubpremier1
 #EXTINF:-1 tvg-id="HubPremier2" tvg-name="HubPremier2" tvg-logo="https://yc.cdn.media.ulivetv.net/media/other/2024-02-06/b94846b3668bcbe861bf73e540dd2d6c.webp" group-title="HUB PREMIER",HubPremier2
