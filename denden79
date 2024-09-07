@@ -297,16 +297,16 @@ http://op-group1-swiftservesd-1.dens.tv/s/s28/index.m3u8?app_type=web&amp;userid
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png"
 
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo.png" group-title="FIRSTMEDIA",HBO HD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/39
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_sign.png" group-title="FIRSTMEDIA",HBO SIGN HD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/41
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_hits.png" group-title="FIRSTMEDIA",HBO HITS HD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/40
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/hbo_family.png" group-title="FIRSTMEDIA"",HBO FAMILY HD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/42
-#EXTINF:-1 tvg-logo="https://play-gachor.my.id/logo/htv2/movie/cinemax.png" group-title="FIRSTMEDIA",CINEMAX HD
-https://play-gachor.xyz/htv@lite/kjTECpmDmq/43
+#EXTINF:-1 xui-id="39" tvg-id="" tvg-name="HBO" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kM_1ElBuZ5P6euLlqe7zdTg.png" group-title="FIRSTMEDIA",HBO
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0zF4-EbCrAPkVojPsXwCL8w
+#EXTINF:-1 xui-id="40" tvg-id="" tvg-name="HBO HITS" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kHBCisUrZPOuR7DGUWpd6jA.png" group-title="FIRSTMEDIA",HBO HITS
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02pGRVh3e2IKY5Hrs8Nti1I
+#EXTINF:-1 xui-id="41" tvg-id="" tvg-name="HBO SIGN" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kNkhUwRoMQnZNMMg2owVtVycDHVLReGkYsHljy82f2r0.png" group-title="FIRSTMEDIA",HBO SIGN
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX06vz7eErbbFEJs-PlKa9sCo
+#EXTINF:-1 xui-id="42" tvg-id="" tvg-name="HBO FAMILY" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kSN4o1NnpfH6cnY3kZaYgBeWFuwuQVaHj9EeAbuB8yDI.png" group-title="FIRSTMEDIA",HBO FAMILY
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX02eeqVxt4642H5lISJHv6tE
+#EXTINF:-1 xui-id="43" tvg-id="" tvg-name="CINEMAX" tvg-logo="https://play-gachor.xyz:443/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4kJGoapq-oENaZDsh2_74URQ.png" group-title="FIRSTMEDIA",CINEMAX
+https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX03UXV9VD2E5xjsrt3W6wTNs
 
 #EXTINF:0 tvg-id="" tvg-name="" group-title="FIRSTMEDIA" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQQxInYsHPNrQk5mZXTavv0gVh_hF220F-8wA&s",ID | HOREE 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
