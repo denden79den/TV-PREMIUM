@@ -4980,3 +4980,46 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChann
 #KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
 https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd|Referer=https://www.visionplus.id/
 
+
+
+===================kids 3========================
+
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="Kids 3",Cartoon Network
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=becf26bd23324d149cde4f26a95e333d:881c3a84223b1b6903a3bbee00012413
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/107/cartoonnetwork/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_davinci_small1.png?v=2.0.0.13" group-title="Kids 3",Da Vinci Learning
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_dreamworks_small1.png?v=2.0.0.13" group-title="Kids 3",Dreamworks
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/133/dreamworks/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_nickjr_small.png" group-title="Kids 3",Nick Junior
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6e69636b6a7230303030303030303030:5130a6e0a492e1cc152783c490679bc5
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/nickjr/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_aniplus_small1.png" group-title="Kids 3",Aniplus
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c313fce55344e5a52389741d1f53f8:bae1e47db562b66895beb8fccdf2ad8a
+https://cdnjt24.useetv.com/drm/live/smil:aniplus.smil/manifest.mpd
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/107/aniplus/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_horee_small.png?v=2.0.0.13" group-title="Kids 3",Horee TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=686f7265653030303030303030303030:fe3d39b39bd26f0ee274f60c397bf61a
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/horee/manifest.mpd
+
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_duniaanak_small1.png?v=2.0.0.13" group-title="Kids 3",Dunia Anak
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=64756e6961616e616b30303030303030:40d96782fdd3ff05e7c0bf9aa7af8ce5
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/130/duniaanak/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/FUNPLANET-OTT-88.png" group-title="Kids 3",Fun Planet
+https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
