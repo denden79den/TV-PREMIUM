@@ -2624,6 +2624,9 @@ https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://gatotkaca007.serv00.net/red/play.m3u8?id=7052&type=hls
 
+#EXTINF:-1 group-title="KIDS" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" tvg-id="96" , MY KIDZ HD
+http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+
 ============================MUSIK======================================
 
 
