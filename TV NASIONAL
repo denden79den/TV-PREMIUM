@@ -2400,9 +2400,19 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-H
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
 
-#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="Local", TRANS 7 (VIDIO)
+#EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_trans7_small1.png?v=2.0.0.13" group-title="TV NASIONAL", TRANS 7 (VIDIO)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.m3u8?id=734&type=hls
+
+#EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="TV NASIONAL",SCTV (VIDIO)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQm8xqP7F21lrtTR9SXsiaCA4pX9t_cHki0mHbXmFFzjHn-NTOJARsQyK5YT_RtjNyS8qc&usqp=CAU" group-title="TV NASIONAL",Hip Hip Horee (VIDIO)
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+https://gatotkaca007.serv00.net/red/play.m3u8?id=7052&type=hls
+
 
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> MOVIES
