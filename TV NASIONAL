@@ -2142,7 +2142,7 @@ https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dass
 #EXTINF:0 tvg-logo="https://images.indihometv.com/logo_ochannel_ver1.png" group-title="TV NASIONAL",MOJI (INDI)
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png", MENTARI TV (INDI)
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://i.ibb.co.com/g9L69c9/MENTARITV.png", MENTARI TV (INDI)
 https://inditv.openwindow042.workers.dev/https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:0 tvg-logo="https://www.indihometv.com/assets/images/channel/logo_antv_small1.png?v=2.0.0.13" group-title="TV NASIONAL",ANTV (INDI)
@@ -2404,7 +2404,7 @@ https://gatotkaca007.serv00.net/red/play.m3u8?id=206&type=hls
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.m3u8?id=734&type=hls
 
-#EXTINF:0 tvg-logo="https://tinyurl.com/logo-sctv" group-title="TV NASIONAL",SCTV (VIDIO)
+#EXTINF:0 tvg-logo="https://i.ibb.co.com/nfNKkZj/sctv.png" group-title="TV NASIONAL",SCTV (VIDIO)
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 https://gatotkaca007.serv00.net/red/play.m3u8?id=204&type=hls
 
