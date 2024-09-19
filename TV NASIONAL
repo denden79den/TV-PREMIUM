@@ -3072,49 +3072,6 @@ https://webtvstream.bhtelecom.ba/hls6/as_premium3.mpd
 https://webtvstream.bhtelecom.ba/hls6/premier_league.mpd
 
 
-=====================SONY TEN==================================
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift 
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 1 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="VIP SPORTS",SONY SPORTS 1 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t 
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift 
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="VIP SPORTS",SONY SPORTS 2 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t 
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift 
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 3 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="VIP SPORTS",SONY SPORTS 3 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t 
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift 
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 4 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="VIP SPORTS",SONY SPORTS 4 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts 
-
-#KODIPROP:inputstream=inputstream.ffmpegdirect 
-#KODIPROP:mimetype=video/mp2t 
-#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true 
-#KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift 
-#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts 
-#EXTINF:-1 tvg-id="SONY SPORTS TEN 5 HD" tvg-url="https://www.bevy.be/bevyfiles/indiapremium1.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/23/Sony_Sports_Network_Logo.png" group-title="VIP SPORTS",SONY SPORTS 5 
-http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
-
-
 ========================BEIN SPORTS=============================
 
 #EXTINF:0 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQHFDOzuPr1UFWo_IKCJUMNTqO-cLwzEK8CTa8njHpgPpp9-jTqQ1MhyfwGoJ_zAYa6JHQ&usqp=CAU" group-title="VIP SPORTS",Bein Sport1
@@ -3158,6 +3115,100 @@ https://ddy6.mizhls.ru/ddy6/premium99/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 
+
+=====================DIGI SPORT===================================
+
+
+#EXTINF:-1 tvg-id="DigiSport1Romania.ro" tvg-logo="http://guki.my.id/logo/sports/dg1.png" group-title="VIP SPORTS",Digi Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium400/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="http://guki.my.id/logo/sports/dg2.png" group-title="VIP SPORTS",Digi Sport 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium401/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="http://guki.my.id/logo/sports/dg3.png" group-title="VIP SPORTS",Digi Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium402/index.m3u8
+
+#EXTINF:-1 tvg-id="DigiSport2Romania.ru" tvg-logo="http://guki.my.id/logo/sports/dg4.png" group-title="VIP SPORTS",Digi Sport 4
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+#EXTVLCOPT:http-referrer=https://weblivehdplay.ru/
+https://webhdrus.onlinehdhls.ru/lb/premium403/index.m3u8
+
+=========================playsport================================
+
+
+#EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="http://guki.my.id/logo/sports/P1.png" group-title="VIP SPORTS" , PLAY SPORTS 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-051/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="http://guki.my.id/logo/sports/P2.png" group-title="VIP SPORTS" , PLAY SPORTS 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd
+
+#EXTINF:-1 tvg-id="Play Sports HD3.be" tvg-logo="http://guki.my.id/logo/sports/P3.png" group-title="VIP SPORTS" , PLAY SPORTS 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-053/stream.mpd
+
+=========================G03 SPORT=================================
+
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53CMB.jpg" group-title="VIP SPORTS", GO3 Sport 1
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=610ad79e26a84fc782c987455e21a86b:d2d4acc6e79447b55f3f5c0267af06f5
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp53UAb.jpg" group-title="VIP SPORTS", GO3 Sport 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fc5ce88ae24460bafa447b53ab5f548:476a55ef72c5e27e310668b1667da615
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport2_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport2_HD_HVC.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://iili.io/Jp5FJiN.jpg" group-title="VIP SPORTS", GO3 Sport 3
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2a75672057f462089c2849b8184fcb0:94899cace4911c617c27d8f878de2b43
+https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport3_HD_HVC.mpd
+
+
+=============================J SPORT (JAPAN)
+
+#EXTINF:-1 group-title="VIP SPORTS" group-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png" tvg-logo="https://d18qjk21m0yx5q.cloudfront.net/wp-content/uploads/2022/09/EPL.png", Peacock 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=002046c9a49b9ab1cdb6616bec5d26c3:d2f92f6b7edc9a1a05d393ba0c20ef9e
+https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/master.mpd
+
+
+#EXTINF:-1 tvg-id="JSPORT.JP" tvg-logo="https://i.postimg.cc/DfSNQjf8/800px-J-Sports-Logo-svg.png" group-title="VIP SPORTS",J SPORT
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs18&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="JSPORT2.JP" tvg-logo="https://i.postimg.cc/yx29wySh/v3se8x1646402692.png" group-title="VIP SPORTS",J SPORT2
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs19&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="jsport3.jl" tvg-logo="https://i.postimg.cc/sgYSNSfS/zbmh4u1646402703.png" group-title="VIP SPORTS",J SPORT3
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs21&checkedby:iptvcat.com
+
+#EXTINF:-1 tvg-id="jsport4.jp" tvg-logo="https://i.postimg.cc/9fqQn5gL/nam42w1646402716.png" group-title="VIP SPORTS",J SPORT4
+http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs22&checkedby:iptvcat.com
 
 
 //========================================================================
