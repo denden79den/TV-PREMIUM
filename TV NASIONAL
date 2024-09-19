@@ -2627,6 +2627,35 @@ https://gatotkaca007.serv00.net/red/play.m3u8?id=7052&type=hls
 #EXTINF:-1 group-title="KIDS" tvg-logo="https://www.dens.tv/images/channel-logo/96.jpg" tvg-id="96" , MY KIDZ HD
 http://op-group1-swiftservehd-1.dens.tv/h/h191/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=My_Kidz_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
+#EXTINF:-1 group-title="KIDS" group-logo="" tvg-logo="http://guki.my.id/logo/anak/boonie.jpg", Boonie Cubs TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03b1d9dd1523/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" group-logo="" tvg-logo="http://guki.my.id/logo/anak/cartoonnetwork.jpg", Cartoon Network
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c21d7c/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" group-logo="" tvg-logo="http://guki.my.id/logo/anak/smurf.jpg", Smurf TV
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6858afb4c71018b03bb78c91525/manifest.mpd
+
+#EXTINF:-1 group-title="KIDS" group-logo="" tvg-logo="http://guki.my.id/logo/anak/toon.jpg", Toon Goggles
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68572841ba301729d4562343c23/manifest.mpd
+
+
 ============================MUSIK======================================
 
 
