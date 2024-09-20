@@ -3222,6 +3222,9 @@ https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 //copy right by,@FREEFREMIUM menampilkan playlist >>> IPTV BERBAYAR
 //========================================================================
 
+#EXTM3U url-tvg="https://epgshare01.online/epgshare01/epg_ripper_ALL_SOURCES1.xml.gz, https://raw.githubusercontent.com/azimabid00/epg/main/unifi_epg.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/SkySportNow/epg.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_PH.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/usEPG.xml, https://raw.githubusercontent.com/matthuisman/i.mjh.nz/master/DStv/za.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/indonesia.xml, https://stavol.masuk.web.id/epg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/ardanepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/mariepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/masimaepg.xml, https://raw.githubusercontent.com/khoebhoerhan/GMTV-EPG/main/traxepg.xml,  https://raw.githubusercontent.com/AqFad2811/epg/main/rtmklik.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/astro.xml, https://raw.githubusercontent.com/AqFad2811/epg/main/singapore.xml, https://raw.githubusercontent.com/LITUATUI/M3UPT/main/epg/epg-vodafone-pt.xml, https://raw.githubusercontent.com/Newbiect/epg/master/guide.xml, https://raw.githubusercontent.com/pendy99/iptv-epg/main/epg_GB.xml, https://raw.githubusercontent.com/bebawy6/EPG/master/arEPG.xml, https://bit.ly/3itZsSm, https://macan.tv/xmltv.php?username=epg&password=epg, https://iptv-org.github.io/epg/guides/qa-ar/beinsports.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/nl/ziggogo.tv.epg.xml.gz, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/my/astro.com.my.epg.xml.gz, https://raw.githubusercontent.com/awiouy/webgrabplus/master/config/siteini.pack/USA/tv.com.channels.xml, https://iptv-org.github.io/epg/guides/uk/sky.com.epg.xml.gz, https://raw.githubusercontent.com/samleong123/rtm-live/main/rtmklik.xml, https://iptv-org.github.io/epg/guides/id-en/mncvision.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/vidio.com.epg.xml.gz, https://iptv-org.github.io/epg/guides/id/transvision.co.id.epg.xml.gz, https://iptv-org.github.io/epg/guides/in/dishtv.in.epg.xml.gz, https://iptv-org.github.io/epg/guides/sg/starhubtvplus.com.epg.xml.gz" refresh="3600"
+
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="IPTV BERBAYAR",SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3244,9 +3247,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_w951314700_b744100_sleng.m3u8
 
 #EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/transtv.png",Trans TV 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nettv.png" group-title="IPTV BERBAYAR",NET TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -3288,20 +3291,22 @@ http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/visionprime.png" group-title="IPTV BERBAYAR",VISION PRIME
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/visionprime.png" group-title="IPTV BERBAYAR",VISION PRIME
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/oktv.png" group-title="IPTV BERBAYAR",OK TV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-cdn-fly.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mncinfotaiment.png" group-title="IPTV BERBAYAR",MNC INFOTAINMENT
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mncinfotaiment.png" group-title="IPTV BERBAYAR",MNC INFOTAINMENT
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nusantaratv.png" group-title="IPTV BERBAYAR",Nusantara
@@ -3560,7 +3565,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd|Ref
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cm.png" group-title="IPTV BERBAYAR",Celestial Movies Indonesia
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-http://op-group1-swiftservehd-1.dens.tv/h/h214/index.m3u8
+http://op-group1-swiftservehd-1.dens.tv/h/h14/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
@@ -3717,59 +3722,19 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
+EXTINF:0 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar3.png",Sportstars 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstar3.png" group-title="IPTV BERBAYAR",Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/rplus/drm.php?id=1002
-https://dusk.biz.id/rplus/index.mpd?id=1002
-
-
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="IPTV BERBAYAR",Champions TV 1
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6685&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6685&type=dash
-
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="IPTV BERBAYAR",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6686&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6686&type=dash
-
-#EXTINF:0 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="IPTV BERBAYAR",Champions TV 3
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=6786&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=6786&type=dash
-
-#EXTINF:0 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="IPTV BERBAYAR",Champions TV 5
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9182&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=9182&type=dash
-
-#EXTINF:0 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="IPTV BERBAYAR",Champions TV 6
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://gatotkaca007.serv00.net/red/play.php?id=9183&type=drm
-https://gatotkaca007.serv00.net/red/play.mpd?id=9183&type=dash
-
-
-
+EXTINF:-1 group-title="IPTV BERBAYAR" tvg-id="" tvg-url="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sportstars4.png",Sportstars 4
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd|Referer=https://www.visionplus.id/
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/soccerch.png",SOCCER Cannel
-#EXTGRP: IPTV BERBAYAR
+#EXTGRP: IPTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
@@ -3794,7 +3759,7 @@ https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8?xtreami
 EXTINF:-1 tvg-id="" tvg-country="" tvg-language="" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/19538643_ico.png?ts=1662016488" group-title="IPTV BERBAYAR",MOTORVISION
 http://210.210.155.37/uq2663/h/h09/01.m3u8|User-Agent=Lavf/56.15.102
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/spotv.png" group-title="IPTV BERBAYAR",SPOTV 1
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/spotv.png" group-title="IPTV BERBAYAR",SPOTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd|Referer=https://www.visionplus.id/
@@ -3826,7 +3791,7 @@ http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5df975e2b27cf5000921c1
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://ck-dash-mpd.astradamy.com/dash-ck/linear/408
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png" group-title="IPTV BERBAYAR",BEIN SPORTS 1 TH
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bein1.png" group-title="IPTV BERBAYAR",BEIN SPORTS 1 TH
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 6.0.1; Nexus Player Build/MMB29T)
 https://ctrl.laotv.la/live/Bsport1/index.m3u8 
 
@@ -3918,41 +3883,42 @@ https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-052/stream.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.41 (KHTML, like Gecko) Large Screen WebAppManager Safari/537.41
 https://dcf-ak-livedazn.akamaized.net/dash/dazn-linear-053/stream.mpd
 
-#EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="IPTV BERBAYAR",True Premier Football 1
+EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="IPTV BERBAYAR",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre2.png" group-title="IPTV BERBAYAR",True Premier Football 2
+EXTINF:-1 tvg-id="TruePremierFootball2.th" tvg-name="True Premier Football 2" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre2.png" group-title="IPTV BERBAYAR",True Premier Football
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431293_ico.png?ts=1696151935" group-title="IPTV BERBAYAR",True Premier Football 3
+EXTINF:-1 tvg-id="TruePremierFootball3.th" tvg-name="True Premier Football 3" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431293_ico.png?ts=1696151935" group-title="IPTV BERBAYAR",True Premier Football 3
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431296_ico.png?ts=1696151980" group-title="IPTV BERBAYAR",True Premier Football 4
+EXTINF:-1 tvg-id="TruePremierFootball4.th" tvg-name="True Premier Football 4" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431296_ico.png?ts=1696151980" group-title="IPTV BERBAYAR",True Premier Football 4
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD4_480p/chunklist.m3u8
 
-#EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431298_ico.png?ts=1696152022" group-title="IPTV BERBAYAR",True Premier Football 5
+EXTINF:-1 tvg-id="TruePremierFootball5.th" tvg-name="True Premier Football 5" tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/28431298_ico.png?ts=1696152022" group-title="IPTV BERBAYAR",True Premier Football 5
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000
 #EXTVLCOPT:http-referrer=https://www.movie87hd.com/
 https://sport.livedoomovies.com:4431/02_PremierHD5_480p/chunklist.m3u8
 
-#EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ssc1.png", SSC 1
+EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ssc1.png", SSC 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d84c325f36814f39bbe59080272b10c3:550727de4c96ef1ecff874905493580f
 https://ssc1-ak.akamaized.net/out/v1/c696e4819b55414388a1a487e8a45ca1/index.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV BERBAYAR",1.LIVE 1 (LIGA INDONESIA)
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0y_EL6iQWGbWLHPeXPeFM3s
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV BERBAYAR",1.LIVE 1
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live.m3u8
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV BERBAYAR",2.LIVE 2 (PROLIGA)
-https://play-gachor.xyz:443/play/2KBIoKDUhkynjUAie1XX0xOfVygh-AxkKAzZvmHAmto
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRJTAdjOP3BtvEicrmy-BDLS-7uUKMG9U6Wfw&usqp=CAU" group-title="IPTV BERBAYAR",2.LIVE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+https://raw.githubusercontent.com/Iqbalbala/INTEKTV/main/Live2.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/qurantv.png" group-title="IPTV BERBAYAR",Al Quran Al Kareem 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3962,10 +3928,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQur
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sunnahtv.png" group-title="IPTV BERBAYAR",SAUDI SUNNAH TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
-https://op-group1-swiftservesd-1.dens.tv/s/s27/01.m3u8
+https://op-group1-swiftservesd-1.dens.tv/s/s27/index.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/muslimtv.png" group-title="IPTV BERBAYAR",Muslim TV
 https://cempedak-cdn-fly.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
 
@@ -4004,9 +3970,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h203/index.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/maleo.png" group-title="IPTV BERBAYAR",Maleo
 https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
-#EXTINF:-1 group-title="IPTV BERBAYAR" tvg-id="Discovery Science"  tvg-logo="https://www.lyngsat.com/logo/tv/dd/discovery_science_in.png", DISCOVERY SCIENCE
-https://varun-iptv.netlify.app/m3u/Discovery_Science.m3u8
-
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/imtv.png" group-title="IPTV BERBAYAR",IMTV JAKARTA
+https://5bf7b725107e5.streamlock.net/imtv/imtv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nagaswara.png" group-title="IPTV BERBAYAR",NAGASWARA DANGDUT
 https://nagaswaraclip.fiqriaw8.workers.dev/stream/nagaswarafmbgr/master.m3u8
@@ -4019,39 +3984,21 @@ https://varun-iptv.netlify.app/m3u/discoveryenglish.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 5.1; AFTS Build/LMY47O) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/41.99900.2250.0242 Safari/537.36
 https://varun-iptv.netlify.app/m3u/Animal_Planet.m3u8
 
-#EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
-https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd|Referer=https://www.visionplus.id/
+#EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bbceart.png",BBC Earth
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
+https://cempedak-live-cdn.mncnow.id/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
 
-#EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/history.png",History Asia
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
-https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd|Referer=https://www.visionplus.id/
+EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/history.png",History Asia
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/History/sa_dash_vmx/History.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/outdoorch.png" group-title="IPTV BERBAYAR",Outdoor Channel
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/outdoorch.png" group-title="IPTV BERBAYAR",Outdoor Channel
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
 https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd|Referer=https://www.visionplus.id/
-
-
-
-#EXTINF:-1 tvg-id="NationalGeographicWild.cz" tvg-logo="https://i.ibb.co.com/pnyMJjF/natgeowild.png" group-title="IPTV BERBAYAR", NATGEO WILD 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=9092f718b471428aa32cdf657f9a295c:bb71673aac0f24926915042c2bb0e653
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluenatgeowildhdro/Manifest.mpd
-
-
-#EXTINF:-1 tvg-id="NationalGeographicWest.us" tvg-name="" tvg-logo="https://i.ibb.co.com/DYsDT6K/natgeo.png" group-title="IPTV BERBAYAR", NATGEO 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30347e4e45d048eda9600b613ccc4e39:3f5e20a42a5185bdb862e964723f3b89
-https://m7rovideolive.solocoo.tv/blueskylivedash/bluenationalgeographicro/Manifest.mpd
-
-
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/lovenature.png" group-title="IPTV BERBAYAR",Love Nature
 https://d18dyiwu97wm6q.cloudfront.net/playlist.m3u8
@@ -4063,18 +4010,24 @@ https://inwild-samsungau.amagi.tv/playlist.m3u8?checkedby:iptvcat.com
 https://varun-iptv.netlify.app/m3u/HGTV.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/crime.png" group-title="IPTV BERBAYAR",CRIME+
-KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
-https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
+https://cempedak-live-cdn.mncnow.id/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/densls.png" group-title="IPTV BERBAYAR",DENS Life Style
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8
 
+EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20957549_ico.png?ts=1655327788" group-title="IPTV BERBAYAR",B ADVENTURE
+http://livestream.biznetvideo.net:80/biznet_adventure/smil:adventure.smil/chunklist_w1684912150_b5256000_slen.m3u8?bizkeyliveCustomParameter=myParameter&bizkeyliveendtime=0&bizkeylivehash=iJYiwvsAhKLgYjtMcoxVp1GZg1XW_wNcrvg-lcNq6Vdy&bizkeylivestarttime=0
+
+EXTINF:-1 group-title="IPTV BERBAYAR" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/afn.png" ,Asian Food Network
+http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel%28ch76%29/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/densfoodch.png" group-title="IPTV BERBAYAR",DENS Food Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8
+
 
 //========================================================================
 //copy right by,@HOMETV menampilkan playlist >>> MALAYSIA
@@ -5461,11 +5414,19 @@ https://ddy6.mizhls.ru/ddy6/premium99/tracks-v1a1/mono.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 16_7_8 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Mobile/15E148
 https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 
+=======================CHANNEL VIDIO=======================
 
-#EXTINF:-1 group-title="UPDATE CHANNEL" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORT 1
+
+#EXTINF:-1 group-title="CHANNEL VIDIO" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/Bmv3iTkuSqCj3J2swo0flndH8x8=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6299/bein-1-60c673.jpg",BEIN SPORT 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=27df7de969fbb319605be693e9aa65ed:4d38a401cc9e76fe8660f40362468c4e
 #EXTVLCOPT:http-referrer=https://www.vidio.com/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
 https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6299_stream.mpd?hdnts=exp=1726844503~acl=/drm/dash/6299*~id=69852964~hmac=5e5ca8805fed422e17f7e861fc394855b5a88ea78d5ffc37d7e253cf0a04e9fe
 
+#EXTINF:-1 group-title="CHANNEL VIDIO" tvg-name="Live Event" tvg-country="" tvg-logo="https://thumbor.prod.vidiocdn.com/XW3QKDaZSyn3iYKafLb4fhbcTwg=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6317/bein-3-e1add8.jpg",BEIN SPORT 3
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b5dfecbb10fe0d3638ea692f9c501d69:a0c27751c01554f8d792304c82303955
+#EXTVLCOPT:http-referrer=https://www.vidio.com/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36
+https://geo-id-tl-etslive-v3-vidio-com-tokenized.akamaized.net/drm/dash/6317_stream.mpd?hdnts=exp=1726844963~acl=/drm/dash/6317*~id=69852964~hmac=fd7e11fe40f11e0e6b2e0bca5a2ede786f1e26b6e2bc830128978f59703aa75a
