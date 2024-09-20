@@ -5601,33 +5601,33 @@ http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14779
 
 #EXTINF:-1 tvg-id="CanalplusFamily2.pl" tvg-name="PL: CANAL 1 HD" tvg-logo="https://epg.ovh/logo/Canal++1.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL 1 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14861
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL  SPORT HD" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="PL | SPORTOWE",PL: CANAL  SPORT HD
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL  SPORT HD" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14862
-#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL  SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="PL | SPORTOWE",PL: CANAL  SPORT 2 HD
+#EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL  SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT 2 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14865
-#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: CANAL  SPORT 3 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+3+HD.png" group-title="PL | SPORTOWE",PL: CANAL  SPORT 3 HD
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: CANAL  SPORT 3 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+3+HD.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT 3 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14864
-#EXTINF:-1 tvg-id="CanalplusSport4.pl" tvg-name="PL: CANAL  SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="PL | SPORTOWE",PL: CANAL  SPORT 4 HD
+#EXTINF:-1 tvg-id="CanalplusSport4.pl" tvg-name="PL: CANAL  SPORT 4 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+4+HD.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT 4 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14863
 
 
 ========================Eleven Sports=================================
 
-#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" group-title="PL | SPORTOWE",PL: Eleven Sports 1 HD
+#EXTINF:-1 tvg-id="elevensports1.pl" tvg-name="PL: Eleven Sports 1 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+1.png" group-title="CANAL & ELEVEN SPORT",PL: Eleven Sports 1 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14841
-#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" group-title="PL | SPORTOWE",PL: Eleven Sports 2 HD
+#EXTINF:-1 tvg-id="elevensports2.pl" tvg-name="PL: Eleven Sports 2 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+2.png" group-title="CANAL & ELEVEN SPORT",PL: Eleven Sports 2 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14840
-#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" group-title="PL | SPORTOWE",PL: Eleven Sports 3 HD
+#EXTINF:-1 tvg-id="elevensports3.pl" tvg-name="PL: Eleven Sports 3 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+3.png" group-title="CANAL & ELEVEN SPORT",PL: Eleven Sports 3 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14839
-#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="PL | SPORTOWE",PL: ELEVEN SPORTS 4 HD
+#EXTINF:-1 tvg-id="13ulica.pl" tvg-name="PL: ELEVEN SPORTS 4 HD" tvg-logo="https://epg.ovh/logo/Eleven+Sports+4.png" group-title="CANAL & ELEVEN SPORT",PL: ELEVEN SPORTS 4 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14838
 
 
 ========================Eurosport=================================
 
-#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: Eurosport 1 HD" tvg-logo="https://epg.ovh/logo/Eurosport+PL.png" group-title="PL | SPORTOWE",PL: Eurosport 1 HD
+#EXTINF:-1 tvg-id="eurosport1.pl" tvg-name="PL: Eurosport 1 HD" tvg-logo="https://epg.ovh/logo/Eurosport+PL.png" group-title="CANAL & ELEVEN SPORT",PL: Eurosport 1 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14833
-#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: Eurosport 2 HD" tvg-logo="https://epg.ovh/logo/Eurosport+2+PL.png" group-title="PL | SPORTOWE",PL: Eurosport 2 HD
+#EXTINF:-1 tvg-id="eurosport2.pl" tvg-name="PL: Eurosport 2 HD" tvg-logo="https://epg.ovh/logo/Eurosport+2+PL.png" group-title="CANAL & ELEVEN SPORT",PL: Eurosport 2 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14832
 
 
