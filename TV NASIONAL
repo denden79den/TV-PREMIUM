@@ -5599,9 +5599,7 @@ http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14779
 
 ========================CANAL SPORT=================================
 
-#EXTINF:-1 tvg-id="CanalplusFamily2.pl" tvg-name="PL: CANAL 1 HD" tvg-logo="https://epg.ovh/logo/Canal++1.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL 1 HD
-http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14861
-#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL  SPORT HD" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT HD
+#EXTINF:-1 tvg-id="canalplussport.pl" tvg-name="PL: CANAL  SPORT HD" tvg-logo="https://epg.ovh/logo/Canal++Sport.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT 1 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14862
 #EXTINF:-1 tvg-id="canalplussport2.pl" tvg-name="PL: CANAL  SPORT 2 HD" tvg-logo="https://epg.ovh/logo/Canal++Sport+2.png" group-title="CANAL & ELEVEN SPORT",PL: CANAL  SPORT 2 HD
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14865
@@ -5631,3 +5629,34 @@ http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14833
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/14832
 
 
+========================DAZN & TNT SPORT=================================
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 1 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 1 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349243
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 2 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 2 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349244
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 3 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 3 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349245
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 4 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 4 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349246
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 5 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 5 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349247
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: DAZN ELEVEN 6 (PT)" tvg-logo="https://i.ibb.co.com/jkBhC3k/DAZN-ELEVEN.png" group-title="DAZN & TNT SPORT",VIP SPORT: DAZN ELEVEN 6 (PT)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/349248
+
+
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: TNT SPORT 1 (UK)" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",VIP SPORT: TNT SPORT 1 (UK)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/3150
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: TNT SPORT 2 (UK)" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",VIP SPORT: TNT SPORT 2 (UK)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/3151
+#EXTINF:-1 tvg-id="" tvg-name="VIP SPORT: TNT SPORT 3 (UK)" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",VIP SPORT: TNT SPORT 3 (UK)
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/3152
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 1" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",UK: TNT SPORT 1
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125379
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 2" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",UK: TNT SPORT 2
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125380
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 3" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",UK: TNT SPORT 3
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125381
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORT 4" tvg-logo="https://i.ibb.co.com/sPZxVfm/TNT-SPORTS-2.png" group-title="DAZN & TNT SPORT",UK: TNT SPORT 4
+http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125382
