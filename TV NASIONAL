@@ -5298,36 +5298,6 @@ https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 ==========================KINGTV (VIP SPRTS 2)=====================
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=121
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/150x150fightsport.jpg",Fight Sports
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=121
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=112
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=112
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=113
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_98.png",Sportstars 2
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=113
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=1002
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_99.png",Sportstars 3
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=1002
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=205
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_424.png",Sportstars 4
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=205
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=115
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_101.png",Soccer Channel
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=115
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=119
 #EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
 https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=119
@@ -5372,9 +5342,9 @@ http://tvking.xyz:8080/live/456123/456123/18864.ts
 http://tvking.xyz:8080/live/456123/456123/19067.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Bola SPECIAL LIVE 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="VIP SPORTS 2",Arena Bola SPECIAL LIVE 2
 http://tvking.xyz:8080/live/456123/456123/19068.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 5 EPL" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/champion-logo-png-transparent.png" group-title="VIP SPORTS 2",Champion 5 EPL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 5 EPL" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="VIP SPORTS 2",Champion 5 EPL
 http://tvking.xyz:8080/live/456123/456123/15875.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 6 EPL" tvg-logo="https://cdn.freebiesupply.com/logos/large/2x/champion-logo-png-transparent.png" group-title="VIP SPORTS 2",Champion 6 EPL
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 6 EPL" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="VIP SPORTS 2",Champion 6 EPL
 http://tvking.xyz:8080/live/456123/456123/15876.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL 3" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="VIP SPORTS 2",EPL 3
 http://tvking.xyz:8080/live/456123/456123/18408.ts
@@ -5394,11 +5364,11 @@ http://tvking.xyz:8080/live/456123/456123/20456.ts
 http://tvking.xyz:8080/live/456123/456123/20457.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 5 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="VIP SPORTS 2",LIGA ARAB SSC Sports 5 ᴴᴰ
 http://tvking.xyz:8080/live/456123/456123/20458.ts
-#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="VIP SPORTS 2",Astro Arena[A]
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="VIP SPORTS 2",Astro Arena[A]
 http://tvking.xyz:8080/live/456123/456123/7156.ts
-#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[B]" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="VIP SPORTS 2",Astro Arena[B]
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[B]" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="VIP SPORTS 2",Astro Arena[B]
 http://tvking.xyz:8080/live/456123/456123/7157.ts
-#EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://i.ibb.co/ZVs9f7v/arena.png" group-title="VIP SPORTS 2",Arena 2
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="VIP SPORTS 2",Arena 2
 http://tvking.xyz:8080/live/456123/456123/8648.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM LIVE FINAL1" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="VIP SPORTS 2",RTM LIVE FINAL1
 http://tvking.xyz:8080/live/456123/456123/27320.ts
@@ -5422,13 +5392,14 @@ http://tvking.xyz:8080/live/456123/456123/8414.ts
 http://tvking.xyz:8080/live/456123/456123/20773.ts
 #EXTINF:-1 tvg-id="819" tvg-name="MY:Bein Sports 3" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="VIP SPORTS 2",Bein Sports 3
 http://tvking.xyz:8080/live/456123/456123/8413.ts
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="VIP SPORTS 2",Astro Super Sport 1
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="VIP SPORTS 2",Astro Super Sport 1
 http://tvking.xyz:8080/live/456123/456123/8416.ts
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="VIP SPORTS 2",Astro Super Sport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP2.png" group-title="VIP SPORTS 2",Astro Super Sport 2
 http://tvking.xyz:8080/live/456123/456123/8417.ts
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="VIP SPORTS 2",Astro Super Sport 3
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP3.png" group-title="VIP SPORTS 2",Astro Super Sport 3
 http://tvking.xyz:8080/live/456123/456123/8418.ts
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="VIP SPORTS 2",Astro Super Sport 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP4.png" group-title="VIP SPORTS 2",Astro Super Sport 4
 http://tvking.xyz:8080/live/456123/456123/8419.ts
 #EXTINF:-1 tvg-id="LongLongFun" tvg-name="MY: Astro Super Sport 5" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="VIP SPORTS 2",Astro Super Sport 5
 http://tvking.xyz:8080/live/456123/456123/8649.ts
@@ -5436,17 +5407,17 @@ http://tvking.xyz:8080/live/456123/456123/8649.ts
 http://tvking.xyz:8080/live/456123/456123/8650.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="VIP SPORTS 2",Spotv 2
 http://tvking.xyz:8080/live/456123/456123/11832.ts
-#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BEIN SPORT 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="VIP SPORTS 2",BEIN SPORT 1 ID
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BEIN SPORT 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="VIP SPORTS 2",SPOTV 1 ID
 http://tvking.xyz:8080/live/456123/456123/8651.ts
-#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BEIN SPORT 3 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="VIP SPORTS 2",BEIN SPORT 3 ID
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BEIN SPORT 3 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="VIP SPORTS 2",SPOTV 2 ID
 http://tvking.xyz:8080/live/456123/456123/8652.ts
-#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="VIP SPORTS 2",Astro Super Sport 1(B)
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="VIP SPORTS 2",Astro Super Sport 1(B)
 http://tvking.xyz:8080/live/456123/456123/8548.ts
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="https://i.ibb.co/ZgvRD0S/wrgdsfg.png" group-title="VIP SPORTS 2",Astro Super Sport 2(B)
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="VIP SPORTS 2",Astro Super Sport 2(B)
 http://tvking.xyz:8080/live/456123/456123/8549.ts
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="https://i.ibb.co/KLY1rvJ/BDR.png" group-title="VIP SPORTS 2",Astro Super Sport 3(B)
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="VIP SPORTS 2",Astro Super Sport 3(B)
 http://tvking.xyz:8080/live/456123/456123/8550.ts
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="https://i.ibb.co/y04NgZ9/GSDFGD.png" group-title="VIP SPORTS 2",Astro Super Sport 4(B)
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="VIP SPORTS 2",Astro Super Sport 4(B)
 http://tvking.xyz:8080/live/456123/456123/8551.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="VIP SPORTS 2",Eurosport
 http://tvking.xyz:8080/live/456123/456123/19745.ts
