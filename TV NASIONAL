@@ -5297,15 +5297,6 @@ https://ddy6.mizhls.ru/ddy6/premium100/tracks-v1a1/mono.m3u8
 
 ==========================KINGTV (VIP SPRTS 2)=====================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=119
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257286_thumb-spotv.png",SPOTV
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=119
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://tvnid.x10.mx/natanvision/licensi.php/widevine?id=120
-#EXTINF:-1 group-title="VIP SPORTS 2" tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1634257305_thumb-spotv-2.png",SPOTV 2
-https://tvnid.x10.mx/natanvision/index.php/erceteeipelus.mpd?id=120
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 1 EN  HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="VIP SPORTS 2",Bein Sport 1 EN  HD
 http://tvking.xyz:8080/live/456123/456123/27469.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 1 FR  HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="VIP SPORTS 2",Bein Sport 1 FR  HD
@@ -5370,15 +5361,15 @@ http://tvking.xyz:8080/live/456123/456123/7156.ts
 http://tvking.xyz:8080/live/456123/456123/7157.ts
 #EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="VIP SPORTS 2",Arena 2
 http://tvking.xyz:8080/live/456123/456123/8648.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM LIVE FINAL1" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="VIP SPORTS 2",RTM LIVE FINAL1
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM LIVE FINAL1" tvg-logo="https://i.ibb.co.com/tPDtQhs/SUKAN-RTM.png" group-title="VIP SPORTS 2",RTM LIVE FINAL1
 http://tvking.xyz:8080/live/456123/456123/27320.ts
-#EXTINF:-1 tvg-id="RTM Sports" tvg-name="MY:RTM Sport FHD" tvg-logo="https://i.ibb.co/zVKhdjR/rtm.png" group-title="VIP SPORTS 2",RTM Sport FHD
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="MY:RTM Sport FHD" tvg-logo="https://i.ibb.co.com/tPDtQhs/SUKAN-RTM.png" group-title="VIP SPORTS 2",RTM Sport FHD
 http://tvking.xyz:8080/live/456123/456123/7155.ts
 #EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY:  WWE [A]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="VIP SPORTS 2", WWE [A]
 http://tvking.xyz:8080/live/456123/456123/7169.ts
 #EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY: WWE [B]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="VIP SPORTS 2",WWE [B]
 http://tvking.xyz:8080/live/456123/456123/7170.ts
-#EXTINF:-1 tvg-id="822" tvg-name="MY: Astro Golf" tvg-logo="https://i.ibb.co/7S24MGc/adh.png" group-title="VIP SPORTS 2",Astro Golf
+#EXTINF:-1 tvg-id="822" tvg-name="MY: Astro Golf" tvg-logo="https://i.ibb.co.com/tDkLv4n/ASTRO-GOLF.png" group-title="VIP SPORTS 2",Astro Golf
 http://tvking.xyz:8080/live/456123/456123/7516.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="MY: Astro Cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="VIP SPORTS 2",Astro Cricket
 http://tvking.xyz:8080/live/456123/456123/7517.ts
@@ -5395,15 +5386,15 @@ http://tvking.xyz:8080/live/456123/456123/8413.ts
 
 #EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="VIP SPORTS 2",Astro Super Sport 1
 http://tvking.xyz:8080/live/456123/456123/8416.ts
-#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP2.png" group-title="VIP SPORTS 2",Astro Super Sport 2
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="VIP SPORTS 2",Astro Super Sport 2
 http://tvking.xyz:8080/live/456123/456123/8417.ts
-#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP3.png" group-title="VIP SPORTS 2",Astro Super Sport 3
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="VIP SPORTS 2",Astro Super Sport 3
 http://tvking.xyz:8080/live/456123/456123/8418.ts
-#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP4.png" group-title="VIP SPORTS 2",Astro Super Sport 4
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="VIP SPORTS 2",Astro Super Sport 4
 http://tvking.xyz:8080/live/456123/456123/8419.ts
 #EXTINF:-1 tvg-id="LongLongFun" tvg-name="MY: Astro Super Sport 5" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="VIP SPORTS 2",Astro Super Sport 5
 http://tvking.xyz:8080/live/456123/456123/8649.ts
-#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="VIP SPORTS 2",Spotv
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="VIP SPORTS 2",Spotv 1
 http://tvking.xyz:8080/live/456123/456123/8650.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="VIP SPORTS 2",Spotv 2
 http://tvking.xyz:8080/live/456123/456123/11832.ts
