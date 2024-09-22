@@ -5596,3 +5596,65 @@ http://tvking.xyz:8080/live/456123/456123/12754.ts
 http://tvking.xyz:8080/live/456123/456123/12755.ts
 #EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT MOTORSPORT" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="VIP SPORTS 2",SUPERSPORT MOTORSPORT
 http://tvking.xyz:8080/live/456123/456123/12756.ts
+
+
+=============================FILM INDONESIA==============================
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="FILM INDONESIA",Allplay Ent
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA (INDI)
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/bioskop_ind.png" group-title="FILM INDONESIA",BIOSKOP INDONESIA (TRANS)
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bskpindo.png",BIOSKOP INDONESIA
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/bioskopindonesia/manifest.mpd
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
+
+#EXTINF:-1 tvg-id="IMC - [Channel 14].id" tvg-logo="https://iili.io/Jmny4iG.png" group-title="FILM INDONESIA",IMC (V+)
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/flik.png",FLIK
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/133/flik/manifest.mpd
+
+#EXTINF:0 tvg-id="CitraMuslim.id" tvg-name="" group-title="FILM INDONESIA" group-logo="https://i.ibb.co.com/QQbMxRM/FIRSTMEDIA.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ9m9qh9N3n7LDuTVMf5pZNZgJM0XJGwg_hxyt7QVcbgQ&s",Citra Muslim
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"n3VVRA+zEDQd2wDNvGOM6g", "kid":"8L397w9WSBmitDNFsyj5iQ" } ], "type":"temporary" }
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.mpd
+
+#EXTINF:-1 group-title="FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA[INDIHOME]
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
+
+#EXTINF:0 tvg-id="CitraEntertainment.id" tvg-name="" group-title="FILM INDONESIA" group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548",Citra Entertainment
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"2j4ZMR46PRR2B5caEByNww", "kid":"BctLvZHjTYWPaSHnGW93lQ" } ], "type":"temporary" }
+https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
+
