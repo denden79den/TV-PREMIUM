@@ -2952,10 +2952,17 @@ https://fsly.stream.peacocktv.com/Content/CMAF_CTR-4s/Live/channel(vc1021n07j)/m
 
 
 #EXTINF:-1 group-title="VIP SPORTS 1" tvg-logo="https://i.ibb.co.com/Z2jJvpN/SBS-SPORTS.png", SBS SPORTS HD
-https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1727103239/ei/pyzxZvSMK8jT3LUPjfaEuA0/ip/103.160.205.150/id/sVmPy1oNPWo.1/itag/300/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D298/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-jcopn2-jb36.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/54MbxedgU5OwYU-acJLrzcSSr6CEN-LLZNZBkwEmxdYE9aCSby0FQ9iflGOTjys/vprv/1/playlist_type/DVR/initcwndbps/236250/mh/AC/mm/44/mn/sn-jcopn2-jb36/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/mt/1727081312/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIhAJUX6mFf3jqfG8lUJTdghZ9AaGtb8iQlZeZw5bdoJxVgAiASwM3Wa9746jq0qDH3kKIZ0QYFtSq_ce5DmqSuMmZ4DA%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRAIgW5MTc_vm3W7Kl3n4HjBQdqtNtvtzpW2RaEn0TfkVAzcCICaerIDg0BI8ATZq-gP3U6ien2xDkBmeCTgzvO1phpkv/playlist/index.m3u8
+https://stream1.freetv.fun/sbs-sports-1.m3u8
 
 #EXTINF:-1 group-title="VIP SPORTS 1" tvg-logo="https://i.ibb.co.com/Z2jJvpN/SBS-SPORTS.png", SBS SPORTS FHD
 https://manifest.googlevideo.com/api/manifest/hls_playlist/expire/1727103239/ei/pyzxZvSMK8jT3LUPjfaEuA0/ip/103.160.205.150/id/sVmPy1oNPWo.1/itag/301/source/yt_live_broadcast/requiressl/yes/ratebypass/yes/live/1/sgoap/gir%3Dyes%3Bitag%3D140/sgovp/gir%3Dyes%3Bitag%3D299/rqh/1/hdlc/1/hls_chunk_host/rr2---sn-jcopn2-jb36.googlevideo.com/xpc/EgVo2aDSNQ%3D%3D/playlist_duration/30/manifest_duration/30/spc/54MbxedgU5OwYU-acJLrzcSSr6CEN-LLZNZBkwEmxdYE9aCSby0FQ9iflGOTjys/vprv/1/playlist_type/DVR/initcwndbps/236250/mh/AC/mm/44/mn/sn-jcopn2-jb36/ms/lva/mv/m/mvi/2/pl/24/dover/11/pacing/0/keepalive/yes/mt/1727081312/sparams/expire,ei,ip,id,itag,source,requiressl,ratebypass,live,sgoap,sgovp,rqh,hdlc,xpc,playlist_duration,manifest_duration,spc,vprv,playlist_type/sig/AJfQdSswRQIgLhjOEkHvkpeuLMB1FKU-Ac8X4Wi8JcE-23Lmgm1I_q0CIQC4hUUhVMxwIEByLx8FSskPUAmELo0BY0hryGq6fCqMgw%3D%3D/lsparams/hls_chunk_host,initcwndbps,mh,mm,mn,ms,mv,mvi,pl/lsig/ABPmVW0wRQIgOuPQOxftD3cXXltzJJN7o_eQx-JD2wftX0Z-X7VYiuACIQDvjYtmbsw9X4K0LKydAB9TtmY5cb8uhLtOo34r-83A3w%3D%3D/playlist/index.m3u8
+
+#EXTINF:-1 group-title="VIP SPORTS 1" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/73Ru5h5e.png",Star Sports Select 1
+https://donelfantastic.github.io/live/starSportsIn_select1.m3u8
+
+#EXTINF:-1 group-title="VIP SPORTS 1" tvg-logo="https://imagesstartv.whatsonindia.com/dasimages/channel/landscape/100x75/YYZFuenA.png",Star Sports Select 2
+https://donelfantastic.github.io/live/starSportsIn_select2.m3u8
+
 
 ====================================SporTV=============================
 
