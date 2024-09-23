@@ -2995,43 +2995,18 @@ http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125390
 http://3m.thingirl.xyz:8080/y8mD6ALYU3uk/3vLBVfLL5f7R/125389
 
 
-//========================================================================
-//Collected by @mimipipi22 menampilkan playlist >>> SUPERSPORT
-//========================================================================
+#EXTINF:-1 group-title="VIP SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="VIP SPORTS 1",SS PSL
-https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="VIP SPORTS 1",SS ACTION
-https://webhdrunns.mizhls.ru/lb/premium420/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/b51cde8be3defead0ca307c5be0c9453.png" group-title="VIP SPORTS 1",SS TENNIS
-https://webhdrunns.mizhls.ru/lb/premium423/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5b9d9ddbf95526d59c2fdd6725253646.png" group-title="VIP SPORTS 1",SS CRICKET
-https://webhdrunns.mizhls.ru/lb/premium368/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a8f0bee8d482364f261394bf7678fa0e.png" group-title="VIP SPORTS 1",SS GRANDSTAND
-https://webhdrunns.mizhls.ru/lb/premium412/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/a20c92d13ce602ec324ff03b209ed0c2.png" group-title="VIP SPORTS 1",SS GOLF
-https://webhdrunns.mizhls.ru/lb/premium422/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/55a7ac3c8cdd7718d94d29b8ebc99f2e.png" group-title="VIP SPORTS 1",SS RUGBY
-https://webhdrunns.mizhls.ru/lb/premium421/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/5440da812326351c34541cb82f6aac9e.png" group-title="VIP SPORTS 1",SS Football
-https://webhdrunns.mizhls.ru/lb/premium56/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="VIP SPORTS 1",SS Variety 1
-https://webhdrunns.mizhls.ru/lb/premium416/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/65bb8b6586b7fa25553a450811acce40.png" group-title="VIP SPORTS 1",SS Variety 2
-https://webhdrunns.mizhls.ru/lb/premium417/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/712a4054a884ffbeb3cac1bd3d4700da.png" group-title="VIP SPORTS 1",SS Variety 3
-https://webhdrunns.mizhls.ru/lb/premium418/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/7816729fca81dcee05b869f633b8a84d.png" group-title="VIP SPORTS 1",SS Variety 4
-https://webhdrunns.mizhls.ru/lb/premium419/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SuperSport LaLiga" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/dd29bde85c09ac2e0c1c250edb6bcf23.png" group-title="VIP SPORTS 1",SS LaLiga
-https://webhdrus.onlinehdhls.ru/lb/premium415/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="VIP SPORTS 1",SS Premier league
-https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SuperSport MaXimo 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/488fd8d34ea146bfaf82c12331f4223e.png" group-title="VIP SPORTS 1",SS MaXimo 1
-https://webhdrus.onlinehdhls.ru/lb/premium572/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-name="SuperSport Motorsport" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/cbc8390b70fc0ce16a159f392002fec4.png" group-title="VIP SPORTS 1",SS Motorsport
-https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 tvg-id="Sportdigital Fußball.de" tvg-name="" tvg-logo="https://i.ibb.co.com/ZM5C37H/sportdigital.png" group-title="VIP SPORTS 1", SPORTDIGITAL FUSSBALL 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-022/stream.mpd
 
 //========================================================================
 //copy right by,@hometv menampilkan playlist >>> LIVE EVEN
