@@ -6040,6 +6040,7 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1515.ts
 
 =================================VIDIO SPORT=================================
 
+#EXTINF:-1 group-logo="https://imgur.com/RIDbWau,
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstreamaddon=inputstream.adaptive
