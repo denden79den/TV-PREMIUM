@@ -5027,8 +5027,8 @@ https://cdnjktidc01.transvision.co.id/live/master/4/4028c68582449a2e0182597009c0
 #KODIPROP:inputstream.adaptive.license_key=https://cubum.iptvgo.workers.dev/
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTINF:-1 group-title="ENTERTAIMENT & LIFESTYLE" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo.png",Crema TV
-https://cdnjktidc01.transvision.co.id/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd
-
+http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+'https://cdnjktidc01.transvision.co.id/live/master/1/4028c6858afb4c71018b03c17d371528/manifest.mpd
 
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="ENTERTAIMENT & LIFESTYLE",Warner TV
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
