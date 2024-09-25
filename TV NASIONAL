@@ -5132,7 +5132,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 #EXTINF:-1 group-title="ENTERTAIMENT & LIFESTYLE" tvg-logo="https://www.transvision.co.id/img/channel/new/COOKING%20TV.png",Cooking TV
 https://cdnjktidc01.transvision.co.id/live/master/4/4028c68582449a2e0182597009c021ef/manifest.mpd
 
-#EXTINF:-1 group-title="DENTERTAIMENT & LIFESTYLE" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo.png" tvg-id="127" , crema.tv
+#EXTINF:-1 group-title="ENTERTAIMENT & LIFESTYLE" tvg-logo="https://crema.tv/wp-content/uploads/2022/04/cremaTV-Logo.png" tvg-id="127" , crema.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h202/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=crema.tv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="ENTERTAIMENT & LIFESTYLE",Warner TV
