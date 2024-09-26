@@ -1144,3 +1144,166 @@ http://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/ou
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
 
+==========================KINGTV (VIP SPRTS 2)=====================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/ykmgPdv/vip-sport.png"
+
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 1 EN  HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 1 EN  HD
+http://tvking.xyz:8080/live/456123/456123/27469.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 1 FR  HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 1 FR  HD
+http://tvking.xyz:8080/live/456123/456123/27471.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 1 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 1 HD
+http://tvking.xyz:8080/live/456123/456123/27457.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 2 FR HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 2 FR HD
+http://tvking.xyz:8080/live/456123/456123/27472.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 2 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 2 HD
+http://tvking.xyz:8080/live/456123/456123/27459.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 3 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 3 HD
+http://tvking.xyz:8080/live/456123/456123/27460.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 4 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 4 HD
+http://tvking.xyz:8080/live/456123/456123/27461.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 5  HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 5  HD
+http://tvking.xyz:8080/live/456123/456123/27462.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 6 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 6 HD
+http://tvking.xyz:8080/live/456123/456123/27463.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 7 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 7 HD
+http://tvking.xyz:8080/live/456123/456123/27464.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 8 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 8 HD
+http://tvking.xyz:8080/live/456123/456123/27465.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport 9 HD" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport 9 HD
+http://tvking.xyz:8080/live/456123/456123/27466.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport XTRA 1" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport XTRA 1
+http://tvking.xyz:8080/live/456123/456123/27467.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="|AR.BEIN| Sport XTRA 2" tvg-logo="https://seeklogo.com/images/B/bein-sport-1-logo-9DADBC761B-seeklogo.com.png" group-title="BEIN SPORT",Bein Sport XTRA 2
+http://tvking.xyz:8080/live/456123/456123/27468.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Bola 1" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="BEIN SPORT",Arena Bola 1
+http://tvking.xyz:8080/live/456123/456123/18863.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Bola 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="BEIN SPORT",Arena Bola 2
+http://tvking.xyz:8080/live/456123/456123/18864.ts
+#EXTINF:-1 tvg-id="AstroArenaBola" tvg-name="Arena Bola SPECIAL LIVE" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="BEIN SPORT",Arena Bola SPECIAL LIVE
+http://tvking.xyz:8080/live/456123/456123/19067.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Arena Bola SPECIAL LIVE 2" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/486_144.png" group-title="BEIN SPORT",Arena Bola SPECIAL LIVE 2
+http://tvking.xyz:8080/live/456123/456123/19068.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 5 EPL" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="BEIN SPORT",Champion 5 EPL
+http://tvking.xyz:8080/live/456123/456123/15875.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Champion 6 EPL" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="BEIN SPORT",Champion 6 EPL
+http://tvking.xyz:8080/live/456123/456123/15876.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="EPL 3" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",EPL 3
+http://tvking.xyz:8080/live/456123/456123/18408.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUB 1" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/953/367/original/king-tv-logo-design-template-free-vector.jpg" group-title="BEIN SPORT",HUB 1
+http://tvking.xyz:8080/live/456123/456123/20385.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="HUB 2" tvg-logo="https://static.vecteezy.com/system/resources/previews/010/953/367/original/king-tv-logo-design-template-free-vector.jpg" group-title="BEIN SPORT",HUB 2
+http://tvking.xyz:8080/live/456123/456123/20386.ts
+#EXTINF:-1 tvg-id="701" tvg-name="LALIGA" tvg-logo="https://seeklogo.com/images/L/la-liga-logo-C23E08636C-seeklogo.com.png" group-title="BEIN SPORT",LALIGA
+http://tvking.xyz:8080/live/456123/456123/7171.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 1 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",LIGA ARAB SSC Sports 1 ᴴᴰ
+http://tvking.xyz:8080/live/456123/456123/20454.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 2 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",LIGA ARAB SSC Sports 2 ᴴᴰ
+http://tvking.xyz:8080/live/456123/456123/20455.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 3 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",LIGA ARAB SSC Sports 3 ᴴᴰ
+http://tvking.xyz:8080/live/456123/456123/20456.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 4 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",LIGA ARAB SSC Sports 4 ᴴᴰ
+http://tvking.xyz:8080/live/456123/456123/20457.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="LIGA ARAB SSC Sports 5 ᴴᴰ" tvg-logo="https://cdn-icons-png.flaticon.com/512/4768/4768748.png" group-title="BEIN SPORT",LIGA ARAB SSC Sports 5 ᴴᴰ
+http://tvking.xyz:8080/live/456123/456123/20458.ts
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[A]" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="BEIN SPORT",Astro Arena[A]
+http://tvking.xyz:8080/live/456123/456123/7156.ts
+#EXTINF:-1 tvg-id="801" tvg-name="MY: Astro Arena[B]" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9DvC.png" group-title="BEIN SPORT",Astro Arena[B]
+http://tvking.xyz:8080/live/456123/456123/7157.ts
+#EXTINF:-1 tvg-id="AstroArena2" tvg-name="MY:Arena 2" tvg-logo="https://cdn1.postimg.pro/file/babepics/2023/10/11/P9pR8.png" group-title="BEIN SPORT",Arena 2
+http://tvking.xyz:8080/live/456123/456123/8648.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RTM LIVE FINAL1" tvg-logo="https://i.ibb.co.com/tPDtQhs/SUKAN-RTM.png" group-title="BEIN SPORT",RTM LIVE FINAL1
+http://tvking.xyz:8080/live/456123/456123/27320.ts
+#EXTINF:-1 tvg-id="RTM Sports" tvg-name="MY:RTM Sport FHD" tvg-logo="https://i.ibb.co.com/tPDtQhs/SUKAN-RTM.png" group-title="BEIN SPORT",RTM Sport FHD
+http://tvking.xyz:8080/live/456123/456123/7155.ts
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY:  WWE [A]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="BEIN SPORT", WWE [A]
+http://tvking.xyz:8080/live/456123/456123/7169.ts
+#EXTINF:-1 tvg-id="WWE.Network.HD.my" tvg-name="MY: WWE [B]" tvg-logo="https://i.ibb.co/v31x13p/wwe.png" group-title="BEIN SPORT",WWE [B]
+http://tvking.xyz:8080/live/456123/456123/7170.ts
+#EXTINF:-1 tvg-id="822" tvg-name="MY: Astro Golf" tvg-logo="https://i.ibb.co.com/tDkLv4n/ASTRO-GOLF.png" group-title="BEIN SPORT",Astro Golf
+http://tvking.xyz:8080/live/456123/456123/7516.ts
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="MY: Astro Cricket" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/Astro_Cricket_Logo_2.png" group-title="BEIN SPORT",Astro Cricket
+http://tvking.xyz:8080/live/456123/456123/7517.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="RedBull Tv" tvg-logo="https://m.media-amazon.com/images/I/51FTAL9cx7L.png" group-title="BEIN SPORT",RedBull Tv
+http://tvking.xyz:8080/live/456123/456123/7186.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="UFC Fight" tvg-logo="https://m.media-amazon.com/images/I/51-yS2agheL._SL1310_.jpg" group-title="BEIN SPORT",UFC Fight
+http://tvking.xyz:8080/live/456123/456123/7187.ts
+#EXTINF:-1 tvg-id="818" tvg-name="MY:Bein Sports 1" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="BEIN SPORT",Bein Sports 1
+http://tvking.xyz:8080/live/456123/456123/8414.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="MY:Bein Sports 2" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="BEIN SPORT",Bein Sports 2
+http://tvking.xyz:8080/live/456123/456123/20773.ts
+#EXTINF:-1 tvg-id="819" tvg-name="MY:Bein Sports 3" tvg-logo="https://www.seekpng.com/png/full/309-3092684_bein-sports-connect-launches-on-roku-streaming-devices.png" group-title="BEIN SPORT",Bein Sports 3
+http://tvking.xyz:8080/live/456123/456123/8413.ts
+
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="BEIN SPORT",Astro Super Sport 1
+http://tvking.xyz:8080/live/456123/456123/8416.ts
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="BEIN SPORT",Astro Super Sport 2
+http://tvking.xyz:8080/live/456123/456123/8417.ts
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="BEIN SPORT",Astro Super Sport 3
+http://tvking.xyz:8080/live/456123/456123/8418.ts
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="BEIN SPORT",Astro Super Sport 4
+http://tvking.xyz:8080/live/456123/456123/8419.ts
+#EXTINF:-1 tvg-id="LongLongFun" tvg-name="MY: Astro Super Sport 5" tvg-logo="https://i.ibb.co/1bYD50N/assp.png" group-title="BEIN SPORT",Astro Super Sport 5
+http://tvking.xyz:8080/live/456123/456123/8649.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="BEIN SPORT",Spotv 1
+http://tvking.xyz:8080/live/456123/456123/8650.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Spotv 2" tvg-logo="https://i.imgur.com/iVs0Awh.png" group-title="BEIN SPORT",Spotv 2
+http://tvking.xyz:8080/live/456123/456123/11832.ts
+#EXTINF:-1 tvg-id="beINSports1.id" tvg-name="BEIN SPORT 1 ID" tvg-logo="https://i.ibb.co/vBYkNyY/htdty.png" group-title="BEIN SPORT",SPOTV 1 ID
+http://tvking.xyz:8080/live/456123/456123/8651.ts
+#EXTINF:-1 tvg-id="beINSports2.id" tvg-name="BEIN SPORT 3 ID" tvg-logo="https://i.ibb.co/x5dhF5X/RHYSY.png" group-title="BEIN SPORT",SPOTV 2 ID
+http://tvking.xyz:8080/live/456123/456123/8652.ts
+#EXTINF:-1 tvg-id="AstroSupersport" tvg-name="MY: Astro Super Sport 1(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/56d8756215a55bb4bc650428934f45d4.png" group-title="BEIN SPORT",Astro Super Sport 1(B)
+http://tvking.xyz:8080/live/456123/456123/8548.ts
+#EXTINF:-1 tvg-id="AstroSupersport2" tvg-name="MY: Astro Super Sport 2(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/601d9900ec857fb5c10762208e18f474.png" group-title="BEIN SPORT",Astro Super Sport 2(B)
+http://tvking.xyz:8080/live/456123/456123/8549.ts
+#EXTINF:-1 tvg-id="AstroSupersport3" tvg-name="MY: Astro Super Sport 3(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="BEIN SPORT",Astro Super Sport 3(B)
+http://tvking.xyz:8080/live/456123/456123/8550.ts
+#EXTINF:-1 tvg-id="AstroSupersport4" tvg-name="MY: Astro Super Sport 4(B)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="BEIN SPORT",Astro Super Sport 4(B)
+http://tvking.xyz:8080/live/456123/456123/8551.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Eurosport" tvg-logo="https://imgresizer.eurosport.com/unsafe/1200x1200/smart/filters:format(jpeg)/origin-imgresizer.eurosport.com/2015/11/12/1731323-36624686-2560-1440.png" group-title="BEIN SPORT",Eurosport
+http://tvking.xyz:8080/live/456123/456123/19745.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 1" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN1HD_23oct_masthead_logo.png" group-title="BEIN SPORT",Sony Sports 1
+http://tvking.xyz:8080/live/456123/456123/12989.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 2" tvg-logo="https://origin-staticv2.sonyliv.com/masthead_logo/Sony_TEN2HD_23oct_masthead_logo.png" group-title="BEIN SPORT",Sony Sports 2
+http://tvking.xyz:8080/live/456123/456123/12990.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 3" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="BEIN SPORT",Sony Sports 3
+http://tvking.xyz:8080/live/456123/456123/12991.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="Sony Sports 4" tvg-logo="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7519b96c-71f8-4040-82d4-c80e18384f1b/dejwe2t-a3f72e36-9bdb-4247-acd1-e78f3d3d2aed.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwia" group-title="BEIN SPORT",Sony Sports 4
+http://tvking.xyz:8080/live/456123/456123/12988.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT MAXIMO" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT MAXIMO
+http://tvking.xyz:8080/live/456123/456123/12738.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT WWE" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT WWE
+http://tvking.xyz:8080/live/456123/456123/12739.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT CRICKET" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT CRICKET
+http://tvking.xyz:8080/live/456123/456123/12740.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT LA LIGA" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT LA LIGA
+http://tvking.xyz:8080/live/456123/456123/12741.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT RUGBY" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT RUGBY
+http://tvking.xyz:8080/live/456123/456123/12742.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT VARIETY 1" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT VARIETY 1
+http://tvking.xyz:8080/live/456123/456123/12743.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT VARIETY 2" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT VARIETY 2
+http://tvking.xyz:8080/live/456123/456123/12744.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT VARIETY 3" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT VARIETY 3
+http://tvking.xyz:8080/live/456123/456123/12745.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT VARIETY 4" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT VARIETY 4
+http://tvking.xyz:8080/live/456123/456123/12746.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT GRANDSTAND" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT GRANDSTAND
+http://tvking.xyz:8080/live/456123/456123/12747.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT PREMIER LEAGUE" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT PREMIER LEAGUE
+http://tvking.xyz:8080/live/456123/456123/12748.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT FOOTBALL" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT FOOTBALL
+http://tvking.xyz:8080/live/456123/456123/12749.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORTS PSL" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORTS PSL
+http://tvking.xyz:8080/live/456123/456123/12750.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT BLITZ" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT BLITZ
+http://tvking.xyz:8080/live/456123/456123/12752.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT TENNIS" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT TENNIS
+http://tvking.xyz:8080/live/456123/456123/12753.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORTS ACTION" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORTS ACTION
+http://tvking.xyz:8080/live/456123/456123/12754.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT GOLF" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT GOLF
+http://tvking.xyz:8080/live/456123/456123/12755.ts
+#EXTINF:-1 tvg-id="(no tvg-id)" tvg-name="SUPERSPORT MOTORSPORT" tvg-logo="http://www.techzim.co.zw/wp-content/uploads/2014/07/new27494.jpg" group-title="BEIN SPORT",SUPERSPORT MOTORSPORT
+http://tvking.xyz:8080/live/456123/456123/12756.ts
