@@ -669,18 +669,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 //Collected by @mimipipi22 menampilkan playlist >>> TV ANAK
 //========================================================================
 
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="TV ANAK",Moonbug (V+)
-https://cempedak-live-cdn.mncnow.id/live/eds/Moonbug/sa_dash_vmx/Moonbug.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
-#EXTVLCOPT:http-referrer=https://visionplus.id
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/baby_tv.png" group-title="TV ANAK",Moonbug (V+🟦)
-https://cempedak-live-cdn.mncnow.id/live/eds/Moonbug/sa_dash_vmx/Moonbug.mpd
-#https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
+#EXTINF:-1 tvg-id="618.astro" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="TV ANAK",Moonbug
+https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=ZGZjMjFhNzUtMjY3ZC0zYWQ2LWI1N2ItMjdiNjRkOTBiMzFj
@@ -880,12 +870,6 @@ https://streaming.indihometv.com/atm/DASH/indikids/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="TV ANAK",Mentari (INDI)
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=MaxStreamPlayer/3.1.4 (Linux;Android 12) ExoPlayerLib/2.9.6
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png" group-title="TV ANAK",Moonbug (INDI)
-https://cdn09jtedge.indihometv.com/joss/134/moonbug/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_moonbug_ver1.png" group-title="TV ANAK",Moonbug
 https://moonbug-rokuus.amagi.tv/playlist.m3u8
