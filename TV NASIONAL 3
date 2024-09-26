@@ -1505,16 +1505,14 @@ http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/3645.m3u8
 http://myteve.online:8080/live/GenIptv2023/XkgMCdR7PJzShK5m/1515.ts
 #http://vo01.mohdtv.com:8880//live/ALLChannels681def1ca5ec/20314810/29368.ts
 
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORT", Eleven 1 Portugal
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 1.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORT", Eleven 1 Portugal
 https://webhdrunns.mizhls.ru/lb/premium455/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORT",Eleven 2 Portugal
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 2.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORT",Eleven 2 Portugal
 https://webhdrunns.mizhls.ru/lb/premium456/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORT", Eleven 3 Portugal
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 3.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORT", Eleven 3 Portugal
 https://webhdrunns.mizhls.ru/lb/premium457/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://i.ibb.co/tQx6Zzk/daznxeleven.png" group-title="ELEVEN SPORT", Eleven 4 Portugal
+#EXTINF:-1 tvg-id="ELEVEN SPORTS 4.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORT", Eleven 4 Portugal
 https://webhdrunns.mizhls.ru/lb/premium458/index.m3u8 |referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1 tvg-id="ELEVEN SPORTS 5.pt" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/Eleven_Sports.png/320px-Eleven_Sports.png" group-title="ELEVEN SPORT", Eleven 5 Portugal
 https://webhdrunns.mizhls.ru/lb/premium459/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
-
-
 
