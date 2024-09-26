@@ -45,10 +45,11 @@ https://flv.intechmedia.net/live/ch108.m3u8
 https://flv.intechmedia.net/live/ch107.m3u8
  
 #EXTINF:-1 tvg-id="NET TV" tvg-logo="https://iili.io/JMp3URR.png" group-title="TV NASIONAL",NET.
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+'#KODIPROP:inputstream.adaptive.license_type=clearkey
+'#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+'#EXTVLCOPT:http-referrer=https://visionplus.id/
+'https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+https://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
  
 #EXTINF:-1 tvg-id="RTV" tvg-logo="https://iili.io/JMp3PVt.png" group-title="TV NASIONAL",RTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
