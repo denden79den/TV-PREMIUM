@@ -18,31 +18,37 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
  
-#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" group-title="TV NASIONAL",SCTV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
+#EXTINF:-1 tvg-id="SCTVHD.id" tvg-logo="https://iili.io/JMp3iiX.png" group-title="TV NASIONAL", SCTV HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
+https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
  
-#EXTINF:-1 tvg-id="Indosiar" tvg-logo="https://iili.io/JMp3wV1.png" group-title="TV NASIONAL",Indosiar
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
- 
+#EXTINF:-1 tvg-id="IndosiarHD.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="TV NASIONAL", Indosiar
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
+
 #EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="TV NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
  
-#EXTINF:-1 tvg-id="TRANS TV" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="TV NASIONAL",Trans TV
-https://video.detik.com/transtv/smil:transtv.smil/chunklist_w962267898_b744100_sleng.m3u8
+#EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="TV NASIONAL",Trans TV
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
  
-#EXTINF:-1 tvg-id="Trans7" tvg-logo="https://iili.io/JMp3Qls.png" group-title="TV NASIONAL",Trans 7
-https://video.detik.com/trans7/smil:trans7.smil/chunklist_w1791373024_b744100_sleng.m3u8
+#EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="TV NASIONAL",Trans 7
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/
+
  
 #EXTINF:-1 tvg-id="ANTV" tvg-logo="https://iili.io/JMp31cb.png" group-title="TV NASIONAL",ANTV
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch108.m3u8
  
-#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" group-title="TV NASIONAL",VTV
-#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
-https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 group-title="TV NASIONAL" tvg-logo="https://iili.io/JMp3pb2.png",VTV
+https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
  
 #EXTINF:-1 tvg-id="NET TV" tvg-logo="https://iili.io/JMp3URR.png" group-title="TV NASIONAL",NET.
 '#KODIPROP:inputstream.adaptive.license_type=clearkey
