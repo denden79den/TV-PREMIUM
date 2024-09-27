@@ -2004,3 +2004,10 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
+
+
+============================TES=================================
+
+#EXTINF:-1 group-title="TES" tvg-logo="https://iili.io/JMp3pb2.png",TES 1
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34327
+ 
