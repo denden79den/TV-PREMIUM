@@ -42,10 +42,10 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.m
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/
 
-#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://i.ibb.co.com/fCQkvry/Trans-7.png" group-title="1. TV NASIONAL",TRANS 7 HD (INDI)
+#EXTINF:-1 tvg-name="TRANS 7" tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV NASIONAL",TRANS 7 HD (INDI)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/fCQkvry/Trans-7.png" group-title="1. TV NASIONAL",TRANS 7 (TRANS)
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV NASIONAL",TRANS 7 (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
