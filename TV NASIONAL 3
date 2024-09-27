@@ -2008,6 +2008,10 @@ https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 ============================TES=================================
 
-#EXTINF:-1 group-title="TES" tvg-logo="https://iili.io/JMp3pb2.png",TES 1
+#EXTINF:-1 group-title="TES" tvg-logo="https://iili.io/JMp3pb2.png",INDOSIAR 1
 http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34327
+
+#EXTINF:-1 group-title="TES" tvg-logo="https://iili.io/JMp3pb2.png",TRANS 7
+http://vipgsiv.top:8080/VIP0134169902920032/67da097bc5be/34325
+
  
