@@ -207,133 +207,133 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 ==================================FILM BARAT=============================
 
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/mycine.png" , MY CINEMA
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/mycine.png" , MY CINEMA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/mycineasia.png" , MY CINEMA ASIA
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/mycineasia.png" , MY CINEMA ASIA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/myfam.png" , MY FAMILY
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/myfam.png" , MY FAMILY
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
 https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/rockact.png" , ROCK ACTION
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/rockact.png" , ROCK ACTION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachi.png" , CINEMACHI
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachi.png" , CINEMACHI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachikids.png" , CINEMACHI KIDS
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachikids.png" , CINEMACHI KIDS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachiaction.png" , CINEMACHI ACTION
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachiaction.png" , CINEMACHI ACTION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachimax.png" , CINEMACHI MAX
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachimax.png" , CINEMACHI MAX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/cinemachixtra.png" , CINEMACHI XTRA
+#EXTINF:-1 group-title="6. FILM BARAT" vg-logo="http://guki.my.id/logo/movie/cinemachixtra.png" , CINEMACHI XTRA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/paramount.png" , PARAMOUNT
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/paramount.png" , PARAMOUNT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
 https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/galaxypremium.png" , GALAXY PREMIUM
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/galaxypremium.png" , GALAXY PREMIUM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
 https://cempedak-live-cdn.mncnow.id/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/galaxy.png" , GALAXY
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/galaxy.png" , GALAXY
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
 https://cempedak-live-cdn.mncnow.id/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" , THRILL
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" , THRILL
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
 https://cempedak-live-cdn.mncnow.id/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/celmov.png" , CELESTIAL MOVIE
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/celmov.png" , CELESTIAL MOVIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/ccm.png" , CELESTIAL CLASSIC
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/ccm.png" , CELESTIAL CLASSIC
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
 https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/zee.png" , ZEE BIOSKOP
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/zee.png" , ZEE BIOSKOP
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
 https://cempedak-live-cdn.mncnow.id/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/tvn2.png" , TVN
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/tvn2.png" , TVN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
 https://cempedak-live-cdn.mncnow.id/live/eds/tvN/sa_dash_vmx/tvN.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hitsmov.png" , HITS MOVIE
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/hitsmov.png" , HITS MOVIE
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://cempedak-live-cdn.mncnow.id/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
  
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/hits.png" , HITS
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/hits.png" , HITS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
 https://cempedak-live-cdn.mncnow.id/live/eds/HITS/sa_dash_vmx/HITS.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/kix.png" , KIX
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/kix.png" , KIX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
 https://cempedak-live-cdn.mncnow.id/live/eds/KIX/sa_dash_vmx/KIX.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/tvn.png" , TVN MOVIES
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/tvn.png" , TVN MOVIES
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
 https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nxUUfGevs7e36rE3dZ4woR5QEW8sFtb-rg&usqp=CAU" , CINEMA WORLD
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nxUUfGevs7e36rE3dZ4woR5QEW8sFtb-rg&usqp=CAU" , CINEMA WORLD
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -342,25 +342,25 @@ https://cempedak-live-cdn.mncnow.id/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016d0555b83e37a3/manifest.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/visiprime.png" group-title="5. FILM INDONESIA", VISION PRIME
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/visiprime.png" group-title="5. FILM INDONESIA", VISION PRIME
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
-EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/oktv.png" , OKTV
+EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/oktv.png" , OKTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 https://cempedak-live-cdn.mncnow.id/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
 
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/axn.png" , AXN
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/axn.png" , AXN
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
 https://cempedak-live-cdn.mncnow.id/live/eds/AXN/sa_dash_vmx/AXN.mpd
  
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/rockenter.png" , ROCK ENTERTAINMENT
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/rockenter.png" , ROCK ENTERTAINMENT
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -369,35 +369,35 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Rockentertainment/sa_dash_vmx/Rocke
 ============================================================================================================ CUBMU ============================================================================================================
 =========================================================================================================== CUBMU ============================================================================================================
 
-#EXTINF:-1  group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", HBO
+#EXTINF:-1  group-title="6. FILM BARAT" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", HBO
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
-#EXTINF:-1  group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature
+#EXTINF:-1  group-title="6. FILM BARAT" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", HBO Signature
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1  group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", HBO Hits
+#EXTINF:-1  group-title="6. FILM BARAT" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", HBO Hits
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
-#EXTINF:-1  group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", HBO Family
+#EXTINF:-1  group-title="6. FILM BARAT" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", HBO Family
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://trans.androidteve.workers.dev/pukgeruk
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
-#EXTINF:-1  group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", Cinemax
+#EXTINF:-1  group-title="6. FILM BARAT" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", Cinemax
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Xstream XGO/1.22 (Linux;Android 9) ExoPlayerLib/2.10.5
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -405,21 +405,21 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
 
-#EXTINF:0 tvg-id="CitraBioskop.id" tvg-name=""  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtctbjnECdTrPKZPWZn5biQDHlqONSTYEDpI7YkLt&s",Citra Bioskop 
+#EXTINF:0 group-title="6. FILM BARAT" tvg-id="CitraBioskop.id" tvg-name=""  group-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8f/First_Media_logo.svg/1200px-First_Media_logo.svg.png" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTFtctbjnECdTrPKZPWZn5biQDHlqONSTYEDpI7YkLt&s",Citra Bioskop 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key={ "keys":[ { "kty":"oct", "k":"KXyXli/42emfHaF46gCD7A", "kid":"lHiLyTcFQJCyFtwQHl+l3A" } ], "type":"temporary" }
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1 tvg-logo="https://iptvsystem.my.id/img/hbo.png" ,HBO (Maxstream)
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="https://iptvsystem.my.id/img/hbo.png" ,HBO (Maxstream)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5a618decb92b335182b1d4f9ca579d89:87c4a95dff921cf355535024167696bd
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO Hits (Maxstream)
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO Hits (Maxstream)
 #EXTVLCOPT:http-referrer=https://maxstream.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
