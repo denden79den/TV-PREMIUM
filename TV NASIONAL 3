@@ -1919,7 +1919,7 @@ https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport3_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Spo
 #KODIPROP:inputstream.adaptive.license_key=e4515ae969cb46ae89997c8308b70e4d:bdc640533aac8955a6293158210e0a7d
 https://cdnlb.tvplayhome.lt/live/eds/TV3_Sport4_HD_HVC/GO3_LIVE_DASH_AVC/TV3_Sport4_HD_HVC.mpd
 
-#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="9. SPORT EUROPE" tvg-logo="https://i.ibb.co.com/F0jTVwQ/premierebr.png", PREMIERE 🇧🇷
+#EXTINF:-1 tvg-name="Premiere Clubes.br" group-title="9. SPORT EUROPE" tvg-logo="https://i.ibb.co.com/F0jTVwQ/premierebr.png", PREMIERE 1 🇧🇷
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=d98239180d8380b3a1bb28d875b1ddf2:cf836ced579257d1c76ae8809818e6c4
