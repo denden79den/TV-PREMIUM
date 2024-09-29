@@ -1057,7 +1057,7 @@ https://desah.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoialZZT3pTYkoiLCJyZW
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GtWc3tQ/SOCCER-CHANNEL.png",SOCCER Cannel
-#EXTGRP: SPORT INDONESIA
+#EXTGRP: VISION+ SPORT
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
 https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
@@ -1104,12 +1104,6 @@ https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN04/sa_dash_vmx/BEIN04.mpd
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
 #EXTINF:-1 tvg-id="beINSports5" group-title="9. VISION+ SPORT" tvg-logo="https://www.visionplus.id/images/repository/898/198898-LOGO-m.png", beIN Sports 5 (VISION+) 
 https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN05/sa_dash_vmx/BEIN05.mpd
-
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
-#EXTINF:-1 tvg-id="Eurosport" group-title="Sports" tvg-logo="https://iili.io/JmozxBR.png",Eurosport Asia
-https://atemecdnbalancer-voe.sysln.id/live/eds/EUROSPORTHD/mpd/EUROSPORTHD.mpd
-
 
 =================================VIDIO SPORT=================================
 
@@ -1201,4 +1195,68 @@ https://chiva.my.id/sc/avid/play.m3u8?id=205&type=hls
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 https://chiva.my.id/sc/avid/play.m3u8?id=206&type=hls
 
+=======================ASTROSPORT (HOMETV)=================================
+
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYKhxv6at-8lx_sw6WoLLow.png" group-title="11.MY | ASTRO SPORTS",ASSP 1
+https://play-gachor.online/tv_948372/73tG5fyUkK/332
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCRqtsweGESLsr699PBBhmA.png" group-title="11.MY | ASTRO SPORTS",ASSP 2
+https://play-gachor.online/tv_948372/73tG5fyUkK/333
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 3" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkXdxhInPtNn3K3Fy4LaGF9Q.png" group-title="11.MY | ASTRO SPORTS",ASSP 3
+https://play-gachor.online/tv_948372/73tG5fyUkK/334
+#EXTINF:-1 tvg-id="" tvg-name="ASSP 4" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkqfWwdF68b82nxuLx1p2sAA.png" group-title="11.MY | ASTRO SPORTS",ASSP 4
+https://play-gachor.online/tv_948372/73tG5fyUkK/335
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 1" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8xscf2M1VVbW4HoZrvSrmJxgvwZC50nUggG_d-VOKoQ.png" group-title="11.MY | ASTRO SPORTS",ASTRO ARENA 1
+https://play-gachor.online/tv_948372/73tG5fyUkK/336
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk8xscf2M1VVbW4HoZrvSrmJxgvwZC50nUggG_d-VOKoQ.png" group-title="11.MY | ASTRO SPORTS",ASTRO ARENA 2
+https://play-gachor.online/tv_948372/73tG5fyUkK/337
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 1 MY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="11.MY | ASTRO SPORTS",beIN SPORTS 1 MY
+https://play-gachor.online/tv_948372/73tG5fyUkK/338
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 2 MY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="11.MY | ASTRO SPORTS",beIN SPORTS 2 MY
+https://play-gachor.online/tv_948372/73tG5fyUkK/339
+#EXTINF:-1 tvg-id="" tvg-name="beIN SPORTS 3 MY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCMhAgUm-RCjxQ5jOV1XZQQ.png" group-title="11.MY | ASTRO SPORTS",beIN SPORTS 3 MY
+https://play-gachor.online/tv_948372/73tG5fyUkK/340
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 1 MY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkc_kGc4Zurs3J6OMCJZu-WQ.png" group-title="11.MY | ASTRO SPORTS",SPO TV 1 MY
+https://play-gachor.online/tv_948372/73tG5fyUkK/341
+#EXTINF:-1 tvg-id="" tvg-name="SPO TV 2 MY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIHwMZyAVBpAdMJNcaj7mvQ.png" group-title="11.MY | ASTRO SPORTS",SPO TV 2 MY
+https://play-gachor.online/tv_948372/73tG5fyUkK/342
+#EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk0hlE48Jx7wDAXfBzNTUKmBw_MhAzOW19_HZkCuQq_f4.png" group-title="11.MY | ASTRO SPORTS",ASTRO CRICKET
+https://play-gachor.online/tv_948372/73tG5fyUkK/5470
+#EXTINF:-1 tvg-id="" tvg-name="PREMIER SPORTS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk2ubKacQgvtFbrl4ZaOEW5flumsLJ235uVhDnZ7pBz_E.png" group-title="11.MY | ASTRO SPORTS",PREMIER SPORTS
+https://play-gachor.online/tv_948372/73tG5fyUkK/3763
+#EXTINF:-1 tvg-id="" tvg-name="W-SPORTS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIAybu-ReezWii0LReFwRLQ.png" group-title="11.MY | ASTRO SPORTS",W-SPORTS
+https://play-gachor.online/tv_948372/73tG5fyUkK/3764
+#EXTINF:-1 tvg-id="" tvg-name="SUKAN RTM" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKk_VnY9rl_lcOR1S6rLS2VQQ.png" group-title="11.MY | ASTRO SPORTS",SUKAN RTM
+https://play-gachor.online/tv_948372/73tG5fyUkK/345
+
+
+=========================TNT SPORT (HOME TV)==============================
+
+#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12.UK | TNT SPORTS",TNT 1 HD
+https://play-gachor.online/tv_948372/73tG5fyUkK/369
+#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12.UK | TNT SPORTS",TNT 2 HD
+https://play-gachor.online/tv_948372/73tG5fyUkK/370
+#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12.UK | TNT SPORTS",TNT 3 HD
+https://play-gachor.online/tv_948372/73tG5fyUkK/371
+#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12.UK | TNT SPORTS",TNT 4 HD
+https://play-gachor.online/tv_948372/73tG5fyUkK/372
+
+
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 1 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 1 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5414
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 2 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 2 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5415
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 3 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 3 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5416
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 4 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 4 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5453
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 5 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 5 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5454
+#EXTINF:-1 tvg-id="" tvg-name="EPL - 6 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 6 (Live Match Only)
+https://play-gachor.online/tv_948372/73tG5fyUkK/5455
+#EXTINF:-1 tvg-id="" tvg-name="Sky Sports Premier" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="13. PREMIER LEAGUE",Sky Sports Premier
+https://play-gachor.online/tv_948372/73tG5fyUkK/346
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="13. PREMIER LEAGUE",SuperSport Premier League
+https://play-gachor.online/tv_948372/73tG5fyUkK/355
+#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkIxw9uFtTRmdiBat8vJs1n4QE_9wJiD-s_qFJxRk-pu0.png" group-title="13. PREMIER LEAGUE",SuperSport Football
+https://play-gachor.online/tv_948372/73tG5fyUkK/356
 
