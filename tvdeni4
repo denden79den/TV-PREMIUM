@@ -104,6 +104,50 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="1. TV NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
+===============================1.1 TV NASIONAL===================
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="1.1 TV NASIONAL",TRANS 7
+https://play-gachor.online/tv_948372/73tG5fyUkK/3
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="1.1 TV NASIONAL",TRANS TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/4
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="1.1 TV NASIONAL",INDOSIAR
+https://play-gachor.online/tv_948372/73tG5fyUkK/5
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="1.1 TV NASIONAL",SCTV
+https://play-gachor.online/tv_948372/73tG5fyUkK/6
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="1.1 TV NASIONAL",RCTI
+https://play-gachor.online/tv_948372/73tG5fyUkK/7
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="1.1 TV NASIONAL",MNC TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/8
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="1.1 TV NASIONAL",GTV
+https://play-gachor.online/tv_948372/73tG5fyUkK/9
+#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="1.1 TV NASIONAL",iNEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/10
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="1.1 TV NASIONAL",ANTV
+https://play-gachor.online/tv_948372/73tG5fyUkK/11
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="1.1 TV NASIONAL",TV ONE
+https://play-gachor.online/tv_948372/73tG5fyUkK/12
+#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqEYM5QLVAShBtZ2GQRxWHiw.png" group-title="1.1 TV NASIONAL",NET TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/13
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="1.1 TV NASIONAL",METRO TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/14
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="1.1 TV NASIONAL",KOMPAS TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/15
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="1.1 TV NASIONAL",RTV
+https://play-gachor.online/tv_948372/73tG5fyUkK/16
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="1.1 TV NASIONAL",BERITA SATU
+https://play-gachor.online/tv_948372/73tG5fyUkK/17
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="1.1 TV NASIONAL",TVRI
+https://play-gachor.online/tv_948372/73tG5fyUkK/18
+#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="1.1 TV NASIONAL",SINDO NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/19
+#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="1.1 TV NASIONAL",CNN INDONESIA
+https://play-gachor.online/tv_948372/73tG5fyUkK/20
+#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="1.1 TV NASIONAL",CNBC INDONESIA
+https://play-gachor.online/tv_948372/73tG5fyUkK/21
+
+
 
 ============================BERITA===============================
 
