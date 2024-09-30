@@ -35,12 +35,9 @@ http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="1. TV NASIONAL",INDOSIAR
 http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/162138
            
-
-
-
-#EXTINF:-1 tvg-id="Moji" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="1. TV NASIONAL",Moji
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/117.0.0.0 Safari/537.36
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 tvg-id="Moji" group-title="1. TV NASIONAL" tvg-logo="https://iili.io/JMp3vUJ.png",MOJI 
+http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
+http://iptvtree.net:8080/everton/7def2e7e/298550
  
 #EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV NASIONAL",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
