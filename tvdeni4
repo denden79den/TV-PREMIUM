@@ -153,6 +153,8 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/215
 
 ============================BERITA===============================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/C1DhvY5/tv-berita-2.png"
+
 #EXTINF:-1 tvg-id="Metro TV" tvg-logo="https://iili.io/JV3xZtS.png" group-title="2. TV BERITA",Metro TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
@@ -215,6 +217,8 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 https://flv.intechmedia.net/live/ch112.m3u8
 
 ==========================TV BERITA 2=====================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/C1DhvY5/tv-berita-2.png"
 
 #EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="2. TV BERITA 2",CNN INTERNATIONAL
 https://play-gachor.online/tv_948372/73tG5fyUkK/22
@@ -712,6 +716,8 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
 
 ===========================KNOWLADGE (HOMETV)============================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/16RyGhr/tv-knowladge.png",
 
 #EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="4. KNOWLEDGE",DISCOVERY CHANNEL
 https://play-gachor.online/tv_948372/73tG5fyUkK/74
