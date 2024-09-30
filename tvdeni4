@@ -257,6 +257,7 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/38
 //Collected by @mimipipi22 menampilkan playlist >>> TV ANAK
 //========================================================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/D5NsWrz/tv-anak.png",
 #EXTINF:-1 tvg-id="618.astro" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png" group-title="3. TV ANAK",Moonbug
 https://d30kp0xfvvs2gr.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/Moonbug-prod/playlist.m3u8
 
@@ -513,6 +514,8 @@ https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
 
 ================================TV ANAK 2 ===============================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/D5NsWrz/tv-anak.png",
+
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="3. TV ANAK 2",MENTARI TV
 https://play-gachor.online/tv_948372/73tG5fyUkK/114
 #EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc5fC5oCgHWlcT1tuGnGaYrg.png" group-title="3. TV ANAK 2",HOREE
@@ -707,7 +710,45 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060ac364
 #EXTINF:-1 tvg-id="OK TV - [Channel 95].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/534/172534-LOGO-m.png" group-title="4. ENTERTAIMENT & LIFESTYLE",Food Travel
 https://d1abp075u76pbq.cloudfront.net/live/eds/OKTVnow/sa_dash_vmx/OKTVnow.mpd
 
+
+===========================KNOWLADGE (HOMETV)============================
+
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="4. KNOWLEDGE",DISCOVERY CHANNEL
+https://play-gachor.online/tv_948372/73tG5fyUkK/74
+#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5A-g-8nth0gjLpbCwoLK6qmN0_mPNwoZV06JNGLNxljo.png" group-title="4. KNOWLEDGE",NATIONAL GEOGRAPHIC
+https://play-gachor.online/tv_948372/73tG5fyUkK/75
+#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5BCHTmzkkFBn7p-A8upsyDAQYkQWQJl2kGXppTgPzHQk.png" group-title="4. KNOWLEDGE",NAT GEO WILD
+https://play-gachor.online/tv_948372/73tG5fyUkK/76
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png" group-title="4. KNOWLEDGE",ANIMAL PLANET
+https://play-gachor.online/tv_948372/73tG5fyUkK/77
+#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Mgte0dIVv6s_LxUOwKeKpIRX3PyqeS3W9Ntj_vq1Gvc.png" group-title="4. KNOWLEDGE",BBC EARTH
+https://play-gachor.online/tv_948372/73tG5fyUkK/78
+#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5od3BbELuzoqG6vrnGA7bqas9yJBBX4GmWXLXgYd8s7A.png" group-title="4. KNOWLEDGE",LOVE NATURE
+https://play-gachor.online/tv_948372/73tG5fyUkK/79
+#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6EIs3hzTP9cLH1Mf_ujOHDuY.png" group-title="4. KNOWLEDGE",DISCOVERY ASIA
+https://play-gachor.online/tv_948372/73tG5fyUkK/80
+#EXTINF:-1 tvg-id="" tvg-name="EXTREME +" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R51LKTTlM4NcpWp0qNX8Fl5J6X_Nheue8WDvpCWuHAtKc.png" group-title="4. KNOWLEDGE",EXTREME +
+https://play-gachor.online/tv_948372/73tG5fyUkK/81
+#EXTINF:-1 tvg-id="" tvg-name="4k TRAVEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R58N3Zi5dBYowj3QpQWe23lG_0Ujm4e-qgJbeSyLyIEK8.png" group-title="4. KNOWLEDGE",4k TRAVEL
+https://play-gachor.online/tv_948372/73tG5fyUkK/82
+#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5P1NA-NW_gcCGmci_ZuA8ECCr-0s4L9lzVLZk7hq9zbs.png" group-title="4. KNOWLEDGE",CGTN DOCUMENTARY
+https://play-gachor.online/tv_948372/73tG5fyUkK/83
+#EXTINF:-1 tvg-id="" tvg-name="WILD PLANET" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5PxfjVrZ1q3LyCGrZFilzRE4tD77lv-xnddazmufykJA.png" group-title="4. KNOWLEDGE",WILD PLANET
+https://play-gachor.online/tv_948372/73tG5fyUkK/84
+#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5_hNj9oEraNuDu0DHbz2yicKlKS22C2q79hWQ5qF74RM.png" group-title="4. KNOWLEDGE",ADVENTURE EARTH
+https://play-gachor.online/tv_948372/73tG5fyUkK/85
+#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5j1mQqJPDkO6Jc0Fg3D2Ob7m5DruP6QjSxQgVYjcMg6Y.png" group-title="4. KNOWLEDGE",INWILD
+https://play-gachor.online/tv_948372/73tG5fyUkK/86
+#EXTINF:-1 tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5twHKLFpgjpMYtTJ74RHt8rkCNErBoE9kOy9ZXyz-1HA.png" group-title="4. KNOWLEDGE",WILD EARTH
+https://play-gachor.online/tv_948372/73tG5fyUkK/87
+#EXTINF:-1 tvg-id="" tvg-name="CLARITY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5gQulieZkiVK5f72ifGcMETMahGeNsDnwpP4JDG4-BOY.png" group-title="4. KNOWLEDGE",CLARITY
+https://play-gachor.online/tv_948372/73tG5fyUkK/88
+
+
 =============================FILM INDONESIA==============================
+
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/JRrZ1Z5/film-indonesia.png",
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="5. FILM INDONESIA",Allplay Ent
@@ -774,42 +815,9 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
 
 
-===========================KNOWLADGE (HOMETV)============================
-
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY CHANNEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6ED2K_fY5xOcTIa7ppp7fcZs.png" group-title="4. KNOWLEDGE",DISCOVERY CHANNEL
-https://play-gachor.online/tv_948372/73tG5fyUkK/74
-#EXTINF:-1 tvg-id="" tvg-name="NATIONAL GEOGRAPHIC" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5A-g-8nth0gjLpbCwoLK6qmN0_mPNwoZV06JNGLNxljo.png" group-title="4. KNOWLEDGE",NATIONAL GEOGRAPHIC
-https://play-gachor.online/tv_948372/73tG5fyUkK/75
-#EXTINF:-1 tvg-id="" tvg-name="NAT GEO WILD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5BCHTmzkkFBn7p-A8upsyDAQYkQWQJl2kGXppTgPzHQk.png" group-title="4. KNOWLEDGE",NAT GEO WILD
-https://play-gachor.online/tv_948372/73tG5fyUkK/76
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5eBDl8YVIlCopeBbMWZeVr7LA7zzlKUSb9aSVGp6MOBs.png" group-title="4. KNOWLEDGE",ANIMAL PLANET
-https://play-gachor.online/tv_948372/73tG5fyUkK/77
-#EXTINF:-1 tvg-id="" tvg-name="BBC EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5Mgte0dIVv6s_LxUOwKeKpIRX3PyqeS3W9Ntj_vq1Gvc.png" group-title="4. KNOWLEDGE",BBC EARTH
-https://play-gachor.online/tv_948372/73tG5fyUkK/78
-#EXTINF:-1 tvg-id="" tvg-name="LOVE NATURE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5od3BbELuzoqG6vrnGA7bqas9yJBBX4GmWXLXgYd8s7A.png" group-title="4. KNOWLEDGE",LOVE NATURE
-https://play-gachor.online/tv_948372/73tG5fyUkK/79
-#EXTINF:-1 tvg-id="" tvg-name="DISCOVERY ASIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5wct4Y0BmeSnffm4Qont6EIs3hzTP9cLH1Mf_ujOHDuY.png" group-title="4. KNOWLEDGE",DISCOVERY ASIA
-https://play-gachor.online/tv_948372/73tG5fyUkK/80
-#EXTINF:-1 tvg-id="" tvg-name="EXTREME +" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R51LKTTlM4NcpWp0qNX8Fl5J6X_Nheue8WDvpCWuHAtKc.png" group-title="4. KNOWLEDGE",EXTREME +
-https://play-gachor.online/tv_948372/73tG5fyUkK/81
-#EXTINF:-1 tvg-id="" tvg-name="4k TRAVEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R58N3Zi5dBYowj3QpQWe23lG_0Ujm4e-qgJbeSyLyIEK8.png" group-title="4. KNOWLEDGE",4k TRAVEL
-https://play-gachor.online/tv_948372/73tG5fyUkK/82
-#EXTINF:-1 tvg-id="" tvg-name="CGTN DOCUMENTARY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5P1NA-NW_gcCGmci_ZuA8ECCr-0s4L9lzVLZk7hq9zbs.png" group-title="4. KNOWLEDGE",CGTN DOCUMENTARY
-https://play-gachor.online/tv_948372/73tG5fyUkK/83
-#EXTINF:-1 tvg-id="" tvg-name="WILD PLANET" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5PxfjVrZ1q3LyCGrZFilzRE4tD77lv-xnddazmufykJA.png" group-title="4. KNOWLEDGE",WILD PLANET
-https://play-gachor.online/tv_948372/73tG5fyUkK/84
-#EXTINF:-1 tvg-id="" tvg-name="ADVENTURE EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5_hNj9oEraNuDu0DHbz2yicKlKS22C2q79hWQ5qF74RM.png" group-title="4. KNOWLEDGE",ADVENTURE EARTH
-https://play-gachor.online/tv_948372/73tG5fyUkK/85
-#EXTINF:-1 tvg-id="" tvg-name="INWILD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5j1mQqJPDkO6Jc0Fg3D2Ob7m5DruP6QjSxQgVYjcMg6Y.png" group-title="4. KNOWLEDGE",INWILD
-https://play-gachor.online/tv_948372/73tG5fyUkK/86
-#EXTINF:-1 tvg-id="" tvg-name="WILD EARTH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5twHKLFpgjpMYtTJ74RHt8rkCNErBoE9kOy9ZXyz-1HA.png" group-title="4. KNOWLEDGE",WILD EARTH
-https://play-gachor.online/tv_948372/73tG5fyUkK/87
-#EXTINF:-1 tvg-id="" tvg-name="CLARITY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYOocK4kiU9BpYf_yd1b8R5gQulieZkiVK5f72ifGcMETMahGeNsDnwpP4JDG4-BOY.png" group-title="4. KNOWLEDGE",CLARITY
-https://play-gachor.online/tv_948372/73tG5fyUkK/88
-
-
 ==================================FILM BARAT=============================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/fXNK76j/film-barat.png",
 
 #EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/mycine.png" , MY CINEMA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -1527,6 +1535,8 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/356
 
 
 =============================VIP SPORT (HOME TV)==========================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/D7zBhzy/vip-sport.png",
 
 #EXTINF:-1 tvg-id="" tvg-name="SPORTTV 1" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkEGylG8lm-PJ-gdSB03_kNg.png" group-title="14. VIP SPORT",SPORTTV 1
 https://play-gachor.online/tv_948372/73tG5fyUkK/373
