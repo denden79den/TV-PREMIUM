@@ -1134,6 +1134,8 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 
 ==========================TV DAERAH=======================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/mGDVy31/tv-daerah.png",
+
 #EXTINF:-1 tvg-id="" tvg-name="JOWO CHANNEL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMO7jzhKvP0wOHEBoE0tMFovVUKrCcCKjp14qPflZCjZQ.png" group-title="8. TV DAERAH",JOWO CHANNEL
 https://play-gachor.online/tv_948372/73tG5fyUkK/212
 #EXTINF:-1 tvg-id="" tvg-name="SAKTI TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMx8-82w5tddOiN9b3gL5oInOgWxhog8KwX3T22p0dhDw.png" group-title="8. TV DAERAH",SAKTI TV
@@ -1167,7 +1169,9 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/228
 #EXTINF:-1 tvg-id="" tvg-name="INSPIRA TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMlAxrjhoTrOXFU7bLiUjjHRqmX3zJ8deumSWiRllA1SQ.png" group-title="8. TV DAERAH",INSPIRA TV
 https://play-gachor.online/tv_948372/73tG5fyUkK/229
 
+============================TV DAERAH 2=================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/mGDVy31/tv-daerah.png",
 #EXTINF:-1 tvg-id="" tvg-logo="https://i.ibb.co.com/QfNWM7g/balitv.png" group-title="8. TV DAERAH 2", BALI TV 🇮🇩
 #EXTVLCOPT:http-referrer=https://visionplus.id
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
