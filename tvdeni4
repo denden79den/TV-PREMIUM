@@ -150,6 +150,8 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/21
 https://play-gachor.online/tv_948372/73tG5fyUkK/305
 #EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="1. TV NASIONAL 2",MENTARI TV
 https://play-gachor.online/tv_948372/73tG5fyUkK/114
+#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMnLsokFnMcOsPsr3vsA3pxgFnb0nZQ3dfPSb61k6B98E.png" group-title="1. TV NASIONAL 2",GARUDA TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/215
 
 
 ============================BERITA===============================
@@ -214,6 +216,45 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="2. TV BERITA",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
+
+==========================TV BERITA 2=====================================
+
+#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="2. TV BERITA 2",CNN INTERNATIONAL
+https://play-gachor.online/tv_948372/73tG5fyUkK/22
+#EXTINF:-1 tvg-id="" tvg-name="CNN FAST" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhrI5XbNJ2a2uflSeq0yRmuQ.png" group-title="2. TV BERITA 2",CNN FAST
+https://play-gachor.online/tv_948372/73tG5fyUkK/23
+#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzgpBid3LSIebLAhah8aJVQ.png" group-title="2. TV BERITA 2",SKY NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/24
+#EXTINF:-1 tvg-id="" tvg-name="NBC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhSWNgvZDuM_oIYZQK5VIIedIhJoapiSukSJeai0AabDI.png" group-title="2. TV BERITA 2",NBC NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/25
+#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhGXJkvLor5HtYtKDjWwVvu5g7qWFeIfnnOcWlMF37Vaw.png" group-title="2. TV BERITA 2",ABC NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/26
+#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh-lKqFfxYP-x_8poqoVH9Uw.png" group-title="2. TV BERITA 2",BBC NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/27
+#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh4i9rfLuLmiXP8Jn2AARAkg.png" group-title="2. TV BERITA 2",ALJAZEERA
+https://play-gachor.online/tv_948372/73tG5fyUkK/28
+#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUfdxLgaCAsDPlRO7g9tf4w.png" group-title="2. TV BERITA 2",FOX NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/29
+#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhgBbpUKuE1Rwxf1AlTeM5b1tKg7cTYgu8FQdRcmtK_yg.png" group-title="2. TV BERITA 2",RT ENGLISH
+https://play-gachor.online/tv_948372/73tG5fyUkK/30
+#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhCgWQHRJo5hQSoLw6ZaM2zQ.png" group-title="2. TV BERITA 2",EURO NEWS
+https://play-gachor.online/tv_948372/73tG5fyUkK/31
+#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh5uQCOZFuW_SrXr4fkFr45Q.png" group-title="2. TV BERITA 2",DW ENGLISH
+https://play-gachor.online/tv_948372/73tG5fyUkK/32
+#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh_Dkhp1VhTVlxl2No6vIF1w.png" group-title="2. TV BERITA 2",FRANCE 24
+https://play-gachor.online/tv_948372/73tG5fyUkK/33
+#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhFL93q6SofQ4Ivs6pmQUU7g.png" group-title="2. TV BERITA 2",CNBC ASIA
+https://play-gachor.online/tv_948372/73tG5fyUkK/34
+#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUpC__TeJUF5PBKS-AFTSUw.png" group-title="2. TV BERITA 2",BLOOMBERG
+https://play-gachor.online/tv_948372/73tG5fyUkK/35
+#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhwlWoaU8cBrZZQJaj8SdMFA.png" group-title="2. TV BERITA 2",CNA
+https://play-gachor.online/tv_948372/73tG5fyUkK/36
+#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzeFF1PS6Ubtg_JUcdbQdlQ.png" group-title="2. TV BERITA 2",IDX
+https://play-gachor.online/tv_948372/73tG5fyUkK/37
+#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhA-5YZdqslzXV4bYBI08NkA.png" group-title="2. TV BERITA 2",SEA TODAY
+https://play-gachor.online/tv_948372/73tG5fyUkK/38
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> TV ANAK
@@ -1462,4 +1503,10 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/351
 #EXTINF:-1 tvg-id="" tvg-name="Sky Sports Golf" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkjWA9gE59aNgcrVJbJ-qIH6A0FH-IjLOoS_QmONgXADg.png" group-title="14. VIP SPORT",Sky Sports Golf
 https://play-gachor.online/tv_948372/73tG5fyUkK/352
 
+#EXTINF:-1 group-title="14. VIP SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/USA-Network-Logo.svg/2560px-USA-Network-Logo.svg.png", USA Network 1
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=252a671825ba31ec8433f978c32ccf6d:ee560759ecc8d2274df2e63fcef56915
+https://fsly.stream.peacocktv.com/Content/CMAF_OL1-CTR-4s/Live/channel(usa-west)/master.mpd
 
