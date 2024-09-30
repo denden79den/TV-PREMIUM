@@ -1032,6 +1032,8 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/230
 
 ========================HBO GROUP===================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/WyLkFWK/HBO.png",
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1452,6 +1454,8 @@ https://chiva.my.id/sc/avid/play.m3u8?id=206&type=hls
 
 =======================ASTROSPORT (HOMETV)=================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/3Y0MrxN/ASTRO-SPORTS.png",
+
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 1" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkYKhxv6at-8lx_sw6WoLLow.png" group-title="11. ASTRO SPORT",ASSP 1
 https://play-gachor.online/tv_948372/73tG5fyUkK/332
 #EXTINF:-1 tvg-id="" tvg-name="ASSP 2" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkCRqtsweGESLsr699PBBhmA.png" group-title="11. ASTRO SPORT",ASSP 2
@@ -1486,6 +1490,8 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/345
 
 =========================TNT SPORT (HOME TV)===============================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/3kc7ZQY/TNT-SPORTS.png",
+
 #EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",TNT 1 HD
 https://play-gachor.online/tv_948372/73tG5fyUkK/369
 #EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",TNT 2 HD
@@ -1495,6 +1501,10 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/371
 #EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",TNT 4 HD
 https://play-gachor.online/tv_948372/73tG5fyUkK/372
 
+
+===============================PREMIER LANGUAGE (HOME TV)==============================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/6BbLYp8/premier-language.png",
 
 #EXTINF:-1 tvg-id="" tvg-name="EPL - 1 (Live Match Only)" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKkLHti6_Tr-RHKaaONo0OtHg.png" group-title="13. PREMIER LEAGUE",EPL - 1 (Live Match Only)
 https://play-gachor.online/tv_948372/73tG5fyUkK/5414
@@ -1602,6 +1612,7 @@ https://b81ea6a237a99f732a8a56c17e6e1733.7wzuvg.channel-assembly.mediatailor.us-
 
 ==========================SETANTA SPORT==============================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/Y0D27vb/SETANTA.png",
 
 #EXTINF:-1 group-title="15. SETANTA SPORT" tvg-logo="https://i.ibb.co.com/K5mvvQB/setantasp.png", Setanta Sports Event 1
 #KODIPROP:inputstreamaddon=inputstream.adaptive
