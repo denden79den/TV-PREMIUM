@@ -1024,6 +1024,11 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc
 #KODIPROP:inputstream.adaptive.license_key=ed75c909e9ba3d14803224997dd04d71:7b2bcd66d69b3352f52bacff954330f3
 https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
 
+#EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8OTGodYo4e2xPWpI-JAu-A.png" group-title="6. FILM BARAT",WARNER TV
+https://play-gachor.online/tv_948372/73tG5fyUkK/47
+
+
+
 ========================HBO GROUP===================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
