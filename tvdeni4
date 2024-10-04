@@ -1951,6 +1951,7 @@ https://cdnlb.tvplayhome.lt/live/eds/Setanta31_HD_HVC/GO3_LIVE_DASH_HVC/Setanta3
 
 ==============================SSC SPORT==============================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/p3wQnrj/SSC-SPORT.png",
 
 #EXTINF:-1 group-title="16. SSC SPORT" tvg-id="SSC 1" tvg-logo="http://guki.my.id/logo/sports/sc1.jpg",SSC 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
