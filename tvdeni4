@@ -2641,22 +2641,5 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinem
 https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="IN | TS Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SONY SPORT",IN | TS Sony Ten 1 FHD
-http://b1g.pw:80/12145/12145/7885
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="IN | D2H Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SONY SPORT",IN | D2H Sony Ten 1 FHD
-http://b1g.pw:80/12145/12145/161922
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="IN | TS Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SONY SPORT",IN | TS Sony Ten 2 FHD
-http://b1g.pw:80/12145/12145/16119
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="IN | D2H Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SONY SPORT",IN | D2H Sony Ten 2 FHD
-http://b1g.pw:80/12145/12145/161923
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="IN | TS Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SONY SPORT",IN | TS Sony Ten 3 FHD
-http://b1g.pw:80/12145/12145/16120
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="IN | D2H Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SONY SPORT",IN | D2H Sony Ten 3 FHD
-http://b1g.pw:80/12145/12145/161924
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="IN | TS Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SONY SPORT",IN | TS Sony Ten 5 FHD
-http://b1g.pw:80/12145/12145/9085
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="IN | D2H Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SONY SPORT",IN | D2H Sony Ten 5 FHD
-http://b1g.pw:80/12145/12145/161921
-
 #EXTM3U
 #EXTM3U billed-msg="DENI TV SEPTEMBER 2024"
