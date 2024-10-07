@@ -2665,8 +2665,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 #EXTINF:-1 tvg-name="Sky sports Premier League" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",Sky sports Premier League
 https://webhdrunns.mizhls.ru/lb/premium130/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 xui-id="150" tvg-id="" tvg-name="Play Sports 2" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",Play Sports 2
-http://103.127.99.190:80/play/ZacwcMgce4_cNW_Q3AOJh4H-SZw38kWrz0xV4EhpfLY/ts
+#EXTINF:-1 tvg-id="Play Sports HD2.be" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧" , PLAY SPORTS 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-052/stream.mpd 
+
 
 #EXTINF:-1 tvg-name="beIN Sports MENA 1" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="CHANNEL | LIGA INGGRIS 🇬🇧",beIN Sports MENA 1
 https://webhdrunns.mizhls.ru/lb/premium91/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
