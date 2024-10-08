@@ -2921,6 +2921,34 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/davinci/manifest.mpd
 https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 
+========================TRIAL===============================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN126:SONY TEN 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN169DDRajyasabha.png" group-title="TRIAL",IN126:SONY TEN 1
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/55284
+#EXTINF:-1 tvg-id="" tvg-name="IN127:SONY TEN 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN171Tamil|VIJAYHD.png" group-title="TRIAL",IN127:SONY TEN 2
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/55282
+#EXTINF:-1 tvg-id="" tvg-name="IN128:SONY TEN 3" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN172DiscoveryChannelTamil.png" group-title="TRIAL",IN128:SONY TEN 3
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/55281
+
+#EXTINF:-1 tvg-id="" tvg-name="IN145:STAR SPORTS SELECT 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN183EpicHD.png" group-title="TRIAL",IN145:STAR SPORTS SELECT 1
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/55270
+#EXTINF:-1 tvg-id="" tvg-name="IN146:STAR SPORTS SELECT 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/IN/IN184ETNow.png" group-title="TRIAL",IN146:STAR SPORTS SELECT 2
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/55269
+
+#EXTINF:-1 tvg-id="" tvg-name="MY013:Super Sport 1" tvg-logo="" group-title="TRIAL",MY013:ASTRO Super Sport 1
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1722
+#EXTINF:-1 tvg-id="AstroSuperSport2.my" tvg-name="MY014:Super Sport 2" tvg-logo="" group-title="TRIAL",MY014: ASTRO Super Sport 2
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1721
+#EXTINF:-1 tvg-id="AstroSuperSport3.my" tvg-name="MY015:Super Sport 3" tvg-logo="" group-title="TRIAL",MY015: ASTRO Super Sport 3
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
+#EXTINF:-1 tvg-id="AstroSuperSport4.my" tvg-name="MY016:Super Sport 4" tvg-logo="" group-title="TRIAL",MY016:ASTRO Super Sport 4
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1719
+
+
+
+
+
 
 #EXTM3U
 #EXTM3U billed-msg="DENI TV SEPTEMBER 2024"
