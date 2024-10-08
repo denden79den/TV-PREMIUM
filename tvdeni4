@@ -2984,7 +2984,7 @@ http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28943
 #EXTINF:-1 tvg-id="a.e.br" tvg-name="UK117:TNT SPORTS 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="TRIAL",UK117:TNT SPORTS 4 HD
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28942
 
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="USA Sports",US085:WWE-Network
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="TRIAL",US085:WWE-Network
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3083
 
 
