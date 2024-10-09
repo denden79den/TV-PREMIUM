@@ -2956,6 +2956,19 @@ http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1719
 
 
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1 (FHD)" tvg-logo="" group-title="TRIAL",IN: Sony Ten 1 (FHD)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/5429
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 2 HD" tvg-name="LEAG: SONY TEN 2 HD" tvg-logo="http://ktv.im:8080/images/4ebd87b5dfcb0789ecf4c7987c430217.png" group-title="WL | FOOTBALL (SOCCER)",LEAG: SONY TEN 2 HD
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/1157
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3 (FHD)" tvg-logo="" group-title="TRIAL",IN: Sony Ten 3 (FHD)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/5430
+#EXTINF:-1 tvg-id="SONY SPORTS TEN 4" tvg-name="SONY TEN 4 HD" tvg-logo="http://ktv.im:8080/images/7da13066a552e32eb186ef7ed28743d9.png" group-title="WL | CRICKET",SONY TEN 4 HD
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/75345
+#EXTINF:-1 tvg-id="" tvg-name="IN: SONY TEN 5 (FHD)" tvg-logo="" group-title="TRIAL",IN: SONY TEN 5 (FHD)
+http://ktv.im:8080/fullpack12months015/ys87rLzzLE/5431
+
+
+
 ============================CHANNEL TV INDONESIA==========================
 
 #EXTM3U
