@@ -1,5 +1,5 @@
 =========================NASIONAL==========================
-
+#EXTM3U
 #EXTINF:-1 group-logo="https://i.ibb.co.com/pnMz13Q/tv-nasional.png",
 
 #EXTINF:-1 tvg-id="RCTI HD - [Channel 430].id" tvg-logo="https://iili.io/JMp36xI.png" group-title="1. TV NASIONAL",RCTI
@@ -759,7 +759,7 @@ https://play-gachor.online/tv_948372/73tG5fyUkK/88
 
 =============================FILM INDONESIA==============================
 
-
+#EXTM3U
 #EXTINF:-1 group-logo="https://i.ibb.co.com/JRrZ1Z5/film-indonesia.png",
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -2961,6 +2961,7 @@ http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1719
 
 ============================CHANNEL TV INDONESIA==========================
 
+#EXTM3U
 #EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="CHANNEL | TV INDONESIA",NET.
 https://zozotv.xyz:443/lisshomestay/@1212/50
 #EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="CHANNEL | TV INDONESIA",GTV
