@@ -794,12 +794,10 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 'https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
-'https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
-https://zozotv.xyz:443/lisshomestay/@1212/113
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-'https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
-https://zozotv.xyz:443/lisshomestay/@1212/114
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/flik.png",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -828,13 +826,6 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
-
-#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="5. FILM INDONESIA",Dunia Senima (Malay)
-https://zozotv.xyz:443/lisshomestay/@1212/1909
-#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="5. FILM INDONESIA",Degup (Malay)
-https://zozotv.xyz:443/lisshomestay/@1212/1908
-#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="M5. FILM INDONESIA",BOO (Malay)
-https://zozotv.xyz:443/lisshomestay/@1212/408
 
 
 ==================================FILM BARAT=============================
@@ -1152,24 +1143,21 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="7. HBO GROUP",11.HBO
-'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
-https://zozotv.xyz:443/lisshomestay/@1212/693
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
+
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="7. HBO GROUP",12.HBO Hits
-'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
-https://zozotv.xyz:443/lisshomestay/@1212/97
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
+
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="7. HBO GROUP",13.HBO Family
-'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
-https://zozotv.xyz:443/lisshomestay/@1212/98
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="7. HBO GROUP",14.HBO Signature
-'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
-https://zozotv.xyz:443/lisshomestay/@1212/99
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="7. HBO GROUP",15.Cinemax
-'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
-https://zozotv.xyz:443/lisshomestay/@1212/107
+https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
 
 
 ==========================TV DAERAH=======================
