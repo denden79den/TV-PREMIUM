@@ -790,13 +790,15 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+'https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
-https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+'https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
+https://zozotv.xyz:443/lisshomestay/@1212/113
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png",FLIK
-https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+'https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+https://zozotv.xyz:443/lisshomestay/@1212/114
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/flik.png",FLIK
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -825,6 +827,13 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEnterta
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Senima" tvg-logo="https://link.zozotv.xyz/pic/DuniaSenimaZozo.png" group-title="5. FILM INDONESIA",Dunia Senima (Malay)
+https://zozotv.xyz:443/lisshomestay/@1212/1909
+#EXTINF:-1 tvg-id="" tvg-name="Degup" tvg-logo="https://link.zozotv.xyz/pic/DegupZozo.png" group-title="5. FILM INDONESIA",Degup (Malay)
+https://zozotv.xyz:443/lisshomestay/@1212/1908
+#EXTINF:-1 tvg-id="BOO" tvg-name="BOO (Malay)" tvg-logo="https://i.ibb.co/nQN1Yw8/hmvr.png" group-title="M5. FILM INDONESIA",BOO (Malay)
+https://zozotv.xyz:443/lisshomestay/@1212/408
 
 
 ==================================FILM BARAT=============================
@@ -1134,20 +1143,24 @@ https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(4b9c9228-73c1
 
 
 #EXTINF:-1 tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="7. HBO GROUP",11.HBO
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
+'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILh1RDgrYCGP5ZFENL_8Zon8
+https://zozotv.xyz:443/lisshomestay/@1212/693
 
 #EXTINF:-1 tvg-id="HBO Hits HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="7. HBO GROUP",12.HBO Hits
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
+'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILkPtQ_Ie6XSD_xC5qQNV-wo
+https://zozotv.xyz:443/lisshomestay/@1212/97
 
 #EXTINF:-1 tvg-id="HBO Family HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="7. HBO GROUP",13.HBO Family
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
+'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILnXYvHgR1ueHYthaj9MpFZk
+https://zozotv.xyz:443/lisshomestay/@1212/98
 
 #EXTINF:-1 tvg-id="HBO Signature HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="7. HBO GROUP",14.HBO Signature
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
+'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs0N16FX6TzCDTp6iJN10Ic
+https://zozotv.xyz:443/lisshomestay/@1212/99
 
 #EXTINF:-1 tvg-id="Cinemax HD" tvg-url="" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="7. HBO GROUP",15.Cinemax
-https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
-
+'https://play-gachor.xyz:443/play/jchjBeZ_Auvc7VKriTrILs8ExiT1f64SQn9SFKlPW9U
+https://zozotv.xyz:443/lisshomestay/@1212/107
 
 
 ==========================TV DAERAH=======================
@@ -2946,46 +2959,42 @@ http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1719
 
 
-#EXTINF:-1 tvg-id="tsn1.ca" tvg-name="CA065:TSN-1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA065TSN-1.png" group-title="TRIAL",CA065:TSN-1 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3004
-#EXTINF:-1 tvg-id="tsn2.ca" tvg-name="CA066:TSN-2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA066TSN-2.png" group-title="TRIAL",CA066:TSN-2 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3003
-#EXTINF:-1 tvg-id="tsn3.ca" tvg-name="CA067:TSN-3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA067TSN-3.png" group-title="TRIAL",CA067:TSN-3 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3002
-#EXTINF:-1 tvg-id="tsn4.ca" tvg-name="CA068:TSN-4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA068TSN-4.png" group-title="TRIAL",CA068:TSN-4 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3001
-#EXTINF:-1 tvg-id="tsn5.ca" tvg-name="CA069:TSN-5 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/CA/CA069TSN-5.png" group-title="TRIAL",CA069:TSN-5 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3000
+============================CHANNEL TV INDONESIA==========================
 
-#EXTINF:-1 tvg-id="" tvg-name="UK197:PREMIER SPORTS 1" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK197BBCEntertainmentHD.png" group-title="TRIAL",UK197:PREMIER SPORTS 1
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28862
-#EXTINF:-1 tvg-id="bbc.parliament.gb" tvg-name="UK198:PREMIER SPORTS 2" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK198BBCParliament.png" group-title="TRIAL",UK198:PREMIER SPORTS 2
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28861
+#EXTINF:-1 tvg-id="NetTV.MACAN" tvg-name="NET." tvg-logo="https://i.ibb.co/xFHPJSQ/gfsh.png" group-title="CHANNEL | TV INDONESIA",NET.
+https://zozotv.xyz:443/lisshomestay/@1212/50
+#EXTINF:-1 tvg-id="GTV.MACAN" tvg-name="GTV" tvg-logo="https://i.ibb.co/crkQhYK/jhyf.png" group-title="CHANNEL | TV INDONESIA",GTV
+https://zozotv.xyz:443/lisshomestay/@1212/48
+#EXTINF:-1 tvg-id="SCTV.MACAN" tvg-name="SCTV" tvg-logo="https://i.ibb.co/VNGfy1H/ETS.png" group-title="CHANNEL | TV INDONESIA",SCTV
+https://zozotv.xyz:443/lisshomestay/@1212/46
+#EXTINF:-1 tvg-id="MNCTV.MACAN" tvg-name="MNCTV" tvg-logo="https://i.ibb.co/pdx8Gz4/hjmg.png" group-title="CHANNEL | TV INDONESIA",MNCTV
+https://zozotv.xyz:443/lisshomestay/@1212/49
+#EXTINF:-1 tvg-id="RCTI.MACAN" tvg-name="RCTI" tvg-logo="https://i.ibb.co/XsSHVDC/fh.png" group-title="CHANNEL | TV INDONESIA",RCTI
+https://zozotv.xyz:443/lisshomestay/@1212/47
+#EXTINF:-1 tvg-id="Indosiar.MACAN" tvg-name="INDOSIAR" tvg-logo="https://i.ibb.co/wcrkgfG/ETSES.png" group-title="CHANNEL | TV INDONESIA",INDOSIAR
+https://zozotv.xyz:443/lisshomestay/@1212/45
+#EXTINF:-1 tvg-id="TransTV.MACAN" tvg-name="TRANS TV" tvg-logo="https://i.ibb.co/7G18TQf/sv.png" group-title="CHANNEL | TV INDONESIA",TRANS TV
+https://zozotv.xyz:443/lisshomestay/@1212/43
+#EXTINF:-1 tvg-id="Trans7.MACAN" tvg-name="TRANS 7" tvg-logo="https://i.ibb.co/zQwF3gV/bfcsr.png" group-title="CHANNEL | TV INDONESIA",TRANS 7
+https://zozotv.xyz:443/lisshomestay/@1212/44
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="Dunia Lain" tvg-logo="https://i.ibb.co/kJwMHnm/dunia.png" group-title="CHANNEL | TV INDONESIA",Dunia Lain
+https://zozotv.xyz:443/lisshomestay/@1212/346
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://i.ibb.co/Qfk95m3/jfc.png" group-title="CHANNEL | TV INDONESIA",ANTV
+https://zozotv.xyz:443/lisshomestay/@1212/51
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://i.ibb.co/4Rj46G8/TVRI.png" group-title="CHANNEL | TV INDONESIA",TVRI
+https://zozotv.xyz:443/lisshomestay/@1212/359
+#EXTINF:-1 tvg-id="" tvg-name="Rtv" tvg-logo="https://i.ibb.co/4jX6xMN/rtv.png" group-title="CHANNEL | TV INDONESIA",Rtv
+https://zozotv.xyz:443/lisshomestay/@1212/364
+#EXTINF:-1 tvg-id="" tvg-name="O Channel" tvg-logo="https://i.ibb.co/821LM3W/1642736412182.png" group-title="CHANNEL | TV INDONESIA",MOJI 
+https://zozotv.xyz:443/lisshomestay/@1212/475
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://i.ibb.co/ZmHZbbT/YETRY.png" group-title="CHANNEL | TV INDONESIA",TVOne
+https://zozotv.xyz:443/lisshomestay/@1212/142
+#EXTINF:-1 tvg-id="beIN Sport 1" tvg-name="KOMPAS TV" tvg-logo="https://i.ibb.co/yfPLggK/hfd.png" group-title="CHANNEL | TV INDONESIA",KOMPAS TV
+https://zozotv.xyz:443/lisshomestay/@1212/143
+#EXTINF:-1 tvg-id="MetroTV.MACAN" tvg-name="METRO TV" tvg-logo="https://i.ibb.co/Tt4V9Cw/hcggh.png" group-title="CHANNEL | TV INDONESIA",METRO TV
+#EXTINF:-1 tvg-id="" tvg-name="INews" tvg-logo="" group-title="CHANNEL | TV INDONESIA",INEWS
+https://zozotv.xyz:443/lisshomestay/@1212/476
 
-
-#EXTINF:-1 tvg-id="sky.sports.football.gb" tvg-name="UK087:Sky Sports Football HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK087SkySportsFootball.png" group-title="TRIAL",UK087:Sky Sports Football HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/2870
-
-#EXTINF:-1 tvg-id="sky.sports.main.event.gb" tvg-name="UK076:Sky Sports MainEvent HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK076SkySportsMainEvent.png" group-title="TRIAL",UK076:Sky Sports MainEvent HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/2881
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK080:Sky Sports PremierLeague HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK080SkySportsPremierLeague.png" group-title="TRIAL",UK080:Sky Sports PremierLeague HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/2877
-
-#EXTINF:-1 tvg-id="" tvg-name="UK211:SuperSport Premier League FHD (Match Time)" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK211EPL8.png" group-title="TRIAL",UK211:SuperSport Premier League FHD (Match Time)
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28848
-
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK113:TNT SPORTS 1 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK113" group-title="TRIAL",UK113:TNT SPORTS 1 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28946
-#EXTINF:-1 tvg-id="+.globosat.br" tvg-name="UK114:TNT SPORTS 2 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK114StingrayKaraoke.png" group-title="TRIAL",UK114:TNT SPORTS 2 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28945
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK116:TNT SPORTS 3 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK116" group-title="TRIAL",UK116:TNT SPORTS 3 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28943
-#EXTINF:-1 tvg-id="a.e.br" tvg-name="UK117:TNT SPORTS 4 HD" tvg-logo="http://www.tvboxgroup.com/iptv/logo/UK/UK117SkySportsPremierLeagueSD.png" group-title="TRIAL",UK117:TNT SPORTS 4 HD
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/28942
-
-#EXTINF:-1 tvg-id="wwe.us" tvg-name="US085:WWE-Network" tvg-logo="http://www.tvboxgroup.com/iptv/logo/USA/US085WWE-Network.png" group-title="TRIAL",US085:WWE-Network
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/3083
 
 
 
