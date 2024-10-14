@@ -36,9 +36,8 @@ http://103.183.10.7:9900/stream/channelid/1440209200?profile=pass
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="1. TV NASIONAL",INDOSIAR 2
 http://xtv.ooo:8080/live/83212539/43153928/350972.ts
 
-          #EXTINF:-1 tvg-id="Moji" group-title="1. TV NASIONAL" tvg-logo="https://iili.io/JMp3vUJ.png",MOJI 
-http://myteve.online:8080/GenIptv2023/XkgMCdR7PJzShK5m/298550
-http://iptvtree.net:8080/everton/7def2e7e/298550
+#EXTINF:-1 tvg-id="Moji" group-title="1. TV NASIONAL" tvg-logo="https://iili.io/JMp3vUJ.png",MOJI 
+http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
  
 #EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV NASIONAL",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
