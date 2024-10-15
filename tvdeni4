@@ -101,58 +101,6 @@ https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" group-title="1. TV NASIONAL",Magna Channel
 https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
-===============================1.1 TV NASIONAL===================
-
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/pnMz13Q/tv-nasional.png",
-
-#EXTINF:-1 tvg-id="" tvg-name="TRANS 7" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqVcxXdXG3cgK8Y7Nz6dMc0w.png" group-title="1. TV NASIONAL 2",TRANS 7
-https://play-gachor.online/tv_948372/73tG5fyUkK/3
-#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqKbturk6jSmHYzuGh2xw7Qw.png" group-title="1. TV NASIONAL 2",TRANS TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/4
-#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqCgvgmgsaZSOoak053U9erwi-WW-AM5FjVHDSwcFEabU.png" group-title="1. TV NASIONAL 2",INDOSIAR
-https://play-gachor.online/tv_948372/73tG5fyUkK/5
-#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqFDzvu1AGrgVDPl2nZeOioQ.png" group-title="1. TV NASIONAL 2",SCTV
-https://play-gachor.online/tv_948372/73tG5fyUkK/6
-#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqtMTNUB-cRIiDGwpjeWFbAg.png" group-title="1. TV NASIONAL 2",RCTI
-https://play-gachor.online/tv_948372/73tG5fyUkK/7
-#EXTINF:-1 tvg-id="" tvg-name="MNC TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqaPd_dgDRboAAiRHVfcgrfw.png" group-title="1. TV NASIONAL 2",MNC TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/8
-#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqXcSDTjYwcL5sDlcEfWCYYw.png" group-title="1. TV NASIONAL 2",GTV
-https://play-gachor.online/tv_948372/73tG5fyUkK/9
-#EXTINF:-1 tvg-id="" tvg-name="iNEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpL3DvO2Wsh0CBf1EVc7y8Q.png" group-title="1. TV NASIONAL 2",iNEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/10
-#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqrFlBchDAfHX5_HlZRkz7Bw.png" group-title="1. TV NASIONAL 2",ANTV
-https://play-gachor.online/tv_948372/73tG5fyUkK/11
-#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqDDkLWj_yz2dYsMdf57PLcw.png" group-title="1. TV NASIONAL 2",TV ONE
-https://play-gachor.online/tv_948372/73tG5fyUkK/12
-#EXTINF:-1 tvg-id="" tvg-name="NET TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqEYM5QLVAShBtZ2GQRxWHiw.png" group-title="1. TV NASIONAL 2",NET TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/13
-#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqpu6z4EwsnPn0URbge-Frww.png" group-title="1. TV NASIONAL 2",METRO TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/14
-#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqvU-wn4F58wF2Ocu0X2he4A.png" group-title="1. TV NASIONAL 2",KOMPAS TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/15
-#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqM3OnKm5_dx2QLZJQH_7kJw.png" group-title="1. TV NASIONAL 2",RTV
-https://play-gachor.online/tv_948372/73tG5fyUkK/16
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqnVdf82Jp5bl2Bzl7EdjgL6ALkRcG1NwUrRgmpfxKi1E.png" group-title="1. TV NASIONAL 2",BERITA SATU
-https://play-gachor.online/tv_948372/73tG5fyUkK/17
-#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDquyNlM9Uh7Ifp6MGX5vY-tA.png" group-title="1. TV NASIONAL 2",TVRI
-https://play-gachor.online/tv_948372/73tG5fyUkK/18
-#EXTINF:-1 tvg-id="" tvg-name="SINDO NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqxwQIyge37IEjq6fFYWRizYOAIO22E8Y8PeFBhiMOZ2w.png" group-title="1. TV NASIONAL 2",SINDO NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/19
-#EXTINF:-1 tvg-id="" tvg-name="CNN INDONESIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqmIyRU5r1UatzoqFfSxYpnAn3qAi5b1DZFZtiA63TRCE.png" group-title="1. TV NASIONAL 2",CNN INDONESIA
-https://play-gachor.online/tv_948372/73tG5fyUkK/20
-#EXTINF:-1 tvg-id="" tvg-name="CNBC INDONESIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiziO7FndHuS-l2338RtDqkbk5w8_L7Poo9K3C1JBPbmfxRdv7keisKWOKFWwqqrY.png" group-title="1. TV NASIONAL 2",CNBC INDONESIA
-https://play-gachor.online/tv_948372/73tG5fyUkK/21
-#EXTINF:-1 tvg-id="" tvg-name="PRO LIGA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvYzR8V8ems-x96B19vGtEkRwi7RIM-I_pbW66ThM8aINqyIXs31DNW_X26Yc0Eo2pM.png" group-title="1. TV NASIONAL 2", MOJI TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/305
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="1. TV NASIONAL 2",MENTARI TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/114
-#EXTINF:-1 tvg-id="" tvg-name="GARUDA TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbiUpkF6ZHtkiH5Mzc7rmdMnLsokFnMcOsPsr3vsA3pxgFnb0nZQ3dfPSb61k6B98E.png" group-title="1. TV NASIONAL 2",GARUDA TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/215
-
 
 ============================BERITA===============================
 
@@ -218,46 +166,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtCoiu.png" group-title="2. TV BERITA",BN Channel
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
 https://flv.intechmedia.net/live/ch112.m3u8
-
-==========================TV BERITA 2=====================================
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/C1DhvY5/tv-berita-2.png"
-
-#EXTINF:-1 tvg-id="" tvg-name="CNN INTERNATIONAL" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhDFes6U8h-jsBlVA-sRVeor93WcWiKsMG_yuE5W8t8sA.png" group-title="2. TV BERITA 2",CNN INTERNATIONAL
-https://play-gachor.online/tv_948372/73tG5fyUkK/22
-#EXTINF:-1 tvg-id="" tvg-name="CNN FAST" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhrI5XbNJ2a2uflSeq0yRmuQ.png" group-title="2. TV BERITA 2",CNN FAST
-https://play-gachor.online/tv_948372/73tG5fyUkK/23
-#EXTINF:-1 tvg-id="" tvg-name="SKY NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzgpBid3LSIebLAhah8aJVQ.png" group-title="2. TV BERITA 2",SKY NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/24
-#EXTINF:-1 tvg-id="" tvg-name="NBC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhSWNgvZDuM_oIYZQK5VIIedIhJoapiSukSJeai0AabDI.png" group-title="2. TV BERITA 2",NBC NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/25
-#EXTINF:-1 tvg-id="" tvg-name="ABC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhGXJkvLor5HtYtKDjWwVvu5g7qWFeIfnnOcWlMF37Vaw.png" group-title="2. TV BERITA 2",ABC NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/26
-#EXTINF:-1 tvg-id="" tvg-name="BBC NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh-lKqFfxYP-x_8poqoVH9Uw.png" group-title="2. TV BERITA 2",BBC NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/27
-#EXTINF:-1 tvg-id="" tvg-name="ALJAZEERA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh4i9rfLuLmiXP8Jn2AARAkg.png" group-title="2. TV BERITA 2",ALJAZEERA
-https://play-gachor.online/tv_948372/73tG5fyUkK/28
-#EXTINF:-1 tvg-id="" tvg-name="FOX NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUfdxLgaCAsDPlRO7g9tf4w.png" group-title="2. TV BERITA 2",FOX NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/29
-#EXTINF:-1 tvg-id="" tvg-name="RT ENGLISH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhgBbpUKuE1Rwxf1AlTeM5b1tKg7cTYgu8FQdRcmtK_yg.png" group-title="2. TV BERITA 2",RT ENGLISH
-https://play-gachor.online/tv_948372/73tG5fyUkK/30
-#EXTINF:-1 tvg-id="" tvg-name="EURO NEWS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhCgWQHRJo5hQSoLw6ZaM2zQ.png" group-title="2. TV BERITA 2",EURO NEWS
-https://play-gachor.online/tv_948372/73tG5fyUkK/31
-#EXTINF:-1 tvg-id="" tvg-name="DW ENGLISH" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh5uQCOZFuW_SrXr4fkFr45Q.png" group-title="2. TV BERITA 2",DW ENGLISH
-https://play-gachor.online/tv_948372/73tG5fyUkK/32
-#EXTINF:-1 tvg-id="" tvg-name="FRANCE 24" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rh_Dkhp1VhTVlxl2No6vIF1w.png" group-title="2. TV BERITA 2",FRANCE 24
-https://play-gachor.online/tv_948372/73tG5fyUkK/33
-#EXTINF:-1 tvg-id="" tvg-name="CNBC ASIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhFL93q6SofQ4Ivs6pmQUU7g.png" group-title="2. TV BERITA 2",CNBC ASIA
-https://play-gachor.online/tv_948372/73tG5fyUkK/34
-#EXTINF:-1 tvg-id="" tvg-name="BLOOMBERG" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhUpC__TeJUF5PBKS-AFTSUw.png" group-title="2. TV BERITA 2",BLOOMBERG
-https://play-gachor.online/tv_948372/73tG5fyUkK/35
-#EXTINF:-1 tvg-id="" tvg-name="CNA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhwlWoaU8cBrZZQJaj8SdMFA.png" group-title="2. TV BERITA 2",CNA
-https://play-gachor.online/tv_948372/73tG5fyUkK/36
-#EXTINF:-1 tvg-id="" tvg-name="IDX" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhzeFF1PS6Ubtg_JUcdbQdlQ.png" group-title="2. TV BERITA 2",IDX
-https://play-gachor.online/tv_948372/73tG5fyUkK/37
-#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESva3HbLBeGRSeeu6BaJy28rhA-5YZdqslzXV4bYBI08NkA.png" group-title="2. TV BERITA 2",SEA TODAY
-https://play-gachor.online/tv_948372/73tG5fyUkK/38
-
 
 
 //========================================================================
@@ -517,46 +425,6 @@ https://zoomoo-samsungau.amagi.tv/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/EBS_KIDS.svg/640px-EBS_KIDS.svg.png" group-title="3. TV ANAK",EBS Kids
 https://ebsonair.ebs.co.kr/ebsufamilypc/familypc1m/playlist.m3u8
-
-
-================================TV ANAK 2 ===============================================
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/D5NsWrz/tv-anak.png",
-
-#EXTINF:-1 tvg-id="" tvg-name="MENTARI TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc7Iz3R6JgMaskiRtJe9gtMA.png" group-title="3. TV ANAK 2",MENTARI TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/114
-#EXTINF:-1 tvg-id="" tvg-name="HOREE" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc5fC5oCgHWlcT1tuGnGaYrg.png" group-title="3. TV ANAK 2",HOREE
-https://play-gachor.online/tv_948372/73tG5fyUkK/116
-#EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCvm8mQjb9cXh13Do_iYDm6IZ6LHPgrRHXiPN9b1IDk4.png" group-title="3. TV ANAK 2",ASTRO CERIA
-https://play-gachor.online/tv_948372/73tG5fyUkK/115
-#EXTINF:-1 tvg-id="" tvg-name="DREAMWORS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcbrmfIh1efIx20YCvDMYM2iQscS3LuRzZeZ2KK4ay3Pc.png" group-title="3. TV ANAK 2",DREAMWORS
-https://play-gachor.online/tv_948372/73tG5fyUkK/117
-#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcjo48p6lhkgV6EnAvedgyjB3WXSJHoJ88wcHc5XI3SNw.png" group-title="3. TV ANAK 2",CARTOON NETWORK
-https://play-gachor.online/tv_948372/73tG5fyUkK/118
-#EXTINF:-1 tvg-id="" tvg-name="MY KIDZ" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDco0p3dw1pdIlQKZ1Ns7isFw.png" group-title="3. TV ANAK 2",MY KIDZ
-https://play-gachor.online/tv_948372/73tG5fyUkK/119
-#EXTINF:-1 tvg-id="" tvg-name="NICK JR" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcUvvtz58HyUwxERN7eFcmDQ.png" group-title="3. TV ANAK 2",NICK JR
-https://play-gachor.online/tv_948372/73tG5fyUkK/120
-#EXTINF:-1 tvg-id="" tvg-name="NICKELODEON" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcCceBV0rxKSqBhdJOP8PmALD2wcXAIdlk2hKOgYxAiTM.png" group-title="3. TV ANAK 2",NICKELODEON
-https://play-gachor.online/tv_948372/73tG5fyUkK/121
-#EXTINF:-1 tvg-id="" tvg-name="KIDS TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcsmBq-H-oi-YNMgS0GCK6vg.png" group-title="3. TV ANAK 2",KIDS TV
-https://play-gachor.online/tv_948372/73tG5fyUkK/122
-#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBEYFDUc0MW4xBcNUn_IEDNI_J417S4gpL8bBZ-vyNDY.png" group-title="3. TV ANAK 2",CINEMACHI KIDS
-https://play-gachor.online/tv_948372/73tG5fyUkK/123
-#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcNmI4Q-R2d7yXPiGs26TrDw.png" group-title="3. TV ANAK 2",ANIPLUS
-https://play-gachor.online/tv_948372/73tG5fyUkK/124
-#EXTINF:-1 tvg-id="" tvg-name="ANIMAX" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDc62c7ZnAEbx50cxHHpQtRGg.png" group-title="3. TV ANAK 2",ANIMAX
-https://play-gachor.online/tv_948372/73tG5fyUkK/125
-#EXTINF:-1 tvg-id="" tvg-name="CBEBIES" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcBwIzK3zPCWodjQsAnAYdzA.png" group-title="3. TV ANAK 2",CBEBIES
-https://play-gachor.online/tv_948372/73tG5fyUkK/126
-#EXTINF:-1 tvg-id="" tvg-name="ZOO MOO" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwl_Bljul7tUcMkdQaB2NPQ.png" group-title="3. TV ANAK 2",ZOO MOO
-https://play-gachor.online/tv_948372/73tG5fyUkK/127
-#EXTINF:-1 tvg-id="" tvg-name="UPIN IPIN" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcrMv5ootj3Crjg7UGWmC1aw.png" group-title="3. TV ANAK 2",UPIN IPIN
-https://play-gachor.online/tv_948372/73tG5fyUkK/5407
-#EXTINF:-1 tvg-id="" tvg-name="DORAEMON" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbfdeNmlgxK086DUO-GdhDcwKjIMya0Azpmz_o10mjdNQ.png" group-title="3. TV ANAK 2",DORAEMON
-https://play-gachor.online/tv_948372/73tG5fyUkK/5408
-
-
 
 ===============================================ENTERTAIMENT & LIFESTYLE============================================
 
@@ -1531,35 +1399,44 @@ https://sritv.serv00.net/red/play.m3u8?id=204&type=hls
 #EXTINF:-1 group-logo="https://i.ibb.co.com/3Y0MrxN/ASTRO-SPORTS.png",
 
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT 1(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1722
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1722
 #EXTINF:-1 tvg-id="AstroSupersport" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT 1(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1721
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1721
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1720
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1720
-#EXTINF:-1 tvg-id="AstroSupersport3" group-title="11. ASTRO SPORT" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="11. ASTRO SPORT",ASTRO SUPERSPORT 4(A)
-http://kmkus.wanicelife.com:8880/DYJ12M2224/8945634583/1719
-#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="11. ASTRO SPORT",ASTRO SUPERSPORT 4(B)
-http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1719
 
 
 =========================TNT SPORT (HOME TV)===============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/3kc7ZQY/TNT-SPORTS.png",
 
-#EXTINF:-1 tvg-id="" tvg-name="TNT 1 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",1.TNT 1 HD
-https://play-gachor.online/tv_948372/73tG5fyUkK/369
-#EXTINF:-1 tvg-id="" tvg-name="TNT 2 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",2.TNT 2 HD
-https://play-gachor.online/tv_948372/73tG5fyUkK/370
-#EXTINF:-1 tvg-id="" tvg-name="TNT 3 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",3.TNT 3 HD
-https://play-gachor.online/tv_948372/73tG5fyUkK/371
-#EXTINF:-1 tvg-id="" tvg-name="TNT 4 HD" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvbPPL8rHq5gb8bpu8RxSiKknAn57zNFrJ_Zx05aOq6n-gV2U3gIFCLgDKO_CdyIlng.png" group-title="12. TNT SPORT",4.TNT 4 HD
-https://play-gachor.online/tv_948372/73tG5fyUkK/372
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="12. TNT SPORT",TNT Sports 1 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ae26845bd33038a9c0774a0981007294:63ac662dde310cfb4cc6f9b43b34196d
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/wf8usag51e/out/v1/bd3b0c314fff4bb1ab4693358f3cd2d3/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="12. TNT SPORT",TNT Sports 2 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6d1708b185c6c4d7b37600520c7cc93c:1aace05f58d8edef9697fd52cb09f441
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/f0qvkrra8j/out/v1/f8fa17f087564f51aa4d5c700be43ec4/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="12. TNT SPORT",TNT Sports 3 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4e993aa8c1f295f8b94e8e9e6f6d0bfe:86a1ed6e96caab8eb1009fe530d2cf4f
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/out/v1/bb548a3626cd4708afbb94a58d71dce9/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="12. TNT SPORT",TNT Sports 4 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="12. TNT SPORT",TNT Sports 5 UK
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=60c0d9b41475e01db4ffb91ed557fbcc:36ee40e58948ca15e3caba8d47b8f34b
+https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/gesdwrdncn/out/v1/79e752f1eccd4e18b6a8904a0bc01f2d/cenc.mpd
 
 
 ==========TNT SPORT========
