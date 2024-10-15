@@ -1428,44 +1428,34 @@ https://cempedak-live-cdn.mncnow.id/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
 #EXTINF:-1 group-logo="https://i.ibb.co.com/y6XmS6z/VIDIO-SPORT-2.png",
 
 #EXTINF:-1 tvg-id="Champions TV 1" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/xpyizj_Bi2XHb6IRydUXsvq_7N0=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6685/champions-tv-1-3beebf.jpg" group-title="10.VIDIO SPORT",Champions 1
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6685&type=drm
-https://sritv.serv00.net/red/play.mpd?id=6685&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13e7faed04a9c3b9be8ca5203d606faf:9fc30798749a49a8cfaf7a2915952395
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6685
 
 #EXTINF:-1 tvg-id="Champions TV 2" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/NvvD-abXE50lIJd1zvtf9QF2NDQ=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6686/champions-tv-2-58cc4d.jpg" group-title="10.VIDIO SPORT",Champions 2
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6686&type=drm
-https://sritv.serv00.net/red/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8097f89903c0c6afbe3fbb4f82c07e12:0e9dde48ac7cbe59447e68d6eefe7583
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6686
 
 #EXTINF:-1 tvg-id="Champions TV 3" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/Pd0SfzMEE5rUxTrpO-hjUdKdY-c=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6786/champions-tv-3-7898f2.jpg" group-title="10.VIDIO SPORT",Champions 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=6786&type=drm
-https://sritv.serv00.net/red/play.mpd?id=6786&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3d1c52f71333f0651f9b7971eba4d6d7:5394d82a0d04a629f95b83ce6612973b
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=6786
 
 #EXTINF:-1 tvg-id="Champions TV 5" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="10.VIDIO SPORT",Champions 5
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9182&type=drm
-https://sritv.serv00.net/red/play.mpd?id=9182&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9182
 
 #EXTINF:-1 tvg-id="Champions TV 6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="10.VIDIO SPORT",Champions 6
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://sritv.serv00.net/red/play.php?id=9183&type=drm
-https://sritv.serv00.net/red/play.mpd?id=9183&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9183
 
 #EXTINF:-1 group-title="10.VIDIO SPORT" tvg-logo="https://thumbor.prod.vidiocdn.com/jWfO9AAKL03aw_crIUZztvDSd5o=/112x112/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/square_image/9353/a79dfe.png", Premier League TV
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
