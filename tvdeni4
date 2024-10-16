@@ -4178,7 +4178,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 ==========================INDIHOME==============================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png" group-title="CHANNEL | INDIHOME"  tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg",SPOTV
+#EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" tvg-logo="https://static.mncnow.id/images/channel/9e11438e/f5ad_r32.jpg" group-title="CHANNEL | INDIHOME",SPOTV
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
