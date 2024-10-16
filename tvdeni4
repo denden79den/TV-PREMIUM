@@ -993,7 +993,7 @@ https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
 #EXTVLCOPT:http-referrer=https://visionplus.id/
-'https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
 
 #EXTINF:-1 group-title="5. FILM INDONESIA"  tvg-logo="https://images.indihometv.com/logo_imc_small.png",IMC
 https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
