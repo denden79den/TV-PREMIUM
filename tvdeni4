@@ -2874,10 +2874,6 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraMuslimHD/mpd/CitraMuslimHD.m
 https://atemeshield1-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 
-
-
-
-
 <======================= Kids ==========================================>
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -4123,7 +4119,9 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&refe
 #EXTINF:-1 group-title="CHANNEL | DENS.TV" tvg-logo="https://i.ibb.co.com/KjyGmsj/INEWS-png.png" ,4. INEWS (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg" , 5. INDOSIAR
-http://op-group1-swiftservesd-1.dens.tv/s/s04/index.m3u8?app_type=web&userid=lite&chname=Indosiar|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36&referrer=https://www.dens.tv/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
+https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 #EXTINF:-1 group-title="CHANNEL | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" , 12. SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 group-title="CHANNEL | DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" ,6. MOJI
