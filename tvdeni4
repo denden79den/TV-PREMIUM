@@ -4110,16 +4110,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 =============================TRIAL====================================
 
-
-
 #EXTINF:-1 tvg-id="" tvg-name="MY040:ASTRO ASSP HD" tvg-logo="https://lo1.in/MALAY/astrossp.png" group-title="TRIAL",MY040:ASTRO ASSP1 HD
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/59220
 #EXTINF:-1 tvg-id="" tvg-name="MY041:ASTRO ASSP2 HD" tvg-logo="https://lo1.in/MALAY/astroassp2.png" group-title="TRIAL",MY041:ASTRO ASSP2 HD
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/59219
 #EXTINF:-1 tvg-id="" tvg-name="MY042:ASTRO ASSP3 HD" tvg-logo="https://lo1.in/MALAY/astroassp30.png" group-title="TRIAL",MY042:ASTRO ASSP3 HD
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/59218
-#EXTINF:-1 tvg-id="" tvg-name="MY042:Ria" tvg-logo="" group-title="TRIAL",MY042:Ria
-http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/71020
 #EXTINF:-1 tvg-id="" tvg-name="MY043:ASTRO ASSP4 HD" tvg-logo="https://lo1.in/MALAY/astroassp4.png" group-title="TRIAL",MY043:ASTRO ASSP4 HD
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/59217
 
