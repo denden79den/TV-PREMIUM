@@ -4353,6 +4353,8 @@ https://www.livedoomovies.com:4432/02_PremierHD5_720p/chunklist.m3u8|user-agent=
 //Collected by FREEMIUM TV menampilkan playlist >>> SUPERSPORT
 //========================================================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/X7b7nCp/SUPERSPORT.png",
+
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-08/b113905d39622090910a766c75af759d.png" group-title="17. SUPERSPORT",SS PSL
 https://webhdrunns.mizhls.ru/lb/premium413/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 #EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/c01edd9028bd637cc5bdc8527acc3353.png" group-title="17. SUPERSPORT",SS ACTION
