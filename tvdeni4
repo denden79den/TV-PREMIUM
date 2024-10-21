@@ -2190,8 +2190,9 @@ https://webhdrunns.mizhls.ru/lb/premium621/index.m3u8|referer=https://lewblivehd
 
 
 
-
 =================================================== VISION+ ====================================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/hVvJmHk/vision-1.png",
 
 #EXTINF:-1 tvg-logo="http://images.indihometv.com/box/assets/logo_rcti_hd.png" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="CHANNEL | VISION+",RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -2822,6 +2823,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 
 ======================== VISION+ (backup)========================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/hVvJmHk/vision-1.png",
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
