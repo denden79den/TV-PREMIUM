@@ -1808,18 +1808,24 @@ https://live.ll.ww.aiv-cdn.net/OTTB/dub-nitro/live/clients/dash/enc/zy1ee5sshp/o
 #EXTINF:-1 group-title="13. PREMIER LEAGUE" tvg-id="dazn4_spain" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg",🇪🇸 DAZN 4 Spain
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 
-#EXTINF:-1 tvg-id="Champions TV 5" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="13. PREMIER LEAGUE",CHAMPION 5 (VIDIO)
+#EXTINF:-1 tvg-id="Champions TV 5" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="13. PREMIER LEAGUE", DAZN DIRECTO 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=7af7c0ac3c77478be9712bfc0f0d28b4:845b9d91cefb70530380e8749d8dc201
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9182
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-054/stream.mpd
+
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="13. PREMIER LEAGUE", DAZN DIRECTO 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-055/stream.mpd
 
 
-#EXTINF:-1 tvg-id="Champions TV 6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="13. PREMIER LEAGUE",CHAMPION 6 (VIDIO)
+#EXTINF:-1 tvg-id="Champions TV 6" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg" group-title="13. PREMIER LEAGUE", DAZN DIRECTO 3
 #KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4ca1cf7890604c98959160aa80a8fc3e:4a545ab7495d40f186a5bf3d88d47802
-#EXTVLCOPT:http-user-agent=Mozilla/5.0
-https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9183
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Roku/DVP-12.0
+https://dce-ac-live.cdn.indazn.com/dash/dazn-linear-056/stream.mpd
 
 
 #EXTINF:-1 group-title="13. PREMIER LEAGUE" tvg-logo="https://i.imgur.com/3ALAvzg.jpeg", PREMIER LAEGUE TV (VIDIO)
