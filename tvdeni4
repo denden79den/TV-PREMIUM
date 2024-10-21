@@ -3999,7 +3999,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/ONEHD/mpd/ONEHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=99e736f170b148ffb16d0ad6c8f93ef4:d1b4737ab41f0daae733f11a4b84fa02
 https://atemecdnbalancer-voe.sysln.id/live/eds/RockExtremeHD/mpd/RockExtremeHD.mpd
 
-#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdZ6YTbOZnfW0Sd3dfurj6suEKNrViHAJ44Kf-9nyADkSNDink2exRDfE&s=10",Eurosport
+#EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png",Eurosport
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=47c03f29f04747d2a298c0ad63f3b2c1:8b48b2cb2743b91d5f20cf2622067f3a
@@ -4320,6 +4320,8 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 
 ================TrueVisions===========
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/5MpqpDG/true-vision.png",
+2
 #EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports1.png" group-title="CHANNEL | TRUE VISION",TH:TRUE BEINSPORTS 1
 https://www.livedoomovies.com:4432/02_epl1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1  tvg-logo="https://donelfantastic.github.io/creativemedia/img/truevision-bein-sports2.png" group-title="CHANNEL | TRUE VISION",TH:TRUE BEINSPORTS 2
@@ -4383,6 +4385,8 @@ https://webhdrus.onlinehdhls.ru/lb/premium424/index.m3u8|referer=https://weblive
 //========================================================================
 //Collected by FREEMIUM TV menampilkan playlist >>> BEIN SPORT
 //========================================================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/kQzC418/bein-sport.png",
 
 #EXTINF:-1 tvg-name="beIN Sports MENA English 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-09/076e8935ff1715e7ebc42f5f23b9b152.png" group-title="CHANNEL | BEIN SPORTS",beIN Sports MENA English 1
 https://webhdrunns.mizhls.ru/lb/premium61/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
