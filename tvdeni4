@@ -3958,6 +3958,7 @@ https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 ================================FIRSTMEDIA==================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/QP74d65/FIRSTMEDIA.png",
 
 #EXTINF:-1 group-title="CHANNEL | FIRSTMEDIA" tvg-logo="https://download.logo.wine/logo/First_Media_(Indonesian_TV_channel)/First_Media_(Indonesian_TV_channel)-Logo.wine.png",ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -4102,6 +4103,7 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD
 
 ========================= INTEC HMEDIA===================================
 
+#EXTINF:-1 group-logo="https://i.ibb.co.com/q0xzDjT/INTECMEDIA.png",
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q0xzDjT/INTECMEDIA.png" group-title="CHANNEL | INTECH MEDIA", VTV 
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
