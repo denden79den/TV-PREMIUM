@@ -246,6 +246,8 @@ https://v5.siar.us/nusantaratv/live/chunks.m3u8
 #EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-m.png" group-title="1. TV NASIONAL 2",Sindonews 
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/1705631719_IDTV-88-WARNA-HD.png" group-title="1. TV NASIONAL 2",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 
 ============================BERITA===============================
