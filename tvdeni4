@@ -595,8 +595,6 @@ https://atemeshield1-voe.sysln.id/live/eds/AnimaxHD/mpd/AnimaxHD.mpd
 #EXTVLCOPT:http-referrer=https://visionplus.id
 https://cempedak-live-cdn.mncnow.id/live/eds/Animax/sa_dash_vmx/Animax.mpd
 
-#EXTINF:-1 tvg-logo="http://gg.gg/Animax_png" group-title="3. KIDS TV 2",ANIMAX (Japan)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs15
 #EXTINF:-1 tvg-logo="http://gg.gg/Animax_png" group-title="3. KIDS TV 2",ANIMAX (SG)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=edf1a715de9748638dd2fad75a419af2:2f5a3199b26e9b693ae881af7ff864cf
@@ -657,8 +655,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d144f218
 https://cdn1.skygo.mn/live/disk1/Cartoon_Network/HLS-FTA/Cartoon_Network.m3u8
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="3. KIDS TV 2",Cartoon Network (indihome)
 https://cdn09jtedge.indihometv.com/joss/194/cartoonnetwork/index.m3u8
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_cartoonnetwork_small.png" group-title="3. KIDS TV 2",Cartoon Network (Japan)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs25
+
 #EXTINF:-1 tvg-logo="http://gg.gg/Cartoonito_png" group-title="3. KIDS TV 2",Cartoonito
 http://iptv.prosto.tv:7000/ch208/video.m3u8
 #EXTINF:-1 tvg-logo="http://gg.gg/Cartoonito_png" group-title="3. KIDS TV 2",Cartoonito ID (Firstmedia)
@@ -685,9 +682,6 @@ https://raw.githubusercontent.com/mimipipi22/lalajo/main/Streaming/kids/discover
 #EXTINF:-1 tvg-logo="http://gg.gg/DisneyChannel_png" group-title="3. KIDS TV 2",Disney Channel
 https://webhdrunns.mizhls.ru/lb/premium312/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="http://gg.gg/DisneyChannel_png" group-title="3. KIDS TV 2",Disney Channel (Japan)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=bs24
 
 #EXTINF:-1 tvg-logo="http://gg.gg/DisneyChannel_png" group-title="3. KIDS TV 2",Disney Channel (Ori)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
@@ -699,9 +693,7 @@ https://m7rovideolive.solocoo.tv/blueskylivedash/bluedisneyro/Manifest.mpd
 #EXTINF:-1 tvg-logo="http://gg.gg/DisneyJunior_png" group-title="3. KIDS TV 2",Disney Junior
 https://webhdrunns.mizhls.ru/lb/premium652/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
-#EXTINF:-1 tvg-logo="http://gg.gg/DisneyJunior_png" group-title="3. KIDS TV 2",Disney Junior (Japan)
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs23
+
 #EXTINF:-1 tvg-logo="http://gg.gg/DisneyJunior_png" group-title="3. KIDS TV 2",Disney Junior (Ori)
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -4725,17 +4717,6 @@ https://webhdrunns.mizhls.ru/lb/premium493/index.m3u8|referer=https://lewblivehd
 
 
 
-===============================TRANSVISION======================================
-
-#EXTINF:-1 group-logo="https://i.ibb.co.com/J7rqRQ5/transvision-logo1.png" group-title="CHANNEL | TRANSVISION"
-#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="CHANNEL | TRANSVISION",TVRI
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
 ========================= INTEC HMEDIA===================================
 
 
@@ -4864,6 +4845,21 @@ https://flv.intechmedia.net/live/ch114.m3u8|user-agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/q0xzDjT/INTECMEDIA.png" group-title="CHANNEL | INTECH MEDIA", RTV
 https://flv.intechmedia.net/live/ch115.m3u8|user-agent=Mozilla/5.0
+
+
+===============================TRANSVISION======================================
+
+#EXTINF:-1 group-logo="https://i.ibb.co.com/J7rqRQ5/transvision-logo1.png" group-title="CHANNEL | TRANSVISION"
+#EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="CHANNEL | TRANSVISION",TVRI
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c68570f25e2e01716841059b3e25/manifest.mpd
+
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/lokal/transtv.png" group-title="CHANNEL | TRANSVISION",Trans TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
@@ -6961,8 +6957,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
 http://iptv.prosto.tv:7000/ch125/video.m3u8
 #EXTINF:-1   tvg-logo="http://gg.gg/MTVHits_png" group-title="CHANNEL | TV MUSIK",MTV Hits
 http://iptv.prosto.tv:7000/ch126/video.m3u8
-#EXTINF:-1 tvg-logo="http://gg.gg/MTVChannel_png" group-title="CHANNEL | TV MUSIK",MTV (japan)
-http://cdns.jp-primehome.com:8000/zhongying/live/playlist.m3u8?cid=cs18
+
 #EXTINF:-1   tvg-logo="http://gg.gg/MTVLive_png" group-title="CHANNEL | TV MUSIK",MTV Live (vision+)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MGVmZTdjMzQtZTUyMC0zYzAyLWFlYjktMjRhNmJiYmJmOGU5
