@@ -1995,24 +1995,19 @@ https://thedream.biz.id/indonesia/rooid.php/.mpd?id=9183
 #EXTINF:-1 group-logo="https://i.ibb.co.com/3Y0MrxN/ASTRO-SPORTS.png",
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/Astro_ASSP1.png" group-title="11. ASTRO SPORT", Astro Supersport 1
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#https://7pal.short.gy/astross1
-http://vo01.mohdtv.com:8880/voby1872/17497519/59220
+https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.2.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4a/Astro_ASSP2.png" group-title="11. ASTRO SPORT", Astro Supersport 2
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#https://7pal.short.gy/astross2
-http://vo01.mohdtv.com:8880/voby1872/17497519/59219
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.3.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/37/Astro_ASSP3.png" group-title="11. ASTRO SPORT", Astro Supersport 3
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1
-#https://7pal.short.gy/astross3
-http://vo01.mohdtv.com:8880/voby1872/17497519/59218
-
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="Astro.SuperSport.4.HD.my" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/c0/Astro_ASSP4.png" group-title="11. ASTRO SPORT", Astro Supersport 4
-http://vo01.mohdtv.com:8880/voby1872/17497519/59217
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
+#EXTINF:-1 tvg-name="Astro Cricket" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/edc8a9c38c820781eb4785f4e5ee89ca.png" group-title="11. ASTRO SPORT",Astro Cricket
+https://webhdrunns.mizhls.ru/lb/premium370/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 =========================TNT SPORT===============================
 
