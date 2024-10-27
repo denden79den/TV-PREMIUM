@@ -2649,12 +2649,9 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #EXTINF:-1 tvg-id="Lokal" group-title="9. VISION+ SPORT" tvg-logo="https://i.ibb.co.com/XsV770g/SPORTSTAR-3-1.png" ch-number="1002", Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://combilolo.my.id/vis/drm.php?id=1002&token=2ljpbsmtou
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://desah.combilolo.my.id/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoialZZT3pTYkoiLCJyZWZyZXNoX3Rva2VuIjoiYWs0ZnlvMjJ5SFBSV0xiWDhQeU5BQ2JhcmdVNHpPSkRNU1h6aWJqZUJIWWdaVXpJMVV0clNwKzdqQ1VrTEdNSmhvVUJPUklZakRMdWRQSEtOOGExMmp2Y2JXZzlpaWdrMmw1MmZ5SDNHUXo2WU9sTTRMbDlHc1lEd2JLK202MEs5VkxzTW5tUmdTNlZRMVZYMjJQMnYwc2RVcmdSV0N0OG5GczNhTzkyeHEzWkFSSGFxUEZ5VjBLQm1KaHhsV0xhU2daU2FwMEhOYVVtMnpjV3hGK3oxN2NoazllUjNJZ2NnU2ZCaHhnSmdLVEM1cXNaVlNUaHVzTDhMbnRBOXNcL1NaakxlNFM4c0ZYN3BZekNjdHJ3UkJieWl5U3JYanc4aUtPUnhCSjVXaXBwaUtmbmxVWDVqM01QTDZUYnlJeEYwcHhCQ2FKVmxERFVmQWZZbkhxbkU1bFF4N3JJc3ZJTFFSSEdRQ2FQNWFaaz0ifQ==
-
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
+#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
+https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GtWc3tQ/SOCCER-CHANNEL.png",SOCCER Cannel
