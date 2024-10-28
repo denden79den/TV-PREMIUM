@@ -2922,6 +2922,10 @@ http://extraott.com/live/6945574629/7169628753/710941.ts
 #EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="13. PREMIER LEAGUE", Now PremierSports 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425332.ts
 
+#EXTINF:-1 tvg-name="SuperSport Premier league" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/2f8f23e2a35d5a4e9ea336d7b51fd98f.png" group-title="13. PREMIER LEAGUE",SS Premier league
+https://webhdrus.onlinehdhls.ru/lb/premium414/index.m3u8|referer=https://weblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+
 =============================VIP SPORT===============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/D7zBhzy/vip-sport.png",
