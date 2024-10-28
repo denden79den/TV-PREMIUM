@@ -7772,7 +7772,8 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1722.m3u8
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="CHANNEL | MALAYSIA" tvg-logo="https://i.ibb.co.com/VBW3p9S/astro-premier-league.png",Premier League 2
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/1721.m3u8
 
-
+#EXTINF:-1 group-title="CHANNEL | MALAYSIA" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Astro Ceria
+http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 
 ============================================================ FOX SPORT =====================================================================
 
