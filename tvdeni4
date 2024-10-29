@@ -7868,18 +7868,6 @@ https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 https://xyzdddd.mizhls.ru/lb/premium756/index.m3u8
 
-#EXTINF:-1 tvg-id="FoxCricket.alt.au" tvg-name="Fox Cricket" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-cricket-501-au.png" group-title="CHANNEL | FOX SPORT" ,Fox Cricket
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium369/index.m3u8
-
-#EXTINF:-1 tvg-id="8486" tvg-name="FOX Deportes" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/FOX_Deportes_logo.svg/800px-FOX_Deportes_logo.svg.png" group-title="CHANNEL | FOX SPORT" ,FOX Deportes
-#EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-#EXTVLCOPT:http-origin=https://ilovetoplay.xyz
-https://xyzdddd.mizhls.ru/lb/premium643/index.m3u8
-
 #EXTINF:-1 tvg-id="FoxLeague.au" tvg-name="FOX Sports 502" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8c9d06e33d31b0ac3804acb5d5f2d1050f0c1384/countries/australia/fox-sports-league-502-au.png?raw=true" group-title="CHANNEL | FOX SPORT" ,FOX Sports 502
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
