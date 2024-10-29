@@ -8249,9 +8249,11 @@ http://watchindia.net:8880/live/80817/80817/1070.ts
 http://watchindia.net:8880/live/80817/80817/1071.ts
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 1 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304099
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 1 
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304099
 
-#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 2 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304098
+#EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 2 
+http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304098
 
 #EXTINF:-1 tvg-id="" tvg-name="Now Premier Sports 1" tvg-logo="http://attp.ddns.net:25461/images/ef574c9c5cc6bfa6bc747577faa2a86a.png" group-title="SPORT", Now Sports 3 http://iptvtree.net:8080/romaniamedia/8cc105f9f2/304097
 
