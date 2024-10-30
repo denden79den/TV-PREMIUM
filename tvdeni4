@@ -40,7 +40,8 @@ http://opplex.tv:8080/3116580700/0700/350972
 
 #EXTINF:-1 tvg-id="Moji" group-title="1. TV INDONESIA" tvg-logo="https://iili.io/JMp3vUJ.png",MOJI 
 'http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
-http://opplex.tv:8080/3116580700/0700/350997
+'http://opplex.tv:8080/3116580700/0700/350997
+http://xtv.ooo:8080/live/71891100/66181910/350997.ts
  
 #EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV INDONESIA",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
