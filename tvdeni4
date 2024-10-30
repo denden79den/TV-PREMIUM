@@ -33,10 +33,12 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 #EXTINF:-1 tvg-logo="https://pbs.twimg.com/profile_images/1599779147609317376/dFydJWdg_400x400.jpg" group-title="1. TV INDONESIA",INDOSIAR 2
-http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+'http://xtv.ooo:8080/live/83212539/43153928/350972.ts
+http://opplex.tv:8080/3116580700/0700/350972
 
 #EXTINF:-1 tvg-id="Moji" group-title="1. TV INDONESIA" tvg-logo="https://iili.io/JMp3vUJ.png",MOJI 
-http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
+'http://103.183.10.7:9900/stream/channelid/206949723?profile=pass
+http://opplex.tv:8080/3116580700/0700/350997
  
 #EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV INDONESIA",Trans TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
