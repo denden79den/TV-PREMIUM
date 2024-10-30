@@ -7916,6 +7916,13 @@ http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/71146
 #EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="CHANNEL | MALAYSIA", Astro Badminton
 http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/71105
 
+#EXTINF:-1 tvg-id="ASTRO RIA" tvg-name="MY030:RIA" tvg-logo="https://i.ibb.co.com/wN9sB6q/astro-ria.png" group-title="Malaysia",MY030:RIA
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1705
+
+#EXTINF:-1 tvg-id="ASTRO PRIMA" tvg-name="MY033:PRIMA" tvg-logo="https://i.ibb.co.com/P4GmV4H/astro-prima.png" group-title="Malaysia",MY033:PRIMA
+http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1702
+
+
 
 
 ============================================================ FOX SPORT =====================================================================
