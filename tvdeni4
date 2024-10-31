@@ -49,8 +49,8 @@ http://xtv.ooo:8080/live/71891100/66181910/350997.ts
 #EXTINF:0 tvg-logo="https://iili.io/JMp3ZUG.png" group-title="1. TV INDONESIA",Trans TV (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
-'https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
+https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|Referer=https://www.visionplus.id/
+'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
 
 #EXTINF:0 tvg-logo="https://iili.io/JMp3Qls.png" group-title="1. TV INDONESIA",Trans 7 (FHD)
 #KODIPROP:inputstream.adaptive.license_type=clearkey
