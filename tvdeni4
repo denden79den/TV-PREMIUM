@@ -8283,6 +8283,58 @@ http://watchindia.net:8880/live/80817/80817/1071.ts
 
 
 
+===============================CHANNEL AUSTRALIA=====================================
+
+
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="au| optus 01 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 01 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37401.m3u8
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="au| optus 02 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 02 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37400.m3u8
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="au| optus 03 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 03 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37399.m3u8
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="au| optus 04 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 04 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37398.m3u8
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="au| optus 05 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 05 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37397.m3u8
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="au| optus 06 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 06 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37396.m3u8
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="au| optus 07 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 07 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37395.m3u8
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="au| optus 08 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 08 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37394.m3u8
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="au| optus 09 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 09 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37393.m3u8
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="au| optus 10 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 10 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37392.m3u8
+#EXTINF:-1 tvg-id="11.OPTUS" tvg-name="au| optus 11 [event only]" tvg-logo="https://lo1.in/ppvs/optus.png" group-title="CHANNEL | AUSTRALIA",AU| OPTUS 11 [EVENT ONLY]
+http://extraott.com:80/live/6945574629/7169628753/37391.m3u8
+
+
+#EXTINF:-1 tvg-id="foxsports501.au" tvg-name="au| fox sports 501 hd" tvg-logo="https://lo1.in/aust/fxsp501.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 501 HD
+http://extraott.com:80/live/6945574629/7169628753/355747.m3u8
+#EXTINF:-1 tvg-id="foxsports502.au" tvg-name="au| fox sports 502 hd" tvg-logo="https://lo1.in/aust/fxsp502.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 502 HD
+http://extraott.com:80/live/6945574629/7169628753/355748.m3u8
+#EXTINF:-1 tvg-id="foxsports503hd.au" tvg-name="au| fox sports 503 hd" tvg-logo="https://lo1.in/aust/fxsp503.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 503 HD
+http://extraott.com:80/live/6945574629/7169628753/355749.m3u8
+#EXTINF:-1 tvg-id="foxsports504.au" tvg-name="au| fox sports 504 hd" tvg-logo="https://lo1.in/aust/fxsp504.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 504 HD
+http://extraott.com:80/live/6945574629/7169628753/355750.m3u8
+#EXTINF:-1 tvg-name="au| fox sports 505 hd" tvg-logo="https://lo1.in/aust/fxsp505.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 505 HD
+http://extraott.com:80/live/6945574629/7169628753/400365590.m3u8
+#EXTINF:-1 tvg-id="foxsports506hd.au" tvg-name="au| fox sports 506 hd" tvg-logo="https://lo1.in/aust/fxsp502.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 506 HD
+http://extraott.com:80/live/6945574629/7169628753/355751.m3u8
+#EXTINF:-1 tvg-name="au| fox sports 507 hd" tvg-logo="https://lo1.in/aust/fxsp507.png" group-title="CHANNEL | AUSTRALIA",AU| FOX SPORTS 507 HD
+http://extraott.com:80/live/6945574629/7169628753/400365591.m3u8
+
+#EXTINF:-1 tvg-id="beinsports1.au" tvg-name="au| bein sports 1 hd" tvg-logo="https://lo1.in/aust/bs1.png" group-title="CHANNEL | AUSTRALIA",AU| BEIN SPORTS 1 HD
+http://extraott.com:80/live/6945574629/7169628753/355734.m3u8
+#EXTINF:-1 tvg-id="beinsports2.au" tvg-name="au| bein sports 2 hd" tvg-logo="https://lo1.in/aust/bs2.png" group-title="CHANNEL | AUSTRALIA",AU| BEIN SPORTS 2 HD
+http://extraott.com:80/live/6945574629/7169628753/400200340.m3u8
+#EXTINF:-1 tvg-id="beinsports3.au" tvg-name="au| bein sports 3 hd" tvg-logo="https://lo1.in/aust/bs3.png" group-title="CHANNEL | AUSTRALIA",AU| BEIN SPORTS 3 HD
+http://extraott.com:80/live/6945574629/7169628753/355737.m3u8
+
+
+
+
 
 #EXTM3U
-#EXTM3U billed-msg="DENI TV OKTOBER 2024"
+#EXTM3U billed-msg="DENI TV NOVEMBER 2024"
