@@ -7947,32 +7947,49 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19441
 ======================================HUB SPORTS==============================================
 
 
-#EXTINF:-1 group-title="CHANNEL | HUB SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 1
+#EXTINF:-1 group-title="CHANNEL | HUB & NOW SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 1
 http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
-#EXTINF:-1 group-title="CHANNEL | HUB SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 2
+#EXTINF:-1 group-title="CHANNEL | HUB & NOW SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 2
 http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
-#EXTINF:-1 group-title="CHANNEL | HUB SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 3
+#EXTINF:-1 group-title="CHANNEL | HUB & NOW SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 3
 http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
-#EXTINF:-1 group-title="CHANNEL | HUB SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 4
+#EXTINF:-1 group-title="CHANNEL | HUB & NOW SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 4
 http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
-#EXTINF:-1 group-title="CHANNEL | HUB SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 5
+#EXTINF:-1 group-title="CHANNEL | HUB & NOW SPORTS" tvg-logo="https://i.ibb.co.com/nfG2Vb1/hub-premier.png", Hub Premier 5
 http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 1
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NowSports 1
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425329.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 2
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NowSports 2
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425328.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 3
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NowSports 3
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 4
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NowSports 4
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 5
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425325.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 6
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425324.ts
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB SPORTS", NowSports 7
-http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425323.ts
 
+
+#EXTINF:-1 tvg-id="157015" tvg-name="UK ★ HUB PREMIER 1 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 1 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157015
+#EXTINF:-1 tvg-id="157017" tvg-name="UK ★ HUB PREMIER 2 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 2 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157017
+#EXTINF:-1 tvg-id="157019" tvg-name="UK ★ HUB PREMIER 3 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 3 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157019
+#EXTINF:-1 tvg-id="157021" tvg-name="UK ★ HUB PREMIER 4 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 4 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157021
+#EXTINF:-1 tvg-id="157023" tvg-name="UK ★ HUB PREMIER 5 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 5 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157023
+#EXTINF:-1 tvg-id="157025" tvg-name="UK ★ HUB PREMIER 6 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 6 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157025
+#EXTINF:-1 tvg-id="157027" tvg-name="UK ★ HUB PREMIER 7 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 7 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157027
+#EXTINF:-1 tvg-id="157029" tvg-name="UK ★ HUB PREMIER 8 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 8 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157029
+#EXTINF:-1 tvg-id="157031" tvg-name="UK ★ HUB PREMIER 9 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 9 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157031
+#EXTINF:-1 tvg-id="157033" tvg-name="UK ★ HUB PREMIER 10 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 10 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157033
+#EXTINF:-1 tvg-id="157035" tvg-name="UK ★ HUB PREMIER 11 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 11 FHD
+http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157035
 
 
 
