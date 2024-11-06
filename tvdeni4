@@ -7335,6 +7335,24 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/playlist.m3u8?id=3
 http://opplex.tv:8080/live/1525939/1552699/352084.ts
 
 
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/0c4afb9624d691ef282a4.png" group-title="CHANNEL | MALAYSIA",Drama Hebat Malaysia
+https://ce2388031147403ca25a81e56607a193.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_1_Ad/dash.mpd?aws.sessionId=44e175e1-eb16-4e7c-8aaa-e04e865974e9
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/d58fe99a006c3ad4b9e24.png" group-title="CHANNEL | MALAYSIA",Drama Hotpot Malaysia
+https://770c1b3657e94bc4b76ecd3e12882bcc.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_4_Ad/dash.mpd?aws.sessionId=58442df2-7820-4010-9a73-56381a7afe27
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/6c1ea8ba4e4fd18681306.png" group-title="CHANNEL | MALAYSIA",Filem Mantap Malaysia
+https://78470390525b4b03b023113696878114.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_2_Ad/dash.mpd?aws.sessionId=e5afa272-3bef-427f-9c68-976c25e8d27b
+
+#EXTINF:-1 tvg-logo="https://playtv.unifi.com.my:7041/CPS/images/universal/film/logo/201907/20190716/20190716074123890vav.png" group-title="CHANNEL | MALAYSIA",Dunia Sinema HD
+https://raw.githubusercontent.com/MIFNtechnology/siaranMy/main/channels/DuniaSinema/index.m3u8
+
+#EXTINF:-1 tvg-logo="https://telegra.ph/file/1621221a6795938224b62.png" group-title="CHANNEL | MALAYSIA",Lawak Sentral Malaysia
+https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.com/v1/dash/7d6144f66f990e10fc667942d522b82f89ae5cd9/FAST_3_Ad/dash.mpd?aws.sessionId=bd2627a3-77a3-4364-8072-da33bbff1c5e
+
+
+
+
 ============================================================ FOX SPORT =====================================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="" tvg-logo="https://i.ibb.co.com/4s30xbj/fxspmx.png" group-title="CHANNEL | FOX SPORT", FOX SPORTS 🇲🇽
