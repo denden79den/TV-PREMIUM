@@ -7849,6 +7849,18 @@ http://watchindia.net:8880/live/80817/80817/2662.ts
 http://watchindia.net:8880/live/80817/80817/2663.ts
 
 
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png" group-title="CHANNEL | SONY SPORT",Sony Sports 1 HD_k
+https://kodonolonz.serv00.net/tol/mbut/Sonyten1.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png" group-title="CHANNEL | SONY SPORT",Sony Sports 2 HD_k
+https://kodonolonz.serv00.net/tol/mbut/Sonyten2.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png" group-title="CHANNEL | SONY SPORT",Sony Sports 3 HD_k
+https://kodonolonz.serv00.net/tol/mbut/Sonyten3.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png" group-title="CHANNEL | SONY SPORT",Sony Sports 4 HD_k
+https://kodonolonz.serv00.net/tol/mbut/Sonyten4.m3u8
+#EXTINF:-1 tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png" group-title="CHANNEL | SONY SPORT",Sony Sports 5 HD_k
+https://kodonolonz.serv00.net/tol/mbut/Sonyten5.m3u8
+
+
 #EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1 HD" group-title="CHANNEL | SONY SPORT",Star Sports Select 1 HD
 http://watchindia.net:8880/live/80817/80817/1070.ts
 #EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2 HD" group-title="CHANNEL | SONY SPORT",Star Sports Select 2 HD
