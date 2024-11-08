@@ -947,41 +947,35 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 #KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
 https://cempedak-live-cdn.mncnow.id/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
 
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachi.png" , CINEMACHI
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://raziva.biz.id/logo/cinemachi.png" , CINEMACHI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
 
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachikids.png" , CINEMACHI KIDS
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://raziva.biz.id/logo/cinemachi_kids.jpg" , CINEMACHI KIDS
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
 
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachiaction.png" , CINEMACHI ACTION
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://raziva.biz.id/logo/cinemachi_action.png" , CINEMACHI ACTION
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
 
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/cinemachimax.png" , CINEMACHI MAX
+#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://raziva.biz.id/logo/cinemachi_max.jpg" , CINEMACHI MAX
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
 
-#EXTINF:-1 group-title="6. FILM BARAT" vg-logo="http://guki.my.id/logo/movie/cinemachixtra.png" , CINEMACHI XTRA
+#EXTINF:-1 group-title="6. FILM BARAT" vg-logo="http://raziva.biz.id/logo/cinemachi_xtra.png" , CINEMACHI XTRA
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
 https://cempedak-live-cdn.mncnow.id/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
-
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/paramount.png" , PARAMOUNT
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=NDIzMDJhZmUtYWRjMi0zNGJkLTkyN2EtYmE1ZDFlZWIwODEz
-https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
 
 #EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="http://guki.my.id/logo/movie/galaxypremium.png" , GALAXY PREMIUM
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
