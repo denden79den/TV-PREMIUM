@@ -7980,30 +7980,46 @@ http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425327.ts
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/425326.ts
 
 
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 1
+#EXTINF:-1,HK ▎NOW SPORTS 1
 http://line.4knew.pro:80/5FC448/6C4995/691241
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 2
+#EXTINF:-1,HK ▎NOW SPORTS 2
 http://line.4knew.pro:80/5FC448/6C4995/691242
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 3
+#EXTINF:-1,HK ▎NOW SPORTS 3
 http://line.4knew.pro:80/5FC448/6C4995/691243
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 4
+#EXTINF:-1,HK ▎NOW SPORTS 4
 http://line.4knew.pro:80/5FC448/6C4995/691244
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 5
+#EXTINF:-1,HK ▎NOW SPORTS 5
 http://line.4knew.pro:80/5FC448/6C4995/691245
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 6
+#EXTINF:-1,HK ▎NOW SPORTS 6
 http://line.4knew.pro:80/5FC448/6C4995/691246
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS 7
+#EXTINF:-1,HK ▎NOW SPORTS 7
 http://line.4knew.pro:80/5FC448/6C4995/691247
-
-#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", NOW SPORTS EPL 4K
+#EXTINF:-1,HK ▎NOW SPORTS EPL 4K
 http://line.4knew.pro:80/5FC448/6C4995/691248
 
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 1. NOW SPORTS 1
+http://line.4knew.pro:80/5FC448/6C4995/691241
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 2. NOW SPORTS 2
+http://line.4knew.pro:80/5FC448/6C4995/691242
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 3. NOW SPORTS 3
+http://line.4knew.pro:80/5FC448/6C4995/691243
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 4. NOW SPORTS 4
+http://line.4knew.pro:80/5FC448/6C4995/691244
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 5. NOW SPORTS 5
+http://line.4knew.pro:80/5FC448/6C4995/691245
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 6. NOW SPORTS 6
+http://line.4knew.pro:80/5FC448/6C4995/691246
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 7. NOW SPORTS 7
+http://line.4knew.pro:80/5FC448/6C4995/691247
+
+#EXTINF:-1 tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="CHANNEL | HUB & NOW SPORTS", 8. NOW SPORTS EPL 4K
+http://line.4knew.pro:80/5FC448/6C4995/691248
 
 #EXTINF:-1 tvg-id="157015" tvg-name="UK ★ HUB PREMIER 1 FHD" tvg-logo="http://lg.mygolden.xyz:8080/logo/UK/hub.premier.png" group-title="CHANNEL | HUB & NOW SPORTS",UK ★ HUB PREMIER 1 FHD
 http://maxzi.pro:80/R54P82E25Y43F5/5LW3K1HDV35HWUJS/157015
