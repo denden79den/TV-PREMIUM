@@ -1122,20 +1122,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1
 https://atemeshield1-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
 
 
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" ,HBO (Maxstream)
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a618decb92b335182b1d4f9ca579d89:87c4a95dff921cf355535024167696bd
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(92c7b96a-33fc-4899-a032-50ae0fbc9257)/manifest.mpd
-
-#EXTINF:-1 group-title="6. FILM BARAT" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" ,HBO Hits (Maxstream)
-#EXTVLCOPT:http-referrer=https://maxstream.tv/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/113.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ed75c909e9ba3d14803224997dd04d71:7b2bcd66d69b3352f52bacff954330f3
-https://cdn01-telkomsel-01.akamaized.net/Content/DASH/Live/channel(7e3ac8f2-3380-461a-976b-30bca8d939a0)/manifest.mpd
-
 #EXTINF:-1 tvg-id="" tvg-name="WARNER TV" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZBnIEU2s1C6cWX2s9J_y4k8OTGodYo4e2xPWpI-JAu-A.png" group-title="6. FILM BARAT",WARNER TV
 https://play-gachor.online/tv_948372/73tG5fyUkK/47
 
