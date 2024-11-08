@@ -2110,7 +2110,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
-F:-1 tvg-id="Lokal" group-title="9. VISION+ SPORT" tvg-logo="https://i.ibb.co.com/XsV770g/SPORTSTAR-3-1.png", Sportstars 3 (backup)
+#EXTINF:-1 tvg-id="Lokal" group-title="9. VISION+ SPORT" tvg-logo="https://i.ibb.co.com/XsV770g/SPORTSTAR-3-1.png", Sportstars 3 (backup)
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://koyoproject.koyeb.app/vis/drm.php?id=1002&token=5a3l7xp2ie
 #EXTVLCOPT:http-referrer=https://visionplus.id/
