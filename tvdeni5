@@ -5,11 +5,11 @@
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="Lokal HD", MENTARI TV HD
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/l1o4b4ghv8mfhxw/mentaritv.png" group-title="CHANNEL | LOKAL HD", MENTARI TV HD
 #https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV 
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
 https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
@@ -17,23 +17,23 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV (Backup)
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png", SCTV (Backup)
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e647532391/manifest.mpd
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="Lokal HD", INDOSIAR 
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="CHANNEL | LOKAL HD", INDOSIAR 
 'http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
 #EXTVLCOPT:http-referrer=https://www.cubmu.com/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://lic-cubmux.konslet.workers.dev/4rr0w/play.wv
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
 https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png", Mentari TV (indihome)
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png", Mentari TV (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
 #https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
 
@@ -42,7 +42,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="Lokal HD", MOJI (indi)
+#EXTINF:-1 tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="CHANNEL | LOKAL HD", MOJI (indi)
 #https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -50,7 +50,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="Lokal HD", MENTARI TV 
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="CHANNEL | LOKAL HD", MENTARI TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTGRP:Lokal HD
@@ -84,125 +84,125 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
 https://1s1.rctiplus.id/inews2023.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="Lokal HD", TRANS TV
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="CHANNEL | LOKAL HD", TRANS TV
 https://video.detik.com/transtv/smil:transtv.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0", TRANS 7
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0", TRANS 7
 https://video.detik.com/trans7/smil:trans7.smil/chunklist_b744100_sleng.m3u8
 
-#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="Lokal HD",ANTV
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="CHANNEL | LOKAL HD",ANTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="Lokal HD",TVONE
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="CHANNEL | LOKAL HD",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/scl/fi/75pgtqlac4o0fwjfpimvf/Metrotv-hometv.png?rlkey=vmq2zzlwl1auy8ebeer6bnorf&dl=0", METRO TV
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/75pgtqlac4o0fwjfpimvf/Metrotv-hometv.png?rlkey=vmq2zzlwl1auy8ebeer6bnorf&dl=0", METRO TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/s/2rp51aouwircr4f/images%20%281%29.jpeg", BN Channel
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/scl/fi/p305i3rgh4vqbsyoo8hoy/Kompastv-hometv.png?rlkey=l1zjtk9trf541tlktvupimr2e&dl=0",KOMPAS TV
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/p305i3rgh4vqbsyoo8hoy/Kompastv-hometv.png?rlkey=l1zjtk9trf541tlktvupimr2e&dl=0",KOMPAS TV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=a898c1af1a76498788cb616d39e551a6:f4c0c13bb1b84004b32ae4e9042d1571
 https://atemecdnbalancer-voe.sysln.id/live/eds/KOMPASTVHD/mpd/KOMPASTVHD.mpd
 
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/8w88vagqw5kwswyxnn96q/Cnn-indo-hometv.png?rlkey=x0pj4g2qo8585bwzgrl9dz88g&dl=0" group-title="Lokal HD",CNN Indo
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/8w88vagqw5kwswyxnn96q/Cnn-indo-hometv.png?rlkey=x0pj4g2qo8585bwzgrl9dz88g&dl=0" group-title="CHANNEL | LOKAL HD",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFCiQL7dPFMlGady_aRY-rpEH2Dm-DTrOJ9abnGqLvkNaO0m5NoMfpIXOi8ueNpIameTJQz8JCXE8CXirmVmXsqH-dSYzr1iL-2kxmGYiOwAqPhb63NBQVrqyT7-V5OStOWraaCWwnrEQ/s720/cnbc-p.png" group-title="Lokal HD",CNBC Indo
+#EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFCiQL7dPFMlGady_aRY-rpEH2Dm-DTrOJ9abnGqLvkNaO0m5NoMfpIXOi8ueNpIameTJQz8JCXE8CXirmVmXsqH-dSYzr1iL-2kxmGYiOwAqPhb63NBQVrqyT7-V5OStOWraaCWwnrEQ/s720/cnbc-p.png" group-title="CHANNEL | LOKAL HD",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="Lokal HD",BTV
+#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="CHANNEL | LOKAL HD",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/61odcxvd46k6z42yp38qp/IDTV.jpeg?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="Lokal HD", IDTV / Investor Daily Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/61odcxvd46k6z42yp38qp/IDTV.jpeg?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="CHANNEL | LOKAL HD", IDTV / Investor Daily Tv
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wv2qoteaewga9oe/beritasatuworld.png" group-title="Lokal HD",BeritaSatu World
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wv2qoteaewga9oe/beritasatuworld.png" group-title="CHANNEL | LOKAL HD",BeritaSatu World
 #https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/91t5ke1utdw0lqg/jakartaglobe.png" group-title="Lokal HD",Jakarta Globe News Channel
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/91t5ke1utdw0lqg/jakartaglobe.png" group-title="CHANNEL | LOKAL HD",Jakarta Globe News Channel
 #https://raw.githubusercontent.com/mimipipi22/lalajo/main/jakartaglobe.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg", MGN  metro Global Network
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg", MGN  metro Global Network
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png", RTV
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png", RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
 https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpOKwRCsJpeW6n7WqcFh-MliNHKbcvYzoveFPJ2hAN105OcNXQEyp8gwB423EQIPh0mPs64bmSrnDPSysnGPu85-MB3722U6WJNIzUh80KEFS0Mo6G1W8h3iSNhvvCz9D0DmpIWAnMlI0/s720/ntv-p.png" group-title="Lokal HD",Nusantara TV
+#EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpOKwRCsJpeW6n7WqcFh-MliNHKbcvYzoveFPJ2hAN105OcNXQEyp8gwB423EQIPh0mPs64bmSrnDPSysnGPu85-MB3722U6WJNIzUh80KEFS0Mo6G1W8h3iSNhvvCz9D0DmpIWAnMlI0/s720/ntv-p.png" group-title="CHANNEL | LOKAL HD",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/bcngvz30749b4ha/tic.png" group-title="Lokal HD",The Indonesia Channel
+#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/s/bcngvz30749b4ha/tic.png" group-title="CHANNEL | LOKAL HD",The Indonesia Channel
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/scl/fi/trrwcscd4z2fg0p5es011/Magna-tv-hometv.png?rlkey=dwbkdeu565vt1h7l67zvq0gc8&dl=0", MAGNA TV
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/trrwcscd4z2fg0p5es011/Magna-tv-hometv.png?rlkey=dwbkdeu565vt1h7l67zvq0gc8&dl=0", MAGNA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h24/01.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png",Indonesiana TV
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/s/38kg8t87gin4h15/indonesiana.png",Indonesiana TV
 #https://kbtv.akamaized.net/hls/live/2031188/kanalbuya/6.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/tv_daerah/garudatv.png" group-title="Lokal HD", GARUDA TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://play-gachor.my.id/logo/htv2/tv_daerah/garudatv.png" group-title="CHANNEL | LOKAL HD", GARUDA TV
 https://etv-cdn.kdb.co.id/GarudaTV-Stream/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/hr114y48r5w9zh31uy9db/inspira.png?rlkey=kmv5fx7zk513ve165u7ecpqxh&dl=0" group-title="Lokal HD", Inspira TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/hr114y48r5w9zh31uy9db/inspira.png?rlkey=kmv5fx7zk513ve165u7ecpqxh&dl=0" group-title="CHANNEL | LOKAL HD", Inspira TV
 https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="Lokal HD", Antara TV
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/ggn53c32adqoi6e/antaratv.png" group-title="CHANNEL | LOKAL HD", Antara TV
 #https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvri.png",TVRI
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/tvri.png",TVRI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
 https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropbox.com/s/y8h66fmfnulfic5/Tvri%20world.jpeg", TVRI WORLD
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropbox.com/s/y8h66fmfnulfic5/Tvri%20world.jpeg", TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="https://dl.dropboxusercontent.com/s/yq8zq1gb4cpvgcd/rrinet.png",RRI NET
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/s/yq8zq1gb4cpvgcd/rrinet.png",RRI NET
 #https://rrinet.rritmb.com/hls/live.m3u8
 
-#EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/t6isdttacf6v4fk7hu4mg/jtv.png?rlkey=r94c7yd6tz51i1gi3ykei4tf8&dl=0" group-title="Lokal HD",JTV
+#EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/t6isdttacf6v4fk7hu4mg/jtv.png?rlkey=r94c7yd6tz51i1gi3ykei4tf8&dl=0" group-title="CHANNEL | LOKAL HD",JTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:0 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
+#EXTINF:0 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
 https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
-#EXTINF:-1 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
-#EXTINF:0 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
+#EXTINF:0 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/10.jpg", INDOSIAR
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
 
-#EXTINF:0 group-title="Lokal HD" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg", Berita Satu
+#EXTINF:0 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg", Berita Satu
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
-#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="Lokal HD",BTV
+#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="CHANNEL | LOKAL HD",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
