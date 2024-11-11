@@ -30,8 +30,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c6856c3db2cc016cd6e6475
 https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
 #http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
 
-#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
-https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
+#EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (Vidio)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://kametv.my.id/pdx/play.m3u8?id=206
 
 #EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://app1-oxygen.mm.oxygen.id:12803/oxygentv/assets/upload/channel/tvlogo_mentari.png", Mentari TV (indihome)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -183,12 +184,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/t6isdttacf6v4fk7hu4mg/jtv.png?rlkey=r94c7yd6tz51i1gi3ykei4tf8&dl=0" group-title="CHANNEL | LOKAL HD",JTV
 #EXTVLCOPT:http-user-agent=OTTNavigator/1.7.0.2.4 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
-#EXTINF:0 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", moji
-https://atemecdnbalancer-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
 
 #EXTINF:-1 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (HD)
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
