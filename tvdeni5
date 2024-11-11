@@ -53,34 +53,34 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="CHANNEL | LOKAL HD", MENTARI TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI
 #https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUG-db-ivIJexwcJChOQmCds/ts
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" ,RCTI (R+) backup
 #EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
 
-#EXTGRP:Lokal HD
+#EXTGRP:CHANNEL | LOKAL HD
 #EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
 https://1s1.rctiplus.id/inews2023.m3u8
 
