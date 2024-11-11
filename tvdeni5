@@ -1,4 +1,4 @@
-==============================Lokal HD===========================================
+F==============================Lokal HD===========================================
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -1252,7 +1252,8 @@ https://cempedak-live-cdn.mncnow.id/live/eds/Paramount-HD/sa_dash_vmx/Paramount-
 
 ===============================TRANSVISION======================================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/J7rqRQ5/transvision-logo1.png" group-title="CHANNEL | TRANSVISION"
+#EXTINF:-1 group-logo="https://i.ibb.co.com/0t1GHYF/Transvisions.png" group-title="CHANNEL | TRANSVISION"
+
 #EXTINF:-1 tvg-logo="https://www.dens.tv/images/channel-logo/17.jpg" group-title="CHANNEL | TRANSVISION",TVRI
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
