@@ -52,11 +52,6 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="Lokal HD", MENTARI TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/i38i8su4y8dh5gqtdvuap/tepiantv.png?rlkey=wbqg89y49va6698wv5l9jx5go&dl=0"  group-title="TV Daerah",Tepian TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43  
-https://video-weaver.fra05.hls.ttvnw.net/v1/playlist/Cs4EJoAcWnGzTXDrzHByOYj8Fes2tiwJ7Y8OkQdi7jdVWeXYi7TJ8DWwa0lbGPMPet49hct41GjKSuh1BG3CewgE3-HrQgqNRWTHwIUAAOAlLdRL_dKIhxYgisnBL8KSEAFo5vQxQvINyYmUGTnAaVptq9FMWlkbCQVYNNJjgapkQVKhgdjExqUIbtv0GFdQiA_NluzLjrv0YbGOlU1plzzbCTRG-czKn5kkbT4sPCXMpbrJpJy9CfZULhnuOae6mEcmUcj8j2w0kqUfxBYTHplMSkecF5kUMivuyxdDXd7IO1MDaonn4Lfso4kCDwDLrzqIqAKCGQLJifsBlgnmMG45W5A4NIE1vxCbJVOVfr1cptUhTyNJkMy84VqO62FfTAqggBPh3yDoSwAxhVpYuK8KFM1e65Q2ITA0IPPFE0EkRY5D8L9mthS14b-_aga1-0cJdlC1Y6r9FUyjG-tY-W2UQulJDcDabyFrZqwIoSSbZeZTagV_qclWcg_hNeStYKtriR7pjfmk3De6jbIp4v25-0iWrh5C2TQ7RP73V1B9mG8qQA0TqJzjVMMVFBaHpcjatD3ijncZaopVXoSxUwDAmwbUIrWc45ppwdfdsR_563eV1XTHva2iW64bgPlZrYL1EfSYbCB6lP7Mur5AEPp3FTWWYqYf_Ux9j2OGEy7NBzTVh9g4DS2auKrphIGwPjNS8zhWNG5oeGEBfiAzbprsUeeu2ohopXRhZv9kFcbL4LtpqUd7nIQ1PwJ3e_hyY5y1BEAz28vJh4DKJ8oaiF8aDCUk0F7MCVhsvCPRWiABKgl1cy1lYXN0LTEwlgk.m3u8
-
-
 #EXTGRP:Lokal HD
 #EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
 #EXTVLCOPT:http-user-agent=android-R+
