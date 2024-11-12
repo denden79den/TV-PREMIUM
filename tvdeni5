@@ -129,10 +129,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3
 #EXTINF: -1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjFCiQL7dPFMlGady_aRY-rpEH2Dm-DTrOJ9abnGqLvkNaO0m5NoMfpIXOi8ueNpIameTJQz8JCXE8CXirmVmXsqH-dSYzr1iL-2kxmGYiOwAqPhb63NBQVrqyT7-V5OStOWraaCWwnrEQ/s720/cnbc-p.png" group-title="CHANNEL | LOKAL HD",CNBC Indo
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_b384000_sleng.m3u8
 
-#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="CHANNEL | LOKAL HD",BTV
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/61odcxvd46k6z42yp38qp/IDTV.jpeg?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="CHANNEL | LOKAL HD", IDTV / Investor Daily Tv
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/61odcxvd46k6z42yp38qp/IDTV.jpeg?rlkey=6omortjoma23ee1bny9xxi76e&dl=0" group-title="CHANNEL | LOKAL HD", IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropboxusercontent.com/s/wv2qoteaewga9oe/beritasatuworld.png" group-title="CHANNEL | LOKAL HD",BeritaSatu World
@@ -193,9 +190,6 @@ http://63b2dc7196c38.streamlock.net:1937/ch2/myStream/index.m3u8
 https://cdn08jtedge.indihometv.com/dassdvr/134/ochannel/manifest.mpd
 
 #EXTINF:0 group-title="CHANNEL | LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/80.jpg", Berita Satu
-https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
-
-#EXTINF: -1 tvg-logo="http://picture.dens.tv/wp/img/tvchannels_v1/340x160/1687501562_tvchannels_v1.jpg" group-title="CHANNEL | LOKAL HD",BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
 
 
