@@ -3081,6 +3081,14 @@ http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445812.ts
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/1445813.ts
 
 
+#EXTINF:-1   tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="CHANNEL | OLAHRAGA",WWE.network
+https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
+
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎WWE TV HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/wwenetwork.png" group-title="CHANNEL | OLAHRAGA", ▎WWE HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/98145
+
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎UFC TV HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/ufchd.png" group-title="CHANNEL | OLAHRAGA",UFC  HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/98147
 
 
 
