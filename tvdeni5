@@ -3149,5 +3149,176 @@ http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
 
 
 
+===========================================NASIONAL=======================================================
+
+
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/580/580-LOGO-l.png" ch-number="1", RCTI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=1&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiTUYyQVZuUDYiLCJyZWZyZXNoX3Rva2VuIjoicmFrWnlXK25YbFNaeFVDV0ZSc2l1NTJcL1pncExxV0Z5bUJcL2tNQzNkODBaZ3J4T1QxanM3b0ZRVlVXTWR1T1puRUl3cjZmT3RzUUpnXC82WWV2b0VPaE4xSGVkMWo0ZTBGb2l4ZHJNY1UyRW1YVmVoS1VHdWhUYm43Y2xoNlcybnJVZm41cXlTamQzM2pFN3N1WUpKaXI4cGo0Q2FFbHU1eHhwRTQ0Uk90Nmt1SGo5UzBPeFFmWVV5UHRSWEpDMWswOHBXRlNlT2JSbzJ6clZPZk9WZ3FVSklTS2MyRjlaWFZPRFdtajRoUFQ0Q3dEbHE5RGtOU1BodkRkWmdBRjViNjJiQ21PUERMNWRUc0k2Z0tsVW5YYUtvTHRoK21rWTdsc3lMTk00MzR5ajV2WTFuXC9PN1pQUkZhWWdDR0J6XC83azk2cFREWjNQdngyK3NRMU5JOHFUZTdKWTRKSGVFZTlcL1RGUXVuUEJxUVJzPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/581/581-LOGO-l.png" ch-number="2", MNC TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=2&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoieVZCR01yWlAiLCJyZWZyZXNoX3Rva2VuIjoiZVgrRkphc1Iremg5TW4wMGVoXC8zc0h6cHFreUhyWnNOK2VxWHFXelwvWlpiaFY2T3JcL3NwZG9QcjRDT1Z3cWRHVjdsM2U1WkN4bHJwdVJLREd3eFRzRHJkNkowM3V1VVBtTkxvRVcxMDNVMlwvUE9aQVhEeno1Y1wvUncreVlaaWorRW1nbVhGRCtDb3JnRjF3dGxUODEyMkIwR09ucWJ6U2VaYmJnVldOaEl0REFSZVBZQ1hhZDQwNm9pMjlmdE93RUdKYXdRVlZxZVpWVlU4d0RlOTNGU1YyOVdqbzZ3bWozM3dRSTF2Q1JGRit4Sno3M0MzZEZST29kVGhWdmowTHByRlhod0Z0bURINlpWRVpheUlkZjJxRHlqeGU2UDdWYlwvZjhDNm5BMWdKZGJDRThvcFpBaEFZMEt5V3N3R3dKR1BHMEl4VHJEQTV4NVg4akZ5Y2dYMXA3SlhiQlVMZHdPSHByd3N5NWFHeFVrPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/582/582-LOGO-l.png" ch-number="3", GTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=3&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiVHNKQm1HUkEiLCJyZWZyZXNoX3Rva2VuIjoiSWRwMWpjWDBpa1wvdUliSzFwK013QjY0aXJrWDNIQnQrcjRUTXM2MUR4aU0xRGJxdmNld0kzcU92OGcwYlBCOFJBYnpNc0JxUTBJWUpGTk1MNzY0OFZ4OFRaS3JtZ1hqcFZlWWI5MWE5OHRINWhYVkphQm1ZemhYblVnRXdmSXVNWXlMY2tYelJFTTZBTTdMaU1GZlJDTTJjKzdmVkJYd1wvVDZTY09mVWQyclk0cndaM1RUMG9qXC9mdUpCdDB4ajlHSFVhcVNTeDdxcG8zbjIyejZQalNudENcL0c0SllDVVJUXC8yc2hTQ2hUQlFad1l4Y0liT2VXR3lYVVwvU1FvMUZGdkNWckJWa1UxUkhCZXJsZXJsU3pYdmxPZTRrenB2YXRYUHpcL0lhRlZnNyswejNQWWVSa0Rxd1V2akN0RmpFaGdTQWNDemVOeTFBakp3b1J1K3A5TmlsYVwvTXNHODNHR3VGeG5wN0xMN2lSWUU9In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/583/583-LOGO-l.png" ch-number="4", iNews
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=4&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiV1RVdXZsVmUiLCJyZWZyZXNoX3Rva2VuIjoiUW1hVjZGblo1NXBRMFVrWGl0dzllMDk0ckhGUDBwdHdTZ3M1cFVwR0F5Um9URnpwclwvTFwvd04yUU9uN1pRb2owT3VEaUhnQkxKU1BDWHhpcUJcL1RJK2NvbnFZWlk0aUZwSXVNZE1lYUZXSFNWaTE0VURBVW04OEpGODZkVjc4MTJZY05aZWZ1RmlqbXFTZlFVd0F6aFNhWklPOXJsdkk4bjJ6dUpVOGVXRStUY0V1QmdZTWc2Z3Z1QjlwV1NtTmlcL25qQ21kRE9jSTB5SSt0MFYwM3RUMXhiVmMyWFJDSUxQM2hTVXhHQ0dXZ0N0ZFk4RnlQUEpzc3VnaTQ0aGVjaVNnNEk5UCtrMlBUMVBkUFU1XC8xMGRIOFByc2V6c3FFdXdDSjJQVk1kcFwvUDBwTHVkVExTMGVycFNQcFN2ODJmV0Z5d0RJZ3AxcmZacHRqSlhEY0VsVGRrMk5iVHljTU4yVUlkU0djelhTQ0dRPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/584/584-LOGO-l.png" ch-number="5", SINDONEWS TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=5&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiajIzcHlZeHQiLCJyZWZyZXNoX3Rva2VuIjoiWGJ1Nm5CcVFXbFh4UWw0aDkrQU04UGVWRDJRMVwvMXNBMVZFbEVZNGlNT0Fid3hIMER4YytUdDJqeGtvRnNibUVJaThsMEZ3ZTh4Nk1JNWdGaDNQVGlHZVoyTzRKM0hVcnRQWEsrb1dIREpWbXVaejFpZFwvY1R6OGxSUmF6YXVrZDVINkY4Rk10cFpGaUF5QVlnZFwvV2luXC9pWmdWQ3JoRFVkY2xaYWZ5d3piYzd4UnJJMU9KMVVEU2FXXC9LRzZtcStXTjdRS2VsZzlqa29HWnI0ZEZnekRPZ2pydFlnSDBMMTlZZk5kM3h1QWN5Z2ppV3hJQitoM1ZVdjBCbzdvakUzZHc4YTVMRmc1Yk01dEJOYVwvYWl1bzYraTh0TWE5MGswXC9ITkh0akE2WERXXC9PeFE4Qmt3S3p3Z3J0YWtPU2ZXTnkxaVRGY2F2bW9lSVRSZDROV2trU1I3WlZiXC9ickEyb1ZRTXJuVE1jeU9BPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/585/585-LOGO-l.png" ch-number="6", Trans TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=6&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoicmhablBsdEgiLCJyZWZyZXNoX3Rva2VuIjoiWnlOQ2YrU0trS1UrUzVGSFhLekFFQzZYc2ZERWpob3NHZVNBQXZEbHQ1a0hNQXorZUc3cktYWjB2a2d6ald4TzhWdkVNdnR5Mm1STm9cL25JXC85bTZDRTJPQ01kZ2duTUlIUnNzcDBRalFKQVwva3JzZnZUeVlhaDBcL3RcL0t6TlBhWU54aTVZaVVqRktZdWxjK0JFaGdCNDBVXC9HQURZcU5HTjVRUGV4ZjBPdkNvWlBsdUdSeDBYRTVTTDFZbWZCK3NCVGp2RTFnTERadE9wa3Rmd1RlVzNCdnIzVE81cHFYWDV3TXVUSmtmOEVJR2VBTkJadjlDWjYweGVwOWJoUnRQMXpHem9oZXUyVlhVVlN0bk9FTWF6Qks0TkR1ZUZ0NUZqc0RDU3dIOWNDOEx1UTlSZTJvcUo1VDFhNnVxVHliYVF1dUxiemdWcE8zZ3dTYWhRTXAySThmN0o3dU9xb0JsSW04dTNFcHh4bmtNPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/586/586-LOGO-l.png" ch-number="7", Trans 7
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=7&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoieXdZZU14UEkiLCJyZWZyZXNoX3Rva2VuIjoicHY5ZUJTdkUrNjVBVlFTRzJnTHp1a3FHNzYweXA4eGZMcHY3R2hCSXpwSmNhdHlDWTRjUzFrbnowTHFcLzYzMGUzS0lVSzlCVUMyYkZKUDBFTG56UUNXZ2tEclBTUFl2elRyekVyS21EcERBZ2cwS3NUb2t1d0Z2U2dUK0xySWlJc3ZOdXJlTmxxMkpzQ216dytzbTZVZFRQWFwvUFN2SVRmcXJ0b1pHR2h0YTI5QnFYT0Mxc0xIWXE1VytGY1wvNk5oSWhsQWtaSXBjbVJOcWxQZndLdkhpenlLVWx0dm9RSERwZmVIQ2ljckNRR3R3dUVpZjNcL2FaTHU5SFllRkhUR29kb3A1NFpqYkNGYUUrVjQ4eTlRclNwSCtCakVrMFYwcyttSG9LK1NJRjdVWG5QT01SZ1MwbWk3bnBwNDJWRXhMRzZ2WVRNeCt0UmNIUVlVSEQ3cW9nMVh5ODA4c25jeDVqSEZCdXN1VXVLYz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/587/587-LOGO-l.png" ch-number="10", ANTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=10&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiRWZRamJ2bVQiLCJyZWZyZXNoX3Rva2VuIjoidzhkcTQ1RjRSaWZUUHFSUzNjSzRVd3FZcCtKTVowNjZhUllLblwvK2RMWmZkd1hRUGd5S1dmSEttU01ZMGdiTkxlXC9yVG9LK0N4YXkyYkVmUHRhdFI2blVqSERJWkNcL2tycVFYVnN1dHJhK1NZRkk2cmtYWFlub2EwdVdDSE92czAyeHZYdTZQNjFYYWdCSEdla0NWaUZZR2E5UmYzZFdadDByV29ma3RJZllmanloTE1ZcTlveERxMjN4ZEZ2TGczc0FiUlpHV1wvN1Z3VjFHV0o2ZzR5Z1hKSXpBVUZJc1A0UVVCRXRxZFdqclB6aFc3MXhMYlpjVUQ2Wm8wbzE1WTJpZk9pMVEzaEhqT3F6cUowVGRIYVJTUEl2bTVtYXJ1STJ1MGRzRG9UendHdGRRSmxrd2hNRW83TmlZUWE2azIwQVwvaDBSdmtSOGZuQUswXC8xcnhqY0dkRnVGNEU5SHhvRkxsUnc1SE01WFNJPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/588/588-LOGO-l.png" ch-number="11", RTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=11&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiQXE4YzRzeGQiLCJyZWZyZXNoX3Rva2VuIjoidExPMnlEeUd6M2JBdklyUjRZU3R2R0hlXC9xM1k0czFUd2pXMmFPWldxaFhOK3c0UndKZkI1K2NjQUZkWTlCNWg1bktQakkrcUdSNlFtWk96WWNVQlhwTGRXbm5ESHNVZDZ2czdLUlM4TUY0YmtPajdsdHlodkpOQ1wvR25YOEpub1FITEdRdklZcjBITFY5bUFibktJUGxyZFcrYXVzMVdaSzBHdUhpUGVDTHY2K0hOYUtYTUY1OFREQ1ZGNkI1akh3RkZva0Vab2hHejVvOUlYdkpiSzNnWWlCN1Z1WlNlb2djVGIweThCbWpQS3V5NU1mQ2F2QXJWZzRPbjJYOWJ2NzlsQ3EyYUxFSVZxWWlxMitxU0h3TkhoT09sbG81anpLYWRMXC9cLzVnZTJwb0JmdmZNU0o2WlZ6em1nWXNmMWx5V0NQdEtlSWZmZDM4cHpQOEMrWmg2Y2FxVTdWY3psVE1mMjY0SzNVYW92dz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="News" tvg-logo="https://www.visionplus.id/images/repository/589/589-LOGO-l.png" ch-number="12", TV One
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=12&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiRTlndWJYREIiLCJyZWZyZXNoX3Rva2VuIjoicG0xaHM3UTdsN0xUdWtncnNzTUVOZlBJVVpaTFlnazF3Rnd6clZOVlZWYzRLaDg2N3RWbklwNjl2UjZ6SmpJMHo4MjFoRE1OMm5ZaGx1aDJTWjZpUWRJcE1GeGVHSFpnTXE3eGlMb0s3Mm5pSkZhNVB4YnBTU1p4b2RFTVpSdkdFc1Z6eTFORXdQaHVkRWQwMUhzaE1mUmtGZnQxTlR1MjF1TitsUVpBUXlpU0pUNlB5TUlCek5ITDMrSCtvbDg3dkMxelhyQU5vTlNGWFlUdWorVE5aM1hIMnVQYklJMlk1ZTBCTVdzeEMzNDhodHRiOTAwcTdGRFFKNXFRYXUrS1VcL1hqcW5uR3kwc3RES0dPNkNJMWJMTTkyTmZSQmxPSzRodnFvXC84QWl1RWVBMjh1XC9IYVBiSEtcL3FPSlZ5SHMxQll0VnprUUNma1VlcmlxYm5aeit4RVE2b2RKXC9ueWNaRVhcL2l5SkhteEZzPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/590/590-LOGO-l.png" ch-number="13", Kompas TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=13&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibkVoWDlyOGIiLCJyZWZyZXNoX3Rva2VuIjoiWWdaOVhEZUFLTjMzTmlXdld4b1wvSkV5Vk1MZGxvSWxEWGgxdnc5MTJzV0NpZ3J0NTMwTnhZMnM4U3NHRzBMclwvYWRwb3VWd2E4VzFXV0xWUkJiQ0Y5NFwvTjlGck0xcmJzZnNWM2hiYW80VlVPMnZNQWNUalZ2MUlcL051Zk9pcjladk93ZnA3TVZPd0RPYzJ6YXNiUmk4VEIybmZDcTlPY3FSNmNZWFhPeUhBZzRidEpOTlVLeWRUZURkeEZoSFlFalhcL1NuM0t3MDE2Q09ORUpHQ3VlK1wvYmhieHlYNXJGcTZkU3BQSVY2UXpxSndyWmhkcUM1OWlIcXMzYVJoNzFGNjlRZXYyRklXMDhBdE43OEU1QWxYck5FUjJsaGg5WXZoT3h0amlDVU1XUjZQb0E2YXY1cDNTV1wvUTJrcUJVRUQ4b2Eybks3RlNRc2sxdk5pbWt3TmQ1VVNrcDkzZ3YzTTc2OWJkbTlRdTR2dz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/591/591-LOGO-l.png" ch-number="14", Metro TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=14&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiWmptT2JHTmwiLCJyZWZyZXNoX3Rva2VuIjoiMjV1XC9wTFwvSms0VFk0UGlSNHBVY2UyOU9qbGtLb3pXUmI3ZUJ6WTZqKzRTTjBHU2krTFVKdnRSTXRqVHpobGJsR0ZKSXI3ZlZzcmdcL09lWVFocFUzUjBHb2hTNDBpMlJGUE1nZUViakR0d0dpZUJtWGNzRkpyV0ZHbTlyQUJ6OUdpWG9LeWlRXC8zaGhwbktlTXU4K1d5a3FFM2k1M3c4T0pyb1h1Vng5bXROdVZHMUVXRGk4SGQ2M1wvNnlHcGhaY29nZ1RUeVBxa0RwR1RZN01lbWFFb3g4XC9RNWpXUUdTMnltSVJMVktiWHNCMU0wb2NtTXpCV3IreTEyTno0Q1ZlUVoxV1IzOGFocjk4eFk1c1wvZmo2YWt4NmtiSytjM0ZnNDJBaUs1aDVMakJ3VXJ5Wk9POHBub3VLR04yMDE1OHN2ZWl4ZmJGR3ZKWVIzRnM4XC9pdDRLbXZxYnpCUE5HRzBOcmdDTlRmdE9ENWs9In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/592/592-LOGO-l.png" ch-number="15", BTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=15&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiVkNBcGFJUXEiLCJyZWZyZXNoX3Rva2VuIjoic3MzMFwvRERMNUVrY20wcVQ1eWYyQlNmcmxEWDk2Uis3K3Zoa1F0ZUx0WTVkR3pWeHRiUG5leFhDblF2cDJDUFBZQmJJVlNTQ2lKWUhkVGlScnBvTGNBNnZyOGFCSkVWaytmVlZRMHhQaFYzSjhURmIzZ3lTK2JqdWtubjRSRXlDYlJGZno4UldpbnJBY0lVYU1FTGxGcjd0WHhXNitcL1wvaTYrU3VKemNucFFWV096VmwrbEtONGVxNyttbjZ2XC9xY04zZEpPcFlqbTY4eFpEXC9OWFpLeGx0dm1va2IyXC9pR3BuclhWUWc4QjFhelpyRkZIbytCTTFTQTJQY0NwbTNUQW8yVWhpK2dIdnZ0eHNzbVoxSVpQQ0tkWEdkUit1M3RvQ0xlS2MySjY1bGg0aFdCOWFHYldaZGxEc1Z6UGpKUWdkVnVEU1wvVkNjb1FGQW9xR3FwZHFZdTMrV1hlVmRcL3RjdnA4aTVtelNWb2c9In0=
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/593/593-LOGO-l.png" ch-number="16", TVRI
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=16&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiQkNhclJpRE4iLCJyZWZyZXNoX3Rva2VuIjoiMWE1ZG9SYmM3ODBHN3FoN0JTbmdwTHRCeEV2T0c5V01GcW5pXC94RlJsc3BBbUh3U09zUFpEcDN3cVdlVWF1ZVVFZ1pGMVo3TDV3M0diaWdjRkdiWVdpMjM1dURzS2lLNFVnYVQwckFzTVhjcUN3b1I4bUNtNk0zM0hXeVA4dEFENEM4ZklocnJ5eVd4RzdKT0FZSGlPaXNEQ0FoaWdBV3VaRXVPbWJiN1BKXC9Gb0Y4bFNuejNZZlwvUldnblo1MmhDMldNRnlFYzgzU1pWUVZFUXRtNmJZdmF5SkxpMUpaMUpBc2w3ZTJCVVdES2tcL3RxcjVMYXZFaEtvampWRHdFMFhaXC9Ga0hrUFNOODNHekROcjNVNlkzZGtQVVloT2ZlUU1pTzlQMWlBd21ERFZSY1E3cGN3R0NZRzFaT09DVmZQRkdcL3l0NEhUR3ZTYlU4Q3Z2Rmk5K1hqRlZBNzFyUVwvcms0RGN4V1dwSW1Qaz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/594/594-LOGO-l.png" ch-number="17", SEA TODAY
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=17&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiQ2lkNEdsRGUiLCJyZWZyZXNoX3Rva2VuIjoiQmc4M0g5NEI3WEkyQ3dpdzUzYnM4N0wwQUdRN3dlWllRWUJhWDBsQXQ4Uks0ajBVZ3d5ZnNNT2JncDl6WExHcDVKTEQ5SkZUOUdqY1JmU2E2UUQzT1c3U0hyaVo2dWpTbUliMHBKaEhkOWVVWUpyV3FuM1g1SFNQU3hUcEtrMGJNZUdrSFRZSFJLUGNmU3FXNmdwY1lSZEtQSFg1cTVzSzBya1BIeFBkOFFpOVwvTDlwR3hQVFpXZ05tVGlMQ1l1Qmt3MGh1TTFSeXIyZkFnQ0dNVkV3dnRMc05IQ0NQRG1UVGVEb0tBdXhRRHVoSUtHUmhZZ21KNDhrUHBvaExmeXJEMjdWT3VtdlwvZWVMZUsrd2hpWGlJM1lyNGlmYVwvN2FZNnVPYlwvR0F6djNRSk1KOHQ2V3RXUnpzUG1rNm4yY25UUE83NHk3RnZubGptRkdTQW82aUV4YXpURHl5dlZUQ2tzSkRlbm95VXV4cz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/595/595-LOGO-l.png" ch-number="18", DAAI TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=18&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiazA3ajNBTDQiLCJyZWZyZXNoX3Rva2VuIjoiUjJHWkY5N1dST1pBRENEelBFMVdVK2JRNFo2TE1RWnlUbnB0XC9cL1YxNEdpKzdnQWNYOGlDWGtrcVwvSlU3cUJHVzBjWCtCRlZNeE9qbCtsUlZUZ3RkODNHaVFLSGdCVEc2dTVZZHBBTU1IVHQ0MUx2UlwvaE9MK2hRb0NsSDQ1Sjc0bDZBREgrMUc4SlM0anZBUHdPUDgzdHdFRUF5UzNvUmp3dllOZzJ6NVRYYkd5a0FMa1JLNkV5MlwvU0FjYUgrSHU4UVwvZ1pLQmlLYzZXcEloQTNzYUt0WW1wTWhTek1tcVZcL3lvclwvUFF4aDRORG9PRTVQXC9RdHY3b0pSTHdzNkVNRlVIN2V0SGxJZDhhdHkxa0RLRVh3Z2d1cElEcVJLS0VhWjlvQ0xZVDNVTlM5cDJjaXplc1BYT0lUQTJLbVNkbnBnZ01rQUdvRjhWXC9RU25WRmpkWkRPNXJESEl5dUgyMk9kM0Z3ZTFGeEl6dz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/856/856-LOGO-l.png" ch-number="24", JTV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=24&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiVzNxZlZUbVkiLCJyZWZyZXNoX3Rva2VuIjoiWWMxczd2Z05PRzdqQUFQUnBvVDcwcXlXSHdwanV5aFBIWXBoajdteENzOGd1UmZFNVpsaVVoNmR2UTVBeVwvUWlqY0ZXYmNUS01SbTN6bDkrRXNGUjNLY3NWbVg2OEtxRnZ2UlMxVEk2MjBscEdkUVNqNFlGQTRzdlpOQ05zTFNrT0RlbGx0OFBJR0tkK0RGTjhZalFDNnN6MjJLSXl0R0RHcVFlVnVWWTN1a1Y3Mmx6Tm9sSGFTUUhEWU5OY1JKZHY5cEZVZEZwMTA1cnE4alhcL3hOQlNsOVZpTHFnandSc2gzUlp1MCs1Q0ltVTNnMWtXczJjZENtVlNSMCtNT0R3MTJtUlwvckZ6UjJwSFdPQ3h4R1lHakdIRkVDZWZBdXBoUGRvT05VQU0yK3I5RFlZTVNhaU41ZTlaYnVQUnNLdDFXdG1ZSForWWRjRWg5ZFYyMFYxUmgwN0NycUZwaEQ0RGdpUGNUdGE5bjJrPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/598/598-LOGO-l.png" ch-number="25", JAK TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=25&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiMnZRQ2lFejgiLCJyZWZyZXNoX3Rva2VuIjoiR3N6a1Brd1NMSmdabnZoYzVUUGs0N25iZXJGakI4eSt5UGNKWnp1U081RVlVblJNQnMrcXROWnRwN1ErZFh5c1lpTnkxWjBudFozTG9rT1l3ODQ4aUFTM25YbDNBYmZiNzZPa205aXY0S28wTG11Nm9PZklhbm5sWDBhRUhpWm9pbFI1NDdcL3pybG03QnowQ3dKM3E0K1RCVnY0RFN3c0ZvSGFUWVB4Tk9BcDUwWVg4Q0NNb0lyNFlPbGsxYTVrc3NwenE5QzNTSm9XWmp6SFI5T0F2djhMemhlV2NmMjN5TGhuazV4M3ZSbE9LMGpsSkRGd1JaNU0wazNQekU5emdrdnRDU3FpNzVIVmNqbkFsdDBOQWVVb2xtek5NNTIrTjBOYnVZU1N3QjJuMGdBWWJja0lqZTFxRUpaaHhLWFwveHYwYVZvUnFrd0hxd2JIdmYydzhRS25wWVVsWlk5VEZ2NlRcLzRMKzJQamxnPSJ9
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/599/599-LOGO-l.png" ch-number="26", Bali TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=26&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiZVczcGN6VHYiLCJyZWZyZXNoX3Rva2VuIjoiTFJnOTU4T2F0QXh2cnJcL2oxSENKeHRJWW9JcWlscWlrZitDeW5tWU1UVjBJUWNGR3RyNitvR20zc05yZWdOSDh2UWlxMmh2WTdlbEdBTkxOVjdPT1RGZmd2ZmNjeHRTUW13VXJVdnF6Y0RNNXBCcjVMVWRDOHBteTdNV1wvSnZvSVhhY20wSWI4OTlFUHd6eXVHQjJNeWFGZXhhUDRjdG5cL2Q2Vjc3NjB5dmRZMkc4b3R0Vk91a3J5K1U4VnVid21neXBhdUFcL3kzSDM1dklVV1RHcGw0VVlOd0RwNnR6RDlnalN4Skd3WEg1b2dNeXd3dDRuN0ZHSFh1QUVYb29GdHpJSFl2RHFDeHUrb2dtNnpNdFUwRkhRZFQ1QnNKeU45cXVlUUI3VDRndUdMYjBoa3ZIQmU5S011SUZXS1E0ZjJjS3hqV1NNSzZiQTZ6T0ZsVGh0R1dTVnJodkI4b3kzMmJtNGo1cytrM1hIbz0ifQ==
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="Lokal" group-title="National TV" tvg-logo="https://www.visionplus.id/images/repository/600/600-LOGO-l.png" ch-number="27", Bandung TV
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://koyokere.koyeb.app/vis/drm.php?id=27&token=0vztvm6ef8
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://koyo.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiTU9qQmJVaGwiLCJyZWZyZXNoX3Rva2VuIjoidm1XK0tBY3ZZRk41eFFxTG1EU0szYUs3bGdXXC9NYkhsTHpZTTU0amp5NVBoT1lDeWlkT0dleUltUjNrVFQ5VnlmV1NNTkJaVkxodElcL21ZXC9UZTBZeFB1bmFYU09uc2FNNW91dnVnSlNkNEF0MFZ5cld4R0FicGtUbWk3VGtVdjFtUlwvT1dqOTgzN2lqc1g4cnBOZzk4aHIydktzWGpycjNGUWpWeEpmSFJJbFYrYkJPVWxKeFBabHlQU0NYdnlLdnpIanE0V3RWTGs1WW1WVlBmdEZickVNMjVyRlIrMGJVbXc3UGFqWXFNSnVyZDVxZHFrWVVhNU9qXC9VZkJLeWprQ3ZIcTJSTExrN3RMXC9oc2VcL2ltSWlCNW12WWxjR1hjZEtCSSt2Ym5JdlJHcUFmXC9nZjNmRUQ4SzJZN2pnM2FOWGVJT1RxV2tvNGk5Q0NuMzdTR1E1V2hmVlFjdGZ1NFlrQU91UE1BY0JXeTQ9In0=
+
+
+
+
+
+
+
 #EXTM3U
 #EXTM3U billed-msg="DENI TV NOVEMBER 2024"
