@@ -376,16 +376,16 @@ https://flv.intechmedia.net/live/ch106.m3u8
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/vQVKwm4/rcti.png"
 
-#EXTINF:-1  tvg-logo="https://mncplay.id/wp-content/uploads/2013/10/gtv.png" group-title="RCTI+", GTV+ HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg	" group-title="RCTI+", GTV+ HD
 https://1s1.rctiplus.id/gtv2023.m3u8
 
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_inews_small.png" group-title="RCTI+", INEWS+ HD
+#EXTINF:-1  tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="RCTI+", INEWS+ HD
 https://1s1.rctiplus.id/inews2023.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/qjg9wCC/mnctv.png" group-title="RCTI+", MNC TV+ HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg" group-title="RCTI+", MNC TV+ HD
 https://1s1.rctiplus.id/mnctv2023.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/dM0SYrN/rcti.png" group-title="RCTI+", RCTI+ HD
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" group-title="RCTI+", RCTI+ HD
 https://1s1.rctiplus.id/rcti2023.m3u8
 
 
