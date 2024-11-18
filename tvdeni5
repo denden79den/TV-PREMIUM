@@ -3568,5 +3568,41 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1173913&exten
 
 
 
+========================ASTRO & NOW SPORT===================================
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=918986&extension=ts&play_token=gfuYxWDLpQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=918985&extension=ts&play_token=QvtvfZDXxk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 3 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=918984&extension=ts&play_token=d0nf7I2pLW
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 4 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=918983&extension=ts&play_token=DH8wZ3o4qJ
+
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110615&extension=ts&play_token=UzvZDeDiyb
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110616&extension=ts&play_token=SqcYJ89gPg
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 3 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110617&extension=ts&play_token=xWBbiv2VOB
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 4 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110618&extension=ts&play_token=QcePF9uWVG
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 5 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110619&extension=ts&play_token=WUECfq5vR5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 6 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110620&extension=ts&play_token=FdKpz2QMfC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 7 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110621&extension=ts&play_token=aEvpcQ3hoL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW PREMIER SPORTS 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110622&extension=ts&play_token=Zn9KIYgpu3
+
+
+
+
+
+
 #EXTM3U
 #EXTM3U billed-msg="DENI TV NOVEMBER 2024"
