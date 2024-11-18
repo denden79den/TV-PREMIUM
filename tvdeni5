@@ -3190,12 +3190,16 @@ https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8
+'https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605265.ts
+
 #EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="SUPERSPORT" ,SuperSport PSL
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
-https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8
+'https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609314.ts
+
 #EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="SUPERSPORT" ,SuperSport Premier league
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
 #EXTVLCOPT:http-origin=https://ilovetoplay.xyz
