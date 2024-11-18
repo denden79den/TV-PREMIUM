@@ -3270,23 +3270,168 @@ https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
 https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8
 
 
+
+===============================SPORT2===========================================
+
+
+#EXTINF:-1 tvg-id="Astro Premier league.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Premier league
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605260.ts
+
+#EXTINF:-1 tvg-id="Astro Premier league 2 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Premier league 2
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605262.ts
+
+#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Football
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605267.ts
+
+#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Badminton
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605325.ts
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Grandstand
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605265.ts
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Cricket
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605277.ts
+
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Sport plus
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605326.ts
+
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-my.png",ASTRO ARENA 1
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605251.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-arena-2-my.png",ASTRO ARENA 2
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605274.ts
+
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://iili.io/JhkQl2V.png",BeinSport 1
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/605281.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://iili.io/JhkQ9dN.png",BeinSport 2
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/605282.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://iili.io/JhkQCrl.png",BeinSport 3
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/605284.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",PREMIER LEAGUE
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609312.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",ACTION
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609318.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",BLITZ
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609311.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",RUGBY
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609322.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",FOOTBALL
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609319.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",LA LIGA
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609313.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",PSL
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609314.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",MOTORSPORT
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609325.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",CRICKET
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609323.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",TENNIS
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609326.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",GOLF
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609324.ts
+
+#EXTINF:-1 group-title="" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",GRANDSTAND
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609315.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",VARIETY1
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609317.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",VARIETY2
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609316.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",VARIETY3
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609321.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ad/SuperSport_1.png/revision/latest?cb=20111021101753",VARIETY4
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/609320.ts
+
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",SkySport Mix
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/508254.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",Main Event
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/508252.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",FootBall
+http://ay.ayservices.xyz:80/Ag9uKkeCYh/kcZ7EpCSSj/243199
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png",Premier League
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/9891.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://e7.pngegg.com/pngimages/498/730/png-clipart-sky-sports-news-sky-sports-f1-television-channel-sports-miscellaneous-television-thumbnail.png" tvg-logo="",Arena
+http://fortv.cc:8080/live/57252392/57252392/35238.ts
+
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="sonyten1.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen1_HD.png",Sony Sports 1 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/154.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="sonyten2.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen2_HD.png",Sony Sports 2 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/31314.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="sonyten3.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen3_HD.png",Sony Sports 3 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/146.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="sonyten4.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen4_HD.png",Sony Sports 4 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/29469.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="sonyten5.in" tvg-logo="https://dtat2ks7dludr.cloudfront.net/spnsportsindia/channel_logos/SONY_SportsTen5_HD.png",Sony Sports 5 
+http://starshare.live:8080/live/rvdgdf7647564/bvchgfd235454/176.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv1-2023-logo-08E76CCDA6-seeklogo.com.png",SPORT-TV1
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604283.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv2-2023-logo-674D5093CD-seeklogo.com.png",SPORT-TV2
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604288.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv3-2023-logo-5EAB6BBFF5-seeklogo.com.png",SPORT-TV3
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604294.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv4-2023-logo-87A41E8A60-seeklogo.com.png",SPORT-TV4
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604298.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv5-2023-logo-01ECFF557E-seeklogo.com.png",SPORT-TV5
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604302.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv6-2023-logo-2C16121341-seeklogo.com.png",SPORT-TV6
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604307.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv-2023-logo-03484A403A-seeklogo.com.png",SPORT-TV+
+http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604312.ts
+
+
+
 ===============VIDIO=========
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="VIDIO SPORT",Champions TV 1
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=17938&type=drm
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="VIDIO SPORT",Champions TV 2
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://chiva.my.id/sc/arw/play.php?id=6686&type=drm
 http://chiva.my.id/sc/arw/play.mpd?id=6686&type=dash
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="VIDIO SPORT",Champions TV 3
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3294,7 +3439,7 @@ http://chiva.my.id/sc/arw/play.mpd?id=6686&type=dash
 https://kametv.my.id/pdx/play.mpd?id=6786
 
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="VIDIO SPORT",Champions TV 5
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/rDybdMMOC-NZ1bzkWvpSRYBxeG8=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9182/champions-tv-5-764e22.jpg" group-title="VIDIO SPORT",Champions TV 5
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
@@ -3302,7 +3447,7 @@ https://kametv.my.id/pdx/play.mpd?id=6786
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9182&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 
-#EXTINF:-1 tvg-logo="https://ambontv.my.id/logotv/champ.png" group-title="VIDIO SPORT",Champions TV 6
+#EXTINF:-1 tvg-logo="https://thumbor.prod.vidiocdn.com/C4KPuTc3ag2XzBR_ZqMECdK0Xpg=/372x211/filters:quality(75)/vidio-web-prod-livestreaming/uploads/livestreaming/image/9183/champions-tv-6-01b4c7.jpg" group-title="VIDIO SPORT",Champions TV 6
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
