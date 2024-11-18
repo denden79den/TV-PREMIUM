@@ -3500,6 +3500,37 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 
 
+==========================SUPERSPORT2================================
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 1
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833283&extension=ts&play_token=TFViFWVywj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 2
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833284&extension=ts&play_token=sEcY9quO7H
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 3
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833285&extension=ts&play_token=ItZMq1eXwV
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 4
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833286&extension=ts&play_token=NWxsA3lOM5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="SUPERSPORT 2",SUPERSPORT TENNIS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833282&extension=ts&play_token=vNPsJfgfq6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SUPERSPORT 2",SUPERSPORT PREMIER LEAGUE
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833281&extension=ts&play_token=WcvcEsoWqQ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MOTORSPORT.png" group-title="SUPERSPORT 2",SUPERSPORT MOTORSPORT
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833280&extension=ts&play_token=Hxzv5O4MEx
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SUPERSPORT 2",SUPERSPORT MAXIMO
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833279&extension=ts&play_token=HhkPocRFFI
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SUPERSPORT 2",SUPERSPORT LA LIGA
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833278&extension=ts&play_token=PXMwKxTvTm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SUPERSPORT 2",SUPERSPORT GRANDSTAND
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833277&extension=ts&play_token=rejKKKF6i2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF.jpeg" group-title="SUPERSPORT 2",SUPERSPORT GOLF
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833276&extension=ts&play_token=JQHNDg2oXn
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL-PLUS.png" group-title="SUPERSPORT 2",SUPERSPORT FOOTBALL PLUS
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833275&extension=ts&play_token=r7vh4OV0FZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SUPERSPORT 2",SUPERSPORT FOOTBALL
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833274&extension=ts&play_token=9HGtnHFpmk
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-CRICKET-TV.png" group-title="SUPERSPORT 2",SUPERSPORT CRICKET
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833273&extension=ts&play_token=qDJO92oWZJ
 
 
 
