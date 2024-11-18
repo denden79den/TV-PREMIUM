@@ -3413,9 +3413,26 @@ http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604307.ts
 #EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/S/sport-tv-2023-logo-03484A403A-seeklogo.com.png",SPORT-TV+
 http://defaultgen.com:3050/live/nmtv095/4hipcGzFkJ/604312.ts
 
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",UNIFI SPORT
+https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",W SPORT
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605270.ts
+
+#EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="SPORTS 2",World Fishing Network
+http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/418213.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE CHANNEL
+http://Supersonictv.live:8080/live/006779/439866/22185.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES NETWORK
+http://extraott.com:900/live/9708461610/1164158489/181390.ts
+
+#EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",UFC CHANNEL
+http://fortv.cc:8080/live/57252392/57252392/146293.ts
 
 
-===============VIDIO=========
+===================================VIDIO SPORT===========================
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 1
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
