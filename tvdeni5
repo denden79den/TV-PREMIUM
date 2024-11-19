@@ -4422,33 +4422,33 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 ==========================SUPERSPORT2================================
 
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-1.png" group-title="SUPERSPORT 2",SS VARIETY 1
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833283&extension=ts&play_token=TFViFWVywj
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-2.jpeg" group-title="SUPERSPORT 2",SS VARIETY 2
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833284&extension=ts&play_token=sEcY9quO7H
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 3
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-3.jpeg" group-title="SUPERSPORT 2",SS VARIETY 3
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833285&extension=ts&play_token=ItZMq1eXwV
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SUPERSPORT 2",SUPERSPORT VARIETY 4
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SUPERSPORT 2",SS VARIETY 4
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833286&extension=ts&play_token=NWxsA3lOM5
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="SUPERSPORT 2",SUPERSPORT TENNIS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-TENNIS-TV.png" group-title="SUPERSPORT 2",SS TENNIS
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833282&extension=ts&play_token=vNPsJfgfq6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SUPERSPORT 2",SUPERSPORT PREMIER LEAGUE
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-PREMIER-LEAGUE.png" group-title="SUPERSPORT 2",SS PREMIER LEAGUE
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833281&extension=ts&play_token=WcvcEsoWqQ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MOTORSPORT.png" group-title="SUPERSPORT 2",SUPERSPORT MOTORSPORT
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MOTORSPORT.png" group-title="SUPERSPORT 2",SS MOTORSPORT
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833280&extension=ts&play_token=Hxzv5O4MEx
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SUPERSPORT 2",SUPERSPORT MAXIMO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-MAXIMO.png" group-title="SUPERSPORT 2",SS MAXIMO
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833279&extension=ts&play_token=HhkPocRFFI
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SUPERSPORT 2",SUPERSPORT LA LIGA
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-LA-LIGA.png" group-title="SUPERSPORT 2",SS LA LIGA
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833278&extension=ts&play_token=PXMwKxTvTm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SUPERSPORT 2",SUPERSPORT GRANDSTAND
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GRANDSTAND.jpeg" group-title="SUPERSPORT 2",SS GRANDSTAND
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833277&extension=ts&play_token=rejKKKF6i2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF.jpeg" group-title="SUPERSPORT 2",SUPERSPORT GOLF
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-GOLF.jpeg" group-title="SUPERSPORT 2",SS GOLF
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833276&extension=ts&play_token=JQHNDg2oXn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL-PLUS.png" group-title="SUPERSPORT 2",SUPERSPORT FOOTBALL PLUS
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL-PLUS.png" group-title="SUPERSPORT 2",SS FOOTBALL PLUS
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833275&extension=ts&play_token=r7vh4OV0FZ
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SUPERSPORT 2",SUPERSPORT FOOTBALL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-FOOTBALL.png" group-title="SUPERSPORT 2",SS FOOTBALL
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833274&extension=ts&play_token=9HGtnHFpmk
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-CRICKET-TV.png" group-title="SUPERSPORT 2",SUPERSPORT CRICKET
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-CRICKET-TV.png" group-title="SUPERSPORT 2",SS CRICKET
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833273&extension=ts&play_token=qDJO92oWZJ
 
 
@@ -4456,33 +4456,33 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833273&extens
 ============================SUPERSPORT3============================
 
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT LA LIGA HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS LA LIGA HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144410&extension=ts&play_token=Lo3yNxpcw1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT PSL HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS PSL HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144411&extension=ts&play_token=xHjnRf6zLB
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT PL HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS PL HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144412&extension=ts&play_token=hvlqPU3dhb
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT GRANDSTAND HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS GRANDSTAND HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144413&extension=ts&play_token=L3qij7kGBP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 1 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144415&extension=ts&play_token=Zu63sNw4zt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 2 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144414&extension=ts&play_token=H71XS0dSfm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 3 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144419&extension=ts&play_token=WrRLk14omn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS VARIETY 4 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1112857&extension=ts&play_token=cgc0YYbsMq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT MOTORSPORT HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS MOTORSPORT HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144416&extension=ts&play_token=7j4gerqEB1
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT FOOTBALL FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS FOOTBALL FHD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144417&extension=ts&play_token=FgLxuQnlOX
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT RUGBY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS RUGBY HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144420&extension=ts&play_token=MwA7yjjYHw
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT CRICKET FHD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS CRICKET FHD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144421&extension=ts&play_token=czAP76jqfW
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-BLITZ.png" group-title="SUPERSPORT 3",SUPERSPORT BLITZ HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-BLITZ.png" group-title="SUPERSPORT 3",SS BLITZ HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=554982&extension=ts&play_token=ObxLyQAjXP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORTS ACTION HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS ACTION HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1173913&extension=ts&play_token=d41vBiic4w
 
 
