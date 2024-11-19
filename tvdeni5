@@ -4456,7 +4456,7 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=833273&extens
 ============================SUPERSPORT3============================
 
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT LIGA HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT LA LIGA HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144410&extension=ts&play_token=Lo3yNxpcw1
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT PSL HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144411&extension=ts&play_token=xHjnRf6zLB
@@ -4464,15 +4464,15 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144411&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144412&extension=ts&play_token=hvlqPU3dhb
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT GRANDSTAND HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144413&extension=ts&play_token=L3qij7kGBP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport6.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 1 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144415&extension=ts&play_token=Zu63sNw4zt
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport2.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 2 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144414&extension=ts&play_token=H71XS0dSfm
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 3 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144419&extension=ts&play_token=WrRLk14omn
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-VARIETY-4.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT VARIETY 4 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1112857&extension=ts&play_token=cgc0YYbsMq
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport7.png" group-title="SUPERSPORT 3",SUPERSPORT MOTORSPORT HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT MOTORSPORT HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144416&extension=ts&play_token=7j4gerqEB1
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORT FOOTBALL FHD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144417&extension=ts&play_token=FgLxuQnlOX
@@ -4482,7 +4482,7 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144420&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=144421&extension=ts&play_token=czAP76jqfW
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/SUPERSPORT-BLITZ.png" group-title="SUPERSPORT 3",SUPERSPORT BLITZ HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=554982&extension=ts&play_token=ObxLyQAjXP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="SUPERSPORT 3",SUPERSPORTS ACTION HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SUPERSPORTS ACTION HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1173913&extension=ts&play_token=d41vBiic4w
 
 
