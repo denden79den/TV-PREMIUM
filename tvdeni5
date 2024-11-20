@@ -2263,6 +2263,23 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
 
 
+============================HBO FHD=======================================
+
+
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title=" HBO",11.HBO
+http://opplex.tv:8080/live/1525939/1552699/350955.ts
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title=" HBO",12.HBO Hits
+http://opplex.tv:8080/live/1525939/1552699/350957.ts
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title=" HBO",13.HBO Family
+http://opplex.tv:8080/live/1525939/1552699/350956.ts
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=" HBO",14.HBO Signature
+http://opplex.tv:8080/live/1525939/1552699/350958.ts
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title=" HBO",15.Cinemax
+http://opplex.tv:8080/live/1525939/1552699/350922.ts
+
+
+
+
 
 <=================== Entertainment & Lifestyle =============================>
 
