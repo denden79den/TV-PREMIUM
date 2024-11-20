@@ -3434,6 +3434,18 @@ http://extraott.com:900/live/9708461610/1164158489/181390.ts
 #EXTINF:-1 group-title="SPORTS 2" tvg-id="" tvg-logo="https://logowik.com/content/uploads/images/ufc-ultimate-fighting-championship3349.jpg",UFC CHANNEL
 http://fortv.cc:8080/live/57252392/57252392/146293.ts
 
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 1 HD ◉" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="SPORTS 2",TNT SPORTS 1
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:54:DD:8D&stream=1261564&extension=ts&play_token=457RCOOKNU
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="SPORTS 2",TNT SPORTS 2
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:54:DD:8D&stream=79485&extension=ts&play_token=wCnQ9oOtKE
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="SPORTS 2",TNT SPORTS 3
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:54:DD:8D&stream=79484&extension=ts&play_token=YGHVq1YJWh
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 4 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="SPORTS 2",TNT SPORTS 4
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:54:DD:8D&stream=1002857&extension=ts&play_token=Vc9hWmiECb
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 5 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/TNT-SPOR.png" group-title="SPORTS 2",TNT SPORTS 5
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:54:DD:8D&stream=1004549&extension=ts&play_token=gWzG3QIIAo
+
+
 
 ===============================ARENA SPORT==============================
 
