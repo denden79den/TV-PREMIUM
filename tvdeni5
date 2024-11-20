@@ -121,8 +121,8 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/75pgtqlac4o0fwjfpimvf/Metrotv-hometv.png?rlkey=vmq2zzlwl1auy8ebeer6bnorf&dl=0", METRO TV
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -341,8 +341,8 @@ https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/01.m3u8
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch114.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
