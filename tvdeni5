@@ -3220,6 +3220,12 @@ https://xyzdddd.mizhls.ru/lb/premium41/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium42/index.m3u8
 
+#EXTINF:-1 tvg-name="ar ▎ bein sports 1 english hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS",BEINSPORTS 1 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897673
+#EXTINF:-1 tvg-name="ar ▎ bein sports 2 english hd s1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS",BEINSPORTS 2 ENGLISH HD
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897674
+
+
 
 ========================================SUPERSPORT===========================================
 
