@@ -3612,6 +3612,59 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373145&exten
 #EXTINF:-1 tvg-id="" tvg-name="TEN 5 FHD" tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SPORTS 3",SONY TEN 5 FHD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373144&extension=ts&play_token=i76E05bTfx
 
+#EXTINF:-1 tvg-id="" tvg-name="SPT| STAR SPORTS SELECT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-1.png" group-title="SPORTS 3",SPT| STAR SPORTS SELECT 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373142&extension=ts&play_token=9IFKcAmQzh
+#EXTINF:-1 tvg-id="" tvg-name="SPT| STAR SPORTS SELECT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-2.png" group-title="SPORTS 3",SPT| STAR SPORTS SELECT 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373143&extension=ts&play_token=yqINGWfbGr
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SPECTRUM SPORTSNET" tvg-logo="http://103.176.90.118/picons/logos/logos/SPECTRUM-SPORTSNET.png" group-title="SPORTS 3",SPECTRUM SPORTSNET
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=76984&extension=ts&play_token=UMArLwF8nF
+
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSMAX" tvg-logo="http://103.176.90.118/picons/logos/logos/SPORTSMAX-CRICKET.png" group-title="SPORTS 3",SPORTSMAX 1
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373133&extension=ts&play_token=3od9WIVuTo
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSMAX 2" tvg-logo="http://103.176.90.118/picons/logos/logos/SPORTSMAX-2.png" group-title="SPORTS 3",SPORTSMAX 2
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373134&extension=ts&play_token=8TddB3ctbk
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPERSPORTS-FOOTBALL.png" group-title="SPORTS 3",SUPERSPORTS FOOTBALL HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360887&extension=ts&play_token=YFGwF2If2c
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPERSPORTS-LALIGA.png" group-title="SPORTS 3",SUPERSPORTS LALIGA HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360888&extension=ts&play_token=8fakvZs7Kf
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS PL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPERSPORTS-PSL.png" group-title="SPORTS 3",SUPERSPORTS PL HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360889&extension=ts&play_token=N0JlmM051C
+#EXTINF:-1 tvg-id="" tvg-name="SUPERSPORTS PSL HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SUPERSPORTS-PSL.png" group-title="SPORTS 3",SUPERSPORTS PSL HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360890&extension=ts&play_token=NSHClUdkyz
+
+#EXTINF:-1 tvg-id="" tvg-name="REAL MADRID TV HD" tvg-logo="http://103.176.90.118/picons/logos/logos/REAL-MADRID%c2%a0.png" group-title="SPORTS 3",REAL MADRID TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360892&extension=ts&play_token=RftVKB6QHD
+#EXTINF:-1 tvg-id="" tvg-name="MANCHESTER U TV HD" tvg-logo="http://103.176.90.118/picons/logos/logos/MANCHESTER.png" group-title="SPORTS 3",MANCHESTER U TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=73385&extension=ts&play_token=LsN53hwmO9
+#EXTINF:-1 tvg-id="" tvg-name="LFC TV FHD" tvg-logo="http://103.176.90.118/picons/logos/logos/LFC-TV.png" group-title="SPORTS 3",LFC TV FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360882&extension=ts&play_token=jxlnTFEtBh
+#EXTINF:-1 tvg-id="" tvg-name="CHELSEA TV HD" tvg-logo="http://103.176.90.118/picons/logos/logos/CHELSEA.png" group-title="SPORTS 3",CHELSEA TV HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1360893&extension=ts&play_token=ty2m8C6vk3
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1 HD (AU)" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-1-HD-AU.png" group-title="SPORTS 3",BEIN SPORTS 1 HD (AU)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1365841&extension=ts&play_token=RTjXfdVRzA
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 HD (AU)" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-2.png" group-title="SPORTS 3",BEIN SPORTS 2 HD (AU)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1365842&extension=ts&play_token=99G5cwto2o
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 HD (AU)" tvg-logo="http://103.176.90.118/picons/logos/logos/BEIN-SPORTS-3.png" group-title="SPORTS 3",BEIN SPORTS 3 HD (AU)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1365843&extension=ts&play_token=ENjIllrY1O
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET 360 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/SPORTSNET-360.png" group-title="SPORTS 3",SPORTSNET 360 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=73455&extension=ts&play_token=O6QL9bwPa0
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSNET 360 HD •" tvg-logo="http://103.176.90.118/picons/logos/logos/SPORTSNET-360.png" group-title="SPORTS 3",SPORTSNET 360 HD •
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=774228&extension=ts&play_token=hXBBLEFjDM
+#EXTINF:-1 tvg-id="" tvg-name="UFC NETWORK HD" tvg-logo="http://103.176.90.118/picons/logos/logos/UFC.png" group-title="SPORTS 3",UFC NETWORK HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=75933&extension=ts&play_token=IvT5azBEAq
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD" tvg-logo="http://103.176.90.118/picons/logos/logos/WWE.png" group-title="SPORTS 3",WWE HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=73412&extension=ts&play_token=ixWvmcbjdk
+#EXTINF:-1 tvg-id="" tvg-name="WWE HD (CA)" tvg-logo="http://103.176.90.118/picons/logos/logos/WWE-HD-CA.png" group-title="SPORTS 3",WWE HD (CA)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1066533&extension=ts&play_token=oYtLEabUDM
+#EXTINF:-1 tvg-id="" tvg-name="WWE LIVE HD" tvg-logo="http://103.176.90.118/picons/logos/logos/WWE-LIVE.png" group-title="SPORTS 3",WWE LIVE HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=473690&extension=ts&play_token=jRLPeT6w6J
+#EXTINF:-1 tvg-id="" tvg-name="WWE NETWORK [ASTRO]" tvg-logo="http://103.176.90.118/picons/logos/logos/WWE-HD-CA.png" group-title="SPORTS 3",WWE NETWORK [ASTRO]
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1011210&extension=ts&play_token=OeVTsczH42
+
 
 
 
