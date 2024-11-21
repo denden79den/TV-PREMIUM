@@ -3802,6 +3802,43 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=554982&extens
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/supersport.png" group-title="SUPERSPORT 3",SS ACTION HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:C5:90:B0&stream=1173913&extension=ts&play_token=d41vBiic4w
 
+#EXTINF:-1 tvg-id="269221" tvg-name="US ★ SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",1.SS PREMIER LEAGUE
+http://line.4knew.pro:80/5FC448/6C4995/102642
+#EXTINF:-1 tvg-id="269223" tvg-name="US ★ SUPERSPORT FOOTBALL HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",2.SS FOOTBALL
+http://line.4knew.pro:80/5FC448/6C4995/102643
+#EXTINF:-1 tvg-id="269219" tvg-name="US ★ SUPERSPORT LA LIGA HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",3.SS LA LIGA
+http://line.4knew.pro:80/5FC448/6C4995/102641
+#EXTINF:-1 tvg-id="269217" tvg-name="US ★ SUPERSPORT BLITZ HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",4.SS BLITZ
+http://line.4knew.pro:80/5FC448/6C4995/102638
+#EXTINF:-1 tvg-id="269237" tvg-name="US ★ SUPERSPORT VARIETY 1 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",5.SS VARIETY 1
+http://line.4knew.pro:80/5FC448/6C4995/102650
+#EXTINF:-1 tvg-id="269229" tvg-name="US ★ SUPERSPORT VARIETY 2 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",6.SS VARIETY 2
+http://line.4knew.pro:80/5FC448/6C4995/102646
+#EXTINF:-1 tvg-id="269227" tvg-name="US ★ SUPERSPORT VARIETY 3 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",7.SS VARIETY 3
+http://line.4knew.pro:80/5FC448/6C4995/102645
+#EXTINF:-1 tvg-id="269225" tvg-name="US ★ SUPERSPORT VARIETY 4 HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",8.SS VARIETY 4
+http://line.4knew.pro:80/5FC448/6C4995/102644
+#EXTINF:-1 tvg-id="269231" tvg-name="US ★ SUPERSPORT CRICKET HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",9.SS CRICKET
+http://line.4knew.pro:80/5FC448/6C4995/102647
+#EXTINF:-1 tvg-id="269233" tvg-name="US ★ SUPERSPORT RUGBY HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",10.SS RUGBY
+http://line.4knew.pro:80/5FC448/6C4995/102648
+#EXTINF:-1 tvg-id="269235" tvg-name="US ★ SUPERSPORT TENNIS HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",11.SS TENNIS
+http://line.4knew.pro:80/5FC448/6C4995/102649
+#EXTINF:-1 tvg-id="269239" tvg-name="US ★ SUPERSPORT MOTOSPORT HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",12.SS MOTOSPORT
+http://line.4knew.pro:80/5FC448/6C4995/102653
+#EXTINF:-1 tvg-id="269247" tvg-name="US ★ SUPERSPORT ACTION HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",13.SS ACTION
+http://line.4knew.pro:80/5FC448/6C4995/535549
+#EXTINF:-1 tvg-id="269243" tvg-name="US ★ SUPERSPORT GRANDSTAND HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",14.SS GRANDSTAND
+http://line.4knew.pro:80/5FC448/6C4995/535551
+#EXTINF:-1 tvg-id="269245" tvg-name="US ★ SUPERSPORT PSL HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",15.SS PSL
+http://line.4knew.pro:80/5FC448/6C4995/535550
+#EXTINF:-1 tvg-id="269215" tvg-name="US ★ SUPERSPORT GOLF HD" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",16.SS GOLF
+http://line.4knew.pro:80/5FC448/6C4995/102637
+#EXTINF:-1 tvg-id="269241" tvg-name="US ★ SUPERSPORT MAXIMO 1" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",17.SS MAXIMO 1
+http://line.4knew.pro:80/5FC448/6C4995/118065
+#EXTINF:-1 tvg-id="269265" tvg-name="US ★ SUPERSPORT PLAY" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",18.SS PLAY
+http://line.4knew.pro:80/5FC448/6C4995/102652
+
 
 
 ========================ASTRO & NOW SPORT===================================
