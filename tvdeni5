@@ -3597,7 +3597,20 @@ https://xyzdddd.mizhls.ru/lb/premium39/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium758/index.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="TEN 1 HD" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS 3",SONY TEN 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=115007&extension=ts&play_token=ZeU3BUCC0r
 
+#EXTINF:-1 tvg-id="" tvg-name="TEN 2 HD" tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS 3",SONY TEN 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=115008&extension=ts&play_token=HNEQOEqe9d
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN 3 HD" tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS 3",SONY TEN 3 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=115009&extension=ts&play_token=gxV7LhgNqi
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN 4 FHD" tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS 3",SONY TEN 4 FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373145&extension=ts&play_token=p9kKuF4c05
+
+#EXTINF:-1 tvg-id="" tvg-name="TEN 5 FHD" tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SPORTS 3",SONY TEN 5 FHD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373144&extension=ts&play_token=i76E05bTfx
 
 
 
