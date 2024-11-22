@@ -2277,6 +2277,19 @@ http://opplex.tv:8080/live/1525939/1552699/350922.ts
 
 
 
+==================================HBO (HD)==================================
+
+
+#EXTINF:-1 group-title=" HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg", 16.HBO (HD)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 group-title=" HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg", 17.HBO HITS (HD)https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:-1 group-title=" HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg", 18.HBO FAMILY (HD)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:-1 group-title=" HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg", 19.HBO SIGNATURE (HD)
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+#EXTINF:-1 group-title=" HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg", 20.CINEMAX (HD)https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+
 
 
 <=================== Entertainment & Lifestyle =============================>
