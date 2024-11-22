@@ -3664,6 +3664,21 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=473690&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1011210&extension=ts&play_token=OeVTsczH42
 
 
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-1.png" group-title="SPORTS 3",PLAY SPORTS 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811941&extension=ts&play_token=YSU2hyxJBL
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-2.png" group-title="SPORTS 3",PLAY SPORTS 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811940&extension=ts&play_token=qflfsdtrg0
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 3 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-3.png" group-title="SPORTS 3",PLAY SPORTS 3 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811939&extension=ts&play_token=myTDQC1rJB
+
+
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 1 HEVC" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-1.png" group-title="SPORTS 3",PLAY SPORTS 1 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812023&extension=ts&play_token=T7rF4QYIHr
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 2 HEVC" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-2.png" group-title="SPORTS 3",PLAY SPORTS 2 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812022&extension=ts&play_token=tPFTOEYO3U
+#EXTINF:-1 tvg-id="" tvg-name="PLAY SPORTS 3 HEVC" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/PLAY-SPORTS-3.png" group-title="SPORTS 3",PLAY SPORTS 3 HEVC
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812021&extension=ts&play_token=4K5AqeR6cJ
+
 
 
 ===============================ARENA SPORT==============================
