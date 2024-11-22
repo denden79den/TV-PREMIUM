@@ -3705,11 +3705,12 @@ http://opplex.tv:8080/live/1525939/1552699/349301.ts
 https://luck.openwindows038.workers.dev/play.mpd?id=17938&type=dash
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 2
-#EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://chiva.my.id/sc/arw/play.php?id=6686&type=drm
-http://chiva.my.id/sc/arw/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=6686&type=drm
+https://surf.openwindows038.workers.dev/play.mpd?id=6686&type=dash
 
 #EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/dxs/images/1/19/Champions_TV_Logo_2021.png" group-title="VIDIO SPORT",Champions TV 3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.39.12
@@ -3734,6 +3735,26 @@ https://surf.openwindows038.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://surf.openwindows038.workers.dev/play?id=9183&type=drm
 https://surf.openwindows038.workers.dev/play.mpd?id=9183&type=dash
+
+
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="VIDIO SPORT", INDOSIAR.(VIDIO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=205
+
+#EXTINF:-1  tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/sctv.png" group-title="VIDIO SPORT", SCTV.(VIDIO) 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=204
+
+#EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="VIDIO SPORT", MOJI.(VIDIO)
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6a8b65c83036329e7185b9cd8cbdee29:0eb2beb5633f8e35cafab45af3d21de0
+https://kametv.my.id/pdx/play.m3u8?id=206
+
 
 
 ==========================SUPERSPORT2================================
