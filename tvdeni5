@@ -391,16 +391,16 @@ https://flv.intechmedia.net/live/ch106.m3u8
 #EXTINF:-1 group-logo="https://i.ibb.co.com/vQVKwm4/rcti.png"
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg	" group-title="RCTI+", GTV+ HD
-https://allcutv.rctiplus.id/gtv2023.m3u8
+https://gtv-cutv.rctiplus.id/gtv-sdi.m3u8
 
 #EXTINF:-1  tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="RCTI+", INEWS+ HD
-https://allcutv.rctiplus.id/inews2023.m3u8
+https://inews-cutv.rctiplus.id/inews-sdi.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg" group-title="RCTI+", MNC TV+ HD
-https://allcutv.rctiplus.id/mnctv2023.m3u8
+https://mnctv-cutv.rctiplus.id/mnctv-sdi.m3u8
 
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" group-title="RCTI+", RCTI+ HD
-https://allcutv.rctiplus.id/rcti2023.m3u8
+https://rcti-cutv.rctiplus.id/rcti-sdi.m3u8
 
 
 ==========================INDIHOME==============================
