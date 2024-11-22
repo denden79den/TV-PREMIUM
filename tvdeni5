@@ -3680,6 +3680,26 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812022&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812021&extension=ts&play_token=4K5AqeR6cJ
 
 
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PRO LEAGUES 1 HD (VL)" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/ELEVEN-PRO-LEAGUE-1.png" group-title="SPORTS 3",ELEVEN PRO LEAGUES 1 HD (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811935&extension=ts&play_token=xcuS5WW5hd
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PRO LEAGUES 2 HD (VL)" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/ELEVEN-PRO-LEAGUE-2.png" group-title="SPORTS 3",ELEVEN PRO LEAGUES 2 HD (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811934&extension=ts&play_token=l6OlKs51ZY
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN PRO LEAGUES 3 HD (VL)" tvg-logo="http://103.176.90.118/picons/logos/USA/ELEVEN-PRO-LEAGUES-3-HD.png" group-title="SPORTS 3",ELEVEN PRO LEAGUES 3 HD (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1340886&extension=ts&play_token=nnoy2iUB4A
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 1 (VL)" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/ELEVEN-SPORTS-1.png" group-title="SPORTS 3",ELEVEN SPORTS 1 (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811933&extension=ts&play_token=Rkgozhe4Zv
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 2 (VL)" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/ELEVEN-SPORTS-2.png" group-title="SPORTS 3",ELEVEN SPORTS 2 (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811932&extension=ts&play_token=uP916jr2do
+#EXTINF:-1 tvg-id="" tvg-name="ELEVEN SPORTS 3 (VL)" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/ELEVEN-SPORTS-3.png" group-title="SPORTS 3",ELEVEN SPORTS 3 (VL)
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811931&extension=ts&play_token=CYCb7L4v35
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/EUROSPORT-1.png" group-title="SPORTS 3",EUROSPORT 1 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811930&extension=ts&play_token=5qpGnIUcGQ
+#EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/EUROSPORT-2.png" group-title="SPORTS 3",EUROSPORT 2 HD
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811929&extension=ts&play_token=sowXQbC7Xr
+#EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS HEVC #####" tvg-logo="http://103.176.90.118/picons/logos/logos/belgium.png" group-title="SPORTS 3",##### BE SPORTS HEVC #####
+http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812024&extension=ts&play_token=PzOypUrbVM
+
+
 
 ===============================ARENA SPORT==============================
 
