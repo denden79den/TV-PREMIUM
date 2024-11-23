@@ -99,10 +99,7 @@ http://op-group1-swiftservehd-1.dens.tv/h/h35/index.m3u8
 
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/rtv.png", RTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
-https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd|Referer=https://www.visionplus.id/
-
+http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-id="NusantaraTV.id" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhpOKwRCsJpeW6n7WqcFh-MliNHKbcvYzoveFPJ2hAN105OcNXQEyp8gwB423EQIPh0mPs64bmSrnDPSysnGPu85-MB3722U6WJNIzUh80KEFS0Mo6G1W8h3iSNhvvCz9D0DmpIWAnMlI0/s720/ntv-p.png" group-title="LOKAL HD",Nusantara TV
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
