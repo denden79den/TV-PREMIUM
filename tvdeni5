@@ -10,12 +10,8 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://kametv.my.id/pdx/play.m3u8?id=205'
 'http://viphomal.xyz:8080/VIP01594171414635172/bda831ff8f02/34327
 
-#EXTVLCOPT:http-referrer=https://www.cubmu.com/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR (Backup)
-https://cdnjkt4.transvision.co.id:1004/live/master/1/4028c6856c3db2cc016cd6e773b02392/manifest.mpd
-#http://xtv.ooo:8080/Ijaaz123/aijaz321/350972
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg", Moji (Vidio)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -66,9 +62,6 @@ https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="LOKAL HD",TVONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
-
-#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="LOKAL HD",TVONE komoas
-https://streaming.indihometv.com/atm/DASH/kompas/manifest.mpd
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/scl/fi/h1yu1fyaz1s6pnycs3e9e/nettv.png?rlkey=6gmbkq5pfywy3a53ptr03lo1u&dl=0", NET.
 #EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
