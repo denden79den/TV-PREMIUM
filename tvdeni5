@@ -45,34 +45,27 @@ https://kametv.my.id/pdx/play.m3u8?id=206
 #EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="LOKAL HD", MENTARI TV 
 https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
-#EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti
-
-#EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg",RCTI
-#https://spmid.pw:443/play/AFHHFMpD9Zg-GpGjWl5KUG-db-ivIJexwcJChOQmCds/ts
-
-#EXTGRP:LOKAL HD
-#EXTINF:-1 tvg-name="RCTI.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" ,RCTI (R+) backup
-#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" group-title="LOKAL HD", RCTI
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 
-#EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="MNCTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg",MNC TV (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
+#EXTINF:-1 tvg-logo="tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/MNC%20TV.jpg" group-title="LOKAL HD", MNCTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://1a-mnctv.rctiplus.id/mnctv-sdi.mpd
 
-#EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV
-http://xtv.ooo:8080/live/71891100/66181910/350954.ts
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg" group-title="LOKAL HD", GTV
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://1a-gtv.rctiplus.id/gtv-sdi.mpd
 
-#EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS
-http://xtv.ooo:8080/live/71891100/66181910/350973.ts
+#EXTINF:-1 tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="LOKAL HD", INEWS TV
+#EXTVLCOPT:http-user-agent=Dalvik/2.1.0 (Linux; U; Android 5.1.1; SM-T285YD Build/LMY47V) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/96.0.4664.45 Mobile Safari/537.36
+https://1a-inews.rctiplus.id/inews-sdi.mpd
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="LOKAL HD",TRANS TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
