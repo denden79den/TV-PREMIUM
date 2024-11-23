@@ -2250,15 +2250,17 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://w7.pngwing.com/pngs/156/325/png-transparent-travel-channel-international-television-channel-broadcasting-travel-television-blue-text-thumbnail.png" group-title="ENTERTAINMENT",4K Travel
 https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/4k-travel-tv/manifest.m3u8
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",Citra Dangdut
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/CitraDangdut.m3u8
+#EXTINF:0 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="" group-title="ENTERTAINMENT",CITRA ENTERTAIMENT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
-#KODIPROP:inputstream=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 group-title="ENTERTAINMENT" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",Citra Drama
-https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/CitraDrama.m3u8
+#EXTINF:0 group-title="ENTERTAINMENT" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/f0/Logo-Citra-Dangdut.png/revision/latest?cb=20190513103951",CITRA DANGDUT
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=44a4c73921ea4f5f90eaaaf793d3f7cf:3be319093fec8a409fe0553128089671
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDangdutHD/mpd/CitraDangdutHD.mpd
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
@@ -2921,6 +2923,19 @@ https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime
 
 #EXTINF:-1 group-title="FILM"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
+
+#EXTINF:0 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml"  group-title="FILM" tvg-logo="https://thumbor.prod.vidiocdn.com/AC-3tXEL_aNdU-jHErZHxSrazrk=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6684/citra-bioskop-2be866.jpg",CITRA BIOSKOP
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=94788bc937054090b216dc101e5fa5dc:297c97962ff8d9e99f1da178ea0083ec
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraBioskopHD/mpd/CitraBioskopHD.mpd
+
+#EXTINF:0 group-title="FILM" tvg-logo="https://thumbor.prod.vidiocdn.com/aJwZXOGQIYcrqar3MBE9Ehnqgww=/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/6401/citra-drama-d931f4.jpg",CITRA DRAMA
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eabfbb7dd5ef461699c879b05941e18d:c2f7e8f9468def5266e01a4c646b76a6
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraDramaHD/mpd/CitraDramaHD.mpd
+
 
 
 ====================================SPORTS==================================
