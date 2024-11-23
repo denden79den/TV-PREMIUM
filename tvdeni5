@@ -2548,11 +2548,7 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37468
 http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/656850.ts
 
 #EXTINF:-1 tvg-id="Astro Boo" group-title="TV MALAYSIA" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7bem1m7GPH-lvtxUAlPUbvg.png", ASTRO BOO 
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37457
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.ts
-'http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656871
-'http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1697
-
+http://31.42.187.37:25461/watchpad13158/1234/1572
 
 #EXTINF:-1 tvg-id="beINSports" group-title="TV MALAYSIA" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png", beIN Sports 1 (MY) 
 'https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/37432
@@ -2978,10 +2974,8 @@ https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main
 #EXTINF:-1 tvg-id="Warner TV HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://w7.pngwing.com/pngs/462/535/png-transparent-warner-tv-television-channel-wb-channel-warner-bros-wbtv-the-warner-channel-uk-television-emblem-logo-thumbnail.png" group-title="FILM",WARNER TV (TRANS)
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533fe73e3/manifest.mpd
 
-
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO BOO" tvg-logo="https://play-gachor.online/images/Ew7KWgEVPBJlBK0JSddniCSXgQUyeYTSUh135SFESvZA01taE-TsmE54UG0JXpX7bem1m7GPH-lvtxUAlPUbvg.png" group-title="FILM",ASTRO BOO
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37457.m3u8
-'http://mohdtv.com:8880/ALLChannels900eb3564c07/13335145/1697
+http://31.42.187.37:25461/watchpad13158/1234/1572
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="FILM",Allplay Ent
@@ -3008,6 +3002,9 @@ https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 https://cempedak-live-cdn.mncnow.id/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTINF:-1 group-title="FILM"  tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
+https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 
 
 ====================================SPORTS==================================
