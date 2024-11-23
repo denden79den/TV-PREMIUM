@@ -578,12 +578,11 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMMRF6m/SPORTSTAR-2.png" group-title="VISION+ SPORT",Sportstars 2 
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="Lokal" group-title="VISION+ SPORT" tvg-logo="https://i.ibb.co.com/XsV770g/SPORTSTAR-3-1.png" ch-number="1002", Sportstars 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
-#KODIPROP:inputstream.adaptive.license_key=https://sport24.biz.id/tes/clearkey/v+/get?id=1002
-https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+#EXTINF:0 group-title="VISION+ SPORT" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
+#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
+https://dusk.biz.id/visas/index.mpd?id=1002
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GtWc3tQ/SOCCER-CHANNEL.png",SOCCER Cannel
@@ -3180,23 +3179,23 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/98145
 #EXTINF:-1 tvg-ID="" tvg-name="NL ▎UFC TV HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/ufchd.png" group-title="SPORTS",UFC  HD
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/98147
 
-#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1722
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8f/Astro_Premier_League_1_%282024%29.png",Astro Premier League 1
+https://webhdrunns.mizhls.ru/lb/premium123/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SPORTS" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSYoldvZA2b7EAOQuwIVCHp53EH1eocLEJxEg&s",Astro Premier League 2
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1721
+https://webhdrunns.mizhls.ru/lb/premium124/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/0f/Astro_Grandstand_%282024%29.png",Astro GrandStand
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1720
+https://webhdrunns.mizhls.ru/lb/premium125/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" group-title="SPORTS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5a/Astro_Football_%282024%29.png",Astro Football
-http://yesimes.oknirvana.club:8880/DAALM2504/MnURN2bcRq/1719
+https://webhdrunns.mizhls.ru/lb/premium126/index.m3u8|referer=https://lewblivehdplay.ru/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 #EXTINF:-1 group-logo="https://telegra.ph/file/5231dea66798aba2c94b7.png" group-title="SPORTS" tvg-logo="https://divign0fdw3sv.cloudfront.net/Images/ChannelLogo/contenthub/542_144.png" tvg-id="817.astro",Astro Sports Plus
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png"  group-title="SPORTS", Astro Badminton
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
+http://31.42.187.37:25461/watchpad13158/1234/19047
 
 #EXTINF:-1 tvg-id="Fox.Sports.1.HDTV.(FS1HD).us" tvg-name="Fox Sports 1" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-states/fox-sports-1-us.png" group-title="SPORTS" ,Fox Sports 1
 #EXTVLCOPT:http-referrer=https://ilovetoplay.xyz/
