@@ -40,6 +40,9 @@ https://kametv.my.id/pdx/play.m3u8?id=206
 #EXTINF:-1  tvg-logo="http://www.dens.tv/images/channel-logo/111.jpg" group-title="LOKAL HD",MOJI
 http://xtv.ooo:8080/live/71891100/66181910/350997.ts
 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg" group-title="SHAREEXT@INDONESIA ➾  SPORTS",MOJI_(xtv)
+http://xtv.ooo:8080/live/71891100/66181910/350997.ts
+
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
