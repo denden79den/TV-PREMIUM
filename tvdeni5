@@ -75,14 +75,12 @@ https://1a-rcti.rctiplus.id/rcti-sdi.mpd
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv
 
 #EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV (R+)
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv
+#EXTINF:0 tvg-id="GTV.id" tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/GTV.jpg",GTV
+http://xtv.ooo:8080/live/71891100/66181910/350954.ts
 
 #EXTGRP:LOKAL HD
-#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS (R+)
-https://1s1.rctiplus.id/inews2023.m3u8
+#EXTINF:0 tvg-id="INews.id" tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png",INEWS
+http://xtv.ooo:8080/live/71891100/66181910/350973.ts
 
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="LOKAL HD",TRANS TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
@@ -91,14 +89,7 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://dl.dropbox.com/scl/fi/ialvvch2o0bys5v79ky8q/antv.png?rlkey=y7rwmrz4mg4r22kd0oxdcqgof&dl=0" group-title="LOKAL HD",ANTV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cd6e9c5992395/manifest.mpd
-
+https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 
 #EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="LOKAL HD",TVONE
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
@@ -123,14 +114,9 @@ https://cdnjkt4.transvision.co.id:1000/live/master/2/4028c6856c3db2cc016cd6e548c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropbox.com/scl/fi/p305i3rgh4vqbsyoo8hoy/Kompastv-hometv.png?rlkey=l1zjtk9trf541tlktvupimr2e&dl=0",KOMPAS TV
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://cubmu.trenztv.workers.dev
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729ce2a0d83c16/manifest.mpd
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#EXTINF:-1 tvg-logo="https://dl.dropbox.com/scl/fi/p305i3rgh4vqbsyoo8hoy/Kompastv-hometv.png?rlkey=l1zjtk9trf541tlktvupimr2e&dl=0" group-title="LOKAL HD", KOMPAS TV
+http://khano.nng.cloudns.us/live/m3u8/id/ae5f9d6bcd610b6.m3u8
 
 #EXTINF: -1 tvg-logo="https://dl.dropbox.com/scl/fi/8w88vagqw5kwswyxnn96q/Cnn-indo-hometv.png?rlkey=x0pj4g2qo8585bwzgrl9dz88g&dl=0" group-title="LOKAL HD",CNN Indo
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_b384000_sleng.m3u8
@@ -541,10 +527,10 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8?c
 
-#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/transtv.png group-title="INDIHOME",TRANS TV
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="LOKAL HD",TRANS TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTINF:-1  tvg-logo="https://iptv.urfan.web.id/logo/trans7.png" group-title="INDIHOME",TRANS 7
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="LOKAL HD",TRANS 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 
