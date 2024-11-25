@@ -2138,17 +2138,17 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6857fe540a1018060b4163
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/WyLkFWK/HBO.png",
 
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbo.jpg" group-title=" HBO",1.HBO 
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbo.jpg" group-title=" HBO",1. HBO 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg" group-title=" HBO",2.HBO Hits 
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg" group-title=" HBO",2. HBO Hits 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg" group-title=" HBO",3.HBO Family 
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg" group-title=" HBO",3. HBO Family 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg" group-title=" HBO",4.HBO Signature 
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg" group-title=" HBO",4. HBO Signature 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
 #https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
-#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg" group-title=" HBO",5.Cinemax
+#EXTINF:-1  tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg" group-title=" HBO",5. Cinemax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 
@@ -2156,28 +2156,28 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title=" HBO",6.HBO
+#EXTINF:-1 tvg-id="HBO HD.sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title=" HBO",6. HBO
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBO.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title=" HBO",7.HBO Hits 
+#EXTINF:-1 tvg-id="HBO Hits (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title=" HBO",7. HBO Hits 
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOHits.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title=" HBO",8.HBO Family
+#EXTINF:-1 tvg-id="HBO Family (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title=" HBO",8. HBO Family
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOFamily.m3u8
 
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=" HBO",9.HBO Signature
+#EXTINF:-1 tvg-id="HBO Signature (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title=" HBO",9. HBO Signature
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/HBOSignature.m3u8
 
 #KODIPROP:inputstream=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=hls
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title=" HBO",10.Cinemax
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title=" HBO",10. Cinemax
 https://raw.githubusercontent.com/hendroagung2904/SourcePlaylist/refs/heads/main/Cinemax.m3u8
 
 
@@ -3878,6 +3878,50 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110621&exten
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW PREMIER SPORTS 1 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:4F:78:AF&stream=1110622&extension=ts&play_token=Zn9KIYgpu3
 
+
+
+=======================================HUB PREMIER & OPTUS SPORT======================================
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 1 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554980&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 2 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554979&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 3 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554978&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 4 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554977&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 5 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554976&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 6 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554975&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 7 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554974&extension=m3u8 
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/5BBYYJx/hub-premier-ok.png" group-title="HUB & OPTUS SPORTS",HubPremier 8 
+http://ledir.thund.re/play/live.php?mac=00:1a:79:25:50:a8&stream=554973&extension=m3u8
+
+
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 01 
+http://extraott.com:80/live/3969424152/3723991250/191762.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 02 
+http://extraott.com:80/live/3969424152/3723991250/191763.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 03
+http://extraott.com:80/live/3969424152/3723991250/191764.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 04
+http://extraott.com:80/live/3969424152/3723991250/191765.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 05
+http://extraott.com:80/live/3969424152/3723991250/191766.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 06
+http://extraott.com:80/live/3969424152/3723991250/191767.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 07 
+http://extraott.com:80/live/3969424152/3723991250/191768.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 08
+http://extraott.com:80/live/3969424152/3723991250/191769.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 09
+http://extraott.com:80/live/3969424152/3723991250/400230438.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 10
+http://extraott.com:80/live/3969424152/3723991250/400230439.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="HUB & OPTUS SPORTS",  OPTUS 11
+http://extraott.com:80/live/3969424152/3723991250/400230440.m3u8
 
 
 
