@@ -3301,8 +3301,11 @@ http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605262.ts
 #EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Football
 http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605267.ts
 
-#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Badminton
+#EXTINF:-1 tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Badminton
 http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605325.ts
+
+'#EXTINF:-1 tvg-id="Astro Football HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Badminton
+'http://jmrk.xyz:8880/live/acastillo304@gmail.com/zHsdw46ZEN/605325.ts
 
 #EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="SPORTS 2",Astro Grandstand
 http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/605265.ts
