@@ -4029,80 +4029,26 @@ http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112195
 ===========================TRIAL==========================================
 
 
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="TRIAL",INDOSIAR-HD(pft)
-http://perfecttv.net:8080/live/Perfecttv/Perfecttv/1604.ts
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 1 - no Vpn
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 2 - no Vpn
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 3 - no Vpn
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", TNT Sports 4 - no Vpn
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola.png" group-title="TRIAL", Arena Bola(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/6
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/arenabola2.png" group-title="TRIAL", Arena Bola 2(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/7
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague.png" group-title="TRIAL", PremierLeague(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/8
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/premierleague2.png" group-title="TRIAL", PremierLeague 2(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/9
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="TRIAL", Astro Grandstand(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 1 - no Vpn
+http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 2 - no Vpn
+http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 3 - no Vpn
+http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 4 - no Vpn
+http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
+#EXTINF:-1 group-title="TRIAL" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlbM6yNhJH-DX3qeScPVhjmtYc6Kn5bmFIg0Pug9hbGi7o4WT1MaZJ1zs&s=10", Hub Premier 5 - no Vpn
+http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/prima.png" group-title="TRIAL", Prima(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/warna.png" group-title="TRIAL", Warna(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/2
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/ria.png" group-title="TRIAL", Ria(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/3
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/citra.png" group-title="TRIAL", Citra(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/4
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="TRIAL", Awesome(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="TRIAL",SCTV(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="TRIAL",MNCTV(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="TRIAL",RCTI(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="TRIAL",GTV(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="TRIAL",Trans Tv(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="TRIAL",Trans7(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TRIAL",Indosiar(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
-
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="TRIAL", HBO Signature(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="TRIAL", QJ(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/11
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="TRIAL", &flix(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/12
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="TRIAL", &Prive(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/13
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="TRIAL", StarMovies(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/14
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="TRIAL", SonyPix(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/16
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="TRIAL", MY CINEMA ASIA(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/17
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="TRIAL", Chinemachi(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="TRIAL", Cinemachi Action(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="TRIAL", Cinemachi Max(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="TRIAL", Cinemachi Xtra(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="TRIAL", KIX(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1555
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="TRIAL", Galaxy(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1556
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="TRIAL", Galaxy Premium(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1557
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="TRIAL", MY CINEMA(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1559
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="TRIAL", MY Family Cinema(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="TRIAL", Thrill(pft)
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
 
 
 
