@@ -3868,39 +3868,6 @@ http://line.4knew.pro:80/5FC448/6C4995/102652
 
 
 
-========================ASTRO & NOW SPORT===================================
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 1 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 2 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 3 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/Astro_Supersport_HD.png" group-title="ASTRO & NOW SPORT", ASTRO SPORTS 4 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
-
-
-
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 1 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86580
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 2 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86581
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 3 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86582
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 4 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86583
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 5 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86584
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 6 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86585
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS 7 HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86586
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="ASTRO & NOW SPORT", NOW SPORTS PLUS HD
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86579
-
-
-
 =======================================HUB PREMIER & OPTUS SPORT======================================
 
 
@@ -4062,6 +4029,28 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/7344
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 4 HD" tvg-logo="https://i.ibb.co.com/mN0KCsj/rmc-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ,RMC SPORT 4 HD
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/22467
 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 01 
+http://extraott.com:80/live/3969424152/3723991250/191762.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 02 
+http://extraott.com:80/live/3969424152/3723991250/191763.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 03
+http://extraott.com:80/live/3969424152/3723991250/191764.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 04
+http://extraott.com:80/live/3969424152/3723991250/191765.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 05
+http://extraott.com:80/live/3969424152/3723991250/191766.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 06
+http://extraott.com:80/live/3969424152/3723991250/191767.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 07 
+http://extraott.com:80/live/3969424152/3723991250/191768.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 08
+http://extraott.com:80/live/3969424152/3723991250/191769.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 09
+http://extraott.com:80/live/3969424152/3723991250/400230438.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 10
+http://extraott.com:80/live/3969424152/3723991250/400230439.m3u8 
+#EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS",  OPTUS 11
+http://extraott.com:80/live/3969424152/3723991250/400230440.m3u8
 
 
 ===========================TRIAL==========================================
