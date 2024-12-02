@@ -3988,40 +3988,48 @@ http://extraott.com:80/live/3969424152/3723991250/186873.m3u8
 
 ===============================VIP SPORT======================================
 
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4K " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 4K 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112209
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 1 UHD VIP SPORTS" tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 4K 1 UHD
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112208
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 1 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 1 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112207
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 2 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 2 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112206
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 3 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 3 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112205
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 4 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 4 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112204
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 5 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 5 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112203
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 6 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 6 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112202
-#EXTINF:-1 tvg-id="" tvg-name="Now Sports 7 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports 7 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112201
+
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 1 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86580
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 2 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86581
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 3 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86582
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 4 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86583
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 5 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86584
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 6 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86585
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 7 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 7 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86586
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports Plus ⁴ᵏ" tvg-logo="https://i.ibb.co.com/cbR9W6C/now-sport-plus.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports Plus ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86579
 
 
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 1 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 1 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112200
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 2 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 2 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112194
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 3 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 3 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112199
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 4 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 4 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112198
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 5 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 5 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112197
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Premier Sports 6 " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Premier Sports 6 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112196
-#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports Prime " tvg-logo="http://103.176.90.118/picons/logos/nowsports.png" group-title="VIP Sports",Now Sports Prime 
-http://el.patron.123tv.to:8080/SerhatNeu/aojVSGTzgv/112195
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86258
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86268
+#EXTINF:-1 tvg-id="" tvg-name="Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86269
+
+
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86377
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86378
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86379
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86380
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Premier Leauge 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86381
+#EXTINF:-1 tvg-id="" tvg-name="NowHK Sports Prime ⁴ᵏ" tvg-logo="https://i.ibb.co.com/dDNVntN/now-sport-premier.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports Prime ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86578
+
 
 
 ===========================TRIAL==========================================
