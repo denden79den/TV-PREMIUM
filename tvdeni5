@@ -3663,43 +3663,26 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812024&extens
 ===============================ARENA SPORT==============================
 
 
-
 #EXTINF:-1 tvg-name="arena sport 1 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",1. Arena Sport 1
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104503.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80309
 #EXTINF:-1 tvg-name="arena sport 2 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",2. Arena Sport 2
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104504.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80310
 #EXTINF:-1 tvg-name="arena sport 3 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",3. Arena Sport 3
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104505.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80311
 #EXTINF:-1 tvg-name="arena sport 4 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",4. Arena Sport 4
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104506.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80312
 #EXTINF:-1 tvg-name="arena sport 5 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",5. Arena Sport 5
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/104507.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80313
 #EXTINF:-1 tvg-name="arena sport 6 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",6. Arena Sport 6
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498444.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80314
 #EXTINF:-1 tvg-name="arena sport 7 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",7. Arena Sport 7
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498445.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80315
 #EXTINF:-1 tvg-name="arena sport 8 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",8. Arena Sport 8
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498446.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80316
 #EXTINF:-1 tvg-name="arena sport 9 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",9. Arena Sport 9
-http://m1-max.dns-speedy.com:80/live/JOSHUAUGO5386/506D4C/498447.ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80317
 #EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",10.Arena Sport 10
-http://opplex.tv:8080/live/1525939/1552699/349301.ts
-
-
-#EXTINF:-1 xui-id="198" tvg-id="" tvg-name="Arena Sport 1" tvg-logo="https://shikoshqip.xyz/upload/arenas1.png" group-title="ARENA SPORT",11.Arena Sport 1
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5a9z6pngOGVXSfDLwozqoac/ts
-#EXTINF:-1 xui-id="199" tvg-id="" tvg-name="Arena Sport 2" tvg-logo="https://shikoshqip.xyz/upload/arenas2.png" group-title="ARENA SPORT",12.Arena Sport 2
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5ZOjLyo1AfSj3oM9JEbFKP4/ts
-#EXTINF:-1 xui-id="200" tvg-id="" tvg-name="Arena Sport 3" tvg-logo="https://shikoshqip.xyz/upload/arenas3.png" group-title="ARENA SPORT",13.Arena Sport 3
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5W5AnbgL4_fr0MoKorG6YPs/ts
-#EXTINF:-1 xui-id="201" tvg-id="" tvg-name="Arena Sport 4" tvg-logo="https://shikoshqip.xyz/upload/arenas4.png" group-title="ARENA SPORT",14.Arena Sport 4
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5br7tDrXvzYTDafwqtRaeh8/ts
-#EXTINF:-1 xui-id="202" tvg-id="" tvg-name="Arena Sport 5" tvg-logo="https://shikoshqip.xyz/upload/arenas5.png" group-title="ARENA SPORT",15.Arena Sport 5
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5QWKQq52IGQLRBsXo-Qdp7c/ts
-#EXTINF:-1 xui-id="203" tvg-id="" tvg-name="Arena Sport 6" tvg-logo="https://shikoshqip.xyz/upload/arenas6.png" group-title="ARENA SPORT",16.Arena Sport 6
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5XrsXyWKBc154gYWCgoMXy0/ts
-#EXTINF:-1 xui-id="204" tvg-id="" tvg-name="Arena Sport 7" tvg-logo="https://mn.shikoshqip.xyz:2083/images/FQ0KTkainfK4Pa-GdjFZbVrNJ89xMqbUphpSrgvFMdNagJy14w55GVnWcBOXrlSZ.png" group-title="ARENA SPORT",17.Arena Sport 7
-https://mn.shikoshqip.xyz:2083/play/KzZvuirKqufL21Lo9SpP5SR7cMhjgDh3Hh_TNAqLy1c/ts
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80318
 
 
 
