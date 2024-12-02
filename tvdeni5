@@ -2441,8 +2441,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h236/02.m3u8
 
 
 
-
-
 ==========================MALAYSIA============================
 
 
@@ -3866,53 +3864,6 @@ http://line.4knew.pro:80/5FC448/6C4995/118065
 #EXTINF:-1 tvg-id="269265" tvg-name="US ★ SUPERSPORT PLAY" tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="SUPERSPORT 3",18.SS PLAY
 http://line.4knew.pro:80/5FC448/6C4995/102652
 
-
-
-=======================================HUB PREMIER & OPTUS SPORT======================================
-
-
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", PREMIER LEAGUE 
-http://extraott.com:80/live/3969424152/3723991250/159892.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", LALIGA 
-http://extraott.com:80/live/3969424152/3723991250/159894.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", FOOTBALL 
-http://extraott.com:80/live/3969424152/3723991250/186875.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", FOOTBALL PLUS 
-http://extraott.com:80/live/3969424152/3723991250/400415390.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", PSL
-http://extraott.com:80/live/3969424152/3723991250/159893.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", TENNIS
-http://extraott.com:80/live/3969424152/3723991250/159890.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", GOLF
-http://extraott.com:80/live/3969424152/3723991250/159887.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", VARIETY 1 
-http://extraott.com:80/live/3969424152/3723991250/159883.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", VARIETY 2
-http://extraott.com:80/live/3969424152/3723991250/159884.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", VARIETY 3
-http://extraott.com:80/live/3969424152/3723991250/186870.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", VARIETY 4
-http://extraott.com:80/live/3969424152/3723991250/186869.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", CRICKET  
-http://extraott.com:80/live/3969424152/3723991250/117926.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", RUGBY  
-http://extraott.com:80/live/3969424152/3723991250/159889.m3u8
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", SCHOOLS  
-http://extraott.com:80/live/3969424152/3723991250/387624.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", MOTORSPORT 
-http://extraott.com:80/live/3969424152/3723991250/159888.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", MAXIMO 1  
-http://extraott.com:80/live/3969424152/3723991250/159896.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", MAXIMO 2  
-http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", ACTION  
-http://extraott.com:80/live/3969424152/3723991250/117927.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", GRANDSTAND 
-http://extraott.com:80/live/3969424152/3723991250/159891.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", Blitz  
-http://extraott.com:80/live/3969424152/3723991250/110613.m3u8 
-#EXTINF:-1  tvg-logo="http://lg.mygolden.xyz:8080/logo/AMERICA/USA/supersport.png" group-title="HUB & OPTUS SPORTS", PLAY  
-http://extraott.com:80/live/3969424152/3723991250/186873.m3u8 
 
 ===============================VIP SPORT======================================
 
