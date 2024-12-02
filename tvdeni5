@@ -3988,6 +3988,15 @@ http://extraott.com:80/live/3969424152/3723991250/186873.m3u8
 
 ===============================VIP SPORT======================================
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/DC1z12r/astro-premier-league.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", ASTRO PREMIER LEAGUE
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/SnjX7nV/astro-premier-league-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", ASTRO PREMIER LEAGUE 2
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Wsv9qp3/astro-grandstand.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", ASTRO GRANDSTAND
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/c1JTVdH/astro-football.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ", ASTRO FOOTBALL
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
+
 
 #EXTINF:-1 tvg-id="" tvg-name="NowHK Sports 1 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/ZcPCYcg/now-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",NowHK Sports 1
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86580
