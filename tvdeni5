@@ -2477,6 +2477,9 @@ http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856826
 'http://31.42.187.37:25461/watchpad13158/1234/111
 http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856829
 
+#EXTINF:-1 tvg-id="Astro SuperSport 3 HD.my" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static02.astro.com.my/astro/media/astromain/packagepromotion/astro_share_1.png" group-title="TV MALAYSIA",Astro Sport plus
+http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856833
+
 #EXTINF:-1 group-title="TV MALAYSIA" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Astro Ceria
 'http://mytv-extra.com:80/t12mgxyb335/9832948789/191860
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656953
@@ -2494,7 +2497,8 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/656966
 http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71146.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="MY133:Astro Premier 2" tvg-logo="https://i.ibb.co.com/cctr7qN/astro-badminton.png" group-title="TV MALAYSIA", Astro Badminton
-http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
+'http://abcnew.site:8880/live/TNwC28ZMED/aG9TWtVfqy/71105.m3u8
+http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856819
 
 #EXTINF:-1 tvg-id="ASTRO RIA" tvg-name="MY030:RIA" tvg-logo="https://i.ibb.co.com/wN9sB6q/astro-ria.png" group-title="TV MALAYSIA", ASTRO RIA
 http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856818
@@ -2529,6 +2533,8 @@ https://4940c5f69db24a558151436f708d5a69.mediatailor.ap-southeast-1.amazonaws.co
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/xMwpQj6/wsport.png" group-title="TV MALAYSIA",WSPORT
+http://toh-users.xyz:8080/gtyronerobinson@gmail.com/9209372361/856832
 
 
 //========================================================================
