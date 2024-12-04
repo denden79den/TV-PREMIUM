@@ -2949,8 +2949,6 @@ https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/lsdasbvglv/o
 #KODIPROP:inputstream.adaptive.license_key=e31a5a81caff5d07ea2411a571fc2e59:96c5ef69479732ae734f962748c19729
 https://live.ll.ww.aiv-cdn.net/OTTB/lhr-nitro/live/clients/dash/enc/i2pcjr4pe5/out/v1/912e9db56d75403b8a9ac0a719110f36/cenc.mpd
 
-
-
 #EXTINF:-1 tvg-id="Play Sports HD1.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZI_gw_5wmMQ4yr44MOx78yC57oQA9MTlmIECStDnNbLKc39oibi9-690iooEmGy2WqT_l9JmCYNdGmyO_9fMwymcgawuP4pE-SL8TjxVzHmfJeu1a34QGl-ltI-4zUomq6prRjrHuGiOjD0fjo_6aN0OMtTwINW6CI1-a-Y6bagEN8vSssxF9UdMVsir8/s340/play%20sport1.png" group-title="SPORTS" , PLAY SPORTS 1
 'http://tv1.darktv.eu:80/play/live.php?mac=00:1A:79:D9:DB:F0&stream=45472&extension=ts
 'http://deciki.xyz:8080/13170627323021/61714391813070/8569
@@ -3001,7 +2999,6 @@ https://live-oneapp-prd-news.akamaized.net/Content/CMAF_OL1-CTR-4s/Live/channel(
 #EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS",SONY SPORTS TEN 1 
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
-
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=video/mp2t
@@ -3171,7 +3168,24 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/897674
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRxzG45K1sBf0K8seSQwregsAKT7522x_tjie69NhkzZL5pjHNPHwsioWfOq2tFe_C9jtvss5ywjXkulWGg-Ku1zHvHvs86y52ycsDMbaLgg0rSkT0reP8p8Gx1gd6ByabG2OZP5jsHZAGGPlhXZKnF9fNqYdBfoeMuCha3DcvdxI-VLmRk4c-3Mr5eZ0Q/s400/bellator.png" group-title="SPORTS", Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 1.1  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19449
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 2.2  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19448
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 3.3  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19447
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 1  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19446
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 2  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19445
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 3  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19444
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 4  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19443
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 5  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19442
+#EXTINF:-1  tvg-logo="https://i.ibb.co.com/0ySgxNS/KOSOVO.png" group-title="SPORTS",KOSOVO SPORT 6  
+http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/19441
 
 
 
