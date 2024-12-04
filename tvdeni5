@@ -13,17 +13,9 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://kametv.my.id/pdx/play.m3u8?id=206
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="http://app1-#EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1653049308-.png" group-title="INDIHOME", MENTARI TV
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="http://app1-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="LOKAL HD", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash 
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
-#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://dl.dropboxusercontent.com/scl/fi/rhs056y264ntr8klc7pk3/mentaritv.png?rlkey=85qzlildcc7jhoj64pirm4fpa&dl=0" group-title="LOKAL HD", MENTARI TV 
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/IPTV-Digital/Channel/main/Logo%20IPTV/RCTI.jpg" group-title="LOKAL HD", RCTI
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
