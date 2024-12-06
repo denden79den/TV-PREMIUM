@@ -167,18 +167,20 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ================================DENSTV========================================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="DENS.TV",INDOSIAR_
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="DENS.TV",INDOSIAR_
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" , SCTV
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg" ,MOJI
-http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg" tvg-id="8", 7. ANTV
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/1024px-Moji_blue.svg.png" group-title="DENS.TV", MOJI TV
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h207/02.m3u8
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg" tvg-id="8", ANTV
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg" ,TV One
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,9. VTV
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7b/VTV_Indonesia_red.png" ,VTV
 https://flv.intechmedia.net/live/ch107.m3u8|user-agent=Mozilla/5.0
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/3.jpg" tvg-id="3" , Live Streaming 1
 http://op-group1-swiftservesd-1.dens.tv/s/s100/live.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Live_Streaming_1|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
