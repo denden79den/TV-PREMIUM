@@ -4048,14 +4048,13 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86274
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 5 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/j3MDhbF/hub-5.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Hub Premier 5
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86275
 
-
 #EXTINF:-1 tvg-id="" tvg-name="Maximo ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Maximo ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
 #EXTINF:-1 tvg-id="" tvg-name="La Liga ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS La Liga ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62983
 #EXTINF:-1 tvg-id="" tvg-name="Premier League ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Premier League ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62984
-#EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Action ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Action ⁴ᴷ
+#EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Action ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SS Action ⁴ᴷ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
 #EXTINF:-1 tvg-id="" tvg-name="Variety 1 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Variety 1 ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62994
@@ -4065,6 +4064,15 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62993
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
 #EXTINF:-1 tvg-id="" tvg-name="Variety 4 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Variety 4 ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
+
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 4 HD" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: TNT SPORTS 4 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88644
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 3 HD" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: TNT SPORTS 3 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88643
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 2 HD" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: TNT SPORTS 2 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88642
+#EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 HD" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: TNT SPORTS 1 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88641
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co.com/1TcWfRp/SPORTTV.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Sport TV 1
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86507
