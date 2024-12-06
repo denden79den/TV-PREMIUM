@@ -658,3 +658,19 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+&re
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&referrer=https://www.rctiplus.com/
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://i.ibb.co.com/KjyGmsj/INEWS-png.png" ,INEWS (R+)
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=https://www.rctiplus.com/
+
+
+===============================HBO====================================
+
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg",HBO
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg",HBO HITS
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg",HBO FAMILY
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg",HBO SIGNATURE
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
+#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg",CINEMAX
+https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
+
+
