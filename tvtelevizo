@@ -121,11 +121,9 @@ https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn09jtedge.indihometv.com/joss/133/horizonsport/index.m3u8?c
 
-
 #EXTINF:0 tvg-id="davinciasia.de" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e0/Da_vinci_tv_logo.svg/revision/latest/scale-to-width-down/640" group-title="INDIHOME",Da Vinci
 #EXTVLCOPT:http-user-agent=Mozilla/5.0
 https://cdn09jtedge.indihometv.com/joss/134/davinci/index.m3u8?c
-
 
 #EXTINF:-1 tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1695617140-.png" group-title="INDIHOME", SERU CHANNEL
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
@@ -154,10 +152,10 @@ https://cdn09jtedge.indihometv.com/joss/134/ochannel/index.m3u8?c
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="INDIHOME",TRANS TV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-
-
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="INDIHOME",TRANS 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 #EXTINF:-1 group-title="INDIHOME" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+
