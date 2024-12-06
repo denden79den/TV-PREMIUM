@@ -674,8 +674,7 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
 #EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg",HBO SIGNATURE
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
-#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/cinemax.jpg",CINEMAX
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 
