@@ -167,7 +167,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 ================================DENSTV========================================
 
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="DENS.TV",INDOSIAR_
+#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="DENS.TV",Indosiar
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/9.jpg" , SCTV
