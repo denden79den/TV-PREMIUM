@@ -236,9 +236,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h16/01.m3u8?app_type=web&amp;userid=wn
 http://op-group1-swiftservehd-1.dens.tv/h/h15/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=ROCK_Action|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/49.jpg" tvg-id="49" , KIX HD
 http://op-group1-swiftservehd-1.dens.tv/h/h07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KIX_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg" tvg-id="133" , KBS Korea (Free Trial)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/bWmzVN5/kbs-korea.png" tvg-id="133" , KBS Korea
 http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg" tvg-id="134" , KBS World (Free Trial)
+#EXTINF:-1 group-title="DENS.TV" tvg-logo="https://i.ibb.co.com/y0KQY1z/kbs-world.png" tvg-id="134" , KBS World
 http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/100.jpg" tvg-id="100" , K-PLUS HD
 http://op-group1-swiftservehd-1.dens.tv/h/h08/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=K-PLUS_HD|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
