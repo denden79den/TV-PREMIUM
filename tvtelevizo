@@ -655,6 +655,10 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="INDONESIA 🇮🇩",INDOSIAR_
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
 ===============================HBO====================================
 
 #EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg",HBO
