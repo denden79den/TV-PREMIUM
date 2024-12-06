@@ -7,7 +7,8 @@ https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/THUMBNAIL-135-LOVENATUREHD.png?v=2.0.0.13",LOVE NATURE
 https://cdn09jtedge.indihometv.com/joss/194/lovenature/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/ANIMALPLANET-OTT-88-HD.png?v=2.0.0.13",ANIMAL PLANET
-https://cdn09jtedge.indihometv.com/joss/194/animalplanet/index.m3u8?c
+https://cdn09jtedge.indihometv.com/josstrans
+/194/animalplanet/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1606971764-.png",ANIMAX INDI
 https://cdn09jtedge.indihometv.com/joss/130/animax/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME"  tvg-logo="https://images.indihometv.com/assets/DISCOVERYASIA-OTT-135-HD.png?v=2.0.0.13",DISCOVERY ASIA
@@ -654,6 +655,12 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&re
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="INDONESIA 🇮🇩",INDOSIAR
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="INDONESIA 🇮🇩",TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="INDONESIA 🇮🇩",TRANS 7
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
 ===============================HBO====================================
 
