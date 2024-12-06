@@ -4055,6 +4055,8 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62983
 #EXTINF:-1 tvg-id="" tvg-name="Premier League ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Premier League ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62984
+#EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Action ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Action ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
 #EXTINF:-1 tvg-id="" tvg-name="Variety 1 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Variety 1 ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62994
 #EXTINF:-1 tvg-id="" tvg-name="Variety 2 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Variety 2 ᶠᴴᴰ
@@ -4076,6 +4078,15 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86510
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86511
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 6" tvg-logo="https://i.ibb.co.com/1TcWfRp/SPORTTV.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Sport TV 6
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86512
+
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport HD" tvg-logo="https://i.ibb.co.com/fHBZskZ/canal-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PL: Canal+ Sport 1 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/9508
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 2 HD" tvg-logo="https://i.ibb.co.com/fHBZskZ/canal-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PL: Canal+ Sport 2 HD
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/11411
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 3 ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/fHBZskZ/canal-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PL: Canal+ Sport 3 ᶠᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/51961
+#EXTINF:-1 tvg-id="" tvg-name="PL: Canal+ Sport 4 ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/fHBZskZ/canal-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PL: Canal+ Sport 4 ᶠᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/51962
 
 #EXTINF:-1 tvg-id="" tvg-name="RMC SPORT 1 HD" tvg-logo="https://i.ibb.co.com/mN0KCsj/rmc-sport.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",RMC SPORT 1 HD
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/7346
