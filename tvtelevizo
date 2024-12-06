@@ -833,3 +833,27 @@ http://extraott.com:80/live/3969424152/3723991250/400230439.m3u8
 #EXTINF:-1  tvg-logo="https://img.logo-cdn.cc/optus.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",  OPTUS 11
 http://extraott.com:80/live/3969424152/3723991250/400230440.m3u8
 
+
+===============================ARENA SPORT==============================
+
+
+#EXTINF:-1 tvg-name="arena sport 1 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",1. Arena Sport 1
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80309
+#EXTINF:-1 tvg-name="arena sport 2 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",2. Arena Sport 2
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80310
+#EXTINF:-1 tvg-name="arena sport 3 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",3. Arena Sport 3
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80311
+#EXTINF:-1 tvg-name="arena sport 4 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",4. Arena Sport 4
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80312
+#EXTINF:-1 tvg-name="arena sport 5 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",5. Arena Sport 5
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80313
+#EXTINF:-1 tvg-name="arena sport 6 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",6. Arena Sport 6
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80314
+#EXTINF:-1 tvg-name="arena sport 7 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",7. Arena Sport 7
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80315
+#EXTINF:-1 tvg-name="arena sport 8 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",8. Arena Sport 8
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80316
+#EXTINF:-1 tvg-name="arena sport 9 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",9. Arena Sport 9
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80317
+#EXTINF:-1 tvg-name="arena sport 10 croatia" tvg-logo="https://iili.io/Jmo5wj1.png" group-title="ARENA SPORT",10.Arena Sport 10
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80318
