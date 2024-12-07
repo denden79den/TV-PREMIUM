@@ -1069,16 +1069,10 @@ http://watchindia.net:8880/live/80817/80817/1758.ts
 http://watchindia.net:8880/live/80817/80817/2662.ts
 #EXTINF:-1 tvg-id="sony.sports.ten.5.in" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_5_HD.png" tvg-name="Sony Ten 5 HD" group-title="SPORTS",SONY TEN 5 HD
 http://watchindia.net:8880/live/80817/80817/2663.ts
-#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1 HD" group-title="SPORTS",Star Sports Select 1 HD_w
+#EXTINF:-1 tvg-id="starsportsselect1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_1_HD.png" tvg-name="Star Sports Select 1 HD" group-title="SPORTS",Star Sports Select 1
 http://watchindia.net:8880/live/80817/80817/1070.ts
-#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2 HD" group-title="SPORTS",Star Sports Select 2 HD_w
+#EXTINF:-1 tvg-id="starsportsselecthd2.in" tvg-logo="https://watchindia.net/images/channels/sports/Star_Sports_Select_2_HD.png" tvg-name="Star Sports Select 2 HD" group-title="SPORTS",Star Sports Select 2
 http://watchindia.net:8880/live/80817/80817/1071.ts
-
-#EXTINF:-1 tvg-id="" tvg-name="SPT| STAR SPORTS SELECT 1 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-1.png" group-title="SPORTS",SPT| STAR SPORTS SELECT 1 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373142&extension=ts&play_token=9IFKcAmQzh
-#EXTINF:-1 tvg-id="" tvg-name="SPT| STAR SPORTS SELECT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/logos/STAR-SPORTS-SELECT-2.png" group-title="SPORTS",SPT| STAR SPORTS SELECT 2 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1373143&extension=ts&play_token=yqINGWfbGr
-
 
 #EXTINF:-1 tvg-id="" tvg-name="SPECTRUM SPORTSNET" tvg-logo="http://103.176.90.118/picons/logos/logos/SPECTRUM-SPORTSNET.png" group-title="SPORTS",SPECTRUM SPORTSNET
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=76984&extension=ts&play_token=UMArLwF8nF
