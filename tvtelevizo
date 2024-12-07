@@ -611,8 +611,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/8.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/9.m3u8
 #EXTINF:-1 tvg-id="FoxLife.id" tvg-name="HITS" tvg-logo="https://d1yjjnpx0p53s8.cloudfront.net/styles/logo-thumbnail/s3/082015/fox-life_0.png" group-title="FILM",HITS
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/94.m3u8
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="FILM",Paramount Network
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
 #EXTINF:-1 tvg-id="FOXActionMovies.id" tvg-name="Hits Movies HD" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_411.png" group-title="FILM",Hits Movies HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/99.m3u8
 #EXTINF:-1 tvg-id="HBO.id" tvg-name="HBO HD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo.png" group-title="FILM",HBO HD
@@ -621,8 +619,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
 #EXTINF:-1 tvg-id="HBOFamily.id" tvg-name="HBO Family HD" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/d/d2/HBO_Family_Asia_logo.svg/1200px-HBO_Family_Asia_logo.svg.png" group-title="FILM",HBO Family HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Star Chinese Movies HD" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f0/Star_chinese_movies_2012.png" group-title="FILM",Star Chinese Movies HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/780.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rock Entertainment HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="FILM",Rock Entertainment HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/811.m3u8
 #EXTINF:-1 tvg-id="Lifetime.id" tvg-name="LifeTime HD" tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="FILM",LifeTime HD
@@ -665,12 +661,8 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="FILM",IMC
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Celestial Classic Movies CCM" tvg-logo="" group-title="FILM",Celestial Classic Movies CCM
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/36581.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="FILM",Rock Action HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
-
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="FILM",Citra Drama
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
 
@@ -1308,3 +1300,29 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86574
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86575
 #EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 3 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/WDJSGLz/BEINXTRA.png" group-title="BEIN SPORT",BeIN Sport XTRA 3 ⁴ᴷ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86576
+
+
+=========================SPORT INDONESIA==================================
+
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="SPORT INDONESIA",WSPORT
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",PSJ TV
+https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA", SOCCER 
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPORTSTAR 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPORTSTAR 2
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPOTV 1
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
+
+#EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV 1
+https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
+#EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
