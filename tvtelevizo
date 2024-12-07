@@ -522,21 +522,21 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 #EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="HBO",HBO FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/431_300.png" group-title="HBO",HBO HD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1496.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HBO",HBO Signature FHD
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_signature.png" group-title="HBO",HBO Signature HD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1498.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/873.m3u8
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HBO",HBO Hits FHD
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HBO",HBO Hits HD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/11492.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HBO",HBO Family FHD
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family FHD" tvg-logo="https://mncvision.id/userfiles/image/channel/hbo_family.png" group-title="HBO",HBO Family HD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30184.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/592.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="HBO",Cinemax FHD
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://astrocontent.s3.amazonaws.com/Images/ChannelLogo/Pos/412_100.png" group-title="HBO",Cinemax HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30185.m3u8
+'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
 
 
 
