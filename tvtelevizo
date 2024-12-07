@@ -481,10 +481,10 @@ https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="INDONESIA 🇮🇩",TRANS 7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" tvg-id="", Kompas TV
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://www.dens.tv/images/channel-logo/14.jpg" tvg-id="14", Kompas TV
 http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" tvg-id="", Metro TV
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://www.dens.tv/images/channel-logo/6.jpg" tvg-id="6", Metro TV
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Metro_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 
