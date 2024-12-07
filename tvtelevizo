@@ -1188,8 +1188,6 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811931&extens
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811930&extension=ts&play_token=5qpGnIUcGQ
 #EXTINF:-1 tvg-id="" tvg-name="EUROSPORT 2 HD" tvg-logo="http://103.176.90.118/picons/logos/BELGIUM-HICHAM/EUROSPORT-2.png" group-title="SPORTS",EUROSPORT 2 HD
 http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=811929&extension=ts&play_token=sowXQbC7Xr
-#EXTINF:-1 tvg-id="" tvg-name="##### BE SPORTS HEVC #####" tvg-logo="http://103.176.90.118/picons/logos/logos/belgium.png" group-title="SPORTS",##### BE SPORTS HEVC #####
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=812024&extension=ts&play_token=PzOypUrbVM
 
 
 ==============================SUPER & SKY SPORT=====================================
