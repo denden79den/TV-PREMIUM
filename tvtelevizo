@@ -1320,3 +1320,43 @@ https://xyzdddd.mizhls.ru/lb/premium130/index.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
 https://xyzdddd.mizhls.ru/lb/premium554/index.m3u8
 
+
+
+
+
+#EXTINF:-1 tvg-id="SS Rugby" tvg-name="SUPERSPORT RUGBY HD" tvg-logo="http://ktv.im:8080/images/29c757d7d560566541c6267953fb6c6d.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT RUGBY HD 
+http://ktv.im:8080/fullpack15months354/213907856/21352 
+#EXTINF:-1 tvg-id="SS Cricket" tvg-name="SUPERSPORT CRICKET HD" tvg-logo="http://ktv.im:8080/images/336625af1536c1eb7274907a1a201b06.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT CRICKET HD 
+http://ktv.im:8080/fullpack15months354/213907856/21353 
+#EXTINF:-1 tvg-id="SS Grandstand" tvg-name="SUPERSPORT GRANDSTAND HD" tvg-logo="http://ktv.im:8080/images/e98dbb9208c9d396d7cdebeef1b60bb8.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT GRANDSTAND HD 
+http://ktv.im:8080/fullpack15months354/213907856/21354 
+#EXTINF:-1 tvg-id="SuperSport LaLiga" tvg-name="SUPERSPORTS LALIGA HD" tvg-logo="http://ktv.im:8080/images/748cdcde07d72a357535cd908fd5f1e3.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS LALIGA HD 
+http://ktv.im:8080/fullpack15months354/213907856/21355 
+#EXTINF:-1 tvg-id="SS Premier League" tvg-name="SUPERSPORTS PREMIER LEAGUE HD" tvg-logo="http://ktv.im:8080/images/caafa0c6ebe85f6984aa567650d06aef.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS PREMIER LEAGUE HD 
+http://ktv.im:8080/fullpack15months354/213907856/21356 
+#EXTINF:-1 tvg-id="SS Football" tvg-name="SUPERSPORTS FOOTBALL HD" tvg-logo="http://ktv.im:8080/images/c476d22ccfc8987f00750de3d334c748.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS FOOTBALL HD
+http://ktv.im:8080/fullpack15months354/213907856/21357 
+#EXTINF:-1 tvg-id="SuperSport PSL" tvg-name="SUPERSPORTS PSL HD" tvg-logo="http://ktv.im:8080/images/27fdcae88e74cbf9bfac0962d526af70.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS PSL HD 
+http://ktv.im:8080/fullpack15months354/213907856/21358 
+#EXTINF:-1 tvg-id="SS Action" tvg-name="SUPERSPORT ACTION HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT ACTION HD 
+http://ktv.im:8080/fullpack15months354/213907856/21359 
+#EXTINF:-1 tvg-id="SS Variety 1" tvg-name="SUPERSPORTS VARIETY 1  HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZg_8yZyipi18i1_BUxxiYaKvA7TiooBtgrtUeqWfaBCndsANp2XHU6g-2dnH-fHcc.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS VARIETY 1  HD 
+http://ktv.im:8080/fullpack15months354/213907856/21360 
+#EXTINF:-1 tvg-id="SS Variety 2" tvg-name="SUPERSPORTS VARIETY 2 HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWbv7kjxtzGScfyymaQNKd71GrYiXtBdG5OOteh6WEcYt1ONty6NG8bBfW_XpOEUrqk.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS VARIETY 2 HD 
+http://ktv.im:8080/fullpack15months354/213907856/21361 
+#EXTINF:-1 tvg-id="SS Variety 3" tvg-name="SUPERSPORTS VARIETY 3 HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZXI1KHuJpSSFpRl-K6vvBKkwbniAh82zI3dVNeOz0XK7NqIYxyTX_KwKj86W1r4K0.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS VARIETY 3 HD 
+http://ktv.im:8080/fullpack15months354/213907856/21362 
+#EXTINF:-1 tvg-id="SS Variety 4" tvg-name="SUPERSPORTS VARIETY 4 HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZu1jjmzTYghGky4bKNQ3l4QEZ2XTP4kyk-Vot1NnPEfpprTE-wdkHC6dM63ESW970.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORTS VARIETY 4 HD 
+http://ktv.im:8080/fullpack15months354/213907856/21363 
+#EXTINF:-1 tvg-id="SuperSport Blitz" tvg-name="SUPERSPORT BLITZ HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWaXo_pmd0OUChgLx1IKHHfQuH2GLIiPOp-zeP_3TnBu1wJCPp5yU8PhGBn8n_zVDeE.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT BLITZ HD 
+http://ktv.im:8080/fullpack15months354/213907856/21364
+#EXTINF:-1 tvg-id="SuperSport MáXimo 1" tvg-name="SUPERSPORT MAXIMO HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWaIWV3PjUChl3x71AOI61r_j0nbR5SZewAU8xKJnVchc4HfHSP-qjwoTpkkMSiQFaw.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT MAXIMO HD
+http://ktv.im:8080/fullpack15months354/213907856/21365 
+#EXTINF:-1 tvg-id="SS Tennis" tvg-name="SUPERSPORT TENNIS HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWYn1UQkDeK4t8l_7UZcExxF2b_yg9JR8VaHqDgyfiETzAsS4Euo42dUapjpaKycDAU.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",SUPERSPORT TENNIS HD 
+http://ktv.im:8080/fullpack15months354/213907856/21370 
+#EXTINF:-1 tvg-id="" tvg-name="WWE SUPERSLAM HD" tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",WWE SUPERSLAM HD 
+http://ktv.im:8080/fullpack15months354/213907856/21371 
+#EXTINF:-1 tvg-id="WWE.za" tvg-name="WWE CHANNEL HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZp6Y7vctCPDL0clkpbkHIJ4N_YlcQQd5GRiwjDNxCWXwyziflvANKZOX9TqNt7OIU.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",WWE CHANNEL HD 
+http://ktv.im:8080/fullpack15months354/213907856/21372 
+#EXTINF:-1 tvg-id="" tvg-name="RACING 240 HD" tvg-logo="http://m2e.fun:8080/images/m_G31rJ8Rwa3peZSlhirzYGrFSr9iqQCPZzy6ZBuUWZYWDa0e0Apno8djyx7w4TdwvKpzan_OYud8MEXrqO4d4g2y9mwKNRCOD6lwRL4Vf0.png" group-title="SHAREEXT@AF |DSTV | SUPER SPORTS",RACING 240 HD 
+http://ktv.im:8080/fullpack15months354/213907856/21373 
