@@ -364,7 +364,7 @@ https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
 
-#EXTINF:-1 tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA 🇮🇩",Indosiar
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",Moji
@@ -478,6 +478,34 @@ https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&re
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
+==============================KIDS (ANAK)============================
+
+#EXTINF:-1 tvg-id="ANIPlus.id" tvg-name="Aniplus" tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="KIDS",Aniplus
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2.m3u8
+#EXTINF:-1 tvg-id="Animax.id" tvg-name="Animax" tvg-logo="https://is5-ssl.mzstatic.com/image/thumb/Purple49/v4/3b/f7/73/3bf773db-d79d-24d4-8007-9fa48aeca225/pr_source.png/246x0w.png" group-title="KIDS",Animax
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3.m3u8
+#EXTINF:-1 tvg-id="AnimalPlanet.id" tvg-name="My Kidz" tvg-logo="https://mncvision.id/userfiles/image/channel/disney_junior.png" group-title="KIDS",My Kidz
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/213.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Boomerang ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="KIDS",Boomerang ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.m3u8
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="Nick Jr " tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/Nick_Jr._2_logo.png/320px-Nick_Jr._2_logo.png" group-title="KIDS",Nick Jr 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/341.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nick Jr ID" tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="KIDS",Nick Jr ID
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/522.m3u8
+#EXTINF:-1 tvg-id="cartoonnetwork.id" tvg-name="Cartoon Network ID HD" tvg-logo="https://mncvision.id/userfiles/image/channel/cartoon_network.png" group-title="KIDS",Cartoon Network ID HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/680.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Anak" tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="KIDS",Dunia Anak
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/907.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon " tvg-logo="https://mncvision.id/userfiles/image/channel/nickelodeon.png" group-title="KIDS",Nickelodeon 
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/962.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="" group-title="KIDS",My Kidz
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1483.m3u8
+#EXTINF:-1 tvg-id="ABC.au" tvg-name="Indi Kids" tvg-logo="https://cordcutting.com/wp-content/uploads/2017/02/disney-channel-logo.png" group-title="KIDS",Indi Kids
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Horee" tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="KIDS",Horee
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="" group-title="KIDS",Dream Works HD
+https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
 
 
 ===============================HBO====================================
