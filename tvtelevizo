@@ -858,6 +858,16 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88642
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT SPORTS 1 HD" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: TNT SPORTS 1 HD
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88641
 
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png", TNT Sports 1 
+http://109.61.81.147:2080/cdn2/559/video.m3u8?token=4444
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png", TNT Sports 2 
+http://109.61.81.147:2080/cdn2/560/video.m3u8?token=4444
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png", TNT Sports 3 
+http://109.61.81.147:2080/cdn2/295/video.m3u8?token=4444
+#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/bPDqf7q/TNT-SPORTT.png", TNT Sports 4 
+http://109.61.81.147:2080/cdn2/5054/video.m3u8?token=4444
+
+
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co.com/1TcWfRp/SPORTTV.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Sport TV 1
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86507
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 2" tvg-logo="https://i.ibb.co.com/1TcWfRp/SPORTTV.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Sport TV 2
