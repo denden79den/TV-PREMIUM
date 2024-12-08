@@ -113,7 +113,7 @@ https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
 https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropbox.com/s/y8h66fmfnulfic5/Tvri%20world.jpeg", TVRI WORLD
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://i.ibb.co.com/xjBkG37/tvri-world.png", TVRI WORLD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://dl.dropboxusercontent.com/s/yq8zq1gb4cpvgcd/rrinet.png",RRI NET
