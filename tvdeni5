@@ -13,7 +13,7 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
 https://kametv.my.id/pdx/play.m3u8?id=206
 
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="http://app1-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="LOKAL HD", MENTARI TV
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="LOKAL HD", MENTARI TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
