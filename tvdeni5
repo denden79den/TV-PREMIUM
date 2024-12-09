@@ -3091,33 +3091,6 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1660394&exten
 #EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEjRxzG45K1sBf0K8seSQwregsAKT7522x_tjie69NhkzZL5pjHNPHwsioWfOq2tFe_C9jtvss5ywjXkulWGg-Ku1zHvHvs86y52ycsDMbaLgg0rSkT0reP8p8Gx1gd6ByabG2OZP5jsHZAGGPlhXZKnF9fNqYdBfoeMuCha3DcvdxI-VLmRk4c-3Mr5eZ0Q/s400/bellator.png" group-title="SPORTS", Bellator MMA
 http://stitcher-ipv4.pluto.tv/v1/stitch/embed/hls/channel/5ebc8688f3697d00072f7cf8/master.m3u8?deviceType=samsung-tvplus&deviceMake=samsung&deviceModel=samsung&deviceVersion=unknown&appVersion=unknown&deviceLat=0&deviceLon=0&deviceDNT={TARGETOPT}&deviceId={PSID}&advertisingId={PSID}&us_privacy=1YNY&samsung_app_domain={APP_DOMAIN}&samsung_app_name={APP_NAME}&profileLimit=&profileFloor=&embedPartner=samsung-tvplus
 
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENTS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-MAIN-EVENTS.png" group-title="SPORTS",SKY SPORTS MAIN EVENTS HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83450&extension=ts&play_token=62nmXF65kC
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MAIN EVENTS HD(BK)" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-MAIN-EVENTS.png" group-title="SPORTS",SKY SPORTS MAIN EVENTS HD(BK)
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1448189&extension=ts&play_token=opDqnftbm0
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS PL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-PL.png" group-title="SPORTS",SKY SPORTS PL HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83447&extension=ts&play_token=DAMJvHxu46
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS FOOTBALL HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-FOOTBAL.png" group-title="SPORTS",SKY SPORTS FOOTBALL HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83452&extension=ts&play_token=mwfrOC0j7y
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS NEWS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-NEWS.png" group-title="SPORTS",SKY SPORTS NEWS HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83448&extension=ts&play_token=EX1mYVftwi
-#EXTINF:-1 tvg-id="" tvg-name="UK|SKY SPORTS ACTION HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-ACTION.png" group-title="SPORTS",UK|SKY SPORTS ACTION HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83456&extension=ts&play_token=7s1zj0k2y8
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS ARENA HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-ARENA.png" group-title="SPORTS",SKY SPORTS ARENA HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83455&extension=ts&play_token=ShhPQamGyx
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS CRICKET HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-CRICKET.png" group-title="SPORTS",SKY SPORTS CRICKET HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83454&extension=ts&play_token=qXiGV2fStR
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS F1 HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-F1.png" group-title="SPORTS",SKY SPORTS F1 HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83453&extension=ts&play_token=e29I2Bwb4E
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS MIX HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-MIX.png" group-title="SPORTS",SKY SPORTS MIX HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83449&extension=ts&play_token=2WGaad8Uxi
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS RACING HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-RACING.png" group-title="SPORTS",SKY SPORTS RACING HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83446&extension=ts&play_token=EwWMSmYSIt
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPORTS GOLF HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPORTS-GOLF.png" group-title="SPORTS",SKY SPORTS GOLF HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=83451&extension=ts&play_token=V1YvQFaG38
-#EXTINF:-1 tvg-id="" tvg-name="SKY SPOIRTS TENNIS HD" tvg-logo="http://103.176.90.118/picons/logos/UK/SKY-SPOIRTS-TENNIS.png" group-title="SPORTS",SKY SPORTS TENNIS HD
-http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1454231&extension=ts&play_token=HNabyuUN1E
-
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" tvg-name="Sony Ten 1 HD (1)" group-title="SPORTS",SONY TEN 1 HD
 http://watchindia.net:8880/live/80817/80817/1756.ts
 #EXTINF:-1 tvg-id="sonyten1hd.in" tvg-logo="https://watchindia.net/images/channels/sports/Sony_Ten_1_HD.png" tvg-name="Sony Ten 1 HD (2)" group-title="SPORTS",SONY TEN 1 HD
