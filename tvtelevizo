@@ -1327,4 +1327,17 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 #EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV 1
 https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
 #EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u8
+https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u
+
+
+==========TRIAL==========
+
+
+#EXTINF:-1 tvg-id="AstroSupersport" group-title="TRIAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-my.png",ASTRO SUPERSPORT(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1722.ts
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2" group-title="TRIAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-2-my.png",ASTRO SUPERSPORT 2(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1721.ts
+#EXTINF:-1 tvg-id="AstroSupersport3" group-title="TRIAL" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-3-my.png",ASTRO SUPERSPORT 3(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1720.ts
+#EXTINF:-1 tvg-id="815" tvg-name="ASTRO SUPERSPORT 4 HD" tvg-logo="https://www.lyngsat.com/logo/tv/aa/astro-supersport-4-my.png" group-title="TRIAL",ASTRO SUPERSPORT 4(B)
+http://newlife3.wanicelife.com:8880/live/29ca12143n03/3rd32332/1719.ts
