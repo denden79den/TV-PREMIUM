@@ -637,7 +637,7 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505868
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505873
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/tvn.png" group-title="FILM", ID ▎TVN MOVIES
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505881
-#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_zbioskop_small1.png?v=2.0.0.13" group-title="FILM", ID ▎ZEE BIOSKOP
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="FILM", ID ▎ZEE BIOSKOP
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505884
 
 
@@ -655,13 +655,13 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="FILM",🇲🇨 FLIK HD
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29592
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="FILM",🇲🇨 Galaxy Premium 
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_galaxy_big1.png" group-title="FILM",🇲🇨 Galaxy Premium 
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29603
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29603
 #EXTINF:-1  tvg-logo="http://images.indihometv.com/box/logo_galaxy_small.png?v=2.0.0.13" group-title="FILM",🇲🇨 Galaxy
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
-#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="" group-title="FILM",Citra Drama
+#EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_citradrama_small.png" group-title="FILM",Citra Drama
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="FILM",IMC
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
