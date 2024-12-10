@@ -34,7 +34,7 @@ https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="INDIHOME TV",TRANSTV
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
-#EXTINF:-1  tvg-logo="https://i.ibb.co/8KVDsBJ/shareext-soccer-goldfly-logo.jpg" group-title="INDIHOME TV",TVONE
+#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_tvonenew_small.png" group-title="INDIHOME TV",TVONE
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="INDIHOME TV",TRANS7
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
