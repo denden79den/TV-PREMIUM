@@ -583,30 +583,28 @@ https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/W-Sport.png" group-title="MANTAP TV",W-Sport
 http://31.42.187.37:25461/watchpad13158/1234/2314
 
-
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://perfecttv.net/logo/premierleague.png", MY ▎ASTRO PREMIRE LEAGUE 1
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656970
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 2
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://perfecttv.net/logo/premierleague2.png", MY ▎ASTRO PREMIRE LEAGUE 2
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656971
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 3
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://perfecttv.net/logo/grandstand.png", MY ▎ASTRO GRANDSTAND
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656972
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO SUPERSPORT 4
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎ASTRO FOOTBALL
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656973
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎EUROSPORT
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/mNjYgzG/EUROSPORT2.png", MY ▎EUROSPORT
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656964
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎BEIN SPORTS
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://mediacms01.apac.beiniz.biz/channel_logo/bein_sports_1_70X40.png", MY ▎BEIN SPORTS
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656967
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎WWE NETWORK
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png", MY ▎WWE NETWORK
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656966
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png", MY ▎SPORTS SPO TV
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png", MY ▎SPOTV 1
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656867
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎SPOTV2
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://seeklogo.com/images/S/spo-tv-2-logo-8E2859F55D-seeklogo.com.png",  MY ▎SPOTV2
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656927
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎ASTRO CRICKET
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="http://kingtv.dynu.com/tvlogo/cricket.png",  MY ▎ASTRO CRICKET
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656962
-#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/6Wdds5z/astro-football.png",  MY ▎TV OKEY
+#EXTINF:-1  group-title="MANTAP TV" tvg-logo="https://i.ibb.co.com/0qJBmDW/okeytv.png",  MY ▎TV OKEY
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656952
-
 
 
 
