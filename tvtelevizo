@@ -1341,28 +1341,24 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86576
 
 =========================SPORT INDONESIA==================================
 
-#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://mncvision.id/userfiles/image/channel/channel_409.png" group-title="SPORT INDONESIA",WSPORT
+#EXTINF:-1 tvg-id="BabyTV.uk" tvg-name="Paramount Network" tvg-logo="https://www.dens.tv/images/channel-logo/123.jpg" group-title="SPORT INDONESIA",WSPORT
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/98.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",PSJ TV
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/n3QbtxF/PSJ.png" group-title="SPORT INDONESIA",PSJ TV
 https://play.accolamedia.id/accola/psj.stream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA", SOCCER 
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_hls/rcti-soccerchannel-hd.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPORTSTAR 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/zh0Zk30/SPORTSTAR1.png" group-title="SPORT INDONESIA",SPORTSTAR 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportstar.m3u8?c
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPORTSTAR 2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPOTV 1
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="SPORT INDONESIA",SPOTV 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-#EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein1_ver1.png",SPOTV 1
-https://cdn09jtedge.indihometv.com/joss/133/beib1/index.m3u8
-#EXTINF:-1 group-title="SPORT INDONESIA" tvg-logo="https://images.indihometv.com/logo_bein2_ver1.png",SPOTV 2
-https://cdn09jtedge.indihometv.com/joss/133/beib2/index.m3u
 
 
 ==========TRIAL==========
