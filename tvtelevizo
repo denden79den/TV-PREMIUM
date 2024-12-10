@@ -36,9 +36,9 @@ https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_trans7_ver1.png" group-title="ShareExt@Relax",TRANS7(indihome)
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
-#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", THRILL
+#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://images.indihometv.com/logo_thrill_ver1.png", THRILL
 https://cdn09jtedge.indihometv.com/atm/hlsv3/thrill/thrill-avc1_1200000=4-mp4a_96000=2.m3u8
-#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", AXN
+#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://images.indihometv.com/logo_axn_ver2.png", AXN
 https://cdn09jtedge.indihometv.com/atm/hlsv3/axn/axn-avc1_1200000=4-mp4a_96000=2.m3u8
 #EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 https://cdn09jtedge.indihometv.com/joss/130/alquran/index.m3u8?c
