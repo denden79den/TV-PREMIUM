@@ -30,7 +30,7 @@ https://cdn09jtedge.indihometv.com/joss/134/indikids/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/antv/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://images.indihometv.com/logo_sctv_ver3.png", SCTV
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
-#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://i.ibb.co.com/N3HbgWQ/IMG-20220828-165715.jpg", INDOSIAR
+#EXTINF:-1 group-title="INDIHOME 2"  tvg-logo="https://images.indihometv.com/logo_indosiar_ver3.png", INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 #EXTINF:-1  tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="ShareExt@Relax",TRANSTV(indihome)
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
