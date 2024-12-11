@@ -1470,43 +1470,45 @@ http://extraott.com:80/live/3969424152/3723991250/153950.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS PREMIER LEAGUE FHD 
 http://extraott.com:80/live/3969424152/3723991250/190004.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="EKSKLUSIF SPORTS", SS FOOTBALL HD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS FOOTBALL HD 
 http://extraott.com:80/live/3969424152/3723991250/190006.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="EKSKLUSIF SPORTS", SS FOOTBALL PLUS FHD 
 http://extraott.com:80/live/3969424152/3723991250/400415389.m3u8 
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS LA LIGA FHD 
 http://extraott.com:80/live/3969424152/3723991250/190005.m3u8 
-#EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="EKSKLUSIF SPORTS", SS ACTION FHD 
+#EXTINF:-1  tvg-logo=https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS ACTION
 http://extraott.com:80/live/3969424152/3723991250/190015.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS CRICKET FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS CRICKET
 http://extraott.com:80/live/3969424152/3723991250/191776.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS GOLF FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS GOLF
 http://extraott.com:80/live/3969424152/3723991250/191775.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS GRANDSTAND FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS GRANDSTAND
 http://extraott.com:80/live/3969424152/3723991250/190002.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS MAXIMO 1 HD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS MAXIMO 1
 http://extraott.com:80/live/3969424152/3723991250/191773.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS MOTORSPORT HD
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS MAXIMO 2
+http://extraott.com:80/live/3969424152/3723991250/401457562.m3u8
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS MOTORSPORT
 http://extraott.com:80/live/3969424152/3723991250/191772.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS PSL FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS PSL
 http://extraott.com:80/live/3969424152/3723991250/190003.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS RUGBY FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS RUGBY
 http://extraott.com:80/live/3969424152/3723991250/191771.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS TENNIS FHD 
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS TENNIS
 http://extraott.com:80/live/3969424152/3723991250/191770.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 1 FHD
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 1
 http://extraott.com:80/live/3969424152/3723991250/190007.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 2 FHD
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 2
 http://extraott.com:80/live/3969424152/3723991250/190008.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 3 FHD
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 3
 http://extraott.com:80/live/3969424152/3723991250/190009.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 4 FHD
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS VARIETY 4
 http://extraott.com:80/live/3969424152/3723991250/190010.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9g6VXX0/strongman.png" group-title="EKSKLUSIF SPORTS", Strongman Champion League 1
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9g6VXX0/strongman.png" group-title="EKSKLUSIF SPORTS", Strongman Champion 1
 https://rightsboosterltd-scl-1-nl.samsung.wurl.tv/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9g6VXX0/strongman.png" group-title="EKSKLUSIF SPORTS", Strongman Champion League 2
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/9g6VXX0/strongman.png" group-title="EKSKLUSIF SPORTS", Strongman Champion 2
 https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
 
 
