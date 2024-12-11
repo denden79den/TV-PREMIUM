@@ -515,41 +515,6 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/4
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="MANTAP TV", Astro Awesome
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="MANTAP TV", HBO Signature
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="MANTAP TV", QJ
-http://perfecttv.net:8080/Perfecttv/Perfecttv/11
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="MANTAP TV", &flix
-http://perfecttv.net:8080/Perfecttv/Perfecttv/12
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="MANTAP TV", &Prive
-http://perfecttv.net:8080/Perfecttv/Perfecttv/13
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="MANTAP TV", StarMovies
-http://perfecttv.net:8080/Perfecttv/Perfecttv/14
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="MANTAP TV", SonyPix
-http://perfecttv.net:8080/Perfecttv/Perfecttv/16
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="MANTAP TV", MY CINEMA ASIA
-http://perfecttv.net:8080/Perfecttv/Perfecttv/17
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="MANTAP TV", Chinemachi
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="MANTAP TV", Cinemachi Action
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="MANTAP TV", Cinemachi Max
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="MANTAP TV", Cinemachi Xtra
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="MANTAP TV", KIX
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1555
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="MANTAP TV", Galaxy
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1556
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="MANTAP TV", Galaxy Premium
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1557
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="MANTAP TV", MY CINEMA
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1559
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="MANTAP TV", MY Family Cinema
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="MANTAP TV", Thrill
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
-
 #EXTINF:-1 tvg-logo="https://cdn-wp.thesportsrush.com/2021/01/58d3f81f-former-wwe-champion-says-wwe-is-more-physical-than-ufc.png" group-title="MANTAP TV",🇲🇾 UNIFI (UFC live) 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
@@ -641,7 +606,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="FILM",Rock Action HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
-
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="FILM", HBO Signature (1)
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
