@@ -320,18 +320,20 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 ================================CHANNEL INDONESIA===============================================
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
-
-#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
-#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
-#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA 🇮🇩",Trans Tv
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA 🇮🇩",Trans7
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",MOJI 1
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -428,21 +430,17 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="INDONESIA 🇮🇩"",Insert
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA 🇮🇩",Trans Tv
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA 🇮🇩",Trans7
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
+#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
+
+#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 
 ==============================KIDS (ANAK)============================
