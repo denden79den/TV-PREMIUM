@@ -3775,7 +3775,7 @@ https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiUnBTRjBNdE8iLCJyZ
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ Live 5" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png" ch-number="1014", V+ Live 5
+#EXTINF:-1 tvg-id="V+ Live 5" group-title="SPORTS INDONESIA" tvg-logo="https://i.ibb.co.com/ThTfm1g/MUSICTV.png" ch-number="1014", Sportstar Musik 5 FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1014&token=j95e7vg989
 #EXTVLCOPT:http-referrer=https://visionplus.id/
