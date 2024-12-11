@@ -457,19 +457,19 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩,SCTV
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩,MNCTV
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩,RCTI
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩,GTV
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA 🇮🇩,Trans Tv
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA 🇮🇩",Trans Tv
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA 🇮🇩,Trans7
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA 🇮🇩",Trans7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩,Indosiar
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
 
@@ -540,7 +540,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/2
 http://perfecttv.net:8080/Perfecttv/Perfecttv/3
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/citra.png" group-title="MANTAP TV", AstroCitra
 http://perfecttv.net:8080/Perfecttv/Perfecttv/4
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="MANTAP TV", Astro Awesome
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/awesome.png" group-title="http://perfecttv.net:8080/Perfecttv/Perfecttv/1574 TV", Astro Awesome
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1550
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="MANTAP TV",SCTV
