@@ -361,7 +361,7 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
 
-#EXTINF:-1 tvg-id="ABC.au" tvg-name="DAAI TV" tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/e/e3/DAAI_TV_Jakarta.png/220px-DAAI_TV_Jakarta.png" group-title="INDONESIA 🇮🇩",DAAI TV
+#EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://i.ibb.co.com/37hNzJq/DAAITV.png" group-title="INDONESIA 🇮🇩",DAAI TV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="CNBCIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnbcid.png",CNBC Indonesia
@@ -579,10 +579,10 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="FILM",🇲🇨 FLIK HD
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29592
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
-#EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_galaxy_big1.png" group-title="FILM",🇲🇨 Galaxy Premium 
+#EXTINF:-1  tvg-logo="http://images.indihometv.com/box/logo_galaxypremium_small.png" group-title="FILM",🇲🇨 Galaxy Premium 
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29603
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29603
-#EXTINF:-1  tvg-logo="http://images.indihometv.com/box/logo_galaxy_small.png?v=2.0.0.13" group-title="FILM",🇲🇨 Galaxy
+#EXTINF:-1  tvg-logo="https://subsystem.indihome.co.id/cms-ih/assets/uploads/channel_list/UPLOAD-1635233977-.png" group-title="FILM",🇲🇨 Galaxy
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_citradrama_small.png" group-title="FILM",Citra Drama
