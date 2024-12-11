@@ -118,7 +118,7 @@ https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8?c
 https://cdn09jtedge.indihometv.com/joss/130/nickjr/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/logo_net_ver1.png",NET
 https://cdn09jtedge.indihometv.com/joss/133/net/index.m3u8?c
-#EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/logo_daaitv_small1.png?v=2.0.0.13",DAAI TV
+#EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://i.ibb.co.com/37hNzJq/DAAITV.png",DAAI TV
 https://cdn09jtedge.indihometv.com/joss/134/daaitv/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/CURIOSITY-OTT-135-HD.png?v=2.0.0.13",CURIOSITY
 https://cdn09jtedge.indihometv.com/joss/194/curiosity/index.m3u8?c
@@ -474,21 +474,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://static.mncnow.id/images/channel/8cf61cdb/9dc8.png" group-title="KIDS",Dream Works HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
-
-
-===============================HBO GROUP====================================
-
-#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbo.jpg",HBO
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
-#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbohits.jpg",HBO HITS
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/591
-#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbofam.jpg",HBO FAMILY
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/592
-#EXTINF:-1 group-title="HBO" group-logo="" tvg-logo="http://guki.my.id/logo/movie/hbosign.jpg",HBO SIGNATURE
-https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
-#EXTINF:-1 tvg-id="CINEMAX (HD).sg" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/f/f0/611-cinemax.png" group-title="HBO",Cinemax
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/2156.m3u8
-
 
 
 ==========================MANTAP TV==========================================
