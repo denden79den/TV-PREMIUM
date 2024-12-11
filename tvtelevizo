@@ -1385,10 +1385,7 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101764
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101763
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/sc5.jpg" group-title="EKSKLUSIF SPORTS", SSC 5 FHD  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101761 
-#EXTINF:-1 tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SSC 6 FHD  
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101759
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/hHs8y6F/shareext-football-logo.jpg" group-title="EKSKLUSIF SPORTS", SSC 7 FHD  
-http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/101758 
+
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/scex1.jpg" group-title="EKSKLUSIF SPORTS", SSC 1 EXTRA FHD  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/114764
 #EXTINF:-1 tvg-logo="http://guki.my.id/logo/sports/scex2.jpg" group-title="EKSKLUSIF SPORTS", SSC 2 EXTRA FHD  
@@ -1424,33 +1421,33 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112221
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112220
 
 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 1 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 1  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 2 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 2 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 3 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 3 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 4 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 4  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 5 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 5 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 6 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 6
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Now Sports 7 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", Now Sports 7 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 1 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 1  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112200 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 2 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 2  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112194 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 3 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 3 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112199 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 4 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 4 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112198 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 5 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 5  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112197 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Premier Sports 6 FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Sports 6 
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196 
-#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", HK Sports Prime FHD VIP SPORTS 
+#EXTINF:-1  tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="EKSKLUSIF SPORTS", NOW Premier Prime  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112195
 
 #EXTINF:-1 group-title="EKSKLUSIF SPORTS" tvg-logo="https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true", TNT Sports 1
