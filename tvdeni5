@@ -3745,17 +3745,43 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSport
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/TMMRF6m/SPORTSTAR-2.png" group-title="SPORTS INDONESIA",Sportstars 2 HD 
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
 
-#EXTINF:0 group-title="SPORTS INDONESIA" tvg-name="STARSPORT 3" tvg-country="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png",Sportstar 3 HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="V+ LIVE	" group-title="SPORTS INDONESIA" tvg-logo="https://i.ibb.co.com/TMMRF6m/SPORTSTAR-2.png" ch-number="1002", Sportstars 2 FHD 	
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1002
-https://dusk.biz.id/visas/index.mpd?id=1002
+#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1002&token=j95e7vg989
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibFJ5RmRvdFYiLCJyZWZyZXNoX3Rva2VuIjoiRkNyQko3TkxqNm5qVkJKMlwvS1FqeVM3MHFBRHRGcEp0bEpGNG1CWUE1VFlmNml1V3RoSkNWeHRDbUZicVFDVzhnQXlOa20rdzE2QXU1UmY0b1MzRVBXcGY2SVBcL0c4dDNKYXpITURFREVhQVpPVEViTkx0bk8rT3Q2Nlg2dThSTzV2aTBrd1ArWk9FK0RPbHdcL3VMUXdKUW9uMXd2OUJnMFVDd0ZjNU9vTTVrZUZsVThQazVjTm84RzVxeEIwcmtGV2NnY0Viem91bjU4d29abllqSVVzV0txWFFPYmtYUWhzRzZyZnZyUmdSc3pFeE9JZkxrbFFWcUoyMVN1Rk5hbXpTMkpDdzEzK2RxbHkxZklMakp0UUNCdTJZdjFKWDk1NzJTWE1FXC9NNGdoWGRSaEVwR0FGVGRldU5qbTZFK1lSZzdFdGpLU2NVVW5VQmRqUWJTTVptVzFCS2UwcjZMK2QyZllBMzloKzVXUT0ifQ==
 
-#EXTINF:-1 group-title="SPORTS INDONESIA" tvg-name="STARSPORT 4" tvg-country="" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png",Sportstar 4 HD
-#EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="V+ LIVE 3" group-title="SPORTS INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" ch-number="1012", Sportstar 3 FHD
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://dusk.biz.id/visas/drm.php?id=1013
-https://dusk.biz.id/visas/index.mpd?id=1013
+#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="V+ LIVE 4" group-title="SPORTS INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" ch-number="1013", Sportstar 4 FHD
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1013&token=j95e7vg989
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiUnBTRjBNdE8iLCJyZWZyZXNoX3Rva2VuIjoiNEpKN3VuZGxMZGxBTjR2Tk1MbmJCTkJySVFMYzVkVG9JbWU4eEFDem50R1Y3UUtFVlJyMFZFQzhCZGpsU2NyRFJaM2VFV29DRFA1SXpjRkxUYWMzUWJJZGxRYlY1M3R1VXpTRm9iZll0SzJuOFNFOWJpN0xqekhEMkJBRWdMVjNacVFzQ213aWloSzN5dDJNUHdhR0ROaU1YZDVRSGNwR1VJaEM4bHJmRGllQmorQjZnVWNpdlFFd2h0VnBjOHVQZGVwR3hrY1dpYTdoV21aQ2RlRFhBYjZUdG40VW5KM1R5OHEzT2NVN0tWdmFXSnRnOFhhNzdkcko0eXhCd3BtNGFiNXhLTDJkRVZiZTlrSGVxcjcxeHhmMGtzZGZobjlOZitXS3lKRGtlWE1ibkxxdEpuS2dyQzk3VGFjMkN2YWpnWUw1b1JmaWlYZ1d1dFNkMWxRYXVyTU9vN2xGdXNGMStMZ284b2dMNnRNPSJ9
+
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#EXTINF:-1 tvg-id="V+ Live 5" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png" ch-number="1014", V+ Live 5
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1014&token=j95e7vg989
+#EXTVLCOPT:http-referrer=https://visionplus.id/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
+https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiZlNKYXBWMjkiLCJyZWZyZXNoX3Rva2VuIjoiUEQxVmM2aFlsTGd6NTg2SG5INXIydVwvMmV5VlM2eUdqNmFYNmFmNU96azdLZk5SZFwvZjh2MUIwZWpcL2M3XC90UktlRTdqSjRnNjN4Q1hRdmhGTjhnZFwvQnRuVDI0MFRBMnpkaEowWkQrSVFlcldERUFydTBhUU02YU15YlNwb256NkRLb3pCbE5EYzVwY253OFNnYXRzdUh6XC84VVMySWp2djlLWFdVQzVPSnlzclFvbjE3N2R2ak12QjlIdU5La05ibUJ3YWNaT2F1aUVpV3V2RVhlaEcyUTJmMmlteGpOVXk5RzN5MnVzZXRxbnpQenJSSFN6MzlDM1lsOXRReE1EQ0FyajFobmtLKzNvQWhGSUNVVnl2TURpQ2V4VW9wU1JRdjU2Z1pXcmdpQnFJS3k2SURTTGhZNEs0QUswWTdUcWw0QktkRFFMQUZUUmhyTFowd25ma05XNG9nUG9OaTRpTHNvem91S21hNVUwPSJ9
+#EXTM3U
 
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/GtWc3tQ/SOCCER-CHANNEL.png",SOCCER Cannel
@@ -3855,92 +3881,6 @@ https://luck.openwindows038.workers.dev/play.mpd?id=9183&type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=9353&type=drm 
 https://luck.openwindows038.workers.dev/play.mpd?id=9353&type=dash
-
-=========================================
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE	" group-title="SPORTS INDONESIA" tvg-logo="https://i.ibb.co.com/TMMRF6m/SPORTSTAR-2.png" ch-number="1002", Sportstars 2 FHD 	
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1002&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibFJ5RmRvdFYiLCJyZWZyZXNoX3Rva2VuIjoiRkNyQko3TkxqNm5qVkJKMlwvS1FqeVM3MHFBRHRGcEp0bEpGNG1CWUE1VFlmNml1V3RoSkNWeHRDbUZicVFDVzhnQXlOa20rdzE2QXU1UmY0b1MzRVBXcGY2SVBcL0c4dDNKYXpITURFREVhQVpPVEViTkx0bk8rT3Q2Nlg2dThSTzV2aTBrd1ArWk9FK0RPbHdcL3VMUXdKUW9uMXd2OUJnMFVDd0ZjNU9vTTVrZUZsVThQazVjTm84RzVxeEIwcmtGV2NnY0Viem91bjU4d29abllqSVVzV0txWFFPYmtYUWhzRzZyZnZyUmdSc3pFeE9JZkxrbFFWcUoyMVN1Rk5hbXpTMkpDdzEzK2RxbHkxZklMakp0UUNCdTJZdjFKWDk1NzJTWE1FXC9NNGdoWGRSaEVwR0FGVGRldU5qbTZFK1lSZzdFdGpLU2NVVW5VQmRqUWJTTVptVzFCS2UwcjZMK2QyZllBMzloKzVXUT0ifQ==
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ Sport" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png" ch-number="1011", V+ Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1011&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiVHptQTA2RTUiLCJyZWZyZXNoX3Rva2VuIjoiN295MWQwZTVwUEVRS0RwSFB3RW9SRkdsT3FTdHhoNzl2ZFVqQU9UWG05WnRkcjdYUmRRb3Eza1hBRFdSckErcDhTZjUrSHFCOVZmVjF6UW1kdTlkRHNHWWJGMGNEbXFYQlRPemVKSmFrd3FTWGFjQnhkSFhXTU5NYllJNGZPNTRGTE9tU1h4U3pBcm9PZzQ0K1hxUE4yZnFRZXBcL21Sb016M3RhZ0ZSXC9CMGRTY0xxQW5WQUNHMjlxNnJLdXVWOVdWXC9mMjJxd055WE5MeFplV0JKaEFcL3oyWWlHemorXC8rem9EaTJkUjNiUzdhOWZIelZ0OW9WYnRUVWFDTlMyZGUya3ZMaXhDZEZwNG5DZVJqWDNmTkRyc0ZCcXkwQVJGa09SMnQ2RU9uY1huQWxzajdSVkg2OThEb04rNzBUM2NpUVRRejF6cCtTdG1vODdmTWxTQ0tybFhJajZEWFE0TXlEWUxkK1wvWFdXbXdFPSJ9
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE 3" group-title="SPORTS INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a3/Sportstars_3.png" ch-number="1012", VSportstar 3 FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE 4" group-title="SPORTS INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/a4/Sportstars_4.png" ch-number="1013", Sportstar 4 FHD
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1013&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiUnBTRjBNdE8iLCJyZWZyZXNoX3Rva2VuIjoiNEpKN3VuZGxMZGxBTjR2Tk1MbmJCTkJySVFMYzVkVG9JbWU4eEFDem50R1Y3UUtFVlJyMFZFQzhCZGpsU2NyRFJaM2VFV29DRFA1SXpjRkxUYWMzUWJJZGxRYlY1M3R1VXpTRm9iZll0SzJuOFNFOWJpN0xqekhEMkJBRWdMVjNacVFzQ213aWloSzN5dDJNUHdhR0ROaU1YZDVRSGNwR1VJaEM4bHJmRGllQmorQjZnVWNpdlFFd2h0VnBjOHVQZGVwR3hrY1dpYTdoV21aQ2RlRFhBYjZUdG40VW5KM1R5OHEzT2NVN0tWdmFXSnRnOFhhNzdkcko0eXhCd3BtNGFiNXhLTDJkRVZiZTlrSGVxcjcxeHhmMGtzZGZobjlOZitXS3lKRGtlWE1ibkxxdEpuS2dyQzk3VGFjMkN2YWpnWUw1b1JmaWlYZ1d1dFNkMWxRYXVyTU9vN2xGdXNGMStMZ284b2dMNnRNPSJ9
-
-====================================================
-
-
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE	" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/444/92444-LOGO-m.png" ch-number="1002", V+ LIVE	
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1002&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoibFJ5RmRvdFYiLCJyZWZyZXNoX3Rva2VuIjoiRkNyQko3TkxqNm5qVkJKMlwvS1FqeVM3MHFBRHRGcEp0bEpGNG1CWUE1VFlmNml1V3RoSkNWeHRDbUZicVFDVzhnQXlOa20rdzE2QXU1UmY0b1MzRVBXcGY2SVBcL0c4dDNKYXpITURFREVhQVpPVEViTkx0bk8rT3Q2Nlg2dThSTzV2aTBrd1ArWk9FK0RPbHdcL3VMUXdKUW9uMXd2OUJnMFVDd0ZjNU9vTTVrZUZsVThQazVjTm84RzVxeEIwcmtGV2NnY0Viem91bjU4d29abllqSVVzV0txWFFPYmtYUWhzRzZyZnZyUmdSc3pFeE9JZkxrbFFWcUoyMVN1Rk5hbXpTMkpDdzEzK2RxbHkxZklMakp0UUNCdTJZdjFKWDk1NzJTWE1FXC9NNGdoWGRSaEVwR0FGVGRldU5qbTZFK1lSZzdFdGpLU2NVVW5VQmRqUWJTTVptVzFCS2UwcjZMK2QyZllBMzloKzVXUT0ifQ==
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ Sport" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/883/124883-LOGO-l.png" ch-number="1011", V+ Sport
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1011&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiVHptQTA2RTUiLCJyZWZyZXNoX3Rva2VuIjoiN295MWQwZTVwUEVRS0RwSFB3RW9SRkdsT3FTdHhoNzl2ZFVqQU9UWG05WnRkcjdYUmRRb3Eza1hBRFdSckErcDhTZjUrSHFCOVZmVjF6UW1kdTlkRHNHWWJGMGNEbXFYQlRPemVKSmFrd3FTWGFjQnhkSFhXTU5NYllJNGZPNTRGTE9tU1h4U3pBcm9PZzQ0K1hxUE4yZnFRZXBcL21Sb016M3RhZ0ZSXC9CMGRTY0xxQW5WQUNHMjlxNnJLdXVWOVdWXC9mMjJxd055WE5MeFplV0JKaEFcL3oyWWlHemorXC8rem9EaTJkUjNiUzdhOWZIelZ0OW9WYnRUVWFDTlMyZGUya3ZMaXhDZEZwNG5DZVJqWDNmTkRyc0ZCcXkwQVJGa09SMnQ2RU9uY1huQWxzajdSVkg2OThEb04rNzBUM2NpUVRRejF6cCtTdG1vODdmTWxTQ0tybFhJajZEWFE0TXlEWUxkK1wvWFdXbXdFPSJ9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE 3" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/698/129698-LOGO-l.png" ch-number="1012", V+ LIVE 3
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1012&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiSUNqOEU3Y0wiLCJyZWZyZXNoX3Rva2VuIjoieGlcL3pYaUNwT29oVFwvbWRYRGhnTFVGRTMwR0lFNHFoM0hzcThPN1pHUEY2QUVac2VCZURBaXJBS0pjMCtBVWx3OHBjajN0R1FIT1JMZlhiVGRWMXQxSUdHNUJSQkQ2QW1kS0VzTUNtWlMzdEYxb3RsaUVHc1F3d3lvdTVYbWpaMVFUZjlzUk96QlVmRUhieUY0MmluSkVvZ1A2YVdzaHd5WlFNRDQ1d0tCZTdqUm9lb29GUDdkdmNXMU9jTHBVdHdBQmI3QUhrZ2psWGF6K25tTFNcL1dSMzhiTk95RWdqaWVTYXhyQWhXY01Ud29VbStBaHFcL0RKQXV4UkdvZUlsd0F2Q1VJUER3M1VyenFuMEZVTFJYVVNOeUczRWRMZEV1UHJFZGlrYlhJWlwvMVwvR1orUHlFRm9wcVFOT2hBMlwvajFTYzcrNWsyS29RYU5JMkl3RXNFWUpobUNZZEFwbkE2MElGZTBieEJRek5rdz0ifQ==
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ LIVE 4" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/509/128509-LOGO-l.png" ch-number="1013", V+ LIVE 4
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1013&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiUnBTRjBNdE8iLCJyZWZyZXNoX3Rva2VuIjoiNEpKN3VuZGxMZGxBTjR2Tk1MbmJCTkJySVFMYzVkVG9JbWU4eEFDem50R1Y3UUtFVlJyMFZFQzhCZGpsU2NyRFJaM2VFV29DRFA1SXpjRkxUYWMzUWJJZGxRYlY1M3R1VXpTRm9iZll0SzJuOFNFOWJpN0xqekhEMkJBRWdMVjNacVFzQ213aWloSzN5dDJNUHdhR0ROaU1YZDVRSGNwR1VJaEM4bHJmRGllQmorQjZnVWNpdlFFd2h0VnBjOHVQZGVwR3hrY1dpYTdoV21aQ2RlRFhBYjZUdG40VW5KM1R5OHEzT2NVN0tWdmFXSnRnOFhhNzdkcko0eXhCd3BtNGFiNXhLTDJkRVZiZTlrSGVxcjcxeHhmMGtzZGZobjlOZitXS3lKRGtlWE1ibkxxdEpuS2dyQzk3VGFjMkN2YWpnWUw1b1JmaWlYZ1d1dFNkMWxRYXVyTU9vN2xGdXNGMStMZ284b2dMNnRNPSJ9
-#KODIPROP:inputstreamaddon=inputstream.adaptive
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#EXTINF:-1 tvg-id="V+ Live 5" group-title="SPORTS INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/287/191287-LOGO-l.png" ch-number="1014", V+ Live 5
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=http://combilolo.my.id/vis/drm.php?id=1014&token=j95e7vg989
-#EXTVLCOPT:http-referrer=https://visionplus.id/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
-https://isengprojeck.koyeb.app/play.mpd?ch=eyJ1c2VyX3Rva2VuIjoiZlNKYXBWMjkiLCJyZWZyZXNoX3Rva2VuIjoiUEQxVmM2aFlsTGd6NTg2SG5INXIydVwvMmV5VlM2eUdqNmFYNmFmNU96azdLZk5SZFwvZjh2MUIwZWpcL2M3XC90UktlRTdqSjRnNjN4Q1hRdmhGTjhnZFwvQnRuVDI0MFRBMnpkaEowWkQrSVFlcldERUFydTBhUU02YU15YlNwb256NkRLb3pCbE5EYzVwY253OFNnYXRzdUh6XC84VVMySWp2djlLWFdVQzVPSnlzclFvbjE3N2R2ak12QjlIdU5La05ibUJ3YWNaT2F1aUVpV3V2RVhlaEcyUTJmMmlteGpOVXk5RzN5MnVzZXRxbnpQenJSSFN6MzlDM1lsOXRReE1EQ0FyajFobmtLKzNvQWhGSUNVVnl2TURpQ2V4VW9wU1JRdjU2Z1pXcmdpQnFJS3k2SURTTGhZNEs0QUswWTdUcWw0QktkRFFMQUZUUmhyTFowd25ma05XNG9nUG9OaTRpTHNvem91S21hNVUwPSJ9
-#EXTM3U
-
 
 
 ===============================VIP SPORT======================================
