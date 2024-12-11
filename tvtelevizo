@@ -332,12 +332,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-'#EXTINF:-1 tvg-id="SCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium1.xml" tvg-logo="https://iptv.urfan.web.id/logo/sctv.png" group-title="INDONESIA 🇮🇩"",SCTV 
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32.m3u8
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/931.m3u8
-
-'#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="INDONESIA 🇮🇩"",Indosiar
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1845.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",MOJI 1
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -361,14 +355,6 @@ https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (
 #EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch107.m3u8
-
-#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="INDONESIA 🇮🇩"",TRANS 7
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35.m3u8
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/929.m3u8
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/930.m3u8
-
-'#EXTINF:-1  tvg-logo="https://i.imgur.com/RnrimdT.png?v=1.0.0.1" group-title="INDONESIA 🇮🇩"",TRANS TV
-'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/34.m3u8
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
@@ -441,21 +427,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://www.transvision.co.id/img/channel/insert.png" group-title="INDONESIA 🇮🇩"",Insert
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
-
-'#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-logo="https://i.ibb.co.com/0qQs2MQ/rcti.png tvg-id="RCTI.id" ,RCTI (R+)
-'https://r-plus.sedotcw3.workers.dev/index.m3u8?id=rcti|user-agent=android-R+&referrer=https://www.rctiplus.com/
-'http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505867
-'#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-logo="https://i.ibb.co.com/LNXHMWh/mnctv.png" ,MNCTV (R+)
-'https://r-plus.sedotcw3.workers.dev/index.m3u8?id=mnctv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-'http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505855
-'#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-logo="https://i.ibb.co.com/RvxXfWz/GTV.png" ,GTV (R+)
-'https://r-plus.sedotcw3.workers.dev/index.m3u8?id=gtv|user-agent=android-R+&referrer=https://www.rctiplus.com/
-'http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505835
-'#EXTINF:-1 group-title="INDONESIA 🇮🇩"" tvg-logo="https://i.ibb.co.com/KjyGmsj/INEWS-png.png" ,INEWS (R+)
-'https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews|user-agent=android-R+&referrer=https://www.rctiplus.com/
-'#EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/indosiar.png" group-title="INDONESIA 🇮🇩"",INDOSIAR
-'#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-'http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
