@@ -558,8 +558,28 @@ http://fixtv.shop:888/Lyana/Lyana/11592
 http://fixtv.shop:888/Lyana/Lyana/11593
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/cinemax.png" group-title="MANTAP TV", CINEMAX(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/11599
-http://fixtv.shop:888/Lyana/Lyana/11599
-
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", CITRA DANGDUT(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/164
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", CITRA DRAMA(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/165
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", KIX(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/168
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", OKEY(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/10
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", OWESOME(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO AOSIS(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/13
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO RIA(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/14
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO PRIMA(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/19
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO CITRA(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/21
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO AURA(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/22
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO AURA 2(fixtv)
+http://fixtv.shop:888/Lyana/Lyana/22
 
 
 ===============================FILM==========================================
