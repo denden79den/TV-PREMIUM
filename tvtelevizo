@@ -322,18 +322,26 @@ https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="INDONESIA 🇮🇩",SCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV HD
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="INDONESIA 🇮🇩",MNCTV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505855
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI HD
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="INDONESIA 🇮🇩",RCTI FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505867
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV HD
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="INDONESIA 🇮🇩",GTV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505835
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="INDONESIA 🇮🇩",Trans Tv
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="INDONESIA 🇮🇩",Trans7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar HD
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="OChannel.id" tvg-logo="https://iptv.urfan.web.id/logo/moji.png",MOJI 1
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -351,8 +359,11 @@ https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
 https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
 https://flv.intechmedia.net/live/ch108.m3u8
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA 🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",TVOne
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA 🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",TVOne HD
 https://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
+
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="INDONESIA 🇮🇩" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iptv.urfan.web.id/logo/tvone.png",TVOne FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505878
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -375,16 +386,18 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/52.m3u8
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="metroglobenetwork.id" tvg-logo="https://iptv.urfan.web.id/logo/mgn.png",Metro Globe Network
-#EXTVLCOPT:http-user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-https://edge.medcom.id/live-edge/smil:mgnch.smil/playlist.m3u8
-
-#EXTINF:-1 tvg-id="14" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="INDONESIA 🇮🇩"", Kompas TV
+#EXTINF:-1 tvg-id="14" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="INDONESIA 🇮🇩"", Kompas TV HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV
+#EXTINF:-1 tvg-id="14" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="INDONESIA 🇮🇩"", Kompas TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505851
+
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV HD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
+
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
@@ -441,6 +454,12 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="INDONESIA 🇮🇩", INEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
+
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="INDONESIA 🇮🇩", METRO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505853
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png" group-title="INDONESIA 🇮🇩", TVRI Sport(ID)	
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
@@ -545,7 +564,7 @@ http://fixtv.shop:888/Lyana/Lyana/163
 http://fixtv.shop:888/Lyana/Lyana/160
 #EXTINF:-1 tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="MANTAP TV", Trans7(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/161
-#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="ShareExt@Relax", INDOSIAR HD(fixtv)
+#EXTINF:-1  tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="MANTAP TV", INDOSIAR HD(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/47
 
 #EXTINF:-1 tvg-logo="http://kingtv.dynu.com/tvlogo/HBO.png" group-title="MANTAP TV", HBO(fixtv)
