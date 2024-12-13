@@ -1338,12 +1338,12 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar/sa_hls/rcti-sportst
 #EXTINF:-1 tvg-logo="https://i.ibb.co/hHs8y6F/shareext-football-logo.jpg" group-title="SPORT INDONESIA",SPORTSTAR 2
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sportstar2.m3u8?c
 
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/SPOTV_logo.svg/1200px-SPOTV_logo.svg.png" group-title="SPORT INDONESIA",SPOTV 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORT INDONESIA",SPOTV 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORT INDONESIA", ID ▎SPOTV 1
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORT INDONESIA", SPOTV 1 HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505814
-#EXTINF:-1 tvg-logo="https://static.mytuner.mobi/media/countries/id.png" group-title="SPORT INDONESIA", ID  ▎SPOTV 2
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORT INDONESIA", SPOTV 2 HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505815
 
 
