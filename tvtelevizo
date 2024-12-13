@@ -405,11 +405,11 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/30.m3u8
 #EXTINF:-1 tvg-id="14" tvg-logo="https://iptv.urfan.web.id/logo/kompastv.png" group-title="INDONESIA 🇮🇩"", Kompas TV FHD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505851
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV FHD
 'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/24.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/78.m3u8
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV FHD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://iptv.urfan.web.id/logo/net.png", NET TV HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
 
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="RajawaliTV.id" tvg-logo="https://iptv.urfan.web.id/logo/rtv.png",RTV
