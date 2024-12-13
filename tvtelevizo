@@ -613,6 +613,17 @@ http://fixtv.shop:888/Lyana/Lyana/28
 http://fixtv.shop:888/Lyana/Lyana/28
 #EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ANIMAL PLANET (fixtv)
 http://fixtv.shop:888/Lyana/Lyana/109
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", FLIX (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/169
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", LAFAZ DOA (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/179
+
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", HITS V+ (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11597
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", HITS MOVIES V+ (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/11595
+
+
 
 ===============================FILM==========================================
 
