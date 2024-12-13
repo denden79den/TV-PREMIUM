@@ -455,10 +455,10 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="INDONESIA 🇮🇩", INEWS
+#EXTINF:-1  tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="INDONESIA 🇮🇩", INEWS
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
 
-#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="INDONESIA 🇮🇩", METRO TV
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/75pgtqlac4o0fwjfpimvf/Metrotv-hometv.png?rlkey=vmq2zzlwl1auy8ebeer6bnorf&dl=0" group-title="INDONESIA 🇮🇩", METRO TV
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505853
 
 #EXTINF:-1 tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png" group-title="INDONESIA 🇮🇩", TVRI Sport(ID)	
