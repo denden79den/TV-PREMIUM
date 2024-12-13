@@ -603,9 +603,16 @@ http://fixtv.shop:888/Lyana/Lyana/19
 http://fixtv.shop:888/Lyana/Lyana/21
 #EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO AURA(fixtv)
 http://fixtv.shop:888/Lyana/Lyana/22
-#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO AURA 2(fixtv)
-http://fixtv.shop:888/Lyana/Lyana/22
-
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ASTRO RANIA (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/23
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", TV ALHIJRAH (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/25
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", TVS (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/28
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", CARTOONITO (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/28
+#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ANIMAL PLANET (fixtv)
+http://fixtv.shop:888/Lyana/Lyana/109
 
 ===============================FILM==========================================
 
