@@ -609,8 +609,7 @@ http://fixtv.shop:888/Lyana/Lyana/23
 http://fixtv.shop:888/Lyana/Lyana/25
 #EXTINF:-1 tvg-logo="" group-title="MANTAP TV", TVS (fixtv)
 http://fixtv.shop:888/Lyana/Lyana/28
-#EXTINF:-1 tvg-logo="" group-title="MANTAP TV", CARTOONITO (fixtv)
-http://fixtv.shop:888/Lyana/Lyana/28
+
 #EXTINF:-1 tvg-logo="" group-title="MANTAP TV", ANIMAL PLANET (fixtv)
 http://fixtv.shop:888/Lyana/Lyana/109
 #EXTINF:-1 tvg-logo="" group-title="MANTAP TV", FLIX (fixtv)
