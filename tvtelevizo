@@ -1341,10 +1341,14 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-sportstar2/sa_hls/rcti-sports
 #EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORT INDONESIA",SPOTV 1
 https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-spotv/sa_hls/rcti-spotv.m3u8
 
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORT INDONESIA", SPOTV 1 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-kr.png" group-title="SPORT INDONESIA", SPOTV 1 FHD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505814
-#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORT INDONESIA", SPOTV 2 HD
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORT INDONESIA", SPOTV 2 FHD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505815
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat.com/logo/tv/ss/spotv-2-kr.png" group-title="SPORT INDONESIA", SPOTV 2 FHD
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505815
+
 
 
 ==============================EKSKUSIF SPORT===========================
