@@ -136,62 +136,39 @@ https://cdn09jtedge.indihometv.com/joss/134/hitsnow/index.m3u8?c
 #EXTINF:-1 group-title="INDIHOME TV"  tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
 https://cdn09jtedge.indihometv.com/joss/194/maxstream/index.m3u8?c
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://images.indihometv.com/logo_antv_big1.png" group-title="INDIHOME TV", ANTV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" group-title="INDIHOME TV", TVOne ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" tvg-logo="https://images.indihometv.com/logo_indosiar_big1.png" group-title="INDIHOME TV", INDOSIAR ᴴᴰ
 https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" tvg-logo="https://images.indihometv.com/logo_sctv_big1.png" group-title="INDIHOME TV", SCTV ᴴᴰ
 https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mojitv_hd.png" group-title="INDIHOME TV", MOJI ᴴᴰ
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_inews_hd.png" group-title="INDIHOME TV", iNews ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_big1.png" group-title="INDIHOME TV", TRANS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_big1.png" group-title="INDIHOME TV", TRANS 7 ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="INDIHOME TV", NET.ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="INDIHOME TV", RTV ᴴᴰ
 https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDIHOME TV", METRO TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://images.indihometv.com/logo_kompastv_big1.png" group-title="INDIHOME TV", KOMPAS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
