@@ -1,4 +1,3 @@
-
 ==========================INDIHOME==============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" 
@@ -457,7 +456,7 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 https://63b2dc7196c38.streamlock.net:1937/GTV2/myStream/chunklist_w641677261.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="IDTV.id" tvg-logo="https://iptv.urfan.web.id/logo/idtv.png",IDTV HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="IDTV.id" tvg-logo="https://i.ibb.co.com/GFpcnV4/idtv-2.png",IDTV HD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -493,15 +492,15 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1763.m3u8
 https://cdn09jtedge.indihometv.com/joss/130/insert/index.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRINasional.id" tvg-logo="https://iptv.urfan.web.id/logo/tvri.png",TVRI Nasional HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRINasional.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",TVRI Nasional HD
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRIWorld.id" tvg-logo="https://iptv.urfan.web.id/logo/tvriworld.png",TVRI World HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRIWorld.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",TVRI World HD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
