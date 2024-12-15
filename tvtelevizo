@@ -1804,7 +1804,7 @@ http://iptv12k.com:35461/654321/123456/1743
 http://iptv12k.com:35461/654321/123456/1810
 #EXTINF:-1 tvg-ID="" tvg-name="ID ▎TRANS TV" tvg-logo="https://img.logo-cdn.cc/transtv.png" group-title="CHANNEL ▎INDONESIA",ID ▎TRANS TV
 http://iptv12k.com:35461/654321/123456/1809
-#EXTINF:-1 tvg-ID="" tvg-name="ID ▎KIX" tvg-logo="https://img.logo-cdn.cc/transtv.png" group-title="CHANNEL ▎INDONESIA",ID ▎KIX TV
+#EXTINF:-1 tvg-ID="" tvg-name="ID ▎KIX" tvg-logo="" group-title="CHANNEL ▎INDONESIA",ID ▎KIX TV
 http://iptv12k.com:35461/654321/123456/1807
 #EXTINF:-1 tvg-ID="" tvg-name="ID ▎TV 9 NUSANTARA" tvg-logo="https://img.logo-cdn.cc/tv9.png" group-title="CHANNEL ▎INDONESIA",ID ▎TV 9 NUSANTARA
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505877
