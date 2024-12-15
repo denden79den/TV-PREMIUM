@@ -672,37 +672,6 @@ http://fixtv.shop:888/Lyana/Lyana/11595
 ===============================FILM==========================================
 
 
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="FILM", ID ▎HBO
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505836
-#EXTINF:-1 tvg-logo="https://i.pinimg.com/236x/d7/14/9a/d7149a213a4d0aeafda51c556df8f360.jpg" group-title="FILM", ID ▎HBO FAMILY
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505837
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="FILM", ID ▎HBO HITS
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505838
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="FILM", ID ▎HBO SIGNATURE
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505839
-#EXTINF:-1 tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/banner_mdpi.jpg" group-title="FILM", ID ▎CINEMAX
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505822
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13" group-title="FILM", ID ▎BIOSKOP INDONESIA
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505817
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_celestialmovie_small.png" group-title="FILM", ID ▎CELESTIAL MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505819
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nxUUfGevs7e36rE3dZ4woR5QEW8sFtb-rg&usqp=CAU" group-title="FILM", ID ▎CINEMAWORLD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505821
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="FILM", ID ▎FLIK
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505833
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_galaxypremium_small.png" group-title="FILM", ID ▎GALAXY PREMIUM
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505834
-#EXTINF:-1 tvg-logo="https://static.mncnow.id/images/channel/3d2f505f/c6dd.png" group-title="FILM", ID ▎ROCK ENTERTAIMENT
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505868
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" group-title="FILM", ID ▎THRILL
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505873
-#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/tvn.png" group-title="FILM", ID ▎TVN MOVIES
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505881
-#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_23.png" group-title="FILM", ID ▎ZEE BIOSKOP
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505884
-
-
-
 #EXTINF:-1  tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="FILM",🇲🇨 HBO HD
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/210
 #EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/en/f/fc/HBOHits-ASIA.png" group-title="FILM",🇲🇨 HBO Hits HD
@@ -714,7 +683,8 @@ https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/873
 #EXTINF:-1  tvg-logo="https://vmp-cms.telkomsel.com/sites/default/files/entry/0_2yj5giid/banner_mdpi.jpg" group-title="FILM",🇲🇨 Cinemax
 https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/2156
 #EXTINF:-1  tvg-logo="https://images.indihometv.com/logo_flik_ver2.png" group-title="FILM",🇲🇨 FLIK HD
-https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29592
+https://cdn09jtedge.indihometv.com/joss/133/flik/index.m3u8?c
+'https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29592
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29592
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/c2pymxY/galaxy-premium.png" group-title="FILM",🇲🇨 Galaxy Premium 
 https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29603
@@ -724,10 +694,13 @@ https://nonton.site:8443/XtreamFlixID/w9RLHbWJY4/29604
 #https://nonton.site:8443/DZqjznfyyn/3Q9O2vucT6/29604
 #EXTINF:-1 tvg-id="" tvg-name="Citra Drama" tvg-logo="https://www.indihometv.com/assets/images/channel/logo_citradrama_small.png" group-title="FILM",Citra Drama
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/905.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="" group-title="FILM",IMC
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="IMC SD" tvg-logo="https://images.indihometv.com/logo_imc_small.png" group-title="FILM",IMC
+'https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/35484.m3u8
+https://cdn09jtedge.indihometv.com/joss/130/imc/index.m3u8?c
 #EXTINF:-1 tvg-id="" tvg-name="Rock Action HD" tvg-logo="https://i.ibb.co.com/jyhsvHR/rock-action.png" group-title="FILM",Rock Action HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1506.m3u8
+#EXTINF:-1 group-title="FILM"  tvg-logo="https://images.indihometv.com/logo_bioskopindonesia_small1.png?v=2.0.0.13",BIOSKOP INDONESIA
+https://cdn09jtedge.indihometv.com/joss/130/bioskopindonesia/index.m3u8
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="FILM", HBO Signature (1)
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
