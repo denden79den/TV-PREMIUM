@@ -417,7 +417,7 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="vtv.id" tvg-logo="https://iptv.urfan.web.id/logo/vtv.png",VTV
 https://flv.intechmedia.net/live/ch107.m3u8
 
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="CNNIndonesia.id" tvg-logo="https://iptv.urfan.web.id/logo/cnnid.png",CNN Indonesia HD
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="CNNIndonesia.id" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png",CNN 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/44.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="DAAI TV" tvg-logo="https://i.ibb.co.com/37hNzJq/DAAITV.png" group-title="INDONESIA 🇮🇩",DAAI TV HD
@@ -483,7 +483,7 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="seatoday.id" tvg-logo="https://iptv.urfan.web.id/logo/seatoday.png",SEA TODAY HD
 https://flv.intechmedia.net/live/ch106.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="INDONESIA 🇮🇩"",CNN Int HD
+#EXTINF:-1 tvg-id="" tvg-name="CNN Int" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Cnn_logo_red_background.png/200px-Cnn_logo_red_background.png" group-title="INDONESIA 🇮🇩"",CNN HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1200.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="Insert" tvg-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" group-title="INDONESIA 🇮🇩",Insert HD
@@ -503,9 +503,6 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://iptv.urfan.web.id/logo/tvrisport.png",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
-
-#EXTINF:-1  tvg-logo="https://app1-oxygen.mm.oxygen.id/oxygentv/assets/upload/channel/tvlogo_inews.png" group-title="INDONESIA 🇮🇩", INEWS HD
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
