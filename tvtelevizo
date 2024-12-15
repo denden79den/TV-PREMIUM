@@ -398,9 +398,9 @@ https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mojitv_hd.png",MOJI HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png",Mentari TV HD
-https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com
@@ -538,9 +538,11 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/14106.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="Dream Works HD" tvg-logo="https://static.mncnow.id/images/channel/8cf61cdb/9dc8.png" group-title="KIDS",Dream Works HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/32529.m3u8
-#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 group-title="LOKAL HD" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
+
 #EXTINF:-1 tvg-id="Indonesiana TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://i.ibb.co.com/xHjxfGW/folklor.png" group-title="KIDS",Indonesiana Folklor
 https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chunklist_w1106595939_b1328000.m3u8
 
