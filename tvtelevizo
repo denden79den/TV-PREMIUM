@@ -391,7 +391,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="INDONESIA 🇮🇩",Indosiar HD
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_mojitv_hd.png" group-title="INDONESIA 🇮🇩", MOJI ᴴᴰ
 https://cdn09jtedge.indihometv.com/joss/134/ochannel720/index.m3u8
 
@@ -402,13 +402,11 @@ http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-logo="https://images.indihometv.com/logo_mentaritv_small.png" group-title="KIDS", MENTARI TV
 https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://images.indihometv.com/logo_antv_big1.png" group-title="INDONESIA 🇮🇩", ANTV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" group-title="INDONESIA 🇮🇩", TVOne ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 
@@ -425,8 +423,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="CNBCIndonesia.id" tvg-logo="https://images.indihometv.com/logo_cnbcindonesia_ver1.png",CNBC Indonesia HD
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1512.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDONESIA 🇮🇩", METRO TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
@@ -434,13 +431,11 @@ https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="bnchannel.id" tvg-logo="https://i.ibb.co.com/6wY1gG9/bn-channel-1.png",BN Channel HD
 https://flv.intechmedia.net/live/ch112.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://images.indihometv.com/logo_kompastv_big1.png" group-title="INDONESIA 🇮🇩", KOMPAS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="INDONESIA 🇮🇩", NET.ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
@@ -503,8 +498,7 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 #EXTINF:-1 group-title="INDONESIA 🇮🇩" tvg-id="TVRISport.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",TVRI Sport HD
 https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com
+
 #EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_inews_hd.png" group-title="INDONESIA 🇮🇩", INEWS ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
