@@ -577,7 +577,7 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/21.m3u8
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/1512.m3u8
 
 
-#EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDONESIA 🇮🇩", METRO TV ᴴᴰ
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDONESIA 🇮🇩", METRO TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
