@@ -1,6 +1,6 @@
 ==========================INDIHOME INDONESIA==============================
 
-#EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" 
+'#EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" 
 
 #EXTINF:-1  tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="INDIHOME TV",HBO 
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/210.m3u8
@@ -197,9 +197,9 @@ http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;user
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h222/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensLife_n_Style
 
-#EXTINF:-1 tvg-id="117" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" group-title="Dens.TV", DensFood Channel
 #EXTVLCOPT:http-referrer=http://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36
+#EXTINF:-1 tvg-id="117" tvg-logo="https://www.dens.tv/images/channel-logo/117.jpg" group-title="Dens.TV", DensFood Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h221/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensFood_Channel
 
 #EXTINF:-1 tvg-id="102" tvg-logo="https://www.dens.tv/images/channel-logo/102.jpg" group-title="Dens.TV", DensShowBiz
