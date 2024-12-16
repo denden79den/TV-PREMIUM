@@ -171,6 +171,9 @@ https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://images.indihometv.com/logo_kompastv_big1.png" group-title="INDIHOME TV", KOMPAS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
+#EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDIHOME TV", METRO TV ᴴᴰ
+https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="INDIHOME TV",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
