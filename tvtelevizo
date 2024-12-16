@@ -1,4 +1,4 @@
-==========================INDIHOME==============================
+==========================INDIHOME INDONESIA==============================
 
 #EXTINF:-1 group-logo="https://i.ibb.co.com/9vh86Gk/indihome-logo.png" 
 
@@ -165,8 +165,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 #EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="INDIHOME TV", RTV ᴴᴰ
 https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="INDIHOME TV", METRO TV ᴴᴰ
-https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
+#EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="INDONESIA 🇮🇩", RTV ᴴᴰ
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://images.indihometv.com/logo_kompastv_big1.png" group-title="INDIHOME TV", KOMPAS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
@@ -405,7 +405,6 @@ https://cdn09jtedge.indihometv.com/joss/134/mentaritv/index.m3u8?c
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-name="ANTV" tvg-logo="https://images.indihometv.com/logo_antv_big1.png" group-title="INDONESIA 🇮🇩", ANTV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
-
 
 #EXTINF:-1 tvg-id="TVOne - [Channel 115].id" tvg-name="TVOne" tvg-logo="https://images.indihometv.com/logo_tvone_big1.png" group-title="INDONESIA 🇮🇩", TVOne ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
