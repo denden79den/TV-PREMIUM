@@ -2421,14 +2421,23 @@ http://shareext@15.235.181.35/live.ts?channelId=93735&uid=14505&deviceMac=00:1A:
 
 
 EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague_2024.png" group-title="TV MALAYSIA", ASTRO PREMIER LEAGUE 1
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656970
+http://15.235.144.67:35461/654321/123456/11243
 #EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroPremierLeague2_2024.png" group-title="TV MALAYSIA",ASTRO PREMIER LEAGUE 2
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656971
+http://15.235.144.67:35461/654321/123456/971
 #EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroGrandstand_2024.png" group-title="TV MALAYSIA",ASTRO GRANDSTAND
 http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656972
 #EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO SUPERSPORT 4" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroFootball_2024.png" group-title="TV MALAYSIA",ASTRO FOOTBALL
-http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656973
-
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656969
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO BADMINTON" tvg-logo="http://linear-poster.astro.com.my/prod/logo/AstroBadminton_2024.png" group-title="TV MALAYSIA",ASTRO BADMINTON
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/656970
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO ARENA 1" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena_2024.png" group-title="TV MALAYSIA",ASTRO ARENA 1
+http://15.235.144.67:35461/654321/123456/966
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎ASTRO ARENA 2" tvg-logo="https://linear-poster.astro.com.my/prod/logo/AstroArena2_2024.png" group-title="TV MALAYSIA",ASTRO ARENA 2
+http://15.235.144.67:35461/654321/123456/965
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎BEIN SPORT 2" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beINSPORTS2.png" group-title="TV MALAYSIA",BEIN SPORT 2
+http://15.235.144.67:35461/654321/123456/961
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎BEIN SPORT 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="TV MALAYSIA",BEIN SPORT 3
+http://15.235.144.67:35461/654321/123456/960
 
 ===================================SPORTS INDONESIA===========================
 
