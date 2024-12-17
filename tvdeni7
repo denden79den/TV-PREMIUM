@@ -2842,13 +2842,13 @@ http://extraott.com:80/live/3969424152/3723991250/153950.m3u8
 
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS PREMIER LEAGUE FHD 
 http://extraott.com:80/live/3969424152/3723991250/190004.m3u8 
-#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS FOOTBALL HD 
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/sky-sports-football-uk.png" group-title="EKSKLUSIF SPORTS", SS FOOTBALL HD 
 http://extraott.com:80/live/3969424152/3723991250/190006.m3u8 
 #EXTINF:-1  tvg-logo="https://i.ibb.co.com/H4K5b4Y/Share-Ext-Supersport.jpg" group-title="EKSKLUSIF SPORTS", SS FOOTBALL PLUS FHD 
 http://extraott.com:80/live/3969424152/3723991250/400415389.m3u8 
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS LA LIGA FHD 
 http://extraott.com:80/live/3969424152/3723991250/190005.m3u8 
-#EXTINF:-1  tvg-logo=https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS ACTION
+#EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS ACTION
 http://extraott.com:80/live/3969424152/3723991250/190015.m3u8 
 #EXTINF:-1  tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="EKSKLUSIF SPORTS", SS CRICKET
 http://extraott.com:80/live/3969424152/3723991250/191776.m3u8 
