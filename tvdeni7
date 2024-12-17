@@ -2675,29 +2675,17 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
 #EXTINF:-1 tvg-id="" tvg-name="Variety 4 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SS Variety 4 ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
 
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/txvqjhk/hub-1.png", Hub Premier 1 
-http://109.61.81.147:2080/cdn2/1255/video.m3u8?token=4444
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/rtdztfw/hub-2.png", Hub Premier 2 
-http://109.61.81.147:2080/cdn2/47/video.m3u8?token=4444
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/Qr44hsj/hub-3.png", Hub Premier 3 
-http://109.61.81.147:2080/cdn2/4851/video.m3u8?token=4444
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/pwZ9T6t/hub-4.png", Hub Premier 4 
-http://109.61.81.147:2080/cdn2/4886/video.m3u8?token=4444
-#EXTINF:-1 group-title="SPORTS" tvg-logo="https://i.ibb.co.com/j3MDhbF/hub-5.png", Hub Premier 5 
-http://109.61.81.147:2080/cdn2/1053/video.m3u8?token=4444
-
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",UNIFI SPORT
+#EXTINF:-1 group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",UNIFI SPORT
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 tvg-logo="https://w7.pngwing.com/pngs/816/534/png-transparent-world-fishing-network-fly-fishing-on-the-water-angling-fishing-television-text-orange.png" group-title="SPORTS",World Fishing Network
 http://defaultgen.com:3050/live/JSteen0824/ffusRGRFwx/418213.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE CHANNEL
+#EXTINF:-1 group-title=VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ" tvg-id="" tvg-logo="https://seeklogo.com/images/W/WWE-logo-99A1233D25-seeklogo.com.png",WWE CHANNEL
 http://Supersonictv.live:8080/live/006779/439866/22185.ts
 
-#EXTINF:-1 group-title="SPORTS" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES NETWORK
+#EXTINF:-1 group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ" tvg-id="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/YES_Network_logo.svg/400px-YES_Network_logo.svg.png",YES NETWORK
 http://extraott.com:900/live/9708461610/1164158489/181390.ts
-
 
 #EXTINF:-1 tvg-id="" tvg-name="Sport TV 1" tvg-logo="https://i.ibb.co.com/1TcWfRp/SPORTTV.png" group-title="VIP SPORTS ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",Sport TV 1
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86507
