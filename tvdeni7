@@ -2438,6 +2438,9 @@ http://15.235.144.67:35461/654321/123456/965
 http://15.235.144.67:35461/654321/123456/961
 #EXTINF:-1 tvg-ID="" tvg-name="MY ▎BEIN SPORT 3" tvg-logo="http://linear-poster.astro.com.my/prod/logo/beIN_SPORTS3_V2.png" group-title="TV MALAYSIA",BEIN SPORT 3
 http://15.235.144.67:35461/654321/123456/960
+#EXTINF:-1 tvg-ID="" tvg-name="MY ▎SPOTV" tvg-logo="http://linear-poster.astro.com.my/prod/logo/SPOTV.png" group-title="TV MALAYSIA",SPOTV
+http://15.235.144.67:35461/654321/123456/967
+
 
 ===================================SPORTS INDONESIA===========================
 
