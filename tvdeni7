@@ -2966,6 +2966,9 @@ https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
 #EXTINF:-1  group-title="KIDS TV" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
 http://gcp-dash.ngslbs.com/TVD037/index.mpd
 
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="KIDS TV,Boomerang
+http://iptv12k.com:35461/654321/123456/2097
+
 #EXTINF:-1 tvg-logo="https://www.transvision.co.id/img/channel/cn.png" group-title="KIDS TV",Cartoon Network
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
