@@ -575,9 +575,9 @@ https://mediacorp-videosbclive.akamaized.net/f4abbc22204c49e2b337203b0ebbf14b/ap
 https://cempedak-live-cdn.mncnow.id/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
 
 
-<======================= Music ==========================>
+<======================= MUSIK TV ==========================>
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co/C5qgzbN/MUSIK-CHANNEL.png" group-title="MUSIK TV", MUSIK CHANNEL
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MUSIK TV", MUSIK TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
