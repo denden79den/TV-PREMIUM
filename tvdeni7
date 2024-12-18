@@ -58,9 +58,9 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA CHANNEL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV HD
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NetTV.m3u8
 
-#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA CHANNEL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV HD
-#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
-http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
+'#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="INDONESIA CHANNEL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/983/49983-SNAPSHOT-l.png",NET TV HD
+'#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+'http://op-group1-swiftservehd-1.dens.tv/h/h223/02.m3u8
 
 #EXTINF:-1 tvg-id="ANTV - [Channel 115].id" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.visionplus.id/images/repository/959/49959-SNAPSHOT-l.png" group-title="INDONESIA CHANNEL",ANTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
@@ -74,10 +74,10 @@ https://atemeshield1-voe.sysln.id/live/eds/ANTV/mpd/ANTV.mpd
 #KODIPROP:inputstream.adaptive.license_key=dfd7c4f6420843ab9ffb1b8fdda1073a:d99603a39c300373a2edaf4f048276be
 https://atemecdnbalancer-voe.sysln.id/live/eds/DAAITV/mpd/DAAITV.mpd
 
-#EXTVLCOPT:http-referrer=https://www.indihometv.com/
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA CHANNEL",RTV
-https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-RTV.m3u8
+'#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+'#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+'#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA CHANNEL",RTV
+'https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-RTV.m3u8
 
 #EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://www.visionplus.id/images/repository/964/49964-SNAPSHOT-l.png" group-title="INDONESIA CHANNEL",RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
