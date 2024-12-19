@@ -3532,7 +3532,12 @@ http://panel.zaz.ovh:8080/live/3EN070770N276203M/Ubj5zWXgbL/b519135d-858e-4521-9
 #EXTINF:-1 tvg-id="" tvg-name="Play Sports 3 " tvg-logo="https://i.ibb.co.com/4psBmpD/play-sport3.png" group-title="EKSKLUSIF SPORTS",Play Sports 3 
 http://panel.zaz.ovh:8080/live/3EN070770N276203M/Ubj5zWXgbL/f45b26e8-9af0-40e7-b537-828c4848fcec.m3u
 
-
+EXTINF:-1 tvg-name="Arena Sport 1 Premium" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-1-rs.png" group-title="EKSKLUSIF SPORTS",Arena Sport 1 Premium
+http://577835502354986635.ofd1206.xyz:80/live/hu310922/RUE3TT@Qra/986635.ts
+#EXTINF:-1 tvg-name="Arena Sport 2 Premium" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-2-rs.png" group-title="EKSKLUSIF SPORTS",Arena Sport 2 Premium
+http://577835502354986636.ofd1206.xyz:80/live/hu310922/RUE3TT@Qra/986636.ts
+#EXTINF:-1 tvg-name="Arena Sport 3 Premium" tvg-logo="https://www.lyngsat.com/logo/tv/aa/arena-premium-3-rs.png" group-title="EKSKLUSIF SPORTS",Arena Sport 3 Premium
+http://577835502354986637.ofd1206.xyz:80/live/hu310922/RUE3TT@Qra/986637.ts
 
 
 #EXTM3U
