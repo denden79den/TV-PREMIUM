@@ -1590,3 +1590,96 @@ https://unifi-live05.secureswiftcontent.com/UnifiHD/live11.mpd
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 
 
+============================================================================================================================================================
+// 10. Mantap TV
+==========================================================================================================================================================
+
+
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="10. Mantap Tv",[ID] RCTI
+http://iptv12k.com:35461/654321/123456/2185
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="10. Mantap Tv",GTV
+http://iptv12k.com:35461/654321/123456/4290
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="10. Mantap Tv",[ID] Net. TV
+http://iptv12k.com:35461/654321/123456/2186
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="10. Mantap Tv",[ID] Trans TV
+http://iptv12k.com:35461/654321/123456/2183
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="10. Mantap Tv",[ID] Trans 7
+http://iptv12k.com:35461/654321/123456/2182
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="10. Mantap Tv",[ID] TV One
+http://iptv12k.com:35461/654321/123456/2181
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="10. Mantap Tv",[ID] Metro TV
+http://iptv12k.com:35461/654321/123456/2180
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="10. Mantap Tv",[ID] Kompas TV
+http://iptv12k.com:35461/654321/123456/2179
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="10. Mantap Tv",[ID] JakTV
+http://iptv12k.com:35461/654321/123456/2166
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jtv_id.png" group-title="10. Mantap Tv",[ID] JTV 
+http://iptv12k.com:35461/654321/123456/2165
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title="10. Mantap Tv",[ID] RTV
+http://iptv12k.com:35461/654321/123456/2161
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ee/ent-id.png" group-title="10. Mantap Tv",[ID] Entertainment 
+http://iptv12k.com:35461/654321/123456/2157
+#EXTINF:-1 tvg-logo="https://www.infotelevisi.com/asset/images/tv/MNC_infotaiment.jpg" group-title="10. Mantap Tv",[ID] Infotainment
+http://iptv12k.com:35461/654321/123456/2156
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Deutsche_Welle_Logo.svg/1280px-Deutsche_Welle_Logo.svg.png" group-title="10. Mantap Tv",[ID] DW (English)
+http://iptv12k.com:35461/654321/123456/2149
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/celestial-movies-hk.png" group-title="10. Mantap Tv",[ID] Celestial Movies
+http://iptv12k.com:35461/654321/123456/2131
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/axn_tw.png" group-title="10. Mantap Tv",[ID] AXN
+http://iptv12k.com:35461/654321/123456/2127
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hits_tv_sg.png" group-title="10. Mantap Tv",[ID] Hits 
+http://iptv12k.com:35461/654321/123456/2126
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kix-hk.png" group-title="10. Mantap Tv",[ID] KiX
+http://iptv12k.com:35461/654321/123456/2125
+#EXTINF:-1 tvg-logo="https://thestreamable.com/media/pages/sports/nfl/paramount-plus/81a45f40e0-1613656935/paramount-plus-1536x864-crop.jpg" group-title="10. Mantap Tv",[ID] Paramount channel
+http://iptv12k.com:35461/654321/123456/2123
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/1v703Xd/img-1-1733807036940.webp" group-title="10. Mantap Tv",[ID] Hits Movies
+http://iptv12k.com:35461/654321/123456/2122
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="10. Mantap Tv",[ID] HBO 
+http://iptv12k.com:35461/654321/123456/2121
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_family_asia.png" group-title="10. Mantap Tv",[ID] HBO Family
+http://iptv12k.com:35461/654321/123456/2120
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/a/af/HBO_Signature_Asia.png" group-title="10. Mantap Tv",[ID] HBO Signature
+http://iptv12k.com:35461/654321/123456/2118
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/ww/warner_channel_us.png" group-title="10. Mantap Tv",[ID] Warner TV
+http://iptv12k.com:35461/654321/123456/2115
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="10. Mantap Tv",[ID] Cinemax
+http://iptv12k.com:35461/654321/123456/2114
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/aa/animax_asia.png" group-title="10. Mantap Tv",[ID] Animax
+http://iptv12k.com:35461/654321/123456/2099
+#EXTINF:-1 tvg-logo="https://assetsmysky.blob.core.windows.net/assetsmysky/production/media-upload/1495076748_logo-aniplus-png.png" group-title="10. Mantap Tv",[ID] Aniplus
+http://iptv12k.com:35461/654321/123456/2098
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="10. Mantap Tv",[ID] Boomerang
+http://iptv12k.com:35461/654321/123456/2097
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cartoon_network_global.png" group-title="10. Mantap Tv",[ID] Cartoon Network
+http://iptv12k.com:35461/654321/123456/2094
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/bbc_cbeebies_uk.png" group-title="10. Mantap Tv",[ID] Cbeebies
+http://iptv12k.com:35461/654321/123456/2093
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/disney_junior_us.png" group-title="10. Mantap Tv",[ID] Disney Junior
+http://iptv12k.com:35461/654321/123456/2092
+#EXTINF:-1 tvg-logo="https://static0.srcdn.com/wordpress/wp-content/uploads/2019/05/disney-channel-logo.jpg" group-title="10. Mantap Tv",[ID] Disney Channel
+http://iptv12k.com:35461/654321/123456/2090
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/nick-jr9053.jpg" group-title="10. Mantap Tv",Nick Jr.
+http://iptv12k.com:35461/654321/123456/2088
+#EXTINF:-1 tvg-logo="https://www.pinclipart.com/picdir/middle/335-3359395_miao-mi-miao-mi-channel-clipart.png" group-title="10. Mantap Tv",[ID] Miao Mi
+http://iptv12k.com:35461/654321/123456/2074
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/nickelodeon_us.png" group-title="10. Mantap Tv",[ID] Nickelodeon 
+http://iptv12k.com:35461/654321/123456/2072
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Smithsonian_Channel.png" group-title="10. Mantap Tv",[ID] Smithsonian Channel
+http://iptv12k.com:35461/654321/123456/2070
+#EXTINF:-1 tvg-logo="https://www.thewebbureau.com/media/1347/love-nature-3.png" group-title="10. Mantap Tv",[ID] Love Nature
+http://iptv12k.com:35461/654321/123456/2069
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/national-geographic-wild-us.png" group-title="10. Mantap Tv",[ID] NatGeo Wild
+http://iptv12k.com:35461/654321/123456/2067
+#EXTINF:-1 tvg-logo="https://logowik.com/content/uploads/images/300_national_geographic.jpg" group-title="10. Mantap Tv",[ID] NatGeo
+http://iptv12k.com:35461/654321/123456/2066
+#EXTINF:-1 tvg-logo="https://d3dh6of9cnaq4t.cloudfront.net/Pictures/1024x536/7/3/5/6735_animalplanetnewlogo2018_906859.jpg" group-title="10. Mantap Tv",[ID] Animal Planet
+http://iptv12k.com:35461/654321/123456/2064
+#EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/dd/discovery_asia_us.png" group-title="10. Mantap Tv",[ID] Ochannel  Discovery Asia
+http://iptv12k.com:35461/654321/123456/2063
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/78/Blue_ant_entertainment_logo.png" group-title="10. Mantap Tv",[ID] Blue Ant Entertainment
+http://iptv12k.com:35461/654321/123456/2053
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d3/Blue_ant_extreme_logo.png" group-title="10. Mantap Tv",[ID] Blue Ant Extreme 
+http://iptv12k.com:35461/654321/123456/2052
+
+
