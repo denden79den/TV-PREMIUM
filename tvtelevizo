@@ -842,6 +842,68 @@ http://iptv12k.com:35461/654321/123456/2053
 http://iptv12k.com:35461/654321/123456/2052
 
 
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="MANTAP TV",[ID] SCTV(a)
+http://iptv12k.com:35461/654321/123456/2184
+#EXTINF:-1 tvg-id="" tvg-name="SCTV(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="MANTAP TV",SCTV(c)
+http://iptv12k.com:35461/654321/123456/9928
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="MANTAP TV",INDOSIAR(a)
+http://iptv12k.com:35461/654321/123456/4802
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="MANTAP TV",INDOSIAR(c)
+http://iptv12k.com:35461/654321/123456/2187
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(b) TLLL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="MANTAP TV",INDOSIAR(b) TLLL
+http://iptv12k.com:35461/654321/123456/1814
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="MANTAP TV",[ID] RCTI
+http://iptv12k.com:35461/654321/123456/1812
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="MANTAP TV",[ID] SCTV(b)
+http://iptv12k.com:35461/654321/123456/1811
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="MANTAP TV",[ID] Trans 7
+http://iptv12k.com:35461/654321/123456/1810
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="MANTAP TV",[ID] Trans TV
+http://iptv12k.com:35461/654321/123456/1809
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="[ID] KiX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="MANTAP TV",[ID] KiX
+http://iptv12k.com:35461/654321/123456/1807
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ANTV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="MANTAP TV",[ID] ANTV
+http://iptv12k.com:35461/654321/123456/1806
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="MANTAP TV",[ID] TV One
+http://iptv12k.com:35461/654321/123456/1805
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="MANTAP TV",[ID] Metro TV
+http://iptv12k.com:35461/654321/123456/1804
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="MANTAP TV",[ID] Kompas TV
+http://iptv12k.com:35461/654321/123456/1803
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="MANTAP TV",[ID] TVRI
+http://iptv12k.com:35461/654321/123456/1802
+#EXTINF:-1 tvg-id="" tvg-name="[ID] iNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="MANTAP TV",[ID] iNews
+http://iptv12k.com:35461/654321/123456/1799
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="MANTAP TV",[ID] MNC TV id 8k
+http://iptv12k.com:35461/654321/123456/2175
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="MANTAP TV",[ID] TVRI id 8k
+http://iptv12k.com:35461/654321/123456/2172
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinema World id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="MANTAP TV",[ID] Cinema World id 8k
+http://iptv12k.com:35461/654321/123456/2124
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bali TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="MANTAP TV",[ID] Bali TV
+http://iptv12k.com:35461/654321/123456/1786
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JakTV TLLL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/jj/jak-tv-id.png" group-title="MANTAP TV",[ID] JakTV
+http://iptv12k.com:35461/654321/123456/1784
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JTV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="MANTAP TV",[ID] JTV
+http://iptv12k.com:35461/654321/123456/1783
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Music TV" tvg-logo="https://www.visionplus.id/images/repository/009/50009-SNAPSHOT-l.png" group-title="MANTAP TV",[ID] Music TV
+http://iptv12k.com:35461/654321/123456/1782
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="MANTAP TV",[ID] RTV
+http://iptv12k.com:35461/654321/123456/1770
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="MANTAP TV",[ID] Vision Prime
+http://iptv12k.com:35461/654321/123456/1769
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://seeklogo.com/images/H/hbo-logo-9BCB43E157-seeklogo.com.png" group-title="MANTAP TV",[ID] HBO
+http://iptv12k.com:35461/654321/123456/1748
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="MANTAP TV",[ID] TvN Movies
+http://iptv12k.com:35461/654321/123456/1747
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://www.liblogo.com/img-logo/hb7524h5d2-hbo-family-logo-hbo-family-logopedia-.png" group-title="MANTAP TV",[ID] HBO Family
+http://iptv12k.com:35461/654321/123456/1746
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="MANTAP TV",[ID] HGTV
+http://iptv12k.com:35461/654321/123456/1744
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png"" group-title="MANTAP TV",[ID] TLC
+http://iptv12k.com:35461/654321/123456/1743
+
+
 
 
 ===============================FILM==========================================
