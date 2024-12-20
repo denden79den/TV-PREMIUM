@@ -470,3 +470,45 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80296
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80297
 #EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 7 ⁴ᴷ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80298
+
+
+#EXTINF:-1 tvg-id="" tvg-name="^AU: Fox Sports 504 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AU: Fox Sports 504 ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62958
+    #EXTINF:-1 tvg-id="" tvg-name="^AU: Fox Sports 505 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AU: Fox Sports 505 ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62957
+    #EXTINF:-1 tvg-id="" tvg-name="^AU: Fox Sports 506 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AU: Fox Sports 506 ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62956
+    #EXTINF:-1 tvg-id="" tvg-name="^AU: Fox Sports 507 ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AU: Fox Sports 507 ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62955
+    #EXTINF:-1 tvg-id="" tvg-name="^AU: Fox Sports News ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AU: Fox Sports News ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62962
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: ------- SuperSport PPV Events -------" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: ------- SuperSport PPV Events -------
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62998
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Maximo ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Maximo ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport La Liga ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport La Liga ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62983
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Premier League ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Premier League ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62984
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Tennis ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Tennis ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62986
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Cricket ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Cricket ⁴ᴷ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62987
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Rugby ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Rugby ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62988
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Football ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Football ᶠᴴᴰ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62990
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Variety 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Variety 4 ⁴ᴷ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Variety 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Variety 3 ⁴ᴷ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Variety 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Variety 2 ⁴ᴷ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62993
+    #EXTINF:-1 tvg-id="" tvg-name="VIP|DE| Sky Sport 1" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",VIP|DE| Sky Sport 1
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/5085
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Variety 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Variety 1 ⁴ᴷ
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62994
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: ------- SuperSport -------" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: ------- SuperSport -------
+    http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62995
+    #EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Action ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",^AF: SuperSport Action ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
