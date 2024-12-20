@@ -676,11 +676,6 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856b8d2390016b9c3ee6c
 #EXTINF:-1 tvg-id="Zoomoo - [Channel 39].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_39.png" group-title="07. Kids TV",101. ZooMoo
 https://cempedak-live-cdn.mncnow.id/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
 
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
-#EXTINF:-1 tvg-id="Moonbug - [Channel 40].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="07. Kids TV" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",Moonbug
-https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
-
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
@@ -737,13 +732,6 @@ https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/305.ts
 
 #EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://images.indihometv.com/logo_horee_ver1.png",109. HOREE
 https://cdn09jtedge.indihometv.com/joss/130/horee/index.m3u8?c
-
-#KODIPROP:inputstreamaddon=inputstream.adaptive 
-#KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-#EXTINF:-1  group-title="07. Kids TV" tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/singaporepremium.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/94/Boomerang_tv_%282000-2004%29.png",Boomerang
-http://gcp-dash.ngslbs.com/TVD037/index.mpd
 
 #EXTINF:-1 tvg-logo="https://www.lyngsat-logo.com/logo/tv/bb/boomerang_global.png" group-title="07. Kids TV",110. Boomerang
 http://iptv12k.com:35461/654321/123456/2097
@@ -810,7 +798,10 @@ https://63b2dc7196c38.streamlock.net:1937/musikfolklor/ngrp:musikfolklor_all/chu
 #EXTINF:-1 group-title="07. Kids TV" tvg-logo="https://www.pngitem.com/pimgs/m/444-4444870_da-vinci-tv-logo-hd-png-download.png",118. Davinci
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Davinci.m3u8
 
-
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fc62ba18b44dce828a5fb8a213d6e5b:02a01282f77edf03e964e713fb447e93
+#EXTINF:-1 tvg-id="Moonbug - [Channel 40].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="07. Kids TV" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",119. Moonbug
+https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
 ============================================================================================================================================================
 // 08. Music TV
