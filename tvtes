@@ -1,464 +1,472 @@
-#EXTINF:-1 tvg-id="" tvg-name="ID: 01. ETV Live Event" tvg-logo="" group-title="AS | INDONESIA",ID: 01. ETV Live Event
-http://ktv.im:8080/live/00966/00966/101031.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 02. ETV Live Event 02" tvg-logo="" group-title="AS | INDONESIA",ID: 02. ETV Live Event 02
-http://ktv.im:8080/live/00966/00966/101032.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Angry Birds Toons" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Angry Birds Toons
-http://ktv.im:8080/live/00966/00966/101033.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 BabyBus Indonesia" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 BabyBus Indonesia
-http://ktv.im:8080/live/00966/00966/101034.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Donald Ducks" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Donald Ducks
-http://ktv.im:8080/live/00966/00966/101035.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Doraemon" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Doraemon
-http://ktv.im:8080/live/00966/00966/101036.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Just For Laughs" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Just For Laughs
-http://ktv.im:8080/live/00966/00966/101037.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr Bean Cartoon" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Mr Bean Cartoon
-http://ktv.im:8080/live/00966/00966/101038.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Mr. Bean Classic" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Mr. Bean Classic
-http://ktv.im:8080/live/00966/00966/101039.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Tom And Jerry" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Tom And Jerry
-http://ktv.im:8080/live/00966/00966/101040.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Upin Ipin" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Upin Ipin
-http://ktv.im:8080/live/00966/00966/101041.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: 24/7 Warkop DKI" tvg-logo="" group-title="AS | INDONESIA",ID: 24/7 Warkop DKI
-http://ktv.im:8080/live/00966/00966/101042.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: AMTV (Aula Media TV)" tvg-logo="" group-title="AS | INDONESIA",ID: AMTV (Aula Media TV)
-http://ktv.im:8080/live/00966/00966/101043.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANIMAL PLANET" tvg-logo="" group-title="AS | INDONESIA",ID: ANIMAL PLANET
-http://ktv.im:8080/live/00966/00966/101044.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="" group-title="AS | INDONESIA",ID: Animax
-http://ktv.im:8080/live/00966/00966/101045.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: AniPlus" tvg-logo="" group-title="AS | INDONESIA",ID: AniPlus
-http://ktv.im:8080/live/00966/00966/101046.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ANTV" tvg-logo="" group-title="AS | INDONESIA",ID: ANTV
-http://ktv.im:8080/live/00966/00966/101047.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Arirang" tvg-logo="" group-title="AS | INDONESIA",ID: Arirang
-http://ktv.im:8080/live/00966/00966/101048.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Asian Food Network" tvg-logo="" group-title="AS | INDONESIA",ID: Asian Food Network
-http://ktv.im:8080/live/00966/00966/101049.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Aswaja TV" tvg-logo="" group-title="AS | INDONESIA",ID: Aswaja TV
-http://ktv.im:8080/live/00966/00966/101050.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: AXN" tvg-logo="" group-title="AS | INDONESIA",ID: AXN
-http://ktv.im:8080/live/00966/00966/101051.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Baby TV" tvg-logo="" group-title="AS | INDONESIA",ID: Baby TV
-http://ktv.im:8080/live/00966/00966/101052.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bali TV" tvg-logo="" group-title="AS | INDONESIA",ID: Bali TV
-http://ktv.im:8080/live/00966/00966/101053.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Balikpapan TV" tvg-logo="" group-title="AS | INDONESIA",ID: Balikpapan TV
-http://ktv.im:8080/live/00966/00966/101054.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bandung TV" tvg-logo="" group-title="AS | INDONESIA",ID: Bandung TV
-http://ktv.im:8080/live/00966/00966/101055.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: BBC Earth" tvg-logo="" group-title="AS | INDONESIA",ID: BBC Earth
-http://ktv.im:8080/live/00966/00966/101056.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: BBC Lifestyle" tvg-logo="" group-title="AS | INDONESIA",ID: BBC Lifestyle
-http://ktv.im:8080/live/00966/00966/101057.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 1" tvg-logo="" group-title="AS | INDONESIA",ID: beIN Sports 1
-http://ktv.im:8080/live/00966/00966/101058.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: beIN Sports 3" tvg-logo="" group-title="AS | INDONESIA",ID: beIN Sports 3
-http://ktv.im:8080/live/00966/00966/101059.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu" tvg-logo="" group-title="AS | INDONESIA",ID: Berita Satu
-http://ktv.im:8080/live/00966/00966/101060.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu news" tvg-logo="" group-title="AS | INDONESIA",ID: Berita Satu news
-http://ktv.im:8080/live/00966/00966/101061.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Berita Satu World" tvg-logo="" group-title="AS | INDONESIA",ID: Berita Satu World
-http://ktv.im:8080/live/00966/00966/101062.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bioskop Indonesia" tvg-logo="" group-title="AS | INDONESIA",ID: Bioskop Indonesia
-http://ktv.im:8080/live/00966/00966/101063.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Bloomberg TV" tvg-logo="" group-title="AS | INDONESIA",ID: Bloomberg TV
-http://ktv.im:8080/live/00966/00966/101064.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Boomerang" tvg-logo="" group-title="AS | INDONESIA",ID: Boomerang
-http://ktv.im:8080/live/00966/00966/101065.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Boomerang EN" tvg-logo="" group-title="AS | INDONESIA",ID: Boomerang EN
-http://ktv.im:8080/live/00966/00966/101066.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cartoon Network" tvg-logo="" group-title="AS | INDONESIA",ID: Cartoon Network
-http://ktv.im:8080/live/00966/00966/101067.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CBeebies" tvg-logo="" group-title="AS | INDONESIA",ID: CBeebies
-http://ktv.im:8080/live/00966/00966/101068.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CCM" tvg-logo="" group-title="AS | INDONESIA",ID: CCM
-http://ktv.im:8080/live/00966/00966/101069.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Celestial Movies" tvg-logo="" group-title="AS | INDONESIA",ID: Celestial Movies
-http://ktv.im:8080/live/00966/00966/101070.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CGTN" tvg-logo="" group-title="AS | INDONESIA",ID: CGTN
-http://ktv.im:8080/live/00966/00966/101071.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CGTN Documentary" tvg-logo="" group-title="AS | INDONESIA",ID: CGTN Documentary
-http://ktv.im:8080/live/00966/00966/101072.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 1" tvg-logo="" group-title="AS | INDONESIA",ID: Champion TV 1
-http://ktv.im:8080/live/00966/00966/101073.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 2" tvg-logo="" group-title="AS | INDONESIA",ID: Champion TV 2
-http://ktv.im:8080/live/00966/00966/101074.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Champion TV 3" tvg-logo="" group-title="AS | INDONESIA",ID: Champion TV 3
-http://ktv.im:8080/live/00966/00966/101075.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Channel News Asia" tvg-logo="" group-title="AS | INDONESIA",ID: Channel News Asia
-http://ktv.im:8080/live/00966/00966/101076.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Chinese Drama" tvg-logo="" group-title="AS | INDONESIA",ID: Chinese Drama
-http://ktv.im:8080/live/00966/00966/101077.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CinemaWorld" tvg-logo="" group-title="AS | INDONESIA",ID: CinemaWorld
-http://ktv.im:8080/live/00966/00966/101078.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Cinemax" tvg-logo="" group-title="AS | INDONESIA",ID: Cinemax
-http://ktv.im:8080/live/00966/00966/101079.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Bioskop" tvg-logo="" group-title="AS | INDONESIA",ID: Citra Bioskop
-http://ktv.im:8080/live/00966/00966/101080.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Dangdut" tvg-logo="" group-title="AS | INDONESIA",ID: Citra Dangdut
-http://ktv.im:8080/live/00966/00966/101081.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Drama" tvg-logo="" group-title="AS | INDONESIA",ID: Citra Drama
-http://ktv.im:8080/live/00966/00966/101082.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Citra Entertainment" tvg-logo="" group-title="AS | INDONESIA",ID: Citra Entertainment
-http://ktv.im:8080/live/00966/00966/101083.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNBC Indonesia" tvg-logo="" group-title="AS | INDONESIA",ID: CNBC Indonesia
-http://ktv.im:8080/live/00966/00966/101084.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNN Indonesia" tvg-logo="" group-title="AS | INDONESIA",ID: CNN Indonesia
-http://ktv.im:8080/live/00966/00966/101085.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: CNN INTERNATIONAL 4K" tvg-logo="" group-title="AS | INDONESIA",ID: CNN INTERNATIONAL 4K
-http://ktv.im:8080/live/00966/00966/101086.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Crime+ Investigation" tvg-logo="" group-title="AS | INDONESIA",ID: Crime+ Investigation
-http://ktv.im:8080/live/00966/00966/101087.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Da Ai TV" tvg-logo="" group-title="AS | INDONESIA",ID: Da Ai TV
-http://ktv.im:8080/live/00966/00966/101088.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Discovery Asia" tvg-logo="" group-title="AS | INDONESIA",ID: Discovery Asia
-http://ktv.im:8080/live/00966/00966/101089.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Discovery World" tvg-logo="" group-title="AS | INDONESIA",ID: Discovery World
-http://ktv.im:8080/live/00966/00966/101090.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney Channel" tvg-logo="" group-title="AS | INDONESIA",ID: Disney Channel
-http://ktv.im:8080/live/00966/00966/101091.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney Junior" tvg-logo="" group-title="AS | INDONESIA",ID: Disney Junior
-http://ktv.im:8080/live/00966/00966/101092.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Disney XD" tvg-logo="" group-title="AS | INDONESIA",ID: Disney XD
-http://ktv.im:8080/live/00966/00966/101093.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: DreamWorks" tvg-logo="" group-title="AS | INDONESIA",ID: DreamWorks
-http://ktv.im:8080/live/00966/00966/101094.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Anak" tvg-logo="" group-title="AS | INDONESIA",ID: Dunia Anak
-http://ktv.im:8080/live/00966/00966/101095.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Dunia Lain" tvg-logo="" group-title="AS | INDONESIA",ID: Dunia Lain
-http://ktv.im:8080/live/00966/00966/101096.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Eat&Go" tvg-logo="" group-title="AS | INDONESIA",ID: Eat&Go
-http://ktv.im:8080/live/00966/00966/101097.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Ent" tvg-logo="" group-title="AS | INDONESIA",ID: Ent
-http://ktv.im:8080/live/00966/00966/101098.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop" tvg-logo="" group-title="AS | INDONESIA",ID: Etv Bioskop
-http://ktv.im:8080/live/00966/00966/101099.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 02" tvg-logo="" group-title="AS | INDONESIA",ID: Etv Bioskop 02
-http://ktv.im:8080/live/00966/00966/101100.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 03" tvg-logo="" group-title="AS | INDONESIA",ID: Etv Bioskop 03
-http://ktv.im:8080/live/00966/00966/101101.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Etv Bioskop 04" tvg-logo="" group-title="AS | INDONESIA",ID: Etv Bioskop 04
-http://ktv.im:8080/live/00966/00966/101102.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fashion TV" tvg-logo="" group-title="AS | INDONESIA",ID: Fashion TV
-http://ktv.im:8080/live/00966/00966/101103.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fight Sport" tvg-logo="" group-title="AS | INDONESIA",ID: Fight Sport
-http://ktv.im:8080/live/00966/00966/101104.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="" group-title="AS | INDONESIA",ID: FLIK
-http://ktv.im:8080/live/00966/00966/101105.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: FMN" tvg-logo="" group-title="AS | INDONESIA",ID: FMN
-http://ktv.im:8080/live/00966/00966/101106.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Fox Life" tvg-logo="" group-title="AS | INDONESIA",ID: Fox Life
-http://ktv.im:8080/live/00966/00966/101107.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="" group-title="AS | INDONESIA",ID: Galaxy
-http://ktv.im:8080/live/00966/00966/101108.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy Premium" tvg-logo="" group-title="AS | INDONESIA",ID: Galaxy Premium
-http://ktv.im:8080/live/00966/00966/101109.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: GEM" tvg-logo="" group-title="AS | INDONESIA",ID: GEM
-http://ktv.im:8080/live/00966/00966/101110.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Golf" tvg-logo="" group-title="AS | INDONESIA",ID: Golf
-http://ktv.im:8080/live/00966/00966/101111.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: GTV" tvg-logo="" group-title="AS | INDONESIA",ID: GTV
-http://ktv.im:8080/live/00966/00966/101112.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO" tvg-logo="" group-title="AS | INDONESIA",ID: HBO
-http://ktv.im:8080/live/00966/00966/101113.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Family" tvg-logo="" group-title="AS | INDONESIA",ID: HBO Family
-http://ktv.im:8080/live/00966/00966/101114.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Hits" tvg-logo="" group-title="AS | INDONESIA",ID: HBO Hits
-http://ktv.im:8080/live/00966/00966/101115.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HBO Signature" tvg-logo="" group-title="AS | INDONESIA",ID: HBO Signature
-http://ktv.im:8080/live/00966/00966/101116.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: HGTV" tvg-logo="" group-title="AS | INDONESIA",ID: HGTV
-http://ktv.im:8080/live/00966/00966/101117.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hip Hip Horee!" tvg-logo="" group-title="AS | INDONESIA",ID: Hip Hip Horee!
-http://ktv.im:8080/live/00966/00966/101118.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: History" tvg-logo="" group-title="AS | INDONESIA",ID: History
-http://ktv.im:8080/live/00966/00966/101119.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits" tvg-logo="" group-title="AS | INDONESIA",ID: Hits
-http://ktv.im:8080/live/00966/00966/101120.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hits Movies" tvg-logo="" group-title="AS | INDONESIA",ID: Hits Movies
-http://ktv.im:8080/live/00966/00966/101121.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Horee!" tvg-logo="" group-title="AS | INDONESIA",ID: Horee!
-http://ktv.im:8080/live/00966/00966/101122.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Huma Betang TV" tvg-logo="" group-title="AS | INDONESIA",ID: Huma Betang TV
-http://ktv.im:8080/live/00966/00966/101123.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Hunan TV" tvg-logo="" group-title="AS | INDONESIA",ID: Hunan TV
-http://ktv.im:8080/live/00966/00966/101124.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: I AM Channel" tvg-logo="" group-title="AS | INDONESIA",ID: I AM Channel
-http://ktv.im:8080/live/00966/00966/101125.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: I Konser" tvg-logo="" group-title="AS | INDONESIA",ID: I Konser
-http://ktv.im:8080/live/00966/00966/101126.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: IDX" tvg-logo="" group-title="AS | INDONESIA",ID: IDX
-http://ktv.im:8080/live/00966/00966/101127.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Ie" tvg-logo="" group-title="AS | INDONESIA",ID: Ie
-http://ktv.im:8080/live/00966/00966/101128.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="" group-title="AS | INDONESIA",ID: IMC
-http://ktv.im:8080/live/00966/00966/101129.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indi Kids" tvg-logo="" group-title="AS | INDONESIA",ID: Indi Kids
-http://ktv.im:8080/live/00966/00966/101130.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indosiar" tvg-logo="" group-title="AS | INDONESIA",ID: Indosiar
-http://ktv.im:8080/live/00966/00966/101131.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: INews" tvg-logo="" group-title="AS | INDONESIA",ID: INews
-http://ktv.im:8080/live/00966/00966/101132.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Infotainment" tvg-logo="" group-title="AS | INDONESIA",ID: Infotainment
-http://ktv.im:8080/live/00966/00966/101133.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Insert" tvg-logo="" group-title="AS | INDONESIA",ID: Insert
-http://ktv.im:8080/live/00966/00966/101134.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Izzah TV" tvg-logo="" group-title="AS | INDONESIA",ID: Izzah TV
-http://ktv.im:8080/live/00966/00966/101135.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jak TV" tvg-logo="" group-title="AS | INDONESIA",ID: Jak TV
-http://ktv.im:8080/live/00966/00966/101136.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Jakarta Globe News" tvg-logo="" group-title="AS | INDONESIA",ID: Jakarta Globe News
-http://ktv.im:8080/live/00966/00966/101137.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: JTV" tvg-logo="" group-title="AS | INDONESIA",ID: JTV
-http://ktv.im:8080/live/00966/00966/101138.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: K+" tvg-logo="" group-title="AS | INDONESIA",ID: K+
-http://ktv.im:8080/live/00966/00966/101139.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: KBS World" tvg-logo="" group-title="AS | INDONESIA",ID: KBS World
-http://ktv.im:8080/live/00966/00966/101140.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kids TV" tvg-logo="" group-title="AS | INDONESIA",ID: Kids TV
-http://ktv.im:8080/live/00966/00966/101141.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: KIX" tvg-logo="" group-title="AS | INDONESIA",ID: KIX
-http://ktv.im:8080/live/00966/00966/101142.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Kompas TV" tvg-logo="" group-title="AS | INDONESIA",ID: Kompas TV
-http://ktv.im:8080/live/00966/00966/101143.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Life" tvg-logo="" group-title="AS | INDONESIA",ID: Life
-http://ktv.im:8080/live/00966/00966/101144.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Lifestyle & Fashion" tvg-logo="" group-title="AS | INDONESIA",ID: Lifestyle & Fashion
-http://ktv.im:8080/live/00966/00966/101145.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Lifetime" tvg-logo="" group-title="AS | INDONESIA",ID: Lifetime
-http://ktv.im:8080/live/00966/00966/101146.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Love Nature" tvg-logo="" group-title="AS | INDONESIA",ID: Love Nature
-http://ktv.im:8080/live/00966/00966/101147.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Mentari TV" tvg-logo="" group-title="AS | INDONESIA",ID: Mentari TV
-http://ktv.im:8080/live/00966/00966/101148.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Metro TV" tvg-logo="" group-title="AS | INDONESIA",ID: Metro TV
-http://ktv.im:8080/live/00966/00966/101149.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Miao Mi" tvg-logo="" group-title="AS | INDONESIA",ID: Miao Mi
-http://ktv.im:8080/live/00966/00966/101150.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC News" tvg-logo="" group-title="AS | INDONESIA",ID: MNC News
-http://ktv.im:8080/live/00966/00966/101151.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports" tvg-logo="" group-title="AS | INDONESIA",ID: MNC Sports
-http://ktv.im:8080/live/00966/00966/101152.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 2" tvg-logo="" group-title="AS | INDONESIA",ID: MNC Sports 2
-http://ktv.im:8080/live/00966/00966/101153.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC Sports 3" tvg-logo="" group-title="AS | INDONESIA",ID: MNC Sports 3
-http://ktv.im:8080/live/00966/00966/101154.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MNC TV" tvg-logo="" group-title="AS | INDONESIA",ID: MNC TV
-http://ktv.im:8080/live/00966/00966/101155.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Moji" tvg-logo="" group-title="AS | INDONESIA",ID: Moji
-http://ktv.im:8080/live/00966/00966/101156.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MQTV" tvg-logo="" group-title="AS | INDONESIA",ID: MQTV
-http://ktv.im:8080/live/00966/00966/101157.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MTA 7 Asia" tvg-logo="" group-title="AS | INDONESIA",ID: MTA 7 Asia
-http://ktv.im:8080/live/00966/00966/101158.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: MTA TV" tvg-logo="" group-title="AS | INDONESIA",ID: MTA TV
-http://ktv.im:8080/live/00966/00966/101159.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Music TV" tvg-logo="" group-title="AS | INDONESIA",ID: Music TV
-http://ktv.im:8080/live/00966/00966/101160.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="" group-title="AS | INDONESIA",ID: My Cinema
-http://ktv.im:8080/live/00966/00966/101161.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema Asia" tvg-logo="" group-title="AS | INDONESIA",ID: My Cinema Asia
-http://ktv.im:8080/live/00966/00966/101162.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Family" tvg-logo="" group-title="AS | INDONESIA",ID: My Family
-http://ktv.im:8080/live/00966/00966/101163.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: My Kidz" tvg-logo="" group-title="AS | INDONESIA",ID: My Kidz
-http://ktv.im:8080/live/00966/00966/101164.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nat Geo" tvg-logo="" group-title="AS | INDONESIA",ID: Nat Geo
-http://ktv.im:8080/live/00966/00966/101165.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nat Geo Wild" tvg-logo="" group-title="AS | INDONESIA",ID: Nat Geo Wild
-http://ktv.im:8080/live/00966/00966/101166.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: NBA TV" tvg-logo="" group-title="AS | INDONESIA",ID: NBA TV
-http://ktv.im:8080/live/00966/00966/101167.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Net" tvg-logo="" group-title="AS | INDONESIA",ID: Net
-http://ktv.im:8080/live/00966/00966/101168.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: NHK World" tvg-logo="" group-title="AS | INDONESIA",ID: NHK World
-http://ktv.im:8080/live/00966/00966/101169.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nick Jr" tvg-logo="" group-title="AS | INDONESIA",ID: Nick Jr
-http://ktv.im:8080/live/00966/00966/101170.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nick Jr EN" tvg-logo="" group-title="AS | INDONESIA",ID: Nick Jr EN
-http://ktv.im:8080/live/00966/00966/101171.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: nickelodeon" tvg-logo="" group-title="AS | INDONESIA",ID: nickelodeon
-http://ktv.im:8080/live/00966/00966/101172.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Nusantara TV" tvg-logo="" group-title="AS | INDONESIA",ID: Nusantara TV
-http://ktv.im:8080/live/00966/00966/101173.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: OK TV" tvg-logo="" group-title="AS | INDONESIA",ID: OK TV
-http://ktv.im:8080/live/00966/00966/101174.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ONE" tvg-logo="" group-title="AS | INDONESIA",ID: ONE
-http://ktv.im:8080/live/00966/00966/101175.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Padang TV" tvg-logo="" group-title="AS | INDONESIA",ID: Padang TV
-http://ktv.im:8080/live/00966/00966/101176.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Paramount Network" tvg-logo="" group-title="AS | INDONESIA",ID: Paramount Network
-http://ktv.im:8080/live/00966/00966/101177.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Prambors" tvg-logo="" group-title="AS | INDONESIA",ID: Prambors
-http://ktv.im:8080/live/00966/00966/101178.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Radar Cirebon Televisi" tvg-logo="" group-title="AS | INDONESIA",ID: Radar Cirebon Televisi
-http://ktv.im:8080/live/00966/00966/101179.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rajawali TV" tvg-logo="" group-title="AS | INDONESIA",ID: Rajawali TV
-http://ktv.im:8080/live/00966/00966/101180.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: RCTI" tvg-logo="" group-title="AS | INDONESIA",ID: RCTI
-http://ktv.im:8080/live/00966/00966/101181.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Reformed 21" tvg-logo="" group-title="AS | INDONESIA",ID: Reformed 21
-http://ktv.im:8080/live/00966/00966/101182.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Action" tvg-logo="" group-title="AS | INDONESIA",ID: Rock Action
-http://ktv.im:8080/live/00966/00966/101183.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="" group-title="AS | INDONESIA",ID: Rock Entertaiment
-http://ktv.im:8080/live/00966/00966/101184.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rock Extreme" tvg-logo="" group-title="AS | INDONESIA",ID: Rock Extreme
-http://ktv.im:8080/live/00966/00966/101185.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Rodja TV" tvg-logo="" group-title="AS | INDONESIA",ID: Rodja TV
-http://ktv.im:8080/live/00966/00966/101186.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: RRI Net" tvg-logo="" group-title="AS | INDONESIA",ID: RRI Net
-http://ktv.im:8080/live/00966/00966/101187.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SCTV" tvg-logo="" group-title="AS | INDONESIA",ID: SCTV
-http://ktv.im:8080/live/00966/00966/101188.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SEA Today" tvg-logo="" group-title="AS | INDONESIA",ID: SEA Today
-http://ktv.im:8080/live/00966/00966/101189.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sindonews TV" tvg-logo="" group-title="AS | INDONESIA",ID: Sindonews TV
-http://ktv.im:8080/live/00966/00966/101190.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Smithsonian Channel" tvg-logo="" group-title="AS | INDONESIA",ID: Smithsonian Channel
-http://ktv.im:8080/live/00966/00966/101191.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Sony One" tvg-logo="" group-title="AS | INDONESIA",ID: Sony One
-http://ktv.im:8080/live/00966/00966/101192.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV" tvg-logo="" group-title="AS | INDONESIA",ID: SpoTV
-http://ktv.im:8080/live/00966/00966/101193.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: SpoTV 2" tvg-logo="" group-title="AS | INDONESIA",ID: SpoTV 2
-http://ktv.im:8080/live/00966/00966/101194.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Tech Storm" tvg-logo="" group-title="AS | INDONESIA",ID: Tech Storm
-http://ktv.im:8080/live/00966/00966/101195.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Thrill" tvg-logo="" group-title="AS | INDONESIA",ID: Thrill
-http://ktv.im:8080/live/00966/00966/101196.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TLC" tvg-logo="" group-title="AS | INDONESIA",ID: TLC
-http://ktv.im:8080/live/00966/00966/101197.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans 7" tvg-logo="" group-title="AS | INDONESIA",ID: Trans 7
-http://ktv.im:8080/live/00966/00966/101198.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Trans TV" tvg-logo="" group-title="AS | INDONESIA",ID: Trans TV
-http://ktv.im:8080/live/00966/00966/101199.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV 9 Nusantara" tvg-logo="" group-title="AS | INDONESIA",ID: TV 9 Nusantara
-http://ktv.im:8080/live/00966/00966/101200.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV Mu" tvg-logo="" group-title="AS | INDONESIA",ID: TV Mu
-http://ktv.im:8080/live/00966/00966/101201.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="" group-title="AS | INDONESIA",ID: TV One
-http://ktv.im:8080/live/00966/00966/101202.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="" group-title="AS | INDONESIA",ID: TVKU
-http://ktv.im:8080/live/00966/00966/101203.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN" tvg-logo="" group-title="AS | INDONESIA",ID: TVN
-http://ktv.im:8080/live/00966/00966/101204.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVN Movies" tvg-logo="" group-title="AS | INDONESIA",ID: TVN Movies
-http://ktv.im:8080/live/00966/00966/101205.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI
-http://ktv.im:8080/live/00966/00966/101206.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI 4" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI 4
-http://ktv.im:8080/live/00966/00966/101207.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Gorontalo" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Gorontalo
-http://ktv.im:8080/live/00966/00966/101208.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Jambi" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Jambi
-http://ktv.im:8080/live/00966/00966/101209.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Jawa Barat" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Jawa Barat
-http://ktv.im:8080/live/00966/00966/101210.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Barat" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Kalimantan Barat
-http://ktv.im:8080/live/00966/00966/101211.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Kalimantan Tengah" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Kalimantan Tengah
-http://ktv.im:8080/live/00966/00966/101212.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sport" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Sport
-http://ktv.im:8080/live/00966/00966/101213.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI Sulawesi Selatan" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI Sulawesi Selatan
-http://ktv.im:8080/live/00966/00966/101214.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVRI World" tvg-logo="" group-title="AS | INDONESIA",ID: TVRI World
-http://ktv.im:8080/live/00966/00966/101215.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: U Channel" tvg-logo="" group-title="AS | INDONESIA",ID: U Channel
-http://ktv.im:8080/live/00966/00966/101216.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Prime" tvg-logo="" group-title="AS | INDONESIA",ID: Usee Prime
-http://ktv.im:8080/live/00966/00966/101217.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 1" tvg-logo="" group-title="AS | INDONESIA",ID: Usee Sport 1
-http://ktv.im:8080/live/00966/00966/101218.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Usee Sport 2" tvg-logo="" group-title="AS | INDONESIA",ID: Usee Sport 2
-http://ktv.im:8080/live/00966/00966/101219.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Vision Prime" tvg-logo="" group-title="AS | INDONESIA",ID: Vision Prime
-http://ktv.im:8080/live/00966/00966/101220.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Warner TV" tvg-logo="" group-title="AS | INDONESIA",ID: Warner TV
-http://ktv.im:8080/live/00966/00966/101221.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: Zee Bioskop" tvg-logo="" group-title="AS | INDONESIA",ID: Zee Bioskop
-http://ktv.im:8080/live/00966/00966/101222.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="ID: ZooMoo" tvg-logo="" group-title="AS | INDONESIA",ID: ZooMoo
-http://ktv.im:8080/live/00966/00966/101223.m3u8
-
-
-#EXTINF:-1 tvg-id="" tvg-name="MY: Warner TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/ab95d8e974bb7f697b1dd79c7ac0f765.png" group-title="AS | MALAYSIA",MY: Warner TV
-http://ktv.im:8080/live/00966/00966/122842.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TVN Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/9f981ae25467aa645e1cde4f95eed4fe.png" group-title="AS | MALAYSIA",MY: TVN Movies
-http://ktv.im:8080/live/00966/00966/122843.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TVN" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c6a5e644fa00bde3ddf02f78b8ca44b9.png" group-title="AS | MALAYSIA",MY: TVN
-http://ktv.im:8080/live/00966/00966/122844.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TV Alhijrah" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/6565f78da7926feade32fc9651446d1e.png" group-title="AS | MALAYSIA",MY: TV Alhijrah
-http://ktv.im:8080/live/00966/00966/122845.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TV 9" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/cc8d0ca33c66e7808f8704134494f9f2.png" group-title="AS | MALAYSIA",MY: TV 9
-http://ktv.im:8080/live/00966/00966/122846.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: TV 3" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/7c4b2443678d05d7f2032e5519eec970.png" group-title="AS | MALAYSIA",MY: TV 3
-http://ktv.im:8080/live/00966/00966/122847.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: RTM TV 2" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/4d495580f894286e82e1f9ee33d2874b.png" group-title="AS | MALAYSIA",MY: RTM TV 2
-http://ktv.im:8080/live/00966/00966/122848.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: NTV 7" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/9e4e07f643b9d102a246aba95fd763ef.png" group-title="AS | MALAYSIA",MY: NTV 7
-http://ktv.im:8080/live/00966/00966/122849.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Nick Junior" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/92307ca79c909c2f7881199792c74c0b.png" group-title="AS | MALAYSIA",MY: Nick Junior
-http://ktv.im:8080/live/00966/00966/122850.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: NAT GEO Wild" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/96d8df7f3f6a3d31fe225eab91595305.png" group-title="AS | MALAYSIA",MY: NAT GEO Wild
-http://ktv.im:8080/live/00966/00966/122851.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: HITS Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/652a9e2547c9b24a6a2b0eb16b43a1f1.png" group-title="AS | MALAYSIA",MY: HITS Movies
-http://ktv.im:8080/live/00966/00966/122852.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Hits" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/25ab65a39a10d628b5c9319b423b6497.png" group-title="AS | MALAYSIA",MY: Hits
-http://ktv.im:8080/live/00966/00966/122853.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: HGTV Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/dd5b9bef97274c22a06f1f088d34936a.png" group-title="AS | MALAYSIA",MY: HGTV Asia
-http://ktv.im:8080/live/00966/00966/122854.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: GO SHOP" tvg-logo="http://s3.i3ns.net/portal/picon/2022-06/2e10818ae32a06e6561f9dd7d5f6b12d.png" group-title="AS | MALAYSIA",MY: GO SHOP
-http://ktv.im:8080/live/00966/00966/122855.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: FOX SPORTS 2" tvg-logo="s:1:/images/mHi0VR03ylCR5S1mbXz6CUGJZ34-8vGL6Vae3a7s2qPB7JjNMzgi_-d2i1iU-JQCNVDwdzVz4ZdbbR1AANWoLldcoAJ1-vG8MkNtTcZeGsg.png" group-title="AS | MALAYSIA",MY: FOX SPORTS 2
-http://ktv.im:8080/live/00966/00966/122856.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Food Network" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/6ca471ab3849dccf46c8cf9be5e74478.png" group-title="AS | MALAYSIA",MY: Food Network
-http://ktv.im:8080/live/00966/00966/122857.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: DMAX" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/2f04ded06f1bd6b096bd29a4cb899750.png" group-title="AS | MALAYSIA",MY: DMAX
-http://ktv.im:8080/live/00966/00966/122858.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Disney XD" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/451dbdd3fbdd722d2ca3c1b4ba7ada36.png" group-title="AS | MALAYSIA",MY: Disney XD
-http://ktv.im:8080/live/00966/00966/122859.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Discovery Science" tvg-logo="http://s3.i3ns.net/portal/picon/2022-02/838a78d02f3d18a23b94402dd8420a2b.png" group-title="AS | MALAYSIA",MY: Discovery Science
-http://ktv.im:8080/live/00966/00966/122860.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Crime+ Investigation" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/ad7a1e1bb94a07f128ce21def6a0adc3.png" group-title="AS | MALAYSIA",MY: Crime+ Investigation
-http://ktv.im:8080/live/00966/00966/122861.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: CNBC Asia" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/1251197f98fec5c3ed880cccc9e71137.png" group-title="AS | MALAYSIA",MY: CNBC Asia
-http://ktv.im:8080/live/00966/00966/122862.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Cinema World" tvg-logo="http://s3.i3ns.net/portal/picon/2022-05/c6d817ea4450f1c8bd16fcea4bcf4002.png" group-title="AS | MALAYSIA",MY: Cinema World
-http://ktv.im:8080/live/00966/00966/122863.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Chutti TV" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/1c9b69fbcb7cd3e547ae2cda56ae5d61.png" group-title="AS | MALAYSIA",MY: Chutti TV
-http://ktv.im:8080/live/00966/00966/122864.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Celestial Movies" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/51e29412b2a80c8afa779e56b99dccdd.png" group-title="AS | MALAYSIA",MY: Celestial Movies
-http://ktv.im:8080/live/00966/00966/122865.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Boomerang" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/515d63ff66edb49dc64a03093e9f6fd2.png" group-title="AS | MALAYSIA",MY: Boomerang
-http://ktv.im:8080/live/00966/00966/122866.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Bernama TV" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/5e74e05594b34f529cc9a9d9fbabaf80.png" group-title="AS | MALAYSIA",MY: Bernama TV
-http://ktv.im:8080/live/00966/00966/122867.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: beIN Sports" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/661d6fd8993dd9aaf43e249d036e9eb3.jpg" group-title="AS | MALAYSIA",MY: beIN Sports
-http://ktv.im:8080/live/00966/00966/122868.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: BBC Earth" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/c23b25dd57cbcc578a72dda7e35fdf08.png" group-title="AS | MALAYSIA",MY: BBC Earth
-http://ktv.im:8080/live/00966/00966/122869.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Xiao Tai Yang" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/fa7dae21ca0a660204573e4d010232ab.png" group-title="AS | MALAYSIA",MY: Astro Xiao Tai Yang
-http://ktv.im:8080/live/00966/00966/122870.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Vaanavil" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/bb06ccbe93af0e4d72aad4c77c5cb4c6.png" group-title="AS | MALAYSIA",MY: Astro Vaanavil
-http://ktv.im:8080/live/00966/00966/122871.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro SuperSport 3" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/c450e8241eb19fdbc99b78c96be08c2d.png" group-title="AS | MALAYSIA",MY: Astro SuperSport 3
-http://ktv.im:8080/live/00966/00966/122872.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Ria" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/98eeb75a39995d2c6ab45fb716af8310.png" group-title="AS | MALAYSIA",MY: Astro Ria
-http://ktv.im:8080/live/00966/00966/122873.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Prima" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/584608e7b0eb904734396e6cc6831811.png" group-title="AS | MALAYSIA",MY: Astro Prima
-http://ktv.im:8080/live/00966/00966/122874.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Oasis" tvg-logo="http://s3.i3ns.net/portal/picon/2021-08/28fc1cfc2e9b5b2ba64f6bf5bcaa357d.png" group-title="AS | MALAYSIA",MY: Astro Oasis
-http://ktv.im:8080/live/00966/00966/122875.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro BollyOne" tvg-logo="http://s3.i3ns.net/portal/picon/2021-12/3308bb950dc48a11355c53f0fa70d852.jpg" group-title="AS | MALAYSIA",MY: Astro BollyOne
-http://ktv.im:8080/live/00966/00966/122876.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Awani" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e976949486bc089b9dec986e9a860ff8.png" group-title="AS | MALAYSIA",MY: Astro Awani
-http://ktv.im:8080/live/00966/00966/122877.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Astro Arena" tvg-logo="http://s3.i3ns.net/portal/picon/2021-11/ec9b068eb5a5cc81fc3d7fd32ba7551a.png" group-title="AS | MALAYSIA",MY: Astro Arena
-http://ktv.im:8080/live/00966/00966/122878.m3u8
-#EXTINF:-1 tvg-id="" tvg-name="MY: Animax" tvg-logo="http://s3.i3ns.net/portal/picon/2020-12/e0ca9c22b972add893fdad34af4255bc.png" group-title="AS | MALAYSIA",MY: Animax
-http://ktv.im:8080/live/00966/00966/122879.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="▼World Sports▼" tvg-logo="https://i.ibb.co/tc3wJHs/kslogoo123.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",▼World Sports▼
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/92136
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 1 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_1_AL_logo_v2.png?1725287688" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89515
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 2 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_2_AL_logo_v2.png?1725287953" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89516
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 3 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_3_AL_logo_v3.png?1725288505" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89517
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 4 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_4_AL_logo.png?1631629272" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89518
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 5 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_5_AL_logo.png?1631629243" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89519
+#EXTINF:-1 tvg-id="" tvg-name="AL: ART Sport 6 ⁴ᴷ" tvg-logo="https://tvprofil.com/img/kanali-logo/ART_Sport_6_AL_logo.png?1631629198" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: ART Sport 6 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89520
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43729
+#EXTINF:-1 tvg-id="SuperSport 1" tvg-name="AL: SS-1 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-1 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1146
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43728
+#EXTINF:-1 tvg-id="SuperSport 2" tvg-name="AL: SS-2 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-2 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1148
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SS-3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43727
+#EXTINF:-1 tvg-id="SuperSport 3" tvg-name="AL: SS-3 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-3 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1150
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SS-4 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43726
+#EXTINF:-1 tvg-id="SuperSport 4" tvg-name="AL: SS-4 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-4 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1152
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: SS-5 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43725
+#EXTINF:-1 tvg-id="SuperSport 5" tvg-name="AL: SS-5 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%205.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-5 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1153
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: SS-6 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-6 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/43724
+#EXTINF:-1 tvg-id="SuperSport 6" tvg-name="AL: SS-6 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%206.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-6 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/2704
+#EXTINF:-1 tvg-id="SuperSport 7" tvg-name="AL: SS-7 ᴴᴰ" tvg-logo="http://www.albepg.com/tvlogi/SuperSport%207.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: SS-7 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/78732
+#EXTINF:-1 tvg-id="Tring Sport News HD" tvg-name="AL: Tring Sport News ⁴ᴷ" tvg-logo="https://i.ibb.co/s2HzjXY/svgexport-1-1.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport News ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30157
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 ⁴ᴷ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30153
+#EXTINF:-1 tvg-id="Tring Sport 1 HD" tvg-name="AL: Tring Sport 1 ᴴᴰ" tvg-logo="https://i.ibb.co/rZCppWs/svgexport-1-2.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 1 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1169
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 ⁴ᴷ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30154
+#EXTINF:-1 tvg-id="Tring Sport 2 HD" tvg-name="AL: Tring Sport 2 ᴴᴰ" tvg-logo="https://i.ibb.co/0nvN5VC/svgexport-1-6.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 2 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1170
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 ⁴ᴷ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30155
+#EXTINF:-1 tvg-id="Tring Sport 3 HD" tvg-name="AL: Tring Sport 3 ᴴᴰ" tvg-logo="https://i.ibb.co/H7k0PJV/svgexport-1-5.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 3 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1171
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 ⁴ᴷ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30156
+#EXTINF:-1 tvg-id="Tring Sport 4 HD" tvg-name="AL: Tring Sport 4 ᴴᴰ" tvg-logo="https://i.ibb.co/KVkfLFD/svgexport-1-4.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Tring Sport 4 ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1172
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 1 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%201.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30162
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 2 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%202.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30163
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 3 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%203.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30164
+#EXTINF:-1 tvg-id="" tvg-name="AL: Kujtesa Sport 4 ⁴ᴷ" tvg-logo="http://www.albepg.com/tvlogi/Kujtesa%20Sport%204.png" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Kujtesa Sport 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30165
+#EXTINF:-1 tvg-id="" tvg-name="AL: Partizani Channel" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: Partizani Channel
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/91848
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH Sport ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: RTSH Sport ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/77129
+#EXTINF:-1 tvg-id="RTSH Sport" tvg-name="AL: RTSH Sport ᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: RTSH Sport ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/1887
+#EXTINF:-1 tvg-id="" tvg-name="AL: RTSH 1 Superiore ⁴ᴷ" tvg-logo="https://i.imgur.com/McNT7A8.jpg" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: RTSH 1 Superiore ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/77141
+#EXTINF:-1 tvg-id="RTSH2 HD" tvg-name="AL: RTSH 2 Superiore ⁴ᴷ" tvg-logo="https://rtsh-tv.s3.eu-central-1.amazonaws.com/6b837e33bb5b47b680175e4063b81928_202010050920.svg" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AL: RTSH 2 Superiore ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88436
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: BeIN Sport Arabic ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: BeIN Sport Arabic ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86259
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86257
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 1 ⁴ᴷ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86266
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga ᵁᴴᴰ ⁺ ᴴᴰᴿ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86292
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Ziggoo Sport ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Ziggoo Sport ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89828
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 1 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86258
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 2 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86268
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Now HK Sports 4K 3 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86269
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 2 ⁴ᵏ ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86270
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: Blue Sport 1 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89216
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 2 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: Blue Sport 2 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89217
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 3 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: Blue Sport 3 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89218
+#EXTINF:-1 tvg-id="" tvg-name="CH: Blue Sport 4 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: Blue Sport 4 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89219
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Blue Sport Zoom ᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Blue Sport Zoom ᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89829
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: UK Sky Sports 1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: UK Sky Sports 1 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89820
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: UK Sky Sports 2 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: UK Sky Sports 2 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89821
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: UK Sky Sports Main Event ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: UK Sky Sports Main Event ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89818
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: UK Sky Sports F1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: UK Sky Sports F1 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/89819
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 Premium SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80319
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 Premium SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80320
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 Premium SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 Premium SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80321
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sportdigital Fusball | DE ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sportdigital Fusball | DE ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86686
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 1 DE ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 1 DE ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86289
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 2 DE ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 2 DE ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86290
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: DAZN Sport 1 EN ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: DAZN Sport 1 EN ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86291
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Astro SuperSport 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Astro SuperSport 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: M+ La Liga TV 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: M+ La Liga TV 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/88343
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86597
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86587
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86588
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86589
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86590
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86591
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86592
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 7 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86593
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 8 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 8 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86594
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 9 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 9 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86595
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sky Sport Bundesliga 10 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sky Sport Bundesliga 10 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86596
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86376
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86377
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86378
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86379
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86380
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Premier Leauge 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Premier Leauge 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86381
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Prime ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Prime ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86578
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86580
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86581
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86582
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86583
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86584
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86585
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports 7 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports 7 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86586
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK Sports Plus ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK Sports Plus ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86579
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86271
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86272
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86273
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86274
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Hub Premier 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Hub Premier 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86275
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86276
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86277
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86278
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86279
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86280
+#EXTINF:-1 tvg-id="" tvg-name="PT: Eleven Sports 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",PT: Eleven Sports 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86281
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 1 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 1 ⁴ᵏ PL
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86282
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 2 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 2 ⁴ᵏ PL
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86283
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 3 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 3 ⁴ᵏ PL
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86284
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Eleven Sports 4 ⁴ᵏ PL" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Eleven Sports 4 ⁴ᵏ PL
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86285
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 1 ⁴ᵏ | BE
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86286
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 2 ⁴ᵏ | BE
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86287
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Eleven Pro Sports League 3 ⁴ᵏ | BE
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86288
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86297
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86298
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86299
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86300
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86301
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: NowHK BeIN 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: NowHK BeIN 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86302
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86382
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86383
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86384
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86385
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 5 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86386
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: Polsat Sport Premium PPV 6 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86387
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport News Arabic ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport News Arabic ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86577
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86565
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86566
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86567
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86568
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86569
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 6 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86570
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 7 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86571
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 8 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86572
+#EXTINF:-1 tvg-id="" tvg-name="SPORT: BeIN Sport Arabic 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT: BeIN Sport Arabic 9 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86573
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86574
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86575
+#EXTINF:-1 tvg-id="" tvg-name="SPORT:  BeIN Sport XTRA1 Arabic 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORT:  BeIN Sport XTRA1 Arabic 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86576
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 1 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 1 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86507
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 2 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 2 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86508
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 3 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 3 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86509
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 4 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 4 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86510
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 5 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 5 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86511
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Sport TV 6 | PT ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Sport TV 6 | PT ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86512
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 1 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 2 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86414
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 3 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86415
+#EXTINF:-1 tvg-id="" tvg-name="SPORTS: Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",SPORTS: Digi Sport 4 ⁴ᵏ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86416
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",UK: UFC Fight Pass ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/81429
+#EXTINF:-1 tvg-id="" tvg-name="FR: InfoSport+ ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: InfoSport+ ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80308
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80261
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80262
+#EXTINF:-1 tvg-id="" tvg-name="FR: Bein Sports 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: Bein Sports 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80263
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80299
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80300
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80301
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80302
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80303
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 7 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80304
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 8 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80305
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 9 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80306
+#EXTINF:-1 tvg-id="" tvg-name="FR: RMC Sport 10 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",FR: RMC Sport 10 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80307
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80177
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80178
+#EXTINF:-1 tvg-id="" tvg-name="CH: BlueSport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",CH: BlueSport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80179
+#EXTINF:-1 tvg-id="" tvg-name="DE: Blue Sport D 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Blue Sport D 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80029
+#EXTINF:-1 tvg-id="" tvg-name="DE: Blue Sport D 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Blue Sport D 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80030
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80309
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80310
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80311
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80312
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 5 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80313
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 6 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 6 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80314
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 7 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 7 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80315
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 8 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 8 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80316
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 9 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 9 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80317
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 10 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 10 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80318
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Fight Croatia  ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub Fight Croatia  ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80333
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 1 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80336
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 2 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80337
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 3 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80338
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80339
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80340
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 5 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80341
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 6 Croatia ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 6 Croatia ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80342
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80349
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80350
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 3 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 3 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80351
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 4 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 4 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80352
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 5 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 5 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80353
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 6 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 6 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80354
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 7 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 7 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80355
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 8 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 8 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80356
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Sport 1x2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Sport 1x2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80322
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena Fight SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena Fight SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80323
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Arena ESports SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Arena ESports SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80324
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 1 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 1 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80325
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 2 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 2 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80326
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 3 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 3 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80327
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 4 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 4 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80328
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 5 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 5 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80329
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 6 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 6 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80330
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 7 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 7 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80331
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub 8 SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub 8 SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80332
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub Golf SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub Golf SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80335
+#EXTINF:-1 tvg-id="" tvg-name="EX-YU: Sport Klub ESport SRB ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",EX-YU: Sport Klub ESport SRB ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80334
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn LaLiga ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn LaLiga ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80255
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80257
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80258
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80259
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80260
+#EXTINF:-1 tvg-id="" tvg-name="ES: Movistar Dazn F1 ᵁᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",ES: Movistar Dazn F1 ᵁᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80256
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | SportDigital Fussball ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | SportDigital Fussball ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80241
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport News ᶠᴴᴰ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport News ᶠᴴᴰ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80244
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Top Event ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Top Event ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30197
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Premier League ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Premier League ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/10811
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Mix ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Mix ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/35973
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Tennis ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Tennis ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80253
+#EXTINF:-1 tvg-id="" tvg-name="DE: Telekom | Sky Sport Golf ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Telekom | Sky Sport Golf ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80254
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30205
+#EXTINF:-1 tvg-id="SSS Sport 2 DE" tvg-name="DE: Sky Sport 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/6451
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30200
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30199
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30198
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 6 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30195
+#EXTINF:-1 tvg-id="SSS Sport 7 DE" tvg-name="DE: Sky Sport 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 7 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30194
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 8 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 8 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30193
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 9 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 9 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30192
+#EXTINF:-1 tvg-id="" tvg-name="DE: Sky Sport 10 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",DE: Sky Sport 10 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/30191
+#EXTINF:-1 tvg-id="" tvg-name="AU: ORF Sport+ ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: ORF Sport+ ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80291
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 1 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 1 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80292
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 2 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 2 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80293
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 3 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 3 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80294
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 4 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 4 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80295
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 5 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 5 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80296
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 6 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 6 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80297
+#EXTINF:-1 tvg-id="" tvg-name="AU: Sky Sport Austria 7 ⁴ᴷ" tvg-logo="" group-title="World Sport ᵛⁱᵖ ⁴ᴷ ᶠᴴᴰ",AU: Sky Sport Austria 7 ⁴ᴷ
+http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80298
