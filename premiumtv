@@ -209,7 +209,6 @@ http://b1g.ooo:80/Tanvir/Tanvir/689429
 http://b1g.ooo:80/Tanvir/Tanvir/865916
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 5" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Sports Ten 5
 http://b1g.ooo:80/Tanvir/Tanvir/865915
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="TS Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="SPORTS | Sony Sports",TS Star Sports Select 1 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/8008
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="D2H Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="SPORTS | Sony Sports",D2H Star Sports Select 1 FHD
@@ -219,4 +218,122 @@ http://b1g.ooo:80/Tanvir/Tanvir/7886
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="D2H Star Sports Select 2 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg" group-title="SPORTS | Sony Sports",D2H Star Sports Select 2 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/188294
 
+
+===========================================SKY SPORTS (UK)===============================================
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Main Event FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35796
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Main Event FHD
+http://b1g.ooo:80/Tanvir/Tanvir/20172
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmainevent.uk" tvg-name="UK-Sky Sports Main Event HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Main-Event.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Main Event HD
+http://b1g.ooo:80/Tanvir/Tanvir/164493
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SPORTS | Sky Sports",UK-Sky Sports News FHD
+http://b1g.ooo:80/Tanvir/Tanvir/15269
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SPORTS | Sky Sports",UK-Sky Sports News HD
+http://b1g.ooo:80/Tanvir/Tanvir/814688
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsnews.uk" tvg-name="UK-Sky Sports News SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-News.png" group-title="SPORTS | Sky Sports",UK-Sky Sports News SD
+http://b1g.ooo:80/Tanvir/Tanvir/164506
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket  FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Cricket  FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35799
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Cricket FHD
+http://b1g.ooo:80/Tanvir/Tanvir/20169
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportscricket.uk" tvg-name="UK-Sky Sports Cricket HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Cricket.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Cricket HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164497
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Football FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35798
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Football FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/20170
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsfootball.uk" tvg-name="UK-Sky Sports Football HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Football.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Football HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164495
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Premier League FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35797
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Premier League FHD
+http://b1g.ooo:80/Tanvir/Tanvir/20171
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Premier League HD
+http://b1g.ooo:80/Tanvir/Tanvir/814690
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportspremiereleague.uk" tvg-name="UK-Sky Sports Premier League SD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Premier-League.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Premier League SD*
+http://b1g.ooo:80/Tanvir/Tanvir/164499
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Golf FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35800
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Golf FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/20168
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsgolf.uk" tvg-name="UK-Sky Sports Golf HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Golf.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Golf HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164498
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports Darts FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Darts FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35803
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports Darts FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Darts FHD
+http://b1g.ooo:80/Tanvir/Tanvir/20167
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsf1.uk" tvg-name="UK-Sky Sports Darts HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-f1.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Darts HD
+http://b1g.ooo:80/Tanvir/Tanvir/164500
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Tennis FHD
+http://b1g.ooo:80/Tanvir/Tanvir/744772
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Tennis HD
+http://b1g.ooo:80/Tanvir/Tanvir/744771
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportstennis.uk" tvg-name="UK-Sky Sports Tennis SD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Tennis.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Tennis SD
+http://b1g.ooo:80/Tanvir/Tanvir/744770
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SPORTS | Sky Sports",UK-Sky Sports NFL FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35802
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SPORTS | Sky Sports",UK-Sky Sports NFL FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/20166
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsaction.uk" tvg-name="UK-Sky Sports NFL HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Sky-Sports-NFL.png" group-title="SPORTS | Sky Sports",UK-Sky Sports NFL HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164496
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SPORTS | Sky Sports",UK-Sky Sports+ FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35801
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SPORTS | Sky Sports",UK-Sky Sports+ FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/20165
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsplus.uk" tvg-name="UK-Sky Sports+ HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/08/Sky-Sports-.png" group-title="SPORTS | Sky Sports",UK-Sky Sports+ HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164494
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Mix FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35804
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Mix FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/20164
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsmix.uk" tvg-name="UK-Sky Sports Mix HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Mix.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Mix HD*
+http://b1g.ooo:80/Tanvir/Tanvir/164507
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing FHD 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Racing FHD 50FPS
+http://b1g.ooo:80/Tanvir/Tanvir/35805
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Racing FHD
+http://b1g.ooo:80/Tanvir/Tanvir/94057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="skysportsracing.uk" tvg-name="UK-Sky Sports Racing HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Sky-Sports-Racing.png" group-title="SPORTS | Sky Sports",UK-Sky Sports Racing HD
+http://b1g.ooo:80/Tanvir/Tanvir/814689
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DAZN1.uk" tvg-name="UK-DAZN TV FHD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png" group-title="SPORTS | Sky Sports",UK-DAZN TV FHD
+http://b1g.ooo:80/Tanvir/Tanvir/15256
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="DAZN1.uk" tvg-name="UK-DAZN TV HD" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/united-kingdom/dazn1-uk.png" group-title="SPORTS | Sky Sports",UK-DAZN TV HD
+http://b1g.ooo:80/Tanvir/Tanvir/814693
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="UK-Eurosport 1 FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Eurosport-1.png" group-title="SPORTS | Sky Sports",UK-Eurosport 1 FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/20162
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport1.uk" tvg-name="UK-Eurosport 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Eurosport-1.png" group-title="SPORTS | Sky Sports",UK-Eurosport 1 HD
+http://b1g.ooo:80/Tanvir/Tanvir/11988
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="UK-Eurosport 2 FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Eurosports-2.png" group-title="SPORTS | Sky Sports",UK-Eurosport 2 FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/20163
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="eurosport2.uk" tvg-name="UK-Eurosport 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Eurosports-2.png" group-title="SPORTS | Sky Sports",UK-Eurosport 2 HD
+http://b1g.ooo:80/Tanvir/Tanvir/11987
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports1.uk" tvg-name="UK-Premier Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sports-1.png" group-title="SPORTS | Sky Sports",UK-Premier Sports 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/15268
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports1.uk" tvg-name="UK-Premier Sports 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sports-1.png" group-title="SPORTS | Sky Sports",UK-Premier Sports 1 HD
+http://b1g.ooo:80/Tanvir/Tanvir/168692
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports2.uk" tvg-name="UK-Premier Sports 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sport-2.png" group-title="SPORTS | Sky Sports",UK-Premier Sports 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/11973
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="ViaplaySports2.uk" tvg-name="UK-Premier Sports 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sport-2.png" group-title="SPORTS | Sky Sports",UK-Premier Sports 2 HD
+http://b1g.ooo:80/Tanvir/Tanvir/12000
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Premier1.ie" tvg-name="IE-Premier Sport 1 FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sports-1.png" group-title="SPORTS | Sky Sports",IE-Premier Sport 1 FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/13840
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Premier2.ie" tvg-name="IE-Premier Sport 2 FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Premier-Sport-2.png" group-title="SPORTS | Sky Sports",IE-Premier Sport 2 FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/11972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK-Racing TV FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Racing-TV.png" group-title="SPORTS | Sky Sports",UK-Racing TV FHD
+http://b1g.ooo:80/Tanvir/Tanvir/94058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="racinguk.uk" tvg-name="UK-Racing TV HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/Racing-TV.png" group-title="SPORTS | Sky Sports",UK-Racing TV HD*
+http://b1g.ooo:80/Tanvir/Tanvir/11974
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportLaLiga.za" tvg-name="UK-La Liga TV FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/La-Liga-TV.png" group-title="SPORTS | Sky Sports",UK-La Liga TV FHD
+http://b1g.ooo:80/Tanvir/Tanvir/22153
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SuperSportLaLiga.za" tvg-name="UK-La Liga TV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/La-Liga-TV.png" group-title="SPORTS | Sky Sports",UK-La Liga TV HD
+http://b1g.ooo:80/Tanvir/Tanvir/22152
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK-LFC TV FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/LFCTV.png" group-title="SPORTS | Sky Sports",UK-LFC TV FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/20157
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="liverpoolfctv.uk" tvg-name="UK-LFC TV SD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/LFCTV.png" group-title="SPORTS | Sky Sports",UK-LFC TV SD*
+http://b1g.ooo:80/Tanvir/Tanvir/14049
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK-MUTV FHD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/MUTV.png" group-title="SPORTS | Sky Sports",UK-MUTV FHD*
+http://b1g.ooo:80/Tanvir/Tanvir/21037
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK-MUTV HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/MUTV.png" group-title="SPORTS | Sky Sports",UK-MUTV HD*
+http://b1g.ooo:80/Tanvir/Tanvir/11969
 
