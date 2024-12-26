@@ -1,7 +1,5 @@
 ========================================ASTROSPORT===================================
 
-
-
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709259
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand HD
@@ -42,3 +40,133 @@ http://b1g.ooo:80/Tanvir/Tanvir/709251
 http://b1g.ooo:80/Tanvir/Tanvir/709250
 EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV HD
 http://b1g.ooo:80/Tanvir/Tanvir/709253
+
+
+====================================HUB SPORTS=================================================
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORTS | Hub Sports",Hub Sports 1
+http://b1g.ooo:80/Tanvir/Tanvir/625477
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports2.sg" tvg-name="Hub Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS | Hub Sports",Hub Sports 2
+http://b1g.ooo:80/Tanvir/Tanvir/625476
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORTS | Hub Sports",Hub Sports 3
+http://b1g.ooo:80/Tanvir/Tanvir/625475
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="SPORTS | Hub Sports",Hub Sports 4
+http://b1g.ooo:80/Tanvir/Tanvir/625449
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORTS | Hub Sports",Hub Sports 5
+http://b1g.ooo:80/Tanvir/Tanvir/625523
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS.sg" tvg-name="beIN Sports 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",beIN Sports 1
+http://b1g.ooo:80/Tanvir/Tanvir/625423
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS2.sg" tvg-name="beIN Sports 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",beIN Sports 2
+http://b1g.ooo:80/Tanvir/Tanvir/625424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS3.sg" tvg-name="beIN Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",beIN Sports 3
+http://b1g.ooo:80/Tanvir/Tanvir/625422
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS4.sg" tvg-name="beIN Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",beIN Sports 4
+http://b1g.ooo:80/Tanvir/Tanvir/625421
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS5.sg" tvg-name="beIN Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Hub.png" group-title="SPORTS | Hub Sports",beIN Sports 5
+http://b1g.ooo:80/Tanvir/Tanvir/625420
+
+
+=====================================STAR HUB (EPL)================================================
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier1.sg" tvg-name="Hub Premier 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426734
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier2.sg" tvg-name="Hub Premier 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426733
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier3.sg" tvg-name="Hub Premier 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426732
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier4.sg" tvg-name="Hub Premier 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 4 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426731
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier5.sg" tvg-name="Hub Premier 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426730
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier6.sg" tvg-name="Hub Premier 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-6.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 6 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426729
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier7.sg" tvg-name="Hub Premier 7 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-7.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 7 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426728
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubPremier8.sg" tvg-name="Hub Premier 8 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-8.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 8 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426727
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="Hub Premier 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-9.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 9 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426726
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="Hub Premier 10 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-10.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 10 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426725
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="CheckFixtures.bossdummy" tvg-name="Hub Premier 11 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-11.png" group-title="SPORTS | Star Hub (EPL)",Hub Premier 11 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/426724
+
+======================================TNT SPORT=================================================
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 " tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | TNT SPORT",TNT Sports 1 
+http://b1g.ooo:80/Tanvir/Tanvir/697057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 " tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | TNT SPORT",TNT Sports 2 
+http://b1g.ooo:80/Tanvir/Tanvir/697056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 " tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | TNT SPORT",TNT Sports 3 
+http://b1g.ooo:80/Tanvir/Tanvir/697055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="SPORTS | TNT SPORT",TNT Sports 4 FHD HEVC
+http://b1g.ooo:80/Tanvir/Tanvir/697051
+
+=======================================NOW HK SPORTS===========================================
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="HK | Now HK Sports 4K 1 UHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | Now HK",HK | Now HK Sports 4K 1 UHD
+http://b1g.ooo:80/Tanvir/Tanvir/699625
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="LIVE | EPL Hub",EPL | Now Sports 4K
+http://b1g.ooo:80/Tanvir/Tanvir/174942
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK | Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 1
+http://b1g.ooo:80/Tanvir/Tanvir/35915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK | Now HK Premier Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-2.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 2
+http://b1g.ooo:80/Tanvir/Tanvir/35914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK | Now HK Premier Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-3.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 3
+http://b1g.ooo:80/Tanvir/Tanvir/35913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK | Now HK Premier Sports 4" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-4.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 4
+http://b1g.ooo:80/Tanvir/Tanvir/35912
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK | Now HK Premier Sports 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-5.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 5
+http://b1g.ooo:80/Tanvir/Tanvir/35911
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK | Now HK Premier Sports 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-6.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 6
+http://b1g.ooo:80/Tanvir/Tanvir/35910
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague7.hk" tvg-name="HK | Now HK Premier Sports 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 7
+http://b1g.ooo:80/Tanvir/Tanvir/35909
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="HK | Now HK Premier Sports 8" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-TV.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 8
+http://b1g.ooo:80/Tanvir/Tanvir/35908
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PremierLeagueTV.peacocktv" tvg-name="HK | Now HK Premier League TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-PL.png" group-title="SPORTS | Now HK",HK | Now HK Premier League TV
+http://b1g.ooo:80/Tanvir/Tanvir/836295
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPrime.hk" tvg-name="HK | Now HK Sports Prime" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-Sports-Prime.png" group-title="SPORTS | Now HK",HK | Now HK Sports Prime
+http://b1g.ooo:80/Tanvir/Tanvir/836281
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPlus.hk" tvg-name="HK | NowHK Sports Plus FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowSportsPlus.png" group-title="SPORTS | Now HK",HK | NowHK Sports Plus FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842096
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports688.hk" tvg-name="HK | NowHK Sports 688 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Now-HK-Sports-688.png" group-title="SPORTS | Now HK",HK | NowHK Sports 688 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842095
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports681.hk" tvg-name="HK | Now HK Sports 681 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowSports681.png" group-title="SPORTS | Now HK",HK | Now HK Sports 681 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842094
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowGolf2.hk" tvg-name="HK | NowHK Golf 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf2.png" group-title="SPORTS | Now HK",HK | NowHK Golf 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842093
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowGolf3.hk" tvg-name="HK | NowHK Golf 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/NowGolf3.png" group-title="SPORTS | Now HK",HK | NowHK Golf 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842092
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports1.hk" tvg-name="HK | Now Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="SPORTS | Now HK",HK | Now Sports 1
+http://b1g.ooo:80/Tanvir/Tanvir/697701
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports2.hk" tvg-name="HK | Now Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="SPORTS | Now HK",HK | Now Sports 2
+http://b1g.ooo:80/Tanvir/Tanvir/697702
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports3.hk" tvg-name="HK | Now Sports 3" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="SPORTS | Now HK",HK | Now Sports 3
+http://b1g.ooo:80/Tanvir/Tanvir/697703
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4.hk" tvg-name="HK | Now Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-4.png" group-title="SPORTS | Now HK",HK | Now Sports 4
+http://b1g.ooo:80/Tanvir/Tanvir/697704
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports5.hk" tvg-name="HK | Now Sports 5" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-5.png" group-title="SPORTS | Now HK",HK | Now Sports 5
+http://b1g.ooo:80/Tanvir/Tanvir/697705
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports6.hk" tvg-name="HK | Now Sports 6" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-6.png" group-title="SPORTS | Now HK",HK | Now Sports 6
+http://b1g.ooo:80/Tanvir/Tanvir/697706
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports7.hk" tvg-name="HK | Now Sports 7" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-7.png" group-title="SPORTS | Now HK",HK | Now Sports 7
+http://b1g.ooo:80/Tanvir/Tanvir/697707
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.hk" tvg-name="HK | NowHK SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Now HK",HK | NowHK SPOTV FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842097
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.hk" tvg-name="HK | NowHK SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Now HK",HK | NowHK SPOTV 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842091
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS1.hk" tvg-name="HK | NowHK Bein 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Now HK",HK | NowHK Bein 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842090
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS2.hk" tvg-name="HK | NowHK beIN 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Now HK",HK | NowHK beIN 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842089
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS3.hk" tvg-name="HK | NowHK Bein 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Now HK",HK | NowHK Bein 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842088
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS4.hk" tvg-name="HK | NowHK beIN 4 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/beIN-Sports-4.png" group-title="SPORTS | Now HK",HK | NowHK beIN 4 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842087
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS5.hk" tvg-name="HK | NowHK Bein 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/beinSports5.png" group-title="SPORTS | Now HK",HK | NowHK Bein 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842086
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSPORTS6.hk" tvg-name="HK | NowHK beIN 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/bein-Sports6.png" group-title="SPORTS | Now HK",HK | NowHK beIN 6 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/842085
+
+
