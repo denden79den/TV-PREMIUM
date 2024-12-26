@@ -178,3 +178,45 @@ http://b1g.ooo:80/Tanvir/Tanvir/842086
 http://b1g.ooo:80/Tanvir/Tanvir/842085
 
 
+===========================SONY SPORTS==============================================
+
+
+EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="TS Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SPORTS | Sony Sports", TS Sony Ten 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/7885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="D2H Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SPORTS | Sony Sports",D2H Sony Ten 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/161922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="TS Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SPORTS | Sony Sports",TS Sony Ten 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/16119
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="D2H Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SPORTS | Sony Sports",D2H Sony Ten 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/161923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="TS Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SPORTS | Sony Sports",TS Sony Ten 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/16120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="D2H Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SPORTS | Sony Sports",D2H Sony Ten 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/161924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 3" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Sports Ten 3
+http://b1g.ooo:80/Tanvir/Tanvir/865913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Ten 4 FHD" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Ten 4 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/865914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Ten 4" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Ten 4
+http://b1g.ooo:80/Tanvir/Tanvir/865917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="TS Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SPORTS | Sony Sports",TS Sony Ten 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/9085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="D2H Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SPORTS | Sony Sports",D2H Sony Ten 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/161921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="D2H Sony Ten 5 Hd" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="SPORTS | Sony Sports",D2H Sony Ten 5 Hd
+http://b1g.ooo:80/Tanvir/Tanvir/689429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 5 FHD" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Sports Ten 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/865916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 5" tvg-logo="" group-title="SPORTS | Sony Sports",TS Sony Sports Ten 5
+http://b1g.ooo:80/Tanvir/Tanvir/865915
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="TS Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="SPORTS | Sony Sports",TS Star Sports Select 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/8008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="D2H Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="SPORTS | Sony Sports",D2H Star Sports Select 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/161938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="TS Star Sports Select 2 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg" group-title="SPORTS | Sony Sports",TS Star Sports Select 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/7886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="D2H Star Sports Select 2 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg" group-title="SPORTS | Sony Sports",D2H Star Sports Select 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/188294
+
+
