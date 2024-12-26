@@ -1,5 +1,13 @@
 ========================================ASTROSPORT===================================
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 1 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/709263
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="Astro Premier League 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 1 HD
+http://b1g.ooo:80/Tanvir/Tanvir/709262
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 2 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/709261
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="Astro Premier League 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 2 HD
+http://b1g.ooo:80/Tanvir/Tanvir/709260
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709259
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand HD
