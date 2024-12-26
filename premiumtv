@@ -106,7 +106,7 @@ http://b1g.ooo:80/Tanvir/Tanvir/697051
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="HK | Now HK Sports 4K 1 UHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | Now HK",HK | Now HK Sports 4K 1 UHD
 http://b1g.ooo:80/Tanvir/Tanvir/699625
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="LIVE | EPL Hub",EPL | Now Sports 4K
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | Now HK",EPL | Now Sports 4K
 http://b1g.ooo:80/Tanvir/Tanvir/174942
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK | Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="SPORTS | Now HK",HK | Now HK Premier Sports 1
 http://b1g.ooo:80/Tanvir/Tanvir/35915
