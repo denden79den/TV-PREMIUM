@@ -337,3 +337,29 @@ http://b1g.ooo:80/Tanvir/Tanvir/21037
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="mutv.uk" tvg-name="UK-MUTV HD*" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/MUTV.png" group-title="SPORTS | Sky Sports",UK-MUTV HD*
 http://b1g.ooo:80/Tanvir/Tanvir/11969
 
+
+=====================================FUBO SPORTS (EPL)=================================================
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="PremierLeagueTV.peacocktv" tvg-name="Fubo Premier League TV" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/FuboSportPL.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Premier League TV
+http://b1g.ooo:80/Tanvir/Tanvir/839246
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork.us" tvg-name="Fubo Sports Network 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 1 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839245
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork2.us" tvg-name="Fubo Sports Network 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 2 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839244
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork3.us" tvg-name="Fubo Sports Network 3 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 3 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839243
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork4.us" tvg-name="Fubo Sports Network 4 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 4 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839242
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork5.us" tvg-name="Fubo Sports Network 5 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 5 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839241
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork6.us" tvg-name="Fubo Sports Network 6 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 6 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839240
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork7.us" tvg-name="Fubo Sports Network 7 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 7 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839239
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="fuboSportsNetwork8.us" tvg-name="Fubo Sports Network 8 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 8 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839238
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fubo Sports Network 9 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 9 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839237
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Fubo Sports Network 10 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/Fubo-Sports-Network.png" group-title="SPORTS | Fubo Sports (EPL)",Fubo Sports Network 10 HD
+http://b1g.ooo:80/Tanvir/Tanvir/839236
