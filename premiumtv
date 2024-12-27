@@ -293,54 +293,61 @@ https://mantul.biz.id:443/aruba/aruba/261.ts
 
 ========================================ASTROSPORT===================================
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709263
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="Astro Premier League 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague.my" tvg-name="MY | Astro Premier League 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 1 HD
 http://b1g.ooo:80/Tanvir/Tanvir/709262
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709261
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="Astro Premier League 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",Astro Premier League 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague2.my" tvg-name="MY | Astro Premier League 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 2 HD
 http://b1g.ooo:80/Tanvir/Tanvir/709260
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague3.my" tvg-name="MY | Astro Premier League 3 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 3 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/848961
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague4.my" tvg-name="MY | Astro Premier League 4 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbbUgU6bJCbi4WFWK3mftkUw.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 4 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/848960
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroPremierLeague5.my" tvg-name="MY | Astro Premier League 5 FHD" tvg-logo="https://ptv.ac:443/images/uO9NC4b5HzlRujAnoUeGVXETcUB9ktYuZL2i-OBdWzQriK00jWlVjHbmPfB67yhbtVYq7k79Nsk1xQhSW8nlpg.png" group-title="SPORTS | Astro Sports",MY | Astro Premier League 5 FHD
+http://b1g.ooo:80/Tanvir/Tanvir/848959
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709259
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports", Astro Grandstand HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MY | Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Grandstand HD
 http://b1g.ooo:80/Tanvir/Tanvir/709258
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name=" Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports", Astro Football FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709257
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name=" Astro Football HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports", Astro Football HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name="MY | Astro Football HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | Astro Sports",MY | Astro Football HD
 http://b1g.ooo:80/Tanvir/Tanvir/709256
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name=" Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="SPORTS | Astro Sports", Astro Cricket FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroCricket.my" tvg-name="MY | Astro Cricket FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Cricket.png" group-title="SPORTS | Astro Sports",MY | Astro Cricket FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709264
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name=" Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="SPORTS | Astro Sports", Astro Badminton
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton.my" tvg-name="MY | Astro Badminton" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton.png" group-title="SPORTS | Astro Sports",MY | Astro Badminton
 http://b1g.ooo:80/Tanvir/Tanvir/848711
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton2.my" tvg-name=" Astro Badminton 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton_2.png" group-title="SPORTS | Astro Sports", Astro Badminton 2
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroBadminton2.my" tvg-name="MY | Astro Badminton 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Badminton_2.png" group-title="SPORTS | Astro Sports",MY | Astro Badminton 2
 http://b1g.ooo:80/Tanvir/Tanvir/848710
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name=" W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports", W-Sport FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="W-Sport.my" tvg-name="MY | W-Sport FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="SPORTS | Astro Sports",MY | W-Sport FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709252
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name=" beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports", beIN Sports 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports.my" tvg-name="MY | beIN Sports 1 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 1 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/837115
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name=" beIN Sports 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Astro Sports", beIN Sports 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="beINSports2.my" tvg-name="MY | beIN Sports 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 2 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/837114
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name=" beIN Sports 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Astro Sports", beIN Sports 3 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="bEINSPORTS3.my" tvg-name="MY | beIN Sports 3 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png" group-title="SPORTS | Astro Sports",MY | beIN Sports 3 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/837113
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Eurosport.my" tvg-name=" Eurosport HD" tvg-logo="https://image.mypanel.cc/?img=http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjK1axgz19hLe8acqXVeJ1h7nAI_uyPgkURSzTKcsn6Q.png" group-title="SPORTS | Astro Sports", Eurosport HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Eurosport.my" tvg-name="MY | Eurosport HD" tvg-logo="https://image.mypanel.cc/?img=http://dmtn.tv:8080/images/PNloraZl_34fTzt064WXyjK1axgz19hLe8acqXVeJ1h7nAI_uyPgkURSzTKcsn6Q.png" group-title="SPORTS | Astro Sports",MY | Eurosport HD
 http://b1g.ooo:80/Tanvir/Tanvir/709265
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name=" WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports", WWE Network HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="WWENetwork.my" tvg-name="MY | WWE Network HD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/09/WWE-Network.png" group-title="SPORTS | Astro Sports",MY | WWE Network HD
 http://b1g.ooo:80/Tanvir/Tanvir/709248
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name=" SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | Astro Sports", SkyNet Golf FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="GolfChannel.my" tvg-name="MY | SkyNet Golf FHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/AstroGolf.png" group-title="SPORTS | Astro Sports",MY | SkyNet Golf FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709249
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFoxSportsUltra.au" tvg-name=" GNIX Sports HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="SPORTS | Astro Sports", GNIX Sports HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NSW-SydneyFoxSportsUltra.au" tvg-name="MY | GNIX Sports HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/GINX.png" group-title="SPORTS | Astro Sports",MY | GNIX Sports HD
 http://b1g.ooo:80/Tanvir/Tanvir/709255
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name=" Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports", Astro Arena 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena.my" tvg-name="MY | Astro Arena FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_1_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709254
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",Astro Arena 2 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroArena2.my" tvg-name="MY | Astro Arena 2 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Arena_2_2024.png" group-title="SPORTS | Astro Sports",MY | Astro Arena 2 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709266
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV 1 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV HD
+http://b1g.ooo:80/Tanvir/Tanvir/709253
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV.sg" tvg-name="MY | SPOTV FHD" tvg-logo="https://s9.gifyu.com/images/SUl6z.png" group-title="SPORTS | Astro Sports",MY | SPOTV FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709251
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="MY | SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | Astro Sports",MY | SPOTV 2 FHD
 http://b1g.ooo:80/Tanvir/Tanvir/709250
-EXTINF:-1 xui-id="{XUI_ID}" tvg-id="MUTV.hk" tvg-name="MY | MUTV HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/09/MUTV.png" group-title="SPORTS | Astro Sports",MY | MUTV HD
-http://b1g.ooo:80/Tanvir/Tanvir/709253
+
 
 
 ====================================HUB SPORTS=================================================
