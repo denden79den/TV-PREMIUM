@@ -1,3 +1,157 @@
+============================TV NASIONAL============================================
+
+
+#EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="TV NASIONAL",ANTV
+https://mantul.biz.id:443/aruba/aruba/206.ts
+#EXTINF:-1 tvg-id="SCTV.id" tvg-name="SCTV FHD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelAknz-uhYmfhez0L1ouMtyY5FUb78GsT0_uVrybEGPxQ.png" group-title="TV NASIONAL",SCTV FHD
+https://mantul.biz.id:443/aruba/aruba/432.ts
+#EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV One" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg05nuK2R4USmS8q11SWts7GfvEUf1OGoj9qU7QuCpUzV9oxJVE0JV-acxd2O-0n_XqMzrd6XHkoKdeiTI7EO7ea05gU6yu3wGH2NSw_g8EgETwVRQr6Psf9WzBSyma9QZJTzuelp4OJz5F1LfGGgwI8gsAdFNzWXaXegSHmQc-G0.png" group-title="TV NASIONAL",TV One
+https://mantul.biz.id:443/aruba/aruba/219.ts
+#EXTINF:-1 tvg-id="DuniaLain.id" tvg-name="Dunia Lain" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenxklEBP7HEKyxOfs0CiUfxKjyGo3S64AVCneVsqHn0dw.png" group-title="TV NASIONAL",Dunia Lain
+https://mantul.biz.id:443/aruba/aruba/246.ts
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar HD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yen6THsAilPp4S7F4Cx1nZ2GRcRhyzLCZ9H61bsrsOEeaQ.png" group-title="TV NASIONAL",Indosiar HD
+https://mantul.biz.id:443/aruba/aruba/5286.ts
+#EXTINF:-1 tvg-id="RCTI.id" tvg-name="RCTI HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_hQLLUH6FRA-f05CTt3fkCvV9pUaPkSG6-iCXgE7RLHg.png" group-title="TV NASIONAL",RCTI HD
+https://mantul.biz.id:443/aruba/aruba/4906.ts
+#EXTINF:-1 tvg-id="" tvg-name="MNC TV HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_M9o_ig3lupuxbMkR8E6OTquhVYjUdqos4TEFj06nKKg.png" group-title="TV NASIONAL",MNC TV HD
+https://mantul.biz.id:443/aruba/aruba/11257.ts
+#EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="Moji tv" tvg-logo="" group-title="TV NASIONAL",Moji tv
+https://mantul.biz.id:443/aruba/aruba/8251.ts
+#EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV FHD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="TV NASIONAL",NET TV FHD
+https://mantul.biz.id:443/aruba/aruba/215.ts
+#EXTINF:-1 tvg-id="RajawaliTV.id" tvg-name="RTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemU43nKABVScoFAFRyhT-VEXeBu8etD9AFE51OCkNLUJg.png" group-title="TV NASIONAL",RTV
+https://mantul.biz.id:443/aruba/aruba/217.ts
+#EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TV NASIONAL",TVRI
+https://mantul.biz.id:443/aruba/aruba/39.ts
+#EXTINF:-1 tvg-id="VisionPrime.id" tvg-name="Vision Prime" tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsThkRVaTEjGh_pgyHjwTzco.png" group-title="TV NASIONAL",Vision Prime
+https://mantul.biz.id:443/aruba/aruba/4925.ts
+#EXTINF:-1 tvg-id="GTV.id" tvg-name="GTV HD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_dfcS2rxlBR2YIaPB0xJUJgOZL3e6go3OpaMr0tEk9iQ.png" group-title="TV NASIONAL",GTV HD
+https://mantul.biz.id:443/aruba/aruba/8932.ts
+#EXTINF:-1 tvg-id="INews.id" tvg-name="INews TV" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="TV NASIONAL",INews TV
+https://mantul.biz.id:443/aruba/aruba/193.ts
+#EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://mantul.biz.id:443/images/pab2R7PWBHNTPmE5N3UhiLLHf2JmUPhCSjh3QT2-G7jSYCp4GDYk7GHFnYUcMYfPKlc7oz86uzkC52ltFhIL-qgje3X8JLQWmcEwzXgmi5A.png" group-title="TV NASIONAL",Kompas TV
+https://mantul.biz.id:443/aruba/aruba/210.ts
+#EXTINF:-1 tvg-id="Trans7.id" tvg-name="Trans 7" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="TV NASIONAL",Trans 7
+https://mantul.biz.id:443/aruba/aruba/218.ts
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7 FHD" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="TV NASIONAL",Trans 7 FHD
+https://mantul.biz.id:443/aruba/aruba/239.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="TV NASIONAL",TransTV
+https://mantul.biz.id:443/aruba/aruba/31.ts
+#EXTINF:-1 tvg-id="TransTV.id" tvg-name="TransTV FHD" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="TV NASIONAL",TransTV FHD
+https://mantul.biz.id:443/aruba/aruba/240.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lokal-Trans Tv" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg0ZtrxiLbqvUTLwRTGgU7FkIQ-iTHznxre-gRihG7-7zqFX4kj3z8TL8Ct_A-1hQkPMbFuk3P8lq05Jpx9IxGiQwKzsMdaHB4tfmo1BeDFg4IQLFblQiyf62U1tzgVIkg_wSpQnJfwulH5VZUu9lKcs1TQfGJJW8JFJSu1pgUqsM.png" group-title="TV NASIONAL",Lokal-Trans Tv
+https://mantul.biz.id:443/aruba/aruba/6543.ts
+#EXTINF:-1 tvg-id="" tvg-name="Lokal-Trans7" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yel6hKZU3f1qhV-ZxH9taQD1xfGoftVTuxPdDK6hzvyFjg.png" group-title="TV NASIONAL",Lokal-Trans7
+https://mantul.biz.id:443/aruba/aruba/6538.ts
+#EXTINF:-1 tvg-id="MentariTV.id" tvg-name="Mentari Tv" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/78/Mentari_TV.png/revision/latest?cb=20210117102858" group-title="TV NASIONAL",Mentari Tv
+https://mantul.biz.id:443/aruba/aruba/35.ts
+#EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelv4h9faQNgeZ4klibiqLT0W_IqQTBrPvTnXhqzuNFujg.png" group-title="TV NASIONAL",Metro TV
+https://mantul.biz.id:443/aruba/aruba/214.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(a)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="TV NASIONAL",[ID] SCTV(a)
+http://iptv12k.com:35461/654321/123456/2184
+#EXTINF:-1 tvg-id="" tvg-name="SCTV(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="TV NASIONAL",SCTV(c)
+http://iptv12k.com:35461/654321/123456/9928
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(a)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Indosiar_2015.svg/1200px-Indosiar_2015.svg.png" group-title="TV NASIONAL",INDOSIAR(a)
+http://iptv12k.com:35461/654321/123456/4802
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(c)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",INDOSIAR(c)
+http://iptv12k.com:35461/654321/123456/2187
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR(b) TLLL" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/indosiar-id.png" group-title="TV NASIONAL",INDOSIAR(b) TLLL
+http://iptv12k.com:35461/654321/123456/1814
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RCTI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/rcti_id.png" group-title="TV NASIONAL",[ID] RCTI
+http://iptv12k.com:35461/654321/123456/1812
+#EXTINF:-1 tvg-id="" tvg-name="[ID] SCTV(b)" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ss/sctv_id.png" group-title="TV NASIONAL",[ID] SCTV(b)
+http://iptv12k.com:35461/654321/123456/1811
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans 7" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_7_id.png" group-title="TV NASIONAL",[ID] Trans 7
+http://iptv12k.com:35461/654321/123456/1810
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Trans TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/trans_tv_id.png" group-title="TV NASIONAL",[ID] Trans TV
+http://iptv12k.com:35461/654321/123456/1809
+#EXTINF:-1 tvg-id="KIX.id" tvg-name="[ID] KiX" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/1200px-KIX_logo.svg.png" group-title="TV NASIONAL",[ID] KiX
+http://iptv12k.com:35461/654321/123456/1807
+#EXTINF:-1 tvg-id="" tvg-name="[ID] ANTV" tvg-logo="https://photos.live-tv-channels.org/tv-logo/id-antv-9615.jpg" group-title="TV NASIONAL",[ID] ANTV
+http://iptv12k.com:35461/654321/123456/1806
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TV One" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="TV NASIONAL",[ID] TV One
+http://iptv12k.com:35461/654321/123456/1805
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Metro TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="TV NASIONAL",[ID] Metro TV
+http://iptv12k.com:35461/654321/123456/1804
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Kompas TV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="TV NASIONAL",[ID] Kompas TV
+http://iptv12k.com:35461/654321/123456/1803
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL",[ID] TVRI
+http://iptv12k.com:35461/654321/123456/1802
+#EXTINF:-1 tvg-id="" tvg-name="[ID] iNews" tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="TV NASIONAL",[ID] iNews
+http://iptv12k.com:35461/654321/123456/1799
+#EXTINF:-1 tvg-id="" tvg-name="[ID] MNC TV id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/mnc_id_tv.png" group-title="TV NASIONAL",[ID] MNC TV id 8k
+http://iptv12k.com:35461/654321/123456/2175
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TVRI id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tvri-id.png" group-title="TV NASIONAL",[ID] TVRI id 8k
+http://iptv12k.com:35461/654321/123456/2172
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Cinema World id 8k" tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinema_world_asia.png" group-title="TV NASIONAL",[ID] Cinema World id 8k
+http://iptv12k.com:35461/654321/123456/2124
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Bali TV" tvg-logo="https://itsmiyagi.site:443/images/c9f3eda90e1cdc0a29704e9322f29f97.png" group-title="TV NASIONAL",[ID] Bali TV
+http://iptv12k.com:35461/654321/123456/1786
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JakTV TLLL" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] JakTV TLLL
+http://iptv12k.com:35461/654321/123456/1784
+#EXTINF:-1 tvg-id="" tvg-name="[ID] JTV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] JTV
+http://iptv12k.com:35461/654321/123456/1783
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Music TV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] Music TV
+http://iptv12k.com:35461/654321/123456/1782
+#EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] RTV
+http://iptv12k.com:35461/654321/123456/1770
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] Vision Prime
+http://iptv12k.com:35461/654321/123456/1769
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] HBO
+http://iptv12k.com:35461/654321/123456/1748
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="TV NASIONAL",[ID] TvN Movies
+http://iptv12k.com:35461/654321/123456/1747
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] HBO Family
+http://iptv12k.com:35461/654321/123456/1746
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="TV NASIONAL",[ID] HGTV
+http://iptv12k.com:35461/654321/123456/1744
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] TLC
+http://iptv12k.com:35461/654321/123456/1743
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="TV NASIONAL",SCTV(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="TV NASIONAL",MNCTV(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="TV NASIONAL",RCTI(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="TV NASIONAL",GTV(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="TV NASIONAL",Trans Tv(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="TV NASIONAL",Trans7(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TV NASIONAL",Indosiar(pft)televizo
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="TV NASIONAL", ID ▎RCTI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505867
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="TV NASIONAL", ID ▎MNC TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505855
+#EXTINF:-1  tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/39/GTV_logo_%282017%29.png" group-title="TV NASIONAL", ID ▎GTV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505835
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/tt/tv_one_id.png" group-title="TV NASIONAL",  ID ▎TV ONE
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505878
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TV NASIONAL", ID ▎INDOSIAR
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505849
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/ii/inews-id.png" group-title="TV NASIONAL", ID ▎INEWS
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505850
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL", ID ▎MOJI
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505856
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/nn/net-id.png" group-title="TV NASIONAL", ID ▎NET
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505860
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="TV NASIONAL", ID ▎TRANS 7
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505875
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="TV NASIONAL", ID ▎TRANS TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505876
+#EXTINF:-1  tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL", ID ▎TV 9 NUSANTARA
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505877
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/kk/kompas-tv-id.png" group-title="TV NASIONAL", ID ▎KOMPAS TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505851
+#EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/mm/metro_tv_id.png" group-title="TV NASIONAL", ID ▎METRO TV
+http://mag.king-4k.cc:80/00447341550145nigel2/45C411/1505853
+
+
 =================================TELEVIZO===========================================
 
 
