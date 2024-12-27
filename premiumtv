@@ -96,17 +96,17 @@ http://iptv12k.com:35461/654321/123456/1783
 http://iptv12k.com:35461/654321/123456/1782
 #EXTINF:-1 tvg-id="" tvg-name="[ID] RTV" tvg-logo="https://www.lyngsat-logo.com/logo/tv/rr/riau-tv-id.png" group-title="TV NASIONAL",[ID] RTV
 http://iptv12k.com:35461/654321/123456/1770
-#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] Vision Prime
+#EXTINF:-1 tvg-id="" tvg-name="[ID] Vision Prime" tvg-logo="https://www.visionplus.id/images/repository/005/50005-SNAPSHOT-l.png" group-title="TV NASIONAL",[ID] Vision Prime
 http://iptv12k.com:35461/654321/123456/1769
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] HBO
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO" tvg-logo="https://i.pinimg.com/236x/eb/ab/22/ebab22dc1439f0fdb4da05bc21caab79.jpg" group-title="TV NASIONAL",[ID] HBO
 http://iptv12k.com:35461/654321/123456/1748
-#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://www.google.com/url?sa=i&url=https%3A%2F%2Fmobile.twitter.com%2Ftvn_movies&psig=AOvVaw24dfI3jPr_GouaVOYs26IQ&ust=1645680712356000&source=images&cd=vfe&ved=0CAsQjRxqFwoTCIjE8MOMlfYCFQAAAAAdAAAAABAT" group-title="TV NASIONAL",[ID] TvN Movies
+#EXTINF:-1 tvg-id="TVNMovies.id" tvg-name="[ID] TvN Movies" tvg-logo="https://images.indihometv.com/logo_tvnmovies_ver1.png" group-title="TV NASIONAL",[ID] TvN Movies
 http://iptv12k.com:35461/654321/123456/1747
-#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] HBO Family
+#EXTINF:-1 tvg-id="" tvg-name="[ID] HBO Family" tvg-logo="https://i.pinimg.com/236x/d7/14/9a/d7149a213a4d0aeafda51c556df8f360.jpg" group-title="TV NASIONAL",[ID] HBO Family
 http://iptv12k.com:35461/654321/123456/1746
 #EXTINF:-1 tvg-id="" tvg-name="[ID] HGTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/05/HGTV_logo.png" group-title="TV NASIONAL",[ID] HGTV
 http://iptv12k.com:35461/654321/123456/1744
-#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://i.ibb.co/4fXZt6w/shareext-firsmedia-logo.jpg" group-title="TV NASIONAL",[ID] TLC
+#EXTINF:-1 tvg-id="" tvg-name="[ID] TLC" tvg-logo="https://brandslogos.com/wp-content/uploads/images/large/tlc-logo.png" group-title="TV NASIONAL",[ID] TLC
 http://iptv12k.com:35461/654321/123456/1743
 
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="TV NASIONAL",SCTV(pft)televizo
