@@ -2018,3 +2018,312 @@ http://b1g.ooo:80/Tanvir/Tanvir/697161
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="VsportPremierLeague4.no" tvg-name="NO | V Sport Premier League 4 (Non-English Channel)" tvg-logo="https://raw.githubusercontent.com/tv-logo/tv-logos/main/countries/nordic/norway/v-sport-premier-league-4-no.png" group-title="SPORTS | True PL Football / V Sport PL",NO | V Sport Premier League 4 (Non-English Channel)
 http://b1g.ooo:80/Tanvir/Tanvir/396308
 
+
+
+===============================SPORT | DEFAULTGEN======================================
+
+
+#EXTINF:-1 tvg-id="NowSportsPremierLeagueTV.hk" tvg-name="4K HK Now Sports (EPL)" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",4K HK Now Sports (EPL)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425322
+#EXTINF:-1 tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK Now Premier Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425332
+#EXTINF:-1 tvg-id="NowSportsPremierLeague2.hk" tvg-name="HK Now Premier Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425333
+#EXTINF:-1 tvg-id="NowSportsPremierLeague3.hk" tvg-name="HK Now Premier Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425334
+#EXTINF:-1 tvg-id="NowSportsPremierLeague4.hk" tvg-name="HK Now Premier Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425335
+#EXTINF:-1 tvg-id="NowSportsPremierLeague5.hk" tvg-name="HK Now Premier Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425336
+#EXTINF:-1 tvg-id="NowSportsPremierLeague6.hk" tvg-name="HK Now Premier Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 6
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425337
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 7
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425331
+#EXTINF:-1 tvg-id="" tvg-name="HK Now Premier Sports 8" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Premier Sports 8
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425330
+#EXTINF:-1 tvg-id="NowSports1.hk" tvg-name="HK Now Sports 1" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425329
+#EXTINF:-1 tvg-id="beINNowSports2.hk" tvg-name="HK Now Sports 2" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425328
+#EXTINF:-1 tvg-id="NowSports3.hk" tvg-name="HK Now Sports 3" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425327
+#EXTINF:-1 tvg-id="NowSports4.hk" tvg-name="HK Now Sports 4" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425326
+#EXTINF:-1 tvg-id="NowSports5.hk" tvg-name="HK Now Sports 5" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425325
+#EXTINF:-1 tvg-id="NowSports6.hk" tvg-name="HK Now Sports 6" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 6
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425324
+#EXTINF:-1 tvg-id="NowSports7.hk" tvg-name="HK Now Sports 7" tvg-logo="https://www.nowtv.now.com/wp-content/uploads/2020/01/600-Now-Sports.png" group-title="SPORT | DEFAULTGEN",HK Now Sports 7
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/425323
+
+
+#EXTINF:-1 tvg-id="HubSports1.sg" tvg-name="Hub Sport 1 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Sport 1 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501593
+#EXTINF:-1 tvg-id="HubSports2.sg" tvg-name="Hub Sports 2 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Sports 2 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501592
+#EXTINF:-1 tvg-id="HubSports3.sg" tvg-name="Hub Sports 3 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Sports 3 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501591
+#EXTINF:-1 tvg-id="HubSports4.sg" tvg-name="Hub Sports 4 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Sports 4 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501590
+#EXTINF:-1 tvg-id="HubSports5.sg" tvg-name="Hub Sports 5 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Sports 5 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501589
+#EXTINF:-1 tvg-id="Hub_Premier_1" tvg-name="Hub Premier 1 FHD:" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 1 FHD:
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501577
+#EXTINF:-1 tvg-id="Hub_Premier_2" tvg-name="Hub Premier 2 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 2 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501578
+#EXTINF:-1 tvg-id="Hub_Premier_2" tvg-name="Hub Premier 2 UHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 2 UHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501588
+#EXTINF:-1 tvg-id="Hub_Premier_3" tvg-name="Hub Premier 3 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 3 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501579
+#EXTINF:-1 tvg-id="Hub_Premier_4" tvg-name="Hub Premier 4 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 4 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501580
+#EXTINF:-1 tvg-id="Hub_Premier_5" tvg-name="Hub Premier 5 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 5 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501581
+#EXTINF:-1 tvg-id="Hub_Premier_6" tvg-name="Hub Premier 6 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 6 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501582
+#EXTINF:-1 tvg-id="Hub_Premier_7" tvg-name="Hub Premier 7 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 7 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501583
+#EXTINF:-1 tvg-id="Hub_Premier_8" tvg-name="Hub Premier 8 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 8 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501584
+#EXTINF:-1 tvg-id="Hub_Premier_9" tvg-name="Hub Premier 9 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 9 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501585
+#EXTINF:-1 tvg-id="Hub_Premier_10" tvg-name="Hub Premier 10 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 10 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501586
+#EXTINF:-1 tvg-id="Hub_Premier_11" tvg-name="Hub Premier 11 FHD" tvg-logo="https://cdn11.bigcommerce.com/s-mgnhjeo3ld/product_images/uploaded_images/hub-sports.png" group-title="SPORT | DEFAULTGEN",Hub Premier 11 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/501587
+
+
+#EXTINF:-1 tvg-id="1.OPTUS" tvg-name="AU Optus 1 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 1 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376362
+#EXTINF:-1 tvg-id="2.OPTUS" tvg-name="AU Optus 2 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 2 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376363
+#EXTINF:-1 tvg-id="3.OPTUS" tvg-name="AU Optus 3 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 3 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376364
+#EXTINF:-1 tvg-id="4.OPTUS" tvg-name="AU Optus 4  HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 4  HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376365
+#EXTINF:-1 tvg-id="5.OPTUS" tvg-name="AU Optus 5  HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 5  HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376366
+#EXTINF:-1 tvg-id="6.OPTUS" tvg-name="AU Optus 6 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 6 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376367
+#EXTINF:-1 tvg-id="7.OPTUS" tvg-name="AU Optus 7 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 7 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376368
+#EXTINF:-1 tvg-id="8.OPTUS" tvg-name="AU Optus 8 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 8 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376369
+#EXTINF:-1 tvg-id="9.OPTUS" tvg-name="AU Optus 9 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 9 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376370
+#EXTINF:-1 tvg-id="10.OPTUS" tvg-name="AU Optus 10 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 10 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376371
+#EXTINF:-1 tvg-id="OptusSport11.au" tvg-name="AU Optus 11 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 11 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376372
+#EXTINF:-1 tvg-id="OptusSport12.au" tvg-name="AU Optus 12 HD (D)" tvg-logo="https://www.canstarblue.com.au/wp-content/uploads/2019/06/optus-sport-logo.png" group-title="SPORT | DEFAULTGEN",AU Optus 12 HD (D)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/376373
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name="SS: ESPN" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN",SS: ESPN
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609327
+#EXTINF:-1 tvg-id="SuperSportAction.za" tvg-name=" Action" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Action
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609318
+#EXTINF:-1 tvg-id="SuperSportBlitz.za" tvg-name=" Blitz" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Blitz
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609311
+#EXTINF:-1 tvg-id="SuperSportCricket.za" tvg-name=" Cricket" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Cricket
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609323
+#EXTINF:-1 tvg-id="SuperSportFootball.za" tvg-name=" Football / WC Fan Zone" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Football 
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609319
+#EXTINF:-1 tvg-id="SuperSportGolf.za" tvg-name=" Golf" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Golf
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609324
+#EXTINF:-1 tvg-id="SuperSportGrandstand.za" tvg-name=" Grandstand" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Grandstand
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609315
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name=" La Liga / WC Select 1" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", La Liga 
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609313
+#EXTINF:-1 tvg-id="SuperSportMaximo1.za" tvg-name=" Maximo" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Maximo
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609328
+#EXTINF:-1 tvg-id="SuperSportMotorsport.za" tvg-name=" Motorsports" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Motorsports
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609325
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name=" Premier League /  WC Extra" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Premier League 
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609312
+#EXTINF:-1 tvg-id="SuperSportPSL.za" tvg-name=" PSL / WC Central" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", PSL 
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609314
+#EXTINF:-1 tvg-id="SuperSportRugby.za" tvg-name=" Rugby" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Rugby
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609322
+#EXTINF:-1 tvg-id="SuperSportTennis.za" tvg-name=" Tennis" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Tennis
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609326
+#EXTINF:-1 tvg-id="SuperSportVariety1.za" tvg-name=" Variety 01 / WC Select 2" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Variety 01 
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609317
+#EXTINF:-1 tvg-id="SuperSportVariety2.za" tvg-name=" Variety 02" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Variety 02
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609316
+#EXTINF:-1 tvg-id="SuperSportVariety3.za" tvg-name=" Variety 03" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Variety 03
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609321
+#EXTINF:-1 tvg-id="SuperSportVariety4.za" tvg-name=" Variety 04" tvg-logo="https://iconape.com/wp-content/files/hz/282292/png/supersport-logo.png" group-title="SPORT | DEFAULTGEN", Variety 04
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609320
+#EXTINF:-1 tvg-id="" tvg-name="AS: Arena 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: Arena 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609330
+#EXTINF:-1 tvg-id="" tvg-name="AS: Arena 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: Arena 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609331
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: beIN Sports 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609332
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: beIN Sports 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609333
+#EXTINF:-1 tvg-id="" tvg-name="AS: beIN Sports 3" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: beIN Sports 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609334
+#EXTINF:-1 tvg-id="" tvg-name="AS: Eurosport" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: Eurosport
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609335
+#EXTINF:-1 tvg-id="" tvg-name="AS: SPOTV" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SPOTV
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609336
+#EXTINF:-1 tvg-id="" tvg-name="AS: SPOTV 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SPOTV 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609337
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 1" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SuperSport 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609338
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 2" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SuperSport 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609339
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 3" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SuperSport 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609340
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 4" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SuperSport 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609341
+#EXTINF:-1 tvg-id="" tvg-name="AS: SuperSport 5" tvg-logo="http://3.bp.blogspot.com/-vy8zO7jhsuc/VBvnSPstFhI/AAAAAAAAH1w/PhLMKHx4ixg/s1600/Astro_SuperSport_logo.png" group-title="SPORT | DEFAULTGEN",AS: SuperSport 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/609342
+
+
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 1" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sony Ten 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659499
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 2" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sony Ten 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659500
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 3" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sony Ten 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659501
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 4" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sony Ten 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659487
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sony Ten 5" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sony Ten 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659486
+#EXTINF:-1 tvg-id="" tvg-name="IN: Sports 18" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Sports 18
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659514
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 1 HD" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Star Sports Select 1 HD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659509
+#EXTINF:-1 tvg-id="" tvg-name="IN: Star Sports Select 2 HD" tvg-logo="https://cdn.pixabay.com/photo/2023/08/26/05/23/india-map-8214176_1280.png" group-title="SPORT | DEFAULTGEN",IN: Star Sports Select 2 HD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/659510
+
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="US: FUBO SPORTS NETWORK" tvg-logo="https://tvpmlogopus.samsungcloud.tv/platform/image/sourcelogo/vc/70/01/78/USAJ2200023Z0_20210525T051529.png" group-title="SPORT | DEFAULTGEN",US: FUBO SPORTS NETWORK
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/418199
+
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport SELECT" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_news.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport SELECT
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560112
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 1" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_1_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560121
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 2" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_2_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560120
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 3" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_3_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560119
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 4" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_4_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560118
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 5" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_5_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560117
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 6" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_6_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 6
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560116
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 7" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_7_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 7
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560115
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 8" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_8_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 8
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560114
+#EXTINF:-1 tvg-id="" tvg-name="NZ: SKY Sport 9" tvg-logo="https://static.sky.co.NZ:/sky/channel-logos/051_sky_sport_9_logo_stack_rgb.png" group-title="SPORT | DEFAULTGEN",NZ: SKY Sport 9
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560113
+
+
+#EXTINF:-1 tvg-id="eurosport1.uk" tvg-name="UK: Eurosport 1" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Eurosport 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508204
+#EXTINF:-1 tvg-id="eurosport2.uk" tvg-name="UK: Eurosport 2" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Eurosport 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508206
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 1 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 1 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560103
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 2 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 2 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560104
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 3 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 3 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560105
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 4 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 4 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560106
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 5 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 5 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560107
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 6 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 6 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560108
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 7 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 7 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560109
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 8 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 8 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560110
+#EXTINF:-1 tvg-id="" tvg-name="UK: Europsort XTRA 9 FHD" tvg-logo="https://logos-world.net/wp-content/uploads/2022/05/Eurosport-Logo-1989-700x394.png" group-title="SPORT | DEFAULTGEN",UK: Europsort XTRA 9 FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560111
+#EXTINF:-1 tvg-id="Fight.us" tvg-name="UK: Fight Sports" tvg-logo="https://i.imgur.com/nV55veq.png" group-title="SPORT | DEFAULTGEN",UK: Fight Sports
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508209
+#EXTINF:-1 tvg-id="freesports.uk" tvg-name="UK: FreeSports" tvg-logo="https://www.freeshot.live/upload/source/FreeSports-logo.png" group-title="SPORT | DEFAULTGEN",UK: FreeSports
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508210
+#EXTINF:-1 tvg-id="LaLigaTVInternational.uk" tvg-name="UK: LaLiga TV" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="SPORT | DEFAULTGEN",UK: LaLiga TV
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560087
+#EXTINF:-1 tvg-id="liverpoolfctv.uk" tvg-name="UK: LFC TV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/thumb/1/1f/LFC_TV_logo.png/250px-LFC_TV_logo.png" group-title="SPORT | DEFAULTGEN",UK: LFC TV
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508216
+#EXTINF:-1 tvg-id="MUTV.uk" tvg-name="UK: MUTV" tvg-logo="https://upload.wikimedia.org/wikipedia/en/b/b8/MUTV_logo.png" group-title="SPORT | DEFAULTGEN",UK: MUTV
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508219
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 01 (EVENT TIME ONLY)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6b73e045edb0c8f692022f99379f2774.png" group-title="SPORT | DEFAULTGEN",UK: PDC DARTS 01 (EVENT TIME ONLY)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/509484
+#EXTINF:-1 tvg-id="" tvg-name="UK: PDC DARTS 02 (EVENT TIME ONLY)" tvg-logo="http://onlytimewilltell.xyz:2086/images/6b73e045edb0c8f692022f99379f2774.png" group-title="SPORT | DEFAULTGEN",UK: PDC DARTS 02 (EVENT TIME ONLY)
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/509485
+#EXTINF:-1 tvg-id="premiersports.uk" tvg-name="UK: PREMIER SPORTS 1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png" group-title="SPORT | DEFAULTGEN",UK: PREMIER SPORTS 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508229
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="UK: PREMIER SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Premier_sports_logo_2018.svg/1280px-Premier_sports_logo_2018.svg.png" group-title="SPORT | DEFAULTGEN",UK: PREMIER SPORTS 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508231
+#EXTINF:-1 tvg-id="racinguk.uk" tvg-name="UK: Racing TV" tvg-logo="https://tauntonracecourse.co.uk/wp-content/uploads/2017/11/racing-uk-logo-v2.png" group-title="SPORT | DEFAULTGEN",UK: Racing TV
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508233
+#EXTINF:-1 tvg-id="skysportsnfl.uk" tvg-name="UK: SKY SPORTS Action/NFL" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Action/NFL
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508238
+#EXTINF:-1 tvg-id="skysportsarena.uk" tvg-name="UK: SKY SPORTS Arena" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Arena
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508240
+#EXTINF:-1 tvg-id="skysportsboxoffice.uk" tvg-name="UK: SKY SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Box Office [Events Only]
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508242
+#EXTINF:-1 tvg-id="skysportscricket.uk" tvg-name="UK: SKY SPORTS Cricket" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Cricket
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508244
+#EXTINF:-1 tvg-id="skysportsf1.uk" tvg-name="UK: SKY SPORTS F1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS F1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508246
+#EXTINF:-1 tvg-id="skysportsfootball.uk" tvg-name="UK: SKY SPORTS Football" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Football
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508248
+#EXTINF:-1 tvg-id="skysportsgolf.uk" tvg-name="UK: SKY SPORTS Golf" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Golf
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508250
+#EXTINF:-1 tvg-id="skysportsmainevent.uk" tvg-name="UK: SKY SPORTS Main Event" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Main Event
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508252
+#EXTINF:-1 tvg-id="skysportsmix.uk" tvg-name="UK: SKY SPORTS Mix" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Mix
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508254
+#EXTINF:-1 tvg-id="skysportsnews.uk" tvg-name="UK: Sky Sports News" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: Sky Sports News
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508068
+#EXTINF:-1 tvg-id="skysportspremiereleague.uk" tvg-name="UK: SKY SPORTS Premier League" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Premier League
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508256
+#EXTINF:-1 tvg-id="skysportsracing.uk" tvg-name="UK: SKY SPORTS Racing" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/Sky_Sports_logo_2017.svg/1280px-Sky_Sports_logo_2017.svg.png" group-title="SPORT | DEFAULTGEN",UK: SKY SPORTS Racing
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508258
+#EXTINF:-1 tvg-id="skysportstennis.uk" tvg-name="UK: Sky Sports Tennis FHD" tvg-logo="https://sender.epglogos.de/302x190_w/12182.png" group-title="SPORT | DEFAULTGEN",UK: Sky Sports Tennis FHD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/612562
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="UK: TNT SPORTS  1" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS  1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508184
+#EXTINF:-1 tvg-id="btsport2.uk" tvg-name="UK: TNT SPORTS 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508186
+#EXTINF:-1 tvg-id="btsport3.uk" tvg-name="UK: TNT SPORTS 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 3
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508187
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="UK: TNT SPORTS 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 4
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508189
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 5
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508191
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 6" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 6
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508192
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 7" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 7
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508193
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 8" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 8
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508194
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="UK: TNT SPORTS 9" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 9
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508195
+#EXTINF:-1 tvg-id="tntsports10.uk" tvg-name="UK: TNT SPORTS 10 HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS 10 HD
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/485630
+#EXTINF:-1 tvg-id="btsportsboxoffice.uk" tvg-name="UK: TNT SPORTS Box Office [Events Only]" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS Box Office [Events Only]
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508196
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK: TNT SPORTS Ultimate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS Ultimate
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508198
+#EXTINF:-1 tvg-id="BTSportUltimate.uk" tvg-name="UK: TNT SPORTS Ultimate ⁴ᴷ" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/46/TNT_Sports_Logo_Vertical_(2017).png" group-title="SPORT | DEFAULTGEN",UK: TNT SPORTS Ultimate ⁴ᴷ
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/508199
+#EXTINF:-1 tvg-id="" tvg-name="UK: Via Play sports 1" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="SPORT | DEFAULTGEN",UK: Via Play sports 1
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560088
+#EXTINF:-1 tvg-id="" tvg-name="UK: Via Play Sports 2" tvg-logo="http://www.userlogos.org/files/logos/macleod.mac/amazon.u.png" group-title="SPORT | DEFAULTGEN",UK: Via Play Sports 2
+http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/560089
+
+
+
