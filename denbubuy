@@ -16,10 +16,11 @@
 #KODIPROP:inputstream.adaptive.license_key=66744f2f3e774c339c4f812dc37737d8:814398c6cb279eed14f1134d0ea31266
 https://atemecdnbalancer-voe.sysln.id/live/eds/MetroTVHD/mpd/MetroTVHD.mpd
 
-
-
-#EXTINF:-1 tvg-id="TVOne" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="01. News TV",012. TVOne
-https://youtube.jitendra-kumar.workers.dev/wanda.m3u8?id=yNKvkPJl-tg
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. News TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",012. TVOne
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd
 
 
 
