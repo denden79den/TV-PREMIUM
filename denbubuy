@@ -596,6 +596,16 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="04. Premium TV",081. Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="04. Premium TV",082. Etv Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="04. Premium TV",083. Etv Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="04. Premium TV",084. Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
+
+
 
 
 ============================================================================================================================================================
