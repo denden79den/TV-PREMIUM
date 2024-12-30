@@ -34,12 +34,10 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/BTV.m3u8
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CNN.m3u8
 
 
-
-#EXTINF:-1 tvg-id="Kompas TV" tvg-name="Kompas TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="01. News TV",015. Kompas TV
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/KompasTV.m3u8
-
+#EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="01. News TV", 015. Kompas TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="01. News TV",016. CNBC Indonesia
