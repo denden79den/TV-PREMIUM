@@ -1398,18 +1398,18 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Cinemachi Kids {MT}
 https://mantul.biz.id:443/aruba/aruba/216.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Cinemachi XTRA {MT}
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="Mantap TV",Cinemachi XTRA {MT}
 https://mantul.biz.id:443/aruba/aruba/10886.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop
 https://mantul.biz.id:443/aruba/aruba/242.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 02
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 3
 https://mantul.biz.id:443/aruba/aruba/1092.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 03
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 4
 https://mantul.biz.id:443/aruba/aruba/13924.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 04
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 5
 https://mantul.biz.id:443/aruba/aruba/27431.ts
 
-#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj41hfEFm0BCGI0XxQGGEeQg.png" group-title="Mantap TV",HBO {MT}
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="Mantap TV",HBO {MT}
 https://mantul.biz.id:443/aruba/aruba/1.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj8K8151zXT0twascJAFmyak.png" group-title="Mantap TV",HBO Family {MT}
 https://mantul.biz.id:443/aruba/aruba/5.ts
