@@ -43,15 +43,10 @@ https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="01. News TV",016. CNBC Indonesia
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CnBc.m3u8
 
-
-
-#EXTINF:-1 tvg-id="iNewsTV" tvg-name="iNewsTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="01. News TV",017. iNewsTV
-#https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/iNewsTV.m3u8
-#EXTVLCOPT:http-referrer=https://www.visionplus.id/
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
-https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
-
+#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="01. News TV", 017. iNewsTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 
 
 #EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="01. News TV",018. SindoNews TV
@@ -67,12 +62,13 @@ https://flv.intechmedia.net/live/ch112.m3u8
 #EXTINF:-1 group-title="01. News TV" tvg-id="IDTV.id" tvg-logo="https://i.ibb.co.com/GFpcnV4/idtv-2.png",020. IDTV HD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 group-title="01. News TV" tvg-id="BeritaSatu.id" tvg-logo="https://i.ibb.co.com/ns5MQKJ/btv.png",021. BTV HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/136.m3u8
+#EXTINF:-1 tvg-id="BERITA SATU - [Channel 116].id" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co.com/ns5MQKJ/btv.png" group-title="01. News TV", 021. BTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/beritasatu/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=YouTV/1.7.16-prod.release+8ec73a15 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="01. News TV" tvg-id="seatoday.id" tvg-logo="https://i.ibb.co.com/7kqMwGB/sea-today.png",022. SEA TODAY HD
-https://flv.intechmedia.net/live/ch106.m3u8
+#EXTINF:-1 group-title="01. News TV" tvg-logo="https://i.ibb.co.com/7kqMwGB/sea-today.png",022. SEA TODAY HD
+https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
 #EXTVLCOPT:http-user-agent=TVRIKLIK/7.0 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="01. News TV" tvg-id="TVRIWorld.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",023. TVRI World HD
@@ -110,30 +106,25 @@ https://mantul.biz.id:443/inetwork/gayanet12/11257
 https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NetTV.m3u8
 
 
-#EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="02. Local TV" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-#https://mantul.biz.id:443/aruba/aruba/239
-#http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
-https://nonton.site:8443//live/XtreamFlixID/w9RLHbWJY4/35.ts
+#EXTINF:-1 tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV", 023. Trans 7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV", 024. Trans TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
+#EXTINF:-1 tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. Local TV", 025. ScTv
+#EXTHTTP:{"User-Agent":"Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Safari/537.36"}
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdngb196.indihometv.com/atm/DASH/sctv/manifest.mpd
 
-#EXTINF:-1 tvg-id="TransTV" tvg-name="TransTV" group-title="02. Local TV" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png",024. Trans TV
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://nonton.site:8443//live/XtreamFlixID/w9RLHbWJY4/34.ts
-
-
-
-#EXTINF:-1  tvg-id="SCTV" tvg-name="SCTV" group-title="02. Local TV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",025. ScTv
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-https://mantul.biz.id:443/aruba/aruba/432
-
-
-
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="02. Local TV" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-https://mantul.biz.id:443/aruba/aruba/5286
+#EXTINF:-1 tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. Local TV", 026. Indosiar
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdn14jtedge.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. Local TV",027. Moji TV
 https://mantul.biz.id:443/inetwork/gayanet12/8251
@@ -146,11 +137,13 @@ https://streaming.indihometv.com/atm/DASH/ANTV/manifest.mpd
 #EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="02. Local TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TVRINasional.m3u8
 
-#EXTINF:-1 group-title="02. Local TV" tvg-id="RajawaliTV.id" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png",030. RTV HD
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/37.m3u8
+#EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="02. Local TV", 030. RTV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 6.0; Nexus 5 Build/MRA58N) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/126.0.0.0 Mobile Safari/537.36
+#EXTVLCOPT:http-referrer=https://www.indihometv.com
+https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
 
-#EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="02. Local TV" tvg-id="nusantaratv.id" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png",031. Nusantara TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV", 031. Nusantara TV HD
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 #EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
