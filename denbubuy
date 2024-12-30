@@ -901,10 +901,11 @@ https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17938
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png",110. ChampionsTV2
 #EXTVLCOPT:http-user-agent=VidioPlayer/4.3.0-WITH_ADS
+#KODIPROP:inputstreamaddon=inputstream.adaptive
 #KODIPROP:inputstream.adaptive.manifest_type=dash
-#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://luck.openwindows038.workers.dev/play?id=6686&type=drm
-https://luck.openwindows038.workers.dev/play.mpd?id=6686&type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2187f9c470c459fdaf2970758c078589:6cde66e87bb899781fc1d9675a7ce9f0
+https://thedream.biz.id/Kusakudakes/rooid2.php/.mpd?id=17939
 
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png",111. ChampionsTV3
