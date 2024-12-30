@@ -106,10 +106,10 @@ https://mantul.biz.id:443/inetwork/gayanet12/8932
 https://mantul.biz.id:443/inetwork/gayanet12/11257
 
 
-
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png" group-title="02. Local TV", Net TV
-https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
-
+#EXTVLCOPT:http-referrer=https://www.indihometv.com/
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="02. Local TV" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png",022. NET TV HD
+https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NetTV.m3u8
 
 
 #EXTINF:-1 tvg-id="Trans7" tvg-name="Trans7" group-title="02. Local TV" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png",023. Trans 7
