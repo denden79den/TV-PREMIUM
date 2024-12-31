@@ -1397,7 +1397,7 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 ========================================Mantaps TV===================================
 
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Cinemachi Kids {MT}
+#EXTINF:-1 tvg-logo="https://www.visionplus.id/images/repository/968/49968-SNAPSHOT-m.png" group-title="Mantap TV",Cinemachi Kids {MT}
 https://mantul.biz.id:443/inetwork/gayanet12/216.ts
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="Mantap TV",Cinemachi XTRA {MT}
 https://mantul.biz.id:443/inetwork/gayanet12/10886.ts
