@@ -1445,7 +1445,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/265
 https://mantul.biz.id:443/inetwork/gayanet12/7
 #EXTINF:-1 tvg-logo="" group-title="Mantap TV",BEIN SPORT 2
 https://mantul.biz.id:443/inetwork/gayanet12/8
-#EXTINF:-1 tvg-logo="" group-title="Mantap TV",HISTORY
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_history_ver3.png" group-title="Mantap TV",HISTORY
 https://mantul.biz.id:443/inetwork/gayanet12/11
 
 
