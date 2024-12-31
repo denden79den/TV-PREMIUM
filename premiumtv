@@ -1401,17 +1401,13 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 https://mantul.biz.id:443/inetwork/gayanet12/216.ts
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="Mantap TV",Cinemachi XTRA {MT}
 https://mantul.biz.id:443/inetwork/gayanet12/10886.ts
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop
-'tps://mantul.biz.id:443/inetwork/gayanet12/242.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Mantap TV",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 3
-'https://mantul.biz.id:443/inetwork/gayanet12/1092.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Mantap TV",Etv Bioskop 3
 https://mantul.biz.id:443/inetwork/gayanet12/1092
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 4
-'https://mantul.biz.id:443/inetwork/gayanet12/13924.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Mantap TV",Etv Bioskop 4
 https://mantul.biz.id:443/inetwork/gayanet12/13924
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 5
-'https://mantul.biz.id:443/inetwork/gayanet12/27431.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="Mantap TV",Etv Bioskop 5
 https://mantul.biz.id:443/inetwork/gayanet12/27431
 
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="Mantap TV",HBO {MT}
