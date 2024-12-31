@@ -1396,67 +1396,68 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
 
 ========================================Mantaps TV===================================
 
+
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Cinemachi Kids {MT}
-https://mantul.biz.id:443/aruba/aruba/216.ts
+https://mantul.biz.id:443/inetwork/gayanet12/216.ts
 #EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi%20Xtra%20(black).png" group-title="Mantap TV",Cinemachi XTRA {MT}
-https://mantul.biz.id:443/aruba/aruba/10886.ts
+https://mantul.biz.id:443/inetwork/gayanet12/10886.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop
-'tps://mantul.biz.id:443/aruba/aruba/242.ts
+'tps://mantul.biz.id:443/inetwork/gayanet12/242.ts
 https://mantul.biz.id:443/inetwork/gayanet12/242
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 3
-'https://mantul.biz.id:443/aruba/aruba/1092.ts
+'https://mantul.biz.id:443/inetwork/gayanet12/1092.ts
 https://mantul.biz.id:443/inetwork/gayanet12/1092
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 4
-'https://mantul.biz.id:443/aruba/aruba/13924.ts
+'https://mantul.biz.id:443/inetwork/gayanet12/13924.ts
 https://mantul.biz.id:443/inetwork/gayanet12/13924
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Etv Bioskop 5
-'https://mantul.biz.id:443/aruba/aruba/27431.ts
+'https://mantul.biz.id:443/inetwork/gayanet12/27431.ts
 https://mantul.biz.id:443/inetwork/gayanet12/27431
 
 #EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="Mantap TV",HBO {MT}
-https://mantul.biz.id:443/aruba/aruba/1.ts
+https://mantul.biz.id:443/inetwork/gayanet12/1.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj8K8151zXT0twascJAFmyak.png" group-title="Mantap TV",HBO Family {MT}
-https://mantul.biz.id:443/aruba/aruba/5.ts
+https://mantul.biz.id:443/inetwork/gayanet12/5.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyc3azxFqDlXwo3dQXLqQnc.png" group-title="Mantap TV",HBO Hits {MT}
-https://mantul.biz.id:443/aruba/aruba/3.ts
+https://mantul.biz.id:443/inetwork/gayanet12/3.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekHySmj0dwDYi8CATwIOZmEU0lY8n9YOAu3mPrEghhG_g.png" group-title="Mantap TV",HBO Signature {MT}
-https://mantul.biz.id:443/aruba/aruba/1019.ts
+https://mantul.biz.id:443/inetwork/gayanet12/1019.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj25A1lSAAFYmtJ2N8UkELoc.png" group-title="Mantap TV",Cinemax FHD {MT}
-https://mantul.biz.id:443/aruba/aruba/89.ts
+https://mantul.biz.id:443/inetwork/gayanet12/89.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyz8vuUMLYGI8u4UrnWV6Lg.png" group-title="Mantap TV",AXN FHD {MT}
-https://mantul.biz.id:443/aruba/aruba/11539.ts
+https://mantul.biz.id:443/inetwork/gayanet12/11539.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelUQsOZCoZpu14hE9zMwSwQAG9z2Klkc-Syw8U7nGXF4A.png" group-title="Mantap TV",Bioskop Indonesia {MT}
-https://mantul.biz.id:443/aruba/aruba/243.ts
+https://mantul.biz.id:443/inetwork/gayanet12/243.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/RFpGgiFIwD-zg89GX_bnrLd8I6goRRFfXTdLMhD-WuZRmvjkpGhlQ1uoBGuSN8ZW1xrvk7SQTfQ2hWK-qk8wJ9DbY1_NgQmlGETEtBuyVrw.png" group-title="Mantap TV",Chinese Drama {MT}
-https://mantul.biz.id:443/aruba/aruba/304.ts
+https://mantul.biz.id:443/inetwork/gayanet12/304.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsSdj44aUCGhkgnttTuMZsNg.png" group-title="Mantap TV",CCM {MT}
-https://mantul.biz.id:443/aruba/aruba/1006.ts
+https://mantul.biz.id:443/inetwork/gayanet12/1006.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsRGqW5y4t-ATlf6c9FX2xR4.png" group-title="Mantap TV",Celestial Movies {MT}
-https://mantul.biz.id:443/aruba/aruba/249.ts
+https://mantul.biz.id:443/inetwork/gayanet12/249.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7H4bHESJlD2RtAAebhClZZX0l47tB42AQTw&usqp=CAU" group-title="Mantap TV",FLIK {MT}
-https://mantul.biz.id:443/aruba/aruba/223.ts
+https://mantul.biz.id:443/inetwork/gayanet12/223.ts
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="Mantap TV",Galaxy FHD {MT}
-https://mantul.biz.id:443/aruba/aruba/27991.ts
+https://mantul.biz.id:443/inetwork/gayanet12/27991.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBscGnUZwn7l0Im6V8ZY4YeeE.png" group-title="Mantap TV",Galaxy Premium FHD {MT}
-https://mantul.biz.id:443/aruba/aruba/296.ts
+https://mantul.biz.id:443/inetwork/gayanet12/296.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenYG-7jPISsjjANQVYJB8vXCnNZgzEdkT7I4UKKp9xzMw.png" group-title="Mantap TV",Thrill {MT}
-https://mantul.biz.id:443/aruba/aruba/250.ts
+https://mantul.biz.id:443/inetwork/gayanet12/250.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsdwa2HyfGCy6nTCPEOFtWE0.png" group-title="Mantap TV",My Cinema {MT}
-https://mantul.biz.id:443/aruba/aruba/18.ts
+https://mantul.biz.id:443/inetwork/gayanet12/18.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsaz9ADBfY4S7knMAM_1wXf8.png" group-title="Mantap TV",My Cinema Asia {MT}
-https://mantul.biz.id:443/aruba/aruba/13.ts
+https://mantul.biz.id:443/inetwork/gayanet12/13.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsYPFigh-ytD4ycqjNE4_vAQ.png" group-title="Mantap TV",My Family Channel {MT}
-https://mantul.biz.id:443/aruba/aruba/9.ts
+https://mantul.biz.id:443/inetwork/gayanet12/9.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBseQKR6er6JiSIzo2Jyz7BVU.png" group-title="Mantap TV",My Kidz {MT}
-https://mantul.biz.id:443/aruba/aruba/2219.ts
+https://mantul.biz.id:443/inetwork/gayanet12/2219.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJD7l2mG8Tk2ukwduExO58z9HGBftr-Neu_ds3ARiOTQQw.png" group-title="Mantap TV",Rock Action {MT}
-https://mantul.biz.id:443/aruba/aruba/133.ts
+https://mantul.biz.id:443/inetwork/gayanet12/133.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/HUySdt2SHXRaYy2IS3iaPuL9Knt1D45sqVGG8mls7ah7FjngNJQcCXrKXmYlqwshbJHQBgcX2n1dYvgvbdFmYP01iN4B9VZKgKujr1k3fU1eJXcTnAB4gnrQH5dO7Ahw.png" group-title="Mantap TV",Rock Entertaiment {MT}
-https://mantul.biz.id:443/aruba/aruba/135.ts
+https://mantul.biz.id:443/inetwork/gayanet12/135.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj7Sx7G8c47RFL1u6jKASNy4.png" group-title="Mantap TV",TVN Movies FHD {MT}
-https://mantul.biz.id:443/aruba/aruba/14544.ts
+https://mantul.biz.id:443/inetwork/gayanet12/14544.ts
 #EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqgxoFbtXRJphfA_cp4hvc-xLEqEooMzyO224RWrX9yedKnxNwrZGUz5w6CWuheU_RNmE5p-tlRPW6jAsuNqGjzx9QhkpaVdGSeaxTVHjDifDTXsde9QZVrWGASeWfuIcDkjX5vNIXYePeGksvgXKAXYFAGKshLyO9kAVWFJz4g6OovTLLrohq2-CSaiv6FBG-8g.png" group-title="Mantap TV",Zeebioskop {MT}
-https://mantul.biz.id:443/aruba/aruba/261.ts
+https://mantul.biz.id:443/inetwork/gayanet12/261.ts
 
 
 
