@@ -511,13 +511,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-
-#EXTINF:-1 tvg-id="CCM" tvg-name="CCM" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2BVya9g_5xaMqKIjEzIT5w_GFBA-bYFa38WJeg_uQzm8Z2cxlCmPh37XRgV0xyLPUwiY-7i30L47RrrzjdwCiS-KT7W_AdD9cnPF11OdmRp93KhKB0hzMiFiK6csCRxlEOiSMfQqBexU/s1600/CELESTIAL+CLASSIC+MOVIES+logo.png" group-title="04. Premium TV",067. CCM
-#KODIPROP:inputstream.adaptive.stream_headers=referer=&user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:90.0) Gecko/20100101 Firefox/90.0
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
-https://dsgtq5sngxkde.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd|Referer=https://www.visionplus.id/&user-agent=Android
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhY2BVya9g_5xaMqKIjEzIT5w_GFBA-bYFa38WJeg_uQzm8Z2cxlCmPh37XRgV0xyLPUwiY-7i30L47RrrzjdwCiS-KT7W_AdD9cnPF11OdmRp93KhKB0hzMiFiK6csCRxlEOiSMfQqBexU/s1600/CELESTIAL+CLASSIC+MOVIES+logo.png" tvg-id="CCM.id" tvg-name="ID: CCM" group-title="04. Premium TV",067. CCM
+https://cempedak-live-cdn.mncnow.id/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
 
 
 #EXTINF:-1 tvg-id="CelestialMoviesIndonesia.id" tvg-name="Celestial Movies Indonesia" tvg-logo="https://astrobyondinfo.weebly.com/uploads/5/1/2/5/5125023/astro-celestialmovies-hd-ch309_orig.png" group-title="04. Premium TV",068. Celestial Movies
