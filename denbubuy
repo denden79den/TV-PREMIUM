@@ -1939,22 +1939,86 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86274
 #EXTINF:-1 tvg-id="" tvg-name="Hub Premier 5 ⁴ᵏ" tvg-logo="https://i.ibb.co.com/j3MDhbF/hub-5.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",Hub Premier 5
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86275
 
-#EXTINF:-1 tvg-id="" tvg-name="Maximo ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Maximo ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
-#EXTINF:-1 tvg-id="" tvg-name="La Liga ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS La Liga ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62983
-#EXTINF:-1 tvg-id="" tvg-name="Premier League ᶠᴴᴰ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Premier League ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62984
-#EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Action ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",^AF: SS Action ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
-#EXTINF:-1 tvg-id="" tvg-name="Variety 1 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Variety 1 ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62994
-#EXTINF:-1 tvg-id="" tvg-name="Variety 2 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Variety 2 ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62993
-#EXTINF:-1 tvg-id="" tvg-name="Variety 3 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Variety 3 ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
-#EXTINF:-1 tvg-id="" tvg-name="Variety 4 ⁴ᴷ" tvg-logo="https://i.ibb.co.com/bW2BDwj/SUPERSPORT-2.png" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SS Variety 4 ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
+#EXTINF:-1 tvg-id="ACTION.za" tvg-name="SuperSport Action" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Action
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium420/index.m3u8
+#EXTINF:-1 tvg-id="CRICKET.za" tvg-name="SuperSport Cricket" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-cricket-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Cricket
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium368/index.m3u8
+#EXTINF:-1 tvg-id="FOOTBALL.za" tvg-name="Supersport Football" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-football-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",Supersport Football
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium56/index.m3u8
+#EXTINF:-1 tvg-id="GOLF.za" tvg-name="SuperSport Golf" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-golf-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Golf
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium422/index.m3u8
+#EXTINF:-1 tvg-id="GRANDSTAND.za" tvg-name="SuperSport Grandstand" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-grandstand-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Grandstand
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium412/index.m3u8
+#EXTINF:-1 tvg-id="LA.LIGA.za" tvg-name="SuperSport LaLiga" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-laliga-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport LaLiga
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium415/index.m3u8
+#EXTINF:-1 tvg-id="MAXIMO.1.za" tvg-name="SuperSport MaXimo 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-maximo1-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport MaXimo 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium572/index.m3u8
+#EXTINF:-1 tvg-id="MOTORSPORT.za" tvg-name="SuperSport Motorsport" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-motorsport-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Motorsport
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium424/index.m3u8
+#EXTINF:-1 tvg-id="SS.Premier.League.za" tvg-name="SuperSport Premier league" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-premier-league-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Premier league
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium414/index.m3u8
+#EXTINF:-1 tvg-id="PSL.za" tvg-name="SuperSport PSL" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-psl-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport PSL
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium413/index.m3u8
+#EXTINF:-1 tvg-id="RUGBY.za" tvg-name="SuperSport Rugby" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-rugby-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Rugby
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium421/index.m3u8
+#EXTINF:-1 tvg-id="TENNIS.za" tvg-name="SuperSport Tennis" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-tennis-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Tennis
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium423/index.m3u8
+#EXTINF:-1 tvg-id="VARIETY.1.za" tvg-name="SuperSport Variety 1" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety1-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Variety 1
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium416/index.m3u8
+#EXTINF:-1 tvg-id="VARIETY.2.za" tvg-name="SuperSport Variety 2" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety2-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Variety 2
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium417/index.m3u8
+#EXTINF:-1 tvg-id="VARIETY.3.za" tvg-name="SuperSport Variety 3" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety3-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Variety 3
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium418/index.m3u8
+#EXTINF:-1 tvg-id="VARIETY.4.za" tvg-name="SuperSport Variety 4" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-variety4-za.png?raw=true" group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ",SuperSport Variety 4
+#EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
+#EXTVLCOPT:http-origin=https://cookiewebplay.xyz
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_7 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/18.0 Mobile/15E148 Safari/604.1
+https://xyzdddd.mizhls.ru/lb/premium419/index.m3u8
 
 #EXTINF:-1 group-title="11. VIP SPORT ⁴ᴷ ᶠᴴᴰ" tvg-id=" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/UnifiSports2023.png/300px-UnifiSports2023.png",UNIFI SPORT
 https://unifi-live07.secureswiftcontent.com/UnifiHD/live11.mpd
