@@ -378,27 +378,23 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd|Referer
 #KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
 https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd|Referer=https://www.visionplus.id/
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY CINEMA ASIA.png" tvg-id="MyCinemaAsia.id" tvg-name="ID: My Cinema Asia" group-title="04. Premium TV",052. My Cinema Asia
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
 
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20NEW.png" tvg-id="MyCinema.id" tvg-name="ID: My Cinema" group-title="04. Premium TV",053. My Cinema
+https://cempedak-live-cdn.mncnow.id/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
 
-#EXTINF:-1 group-title="04. Premium TV" tvg-id="mycinemaasia.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY CINEMA ASIA.png",052. My Cinema Asia
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyCinemaAsia.m3u8
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="My Cinema" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20CINEMA%20NEW.png" group-title="04. Premium TV",053. My Cinema
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyCinema.m3u8
-
-
-
-#EXTINF:-1 group-title="04. Premium TV" tvg-id="myfamilychannel.id" tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20FAMILY%20NEW.png",054. My Family Channel
-#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTVLCOPT:http-referrer=http://dens.tv
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MyFamilyChannel.m3u8
-
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-logo="https://www.mncvision.id/userfiles/image/channel/MY%20FAMILY%20NEW.png" tvg-id="MyFamily.id" tvg-name="ID: My Family" group-title="04. Premium TV",054. My Family Channel
+https://cempedak-live-cdn.mncnow.id/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
 
 
 ##EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV3.png" group-title="04. Premium TV",ETV Bioskop 3
