@@ -3448,45 +3448,43 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/711406
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1092560
 #EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT AFRICA 2" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT 2
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1092561
-#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SAF - SUPERSPORT BLITZ HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT BLITZ HD
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="SAF - SUPERSPORT BLITZ HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - BLITZ HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108912
-#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SAF - SUPERSPORT CRICKET HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT CRICKET HD
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="SAF - SUPERSPORT CRICKET HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - CRICKET HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108908
-#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SAF - SUPERSPORT FOOTBALL HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT FOOTBALL HD
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="SAF - SUPERSPORT FOOTBALL HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - FOOTBALL HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108902
-#EXTINF:-1 tvg-id="1kzn.za" tvg-name="SAF - SUPERSPORT FOOTBALL PLUS HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT FOOTBALL PLUS HD
+#EXTINF:-1 tvg-id="1kzn.za" tvg-name="SAF - SUPERSPORT FOOTBALL PLUS HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - FOOTBALL PLUS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108905
-#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT GRANDSTAND HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT GRANDSTAND HD
+#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT GRANDSTAND HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - GRANDSTAND HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/326562
-#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SAF - SUPERSPORT GOLF HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT GOLF HD
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="SAF - SUPERSPORT GOLF HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - GOLF HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108909
-#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SAF - SUPERSPORT LA LIGA HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT LA LIGA HD
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="SAF - SUPERSPORT LA LIGA HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - LA LIGA HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108904
-#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SAF - SUPERSPORT MOTOSPORT HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT MOTOSPORT HD
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="SAF - SUPERSPORT MOTOSPORT HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - MOTOSPORT HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108910
-#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SAF - SUPERSPORT MAXIMO 1 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT MAXIMO 1 HD
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="SAF - SUPERSPORT MAXIMO 1 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - MAXIMO 1 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108913
-#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT MAXIMO 2 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT MAXIMO 2 HD
+#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT MAXIMO 2 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - MAXIMO 2 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/922632
-#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORTS OLYMPICS 5 HD" tvg-logo="http://go4.pw/AFRICA/SOUTH-AFRICA/SS_OLYMPICS.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORTS OLYMPICS 5 HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/956246
-#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SAF - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT PREMIER LEAGUE HD
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="SAF - SUPERSPORT PREMIER LEAGUE HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - PREMIER LEAGUE HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108903
-#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="SAF - SUPERSPORT PLAY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT PLAY HD
+#EXTINF:-1 tvg-id="supersportplay.za" tvg-name="SAF - SUPERSPORT PLAY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SS PLAY HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108914
-#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SAF - SUPERSPORT RUGBY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT RUGBY HD
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="SAF - SUPERSPORT RUGBY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - RUGBY HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108907
-#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SAF - SUPERSPORT TENNIS HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT TENNIS HD
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="SAF - SUPERSPORT TENNIS HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - TENNIS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108906
-#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SAF - SUPERSPORT VARIETY 1 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT VARIETY 1 HD
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="SAF - SUPERSPORT VARIETY 1 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - VARIETY 1 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108898
-#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SAF - SUPERSPORT VARIETY 2 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT VARIETY 2 HD
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="SAF - SUPERSPORT VARIETY 2 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - VARIETY 2 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108899
-#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SAF - SUPERSPORT VARIETY 3 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT VARIETY 3 HD
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="SAF - SUPERSPORT VARIETY 3 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - VARIETY 3 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108900
-#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SAF - SUPERSPORT VARIETY 4 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT VARIETY 4 HD
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="SAF - SUPERSPORT VARIETY 4 HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - VARIETY 4 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/108901
-#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT VARIETY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - SUPERSPORT VARIETY HD
+#EXTINF:-1 tvg-id="" tvg-name="SAF - SUPERSPORT VARIETY HD" tvg-logo="http://go4.pw/AFRICA/SUPERSPORT1.png" group-title="SPORTS | Suprino VIP",SAF - VARIETY HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/324772
 
 #EXTINF:-1 tvg-id="" tvg-name="SAF - AZAM SPORTS 1 HD" tvg-logo="http://go4.pw/AFRICA/TANZANIA/azam-sport.png" group-title="SPORTS | Suprino VIP",SAF - AZAM SPORTS 1 HD
@@ -3513,6 +3511,28 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/255708
 #EXTINF:-1 tvg-id="" tvg-name="SA - SSC EXTRA 3 HD" tvg-logo="http://go4.pw/ASIA/SAUDI/SSC.png" group-title="SPORTS | Suprino VIP",SA - SSC EXTRA 3 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/311007
 
+#EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="UK - HUB PREMIER 01 FHD :  " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 01 FHD :  
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324806
+#EXTINF:-1 tvg-id="Hub.Premier.2" tvg-name="UK - HUB PREMIER 02 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 02 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324807
+#EXTINF:-1 tvg-id="Hub.Premier.3" tvg-name="UK - HUB PREMIER 03 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 03 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324808
+#EXTINF:-1 tvg-id="Hub.Premier.4" tvg-name="UK - HUB PREMIER 04 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 04 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324809
+#EXTINF:-1 tvg-id="Hub.Premier.5" tvg-name="UK - HUB PREMIER 05 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 05 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324810
+#EXTINF:-1 tvg-id="Hub.Premier.6" tvg-name="UK - HUB PREMIER 06 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 06 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324811
+#EXTINF:-1 tvg-id="Hub.Premier.7" tvg-name="UK - HUB PREMIER 07 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 07 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324812
+#EXTINF:-1 tvg-id="Hub.Premier.8" tvg-name="UK - HUB PREMIER 08 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 08 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324813
+#EXTINF:-1 tvg-id="Hub.Premier.9" tvg-name="UK - HUB PREMIER 09 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 09 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324814
+#EXTINF:-1 tvg-id="Hub.Premier.10" tvg-name="UK - HUB PREMIER 10 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 10 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324815
+#EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="UK - HUB PREMIER 11 FHD : " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | Suprino VIP",UK - HUB PREMIER 11 FHD : 
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/324816
 
 
 
