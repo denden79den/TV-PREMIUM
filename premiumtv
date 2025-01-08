@@ -206,7 +206,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052591
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052590
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="TV | MALAYSIA",WWE NETWORK
-http://defaultgen.com:3050/sherryloiswallace@gmail.com/G2gZWqKFNK/605364
+http://iptv12k.com:35461/654321/123456/652
 
 #EXTINF:-1 group-title="TV | MALAYSIA" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Astro Ceria
 'http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
@@ -2265,6 +2265,22 @@ https://mantul.biz.id:443/inetwork/gayanet12/7
 https://mantul.biz.id:443/inetwork/gayanet12/8
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/dkV8FKm/history.png" group-title="Mantap TV",HISTORY
 https://mantul.biz.id:443/inetwork/gayanet12/11
+
+
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="Mantap TV",HBO HD
+http://iptv12k.com:35461/654321/123456/599
+
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="Mantap TV",HBO Hits
+http://iptv12k.com:35461/654321/123456/598
+
+#EXTINF:-1 tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="Mantap TV",HBO Family
+http://iptv12k.com:35461/654321/123456/597
+
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="Mantap TV",HBO Signature my
+http://iptv12k.com:35461/654321/123456/596
+
+#EXTINF:-1 tvg-name="Cinemax HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/51/Cinemax_LA_logo.png" group-title="Mantap TV",Cinemax HD
+http://iptv12k.com:35461/654321/123456/607
 
 
 ========================================ASTROSPORT===================================
