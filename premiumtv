@@ -238,9 +238,11 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/DramaSangat.
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
 http://perfecttv.net:8080/Perfecttv/Perfecttv/2
 
-#EXTINF:-1 tvg-id="Astro Citra" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="TV | MALAYSIA",Astro Citra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra(A)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="TV | MALAYSIA",ASTRO Citra(A)
+http://iptv12k.com:35461/654321/123456/721
+
+#EXTINF:-1 tvg-id="Citra.my" tvg-name="ASTRO Citra (B)" tvg-logo="https://upload.wikimedia.org/wikipedia/en/1/1a/Astro_Citra_HD.png" group-title="TV | MALAYSIA",ASTRO Citra (B)
+http://iptv12k.com:35461/654321/123456/6608
 
 #EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="TV | MALAYSIA",Astro Ria
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
