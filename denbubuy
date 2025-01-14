@@ -1375,9 +1375,7 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/MtrSpt1.m3u8
 
 
 #EXTINF:-1 tvg-id="SS MotorSport" tvg-logo="https://www.lyngsat.com/logo/tv/ss/supersport-motorsport-za.png" group-title="09. Sports TV",159. SS MotorSport
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/102653
-
-
+http://myserver.myphuket.net:25461/test2/test2/67
 
 #EXTINF:-1 tvg-id="[IT] Sky Sport MotoGP" tvg-logo="https://ridertua.sgp1.cdn.digitaloceanspaces.com/wp-content/uploads/2017/09/motogp-logo.png" group-title="09. Sports TV",160. SS MotoGP
 http://iyh5mlxw.klaipedalt.org/iptv/AVNFCNQBEC9VQU/19133/index.m3u8
