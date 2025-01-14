@@ -1769,6 +1769,15 @@ https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
 
+#EXTINF:-1 tvg-id="playsports1.be" tvg-name="4K | PLAY SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/PLAYSPORTS.png" group-title="09. Sports TV",234. PLAY SPORTS 1
+http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130317
+#EXTINF:-1 tvg-id="playsports2.be" tvg-name="4K | PLAY SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="09. Sports TV",235. PLAY SPORTS 2
+http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/303720
+#EXTINF:-1 tvg-id="playsports3.be" tvg-name="4K | PLAY SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/PLAYSPORTS.png" group-title="09. Sports TV",236. PLAY SPORTS 3
+http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130319
+
+
+
 
 ============================================================================================================================================================
 // 10. Mantap TV
