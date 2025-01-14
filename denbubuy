@@ -1641,7 +1641,7 @@ http://myserver.myphuket.net:25461/test2/test2/26
 #EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="09. Sports TV",201. True Premiere Football 2
 http://myserver.myphuket.net:25461/test2/test2/27
 
-##EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="09. Sports TV",202. True Premiere Football 3
+#EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="09. Sports TV",202. True Premiere Football 3
 http://myserver.myphuket.net:25461/test2/test2/28
 
 #EXTINF: -1 tvg-id="True Sports 1" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="09. Sports TV",203. True Sports 1
@@ -1769,11 +1769,11 @@ https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdp
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="playsports1.be" tvg-name="4K | PLAY SPORTS 1" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/PLAYSPORTS.png" group-title="09. Sports TV",234. PLAY SPORTS 1
+#EXTINF:-1 tvg-id="playsports1.be" tvg-name="4K | PLAY SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZI_gw_5wmMQ4yr44MOx78yC57oQA9MTlmIECStDnNbLKc39oibi9-690iooEmGy2WqT_l9JmCYNdGmyO_9fMwymcgawuP4pE-SL8TjxVzHmfJeu1a34QGl-ltI-4zUomq6prRjrHuGiOjD0fjo_6aN0OMtTwINW6CI1-a-Y6bagEN8vSssxF9UdMVsir8/s340/play%20sport1.png" group-title="09. Sports TV",234. PLAY SPORTS 1
 http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130317
-#EXTINF:-1 tvg-id="playsports2.be" tvg-name="4K | PLAY SPORTS 2" tvg-logo="https://logo.diamondtv.one/images/logos/leeg.png" group-title="09. Sports TV",235. PLAY SPORTS 2
+#EXTINF:-1 tvg-id="playsports2.be" tvg-name="4K | PLAY SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7O228zqPq5rp4A16zOs_TRyaGNCvZZmW4sJ2547a5K6qKmZyaDzBJJaxgTSYrX1fY6ipsiXsi-wtE7UgtwIKWs2wkUFxMpGYmsT2j2bw8njBHtzEVsU44cfX_rMNWXtaF8MLSXeJLCj3VZu7nC4Y8vsrYW7A1daZyAZdg9sjoWBvc4qRXn_ZYjmJUetF-/s340/play%20sport2.png" group-title="09. Sports TV",235. PLAY SPORTS 2
 http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/303720
-#EXTINF:-1 tvg-id="playsports3.be" tvg-name="4K | PLAY SPORTS 3" tvg-logo="https://logo.diamondtv.one/images/logos/BELGIUM/PLAYSPORTS.png" group-title="09. Sports TV",236. PLAY SPORTS 3
+#EXTINF:-1 tvg-id="playsports3.be" tvg-name="4K | PLAY SPORTS 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6AYMPosxGvZNUxDcBZSI_mjECu7IVLiM56EhsgLwi-ctNeJQ_oZH0PrCIXiDL4lud2TzqT02EozbZImXKJWPb_4Grnp296o_p1kbL2YldJGx8YyFpWCctXsJt3GvkNrVdOQtBNugonxgMteU9dlYooCq2JhXB4_vrHOlWueby7JE7h6NHk8JDzNE7phoj/s340/play%20sport3.png" group-title="09. Sports TV",236. PLAY SPORTS 3
 http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130319
 
 
