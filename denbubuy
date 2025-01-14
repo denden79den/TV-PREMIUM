@@ -1636,31 +1636,19 @@ https://ssc-extra3-enc.edgenextcdn.net/out/v1/8f1c6c3f05ef4284a64b342891bd85ae/i
 
 
 #EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png" group-title="09. Sports TV",200. True Premiere Football 1
-#https://www.livedoomovies.com:4432/02_PremierHD1_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-http://ott.premium-tv.org:8789/wonton57/874893/235216
-
-
+http://myserver.myphuket.net:25461/test2/test2/26
 
 #EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png" group-title="09. Sports TV",201. True Premiere Football 2
-#https://www.livedoomovies.com:4432/02_PremierHD2_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-http://ott.premium-tv.org:8789/wonton57/874893/235215
-
-
+http://myserver.myphuket.net:25461/test2/test2/27
 
 ##EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png" group-title="09. Sports TV",202. True Premiere Football 3
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-##https://www.livedoomovies.com:4432/02_PremierHD3_720p/chunklist.m3u8|user-agent=Mozilla/5.0
+http://myserver.myphuket.net:25461/test2/test2/28
 
+#EXTINF: -1 tvg-id="True Sports 1" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="09. Sports TV",203. True Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
 
-
-##EXTINF: -1 tvg-id="True Premiere Football 4" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD4.png" group-title="09. Sports TV",203. True Premiere Football 4
-##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-##https://www.livedoomovies.com:4432/02_PremierHD4_720p/chunklist.m3u8|user-agent=Mozilla/5.0
-
-
-#EXTINF: -1 tvg-id="True Sports 4" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="09. Sports TV",201. True Sports 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/103.0.5060.114 Safari/537.36 Edg/103.0.1264.62
-http://ott.premium-tv.org:8789/wonton57/874893/235214
+#EXTINF: -1 tvg-id="True Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png" group-title="09. Sports TV",203. True Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
 
 
 
