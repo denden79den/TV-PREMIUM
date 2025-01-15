@@ -284,6 +284,12 @@ https://mantul.biz.id:443/inetwork/gayanet12/39.ts
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nusantaratv_hd.png" group-title="TV | NASIONAL", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MNC Sindo news HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png"  group-title="TV | NASIONAL",MNC Sindo news HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584468
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://go4.pw/INDONESIA/BERITA_SATU.png"  group-title="TV | NASIONAL",BERITA SATU
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584478
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png"  group-title="TV | NASIONAL",13. JTV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830545
 
 
 ===================================TV MALAYSIA============================
@@ -457,8 +463,12 @@ https://mantul.biz.id:443/inetwork/gayanet12/256
 #EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="http://go4.pw/INDONESIA/the hits.png" group-title="FILM | BOX OFFICE",HITS
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584490
 
-#EXTINF:-1 tvg-id="" tvg-name="HITSMOVIES" tvg-logo="http://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="FILM | BOX OFFICE",HITSMOVIES
+#EXTINF:-1 tvg-id="" tvg-name="HITSMOVIES" tvg-logo="http://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="FILM | BOX OFFICE",HITS MOVIES
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089128
+
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyz8vuUMLYGI8u4UrnWV6Lg.png" group-title="FILM | BOX OFFICE",AXN FHD
+https://mantul.biz.id:443/inetwork/gayanet12/11539.ts
+
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
@@ -479,8 +489,40 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264748
 #EXTINF:-1 tvg-id="" tvg-name=" IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="FILM | INDONESIA", IMC
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264769
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7H4bHESJlD2RtAAebhClZZX0l47tB42AQTw&usqp=CAU" group-title="FILM | INDONESIA"",FLIK
+https://mantul.biz.id:443/inetwork/gayanet12/223.ts
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="FILM | INDONESIA",VISION PRIME
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
+
+
+
+
+==============================================SPORT INDONESIA=============================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 1" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_1.png"  group-title="SPORTS | INDONESIA",BEIN SPORTS 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088906
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_3.png"  group-title="SPORTS | INDONESIA",BEIN SPORTS 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088907
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 4" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_4.png"  group-title="SPORTS | INDONESIA",BEIN SPORTS 4
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088908
+#EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 5" tvg-logo="http://go4.pw/bein/Bein_Sports_HD_5.png"  group-title="SPORTS | INDONESIA",BEIN SPORTS 5
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088909
+
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV" tvg-logo="http://go4.pw/ASIA/SPOTV.png"  group-title="SPORTS | INDONESIA",SPOTV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064630
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="http://go4.pw/ASIA/SPOTV.png"  group-title="SPORTS | INDONESIA",SPOTV 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064631
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS 1" tvg-logo="http://go4.pw/INDONESIA/SPORTSTARS.png"  group-title="SPORTS | INDONESIA",SPORTSTARS 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064632
+#EXTINF:-1 tvg-id="" tvg-name="SPORTSTARS  2" tvg-logo="http://go4.pw/INDONESIA/SPORTSTARS.png"  group-title="SPORTS | INDONESIA",SPORTSTARS  2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064633
+
+#EXTINF:-1 tvg-id="" tvg-name="SOCCER CHANNEL HD" tvg-logo="http://go4.pw/INDONESIA/Soccer_Channel.png"  group-title="SPORTS | INDONESIA",SOCCER CHANNEL HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830541
+
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS HD" tvg-logo="http://go4.pw/EUROPE/GERMANY/FIGHT_SPORTS.png"  group-title="SPORTS | INDONESIA",FIGHT SPORTS HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
 
 
 ==============================================HUB SPORT====================================================
