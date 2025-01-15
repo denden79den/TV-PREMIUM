@@ -281,7 +281,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/35
 https://mantul.biz.id:443/inetwork/gayanet12/217.ts
 #EXTINF:-1 tvg-id="TVRINasional.id" tvg-name="TVRI" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yemExL_NizMf2ROW5B9VWZbvY97mcVsG3jxqOVw34GQnKg.png" group-title="TV | NASIONAL",TVRI
 https://mantul.biz.id:443/inetwork/gayanet12/39.ts
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nusantaratv_hd.png" group-title="TV | INDONESIA", NUSANTARA TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/RizkyWebID/IPTV-Streaming/main/imagecache/logo_nusantaratv_hd.png" group-title="TV | NASIONAL", NUSANTARA TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
@@ -385,3 +385,62 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
 https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
+
+=====================================FILM BOX OFFICE===========================================
+
+#EXTINF:-1 tvg-logo="https://dtvnews.hu/sites/default/files/wide_images/hbo_hd_wide.png" group-title="FILM | BOX OFFICE",HBO 
+https://mantul.biz.id:443/inetwork/gayanet12/1.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Ajyc3azxFqDlXwo3dQXLqQnc.png" group-title="FILM | BOX OFFICE",HBO Hits 
+https://mantul.biz.id:443/inetwork/gayanet12/4
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj8K8151zXT0twascJAFmyak.png" group-title="FILM | BOX OFFICE",HBO Family 
+https://mantul.biz.id:443/inetwork/gayanet12/5.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekHySmj0dwDYi8CATwIOZmEU0lY8n9YOAu3mPrEghhG_g.png" group-title="FILM | BOX OFFICE",HBO Signature 
+https://mantul.biz.id:443/inetwork/gayanet12/1019.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj25A1lSAAFYmtJ2N8UkELoc.png" group-title="FILM | BOX OFFICE",Cinemax FHD 
+https://mantul.biz.id:443/inetwork/gayanet12/89.ts
+
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI ACTION HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_action.png" group-title="FILM | BOX OFFICE",CINEMACHI ACTION HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830520
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_hd.png" group-title="FILM | BOX OFFICE",CINEMACHI HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830521
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI KIDS HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi_kids.png" group-title="FILM | BOX OFFICE",CINEMACHI KIDS HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830522
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI MAX HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi-max.png" group-title="FILM | BOX OFFICE",CINEMACHI MAX HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830523
+#EXTINF:-1 tvg-id="" tvg-name="CINEMACHI XTRA HD" tvg-logo="http://go4.pw/INDONESIA/cinemachi-xtra.png" group-title="FILM | BOX OFFICE",CINEMACHI XTRA HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830524
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/mCmz4vb/shareext-playmetv.png" group-title="FILM | BOX OFFICE",Galaxy FHD 
+https://mantul.biz.id:443/inetwork/gayanet12/27991.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBscGnUZwn7l0Im6V8ZY4YeeE.png" group-title="FILM | BOX OFFICE",Galaxy Premium FHD 
+https://mantul.biz.id:443/inetwork/gayanet12/296.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yenYG-7jPISsjjANQVYJB8vXCnNZgzEdkT7I4UKKp9xzMw.png" group-title="FILM | BOX OFFICE",Thrill 
+https://mantul.biz.id:443/inetwork/gayanet12/250.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsdwa2HyfGCy6nTCPEOFtWE0.png" group-title="FILM | BOX OFFICE",My Cinema 
+https://mantul.biz.id:443/inetwork/gayanet12/18.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsaz9ADBfY4S7knMAM_1wXf8.png" group-title="FILM | BOX OFFICE",My Cinema Asia 
+https://mantul.biz.id:443/inetwork/gayanet12/13.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/mg9e4VnU5MiobcDarwnBsYPFigh-ytD4ycqjNE4_vAQ.png" group-title="FILM | BOX OFFICE",My Family Channel 
+https://mantul.biz.id:443/inetwork/gayanet12/9.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/Kanmk96vTt-hjZj_mC4RcPttLMlmeeoOsTOSXqs4fWUmA-s2Y9J-FScBjUYQULJD7l2mG8Tk2ukwduExO58z9HGBftr-Neu_ds3ARiOTQQw.png" group-title="FILM | BOX OFFICE",Rock Action 
+https://mantul.biz.id:443/inetwork/gayanet12/133.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/HUySdt2SHXRaYy2IS3iaPuL9Knt1D45sqVGG8mls7ah7FjngNJQcCXrKXmYlqwshbJHQBgcX2n1dYvgvbdFmYP01iN4B9VZKgKujr1k3fU1eJXcTnAB4gnrQH5dO7Ahw.png" group-title="FILM | BOX OFFICE",Rock Entertaiment 
+https://mantul.biz.id:443/inetwork/gayanet12/135.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/TJC7rhtnO3ZKX8c3jrf5EFsGlOXwsm6GQtqyzSBNrpNwwrMe604GQioDGB3Nd37Flk5Eiv73WhaFgmVlS29Aj7Sx7G8c47RFL1u6jKASNy4.png" group-title="FILM | BOX OFFICE",TVN Movies FHD 
+https://mantul.biz.id:443/inetwork/gayanet12/14544.ts
+#EXTINF:-1 tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqgxoFbtXRJphfA_cp4hvc-xLEqEooMzyO224RWrX9yedKnxNwrZGUz5w6CWuheU_RNmE5p-tlRPW6jAsuNqGjzx9QhkpaVdGSeaxTVHjDifDTXsde9QZVrWGASeWfuIcDkjX5vNIXYePeGksvgXKAXYFAGKshLyO9kAVWFJz4g6OovTLLrohq2-CSaiv6FBG-8g.png" group-title="FILM | BOX OFFICE",Zeebioskop 
+https://mantul.biz.id:443/inetwork/gayanet12/261.ts
+#EXTINF:-1 tvg-logo="http://images.indihometv.com/box/logo_celestialmovie_small.png" group-title="FILM | BOX OFFICE",CELESTIAL MOVIES
+https://mantul.biz.id:443/inetwork/gayanet12/249
+#EXTINF:-1 tvg-logo="http://guki.my.id/logo/movie/thrill.jpg" group-title="FILM | BOX OFFICE",THRILL
+https://mantul.biz.id:443/inetwork/gayanet12/250
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nxUUfGevs7e36rE3dZ4woR5QEW8sFtb-rg&usqp=CAU" group-title="FILM | BOX OFFICE",CINEMA WORLD
+https://mantul.biz.id:443/inetwork/gayanet12/256
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
