@@ -454,6 +454,12 @@ https://mantul.biz.id:443/inetwork/gayanet12/249
 https://mantul.biz.id:443/inetwork/gayanet12/250
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS7nxUUfGevs7e36rE3dZ4woR5QEW8sFtb-rg&usqp=CAU" group-title="FILM | BOX OFFICE",CINEMA WORLD
 https://mantul.biz.id:443/inetwork/gayanet12/256
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="http://go4.pw/INDONESIA/the hits.png" group-title="FILM | BOX OFFICE",HITS
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584490
+
+#EXTINF:-1 tvg-id="" tvg-name="HITSMOVIES" tvg-logo="http://go4.pw/EUROPE/SWEDEN/_OTT (8).png" group-title="FILM | BOX OFFICE",HITSMOVIES
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089128
+
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 3
