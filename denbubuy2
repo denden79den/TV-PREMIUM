@@ -286,7 +286,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/39.ts
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
 
-===================================TV | MALAYSIA============================
+===================================TV MALAYSIA============================
 
 
 #EXTINF:-1 group-title="TV | MALAYSIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png",Bein Sports 1
@@ -324,6 +324,23 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052590
 
 #EXTINF:-1 tvg-ID="" tvg-name="" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="TV | MALAYSIA",WWE NETWORK
 http://iptv12k.com:35461/654321/123456/652
+
+#EXTINF:-1 tvg-id="" tvg-name=" ASTRO CRICKET HD" tvg-logo="http://go4.pw/astro_logo.png"group-title="TV | MALAYSIA" ASTRO CRICKET HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/446226
+#EXTINF:-1 tvg-id="" tvg-name=" ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png"group-title="TV | MALAYSIA" ASTRO ARENA 1 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052375
+#EXTINF:-1 tvg-id="" tvg-name=" ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png"group-title="TV | MALAYSIA" ASTRO ARENA 2 FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052373
+#EXTINF:-1 tvg-id="" tvg-name=" PREMIER SPORTS FHD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png"group-title="TV | MALAYSIA" PREMIER SPORTS FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052580
+#EXTINF:-1 tvg-id="" tvg-name=" SPOTV STADIA FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png"group-title="TV | MALAYSIA" SPOTV STADIA FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052594
+#EXTINF:-1 tvg-id="" tvg-name=" GOLF CHANNEL HD" tvg-logo="http://go4.pw/AMERICA/USA/NBCGOLFCHANNEL.png"group-title="TV | MALAYSIA" GOLF CHANNEL HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052687
+
+#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="TV | MALAYSIA",Unifi Sports
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
+https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
 
 #EXTINF:-1 group-title="TV | MALAYSIA" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png",Astro Ceria
 'http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&extension=ts&play_token=A3sdZGAflh
@@ -380,10 +397,11 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m
 #EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="TV | MALAYSIA",Astro Sensasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
-
-#EXTINF:-1 tvg-logo="https://unifi.com.my/tv/sites/default/files/2023-02/unifisports-new.png" group-title="TV | MALAYSIA",Unifi Sports
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://unifi-live02.secureswiftcontent.com/UnifiHD/live11.mpd
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052580
+#EXTINF:-1 tvg-id="" tvg-name=" SHOWCASE MOVIES FHD" tvg-logo="http://go4.pw/USA/SD/24.png"group-title="TV | MALAYSIA" SHOWCASE MOVIES FHD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052583
+#EXTINF:-1 tvg-id="" tvg-name=" TV OKEY HD" tvg-logo="http://go4.pw/ASIA/OKEY.png"group-title="TV | MALAYSIA" TV OKEY HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052621
 
 
 =====================================FILM BOX OFFICE===========================================
