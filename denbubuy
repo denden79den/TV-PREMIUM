@@ -1737,41 +1737,41 @@ https://webhdrunns.mizhls.ru/lb/premium49/index.m3u8|Origin=https://claplivehdpl
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium74/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png" group-title="09. Sports TV",230. SPORT TV 3 
+#EXTINF:-1 tvg-id="sporttv3.pt" tvg-name="SPORT TV3 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9c/Sport_TV3_%282023%29.svg/1600px-Sport_TV3_%282023%29.svg.png" group-title="09. Sports TV",220. SPORT TV 3 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium454/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/2560px-Sport_TV4_%282023%29.svg.png" group-title="09. Sports TV",231. SPORT TV 4 
+#EXTINF:-1 tvg-id="sporttv4.pt" tvg-name="SPORT TV4 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f1/Sport_TV4_%282023%29.svg/2560px-Sport_TV4_%282023%29.svg.png" group-title="09. Sports TV",221. SPORT TV 4 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium289/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/2560px-Sport_TV5_%282023%29.svg.png" group-title="09. Sports TV",232. SPORT TV 5 
+#EXTINF:-1 tvg-id="sporttv5.pt" tvg-name="SPORT TV5 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b6/Sport_TV5_%282023%29.svg/2560px-Sport_TV5_%282023%29.svg.png" group-title="09. Sports TV",222. SPORT TV 5 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1280px-Sport_TV6_%282023%29.svg.png" group-title="09. Sports TV",233. SPORT TV 6 
+#EXTINF:-1 tvg-id="sporttv6.pt" tvg-name="SPORT TV6 FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/Sport_TV6_%282023%29.svg/1280px-Sport_TV6_%282023%29.svg.png" group-title="09. Sports TV",223. SPORT TV 6 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 17_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/17.5 Mobile/15E148 Safari/604.1
 #EXTVLCOPT:http-referrer=https://claplivehdplay.ru/
 https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZI_gw_5wmMQ4yr44MOx78yC57oQA9MTlmIECStDnNbLKc39oibi9-690iooEmGy2WqT_l9JmCYNdGmyO_9fMwymcgawuP4pE-SL8TjxVzHmfJeu1a34QGl-ltI-4zUomq6prRjrHuGiOjD0fjo_6aN0OMtTwINW6CI1-a-Y6bagEN8vSssxF9UdMVsir8/s340/play%20sport1.png",234. PLAY SPORTS 1
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZI_gw_5wmMQ4yr44MOx78yC57oQA9MTlmIECStDnNbLKc39oibi9-690iooEmGy2WqT_l9JmCYNdGmyO_9fMwymcgawuP4pE-SL8TjxVzHmfJeu1a34QGl-ltI-4zUomq6prRjrHuGiOjD0fjo_6aN0OMtTwINW6CI1-a-Y6bagEN8vSssxF9UdMVsir8/s340/play%20sport1.png",224. PLAY SPORTS 1
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7O228zqPq5rp4A16zOs_TRyaGNCvZZmW4sJ2547a5K6qKmZyaDzBJJaxgTSYrX1fY6ipsiXsi-wtE7UgtwIKWs2wkUFxMpGYmsT2j2bw8njBHtzEVsU44cfX_rMNWXtaF8MLSXeJLCj3VZu7nC4Y8vsrYW7A1daZyAZdg9sjoWBvc4qRXn_ZYjmJUetF-/s340/play%20sport2.png",235. PLAY SPORTS 2
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7O228zqPq5rp4A16zOs_TRyaGNCvZZmW4sJ2547a5K6qKmZyaDzBJJaxgTSYrX1fY6ipsiXsi-wtE7UgtwIKWs2wkUFxMpGYmsT2j2bw8njBHtzEVsU44cfX_rMNWXtaF8MLSXeJLCj3VZu7nC4Y8vsrYW7A1daZyAZdg9sjoWBvc4qRXn_ZYjmJUetF-/s340/play%20sport2.png",225. PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
 https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6AYMPosxGvZNUxDcBZSI_mjECu7IVLiM56EhsgLwi-ctNeJQ_oZH0PrCIXiDL4lud2TzqT02EozbZImXKJWPb_4Grnp296o_p1kbL2YldJGx8YyFpWCctXsJt3GvkNrVdOQtBNugonxgMteU9dlYooCq2JhXB4_vrHOlWueby7JE7h6NHk8JDzNE7phoj/s340/play%20sport3.png",236. PLAY SPORTS 3
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6AYMPosxGvZNUxDcBZSI_mjECu7IVLiM56EhsgLwi-ctNeJQ_oZH0PrCIXiDL4lud2TzqT02EozbZImXKJWPb_4Grnp296o_p1kbL2YldJGx8YyFpWCctXsJt3GvkNrVdOQtBNugonxgMteU9dlYooCq2JhXB4_vrHOlWueby7JE7h6NHk8JDzNE7phoj/s340/play%20sport3.png",226. PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
@@ -4710,21 +4710,21 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
-'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
 
 #EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps2.png",PLAY SPORTS 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
-'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
 
 #EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="playsports.be" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/ps3.png",PLAY SPORTS 3
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
-'https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 EXTINF:-1 tvg-id="TruePremierFootball1.th" tvg-name="True Premier Football 1" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/truepre1.png" group-title="16. EKSKLUSIF TV",True Premier Football 1
 #EXTVLCOPT:http-referrer=https://www.youdooball.com/
