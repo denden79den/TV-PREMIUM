@@ -3943,71 +3943,71 @@ https://pbc.furrera.ps/palestinehd/index.m3u8
 https://raw.githubusercontent.com/AqFad2811/randomlivefromyt3/main/Live.m3u8
 https://od.lk/s/MjVfMjM5Mjc4MDNf/20100925%20-%20Bars%20and%20Tone%2C%20in%201080p%20HD.mp4#.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="16. EKSKLUSIF TV",SCTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/sctv.png" group-title="16. EKSKLUSIF TV",01. SCTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="16. EKSKLUSIF TV",INDOSIAR
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/indosiar.png" group-title="16. EKSKLUSIF TV",02. INDOSIAR
 #EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTVLCOPT:http-referrer=http://dens.tv
 http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",Moji 
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-id="ochannel.id" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/moji.png",03. Moji 
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/trans7.png",Trans 7
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/trans7.png",04. Trans 7
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/65.0.3325.181 Safari/537.36
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
 https://dsgtq5sngxkde.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd|Referer=https://www.visionplus.id/&user-agent=Android
 
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/transtv.png",Trans TV 
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/transtv.png",05. Trans TV 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
 #EXTVLCOPT:http-referrer=https://www.visionplus.id 
 https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nettv.png" group-title="16. EKSKLUSIF TV",NET TV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nettv.png" group-title="16. EKSKLUSIF TV",06. NET TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 
-#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="16. EKSKLUSIF TV",RCTI
+#EXTINF:-1 tvg-id="RCTI.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rcti.png" group-title="16. EKSKLUSIF TV",07. RCTI
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="16. EKSKLUSIF TV" tvg-id="GTV" tvg-name="GTV", GTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/gtv.png" group-title="16. EKSKLUSIF TV" tvg-id="GTV" tvg-name="GTV", 08. GTV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
 https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="16. EKSKLUSIF TV" tvg-id="MNC TV" tvg-name="MNC TV",MNC TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/mnctv.png" group-title="16. EKSKLUSIF TV" tvg-id="MNC TV" tvg-name="MNC TV",09. MNC TV
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
 
-#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/inews.png" group-title="16. EKSKLUSIF TV",iNews
+#EXTINF:-1 tvg-id="INews.id" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/inews.png" group-title="16. EKSKLUSIF TV",10. INews
 #EXTVLCOPT:http-user-agent=android-R+
 #EXTVLCOPT:http-referrer=https://www.rctiplus.com/
 https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/antv.png" group-title="16. EKSKLUSIF TV",ANTV
+#EXTINF:-1 tvg-id="ANTV.MACAN" tvg-name="ANTV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/antv.png" group-title="16. EKSKLUSIF TV",11. ANTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtv.png" group-title="16. EKSKLUSIF TV",RTV
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/rtv.png" group-title="16. EKSKLUSIF TV",12. RTV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/visionprime.png" group-title="16. EKSKLUSIF TV",VISION PRIME
+#EXTINF:-1 tvg-id="" tvg-country="ID" tvg-language="Indonesian" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/visionprime.png" group-title="16. EKSKLUSIF TV",13. VISION PRIME
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
@@ -4028,41 +4028,41 @@ https://cempedak-live-cdn.mncnow.id/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfo
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/nusantaratv.png" group-title="16. EKSKLUSIF TV",Nusantara
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 
-#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvone.png" group-title="16. EKSKLUSIF TV",TVOne
+#EXTINF:-1 tvg-id="TVOne.MACAN" tvg-name="TVOne" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvone.png" group-title="16. EKSKLUSIF TV",14. TVOne
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/kompastv.png",KOMPAS TV
+#EXTINF:-1 group-title="16. EKSKLUSIF TV" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/kompastv.png",17. KOMPAS TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h234/index.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="16. EKSKLUSIF TV",CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="16. EKSKLUSIF TV",15. CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnbcindo.png" group-title="16. EKSKLUSIF TV",CNBC Indonesia
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnbcindo.png" group-title="16. EKSKLUSIF TV",16. CNBC Indonesia
 https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w209872312_b280000_sleng.m3u8
 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDQzYTRlODMtMGE2Mi0zNTNlLWFlMzctZjUxNDk4NDliYjM5
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/metrotv.png" group-title="16. EKSKLUSIF TV",METRO TV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/metrotv.png" group-title="16. EKSKLUSIF TV",18. METRO TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
 http://op-group1-swiftservehd-1.dens.tv/h/h12/index.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/20025256_ico.png?ts=1654802008" group-title="16. EKSKLUSIF TV",METRO GLOBAL NETWORK
 https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w192763708_b3884000_sleng.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvri.png" group-title="16. EKSKLUSIF TV",TVRI Nasional
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/tvri.png" group-title="16. EKSKLUSIF TV",19. TVRI Nasional
 https://ott-balancer.tvri.go.id/live/eds/Nasional/hls/Nasional.m3u8
 
 EXTINF:-1 tvg-logo="https://www.appcreator24.com/srv/imgs/seccs/27418259_ico.png?ts=1689965679" group-title="16. EKSKLUSIF TV",ANTRA TV
 https://cdn09jtedge.indihometv.com/dvr/139/antara/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/BTV.png" group-title="16. EKSKLUSIF TV",BTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/BTV.png" group-title="16. EKSKLUSIF TV",20. BTV
 https://b1news.beritasatumedia.com/Beritasatu/B1News_manifest.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/IDTV.png" group-title="16. EKSKLUSIF TV",IDTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/IDTV.png" group-title="16. EKSKLUSIF TV",21. IDTV
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jktglobe.png" group-title="16. EKSKLUSIF TV",JAKARTA GLOBE
@@ -4077,7 +4077,7 @@ https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/riautv.png" group-title="16. EKSKLUSIF TV",RIAU TV
 https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jtv.png" group-title="16. EKSKLUSIF TV",JTV
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jtv.png" group-title="16. EKSKLUSIF TV",22. JTV
 https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/playlist.m3u8
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/bandungtv.png" group-title="16. EKSKLUSIF TV",BANDUNG TV
@@ -4086,7 +4086,7 @@ http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jpm.png" group-title="16. EKSKLUSIF TV",JPM TV
 https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/playlist.m3u8
 
-EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jaktv.png" group-title="16. EKSKLUSIF TV",JAK TV
+EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/jaktv.png" group-title="16. EKSKLUSIF TV",23. JAK TV
 #EXTVLCOPT:http-referrer=https://www.dens.tv/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
 https://op-group1-swiftservesd-1.dens.tv/s/s123/S4/mnf.m3u8
