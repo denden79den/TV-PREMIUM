@@ -1758,11 +1758,25 @@ https://webhdrunns.mizhls.ru/lb/premium290/index.m3u8|Origin=https://claplivehdp
 https://webhdrunns.mizhls.ru/lb/premium291/index.m3u8|Origin=https://claplivehdplay.ru
 
 #EXTINF:-1 tvg-id="playsports1.be" tvg-name="4K | PLAY SPORTS 1" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgZI_gw_5wmMQ4yr44MOx78yC57oQA9MTlmIECStDnNbLKc39oibi9-690iooEmGy2WqT_l9JmCYNdGmyO_9fMwymcgawuP4pE-SL8TjxVzHmfJeu1a34QGl-ltI-4zUomq6prRjrHuGiOjD0fjo_6aN0OMtTwINW6CI1-a-Y6bagEN8vSssxF9UdMVsir8/s340/play%20sport1.png" group-title="09. Sports TV",234. PLAY SPORTS 1
-http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130317
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
 #EXTINF:-1 tvg-id="playsports2.be" tvg-name="4K | PLAY SPORTS 2" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi7O228zqPq5rp4A16zOs_TRyaGNCvZZmW4sJ2547a5K6qKmZyaDzBJJaxgTSYrX1fY6ipsiXsi-wtE7UgtwIKWs2wkUFxMpGYmsT2j2bw8njBHtzEVsU44cfX_rMNWXtaF8MLSXeJLCj3VZu7nC4Y8vsrYW7A1daZyAZdg9sjoWBvc4qRXn_ZYjmJUetF-/s340/play%20sport2.png" group-title="09. Sports TV",235. PLAY SPORTS 2
-http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/303720
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
+
 #EXTINF:-1 tvg-id="playsports3.be" tvg-name="4K | PLAY SPORTS 3" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj6AYMPosxGvZNUxDcBZSI_mjECu7IVLiM56EhsgLwi-ctNeJQ_oZH0PrCIXiDL4lud2TzqT02EozbZImXKJWPb_4Grnp296o_p1kbL2YldJGx8YyFpWCctXsJt3GvkNrVdOQtBNugonxgMteU9dlYooCq2JhXB4_vrHOlWueby7JE7h6NHk8JDzNE7phoj/s340/play%20sport3.png" group-title="09. Sports TV",236. PLAY SPORTS 3
-http://mutant.arrox.top:80/oWg8mm2z2/C1LwyPEFOj/130319
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Sky, EM150UK, ) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/28.0.1500.95 YaBrowser/13.9.1500.3524 Mobile Safari/537.36
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-id="ACTION.za" tvg-logo="https://github.com/tv-logo/tv-logos/blob/8d25ddd79ca2f9cd033b808c45cccd2b3da563ee/countries/south-africa/supersport-action-za.png?raw=true" tvg-name="SuperSport Action",237. SuperSport Action
 #EXTVLCOPT:http-referrer=https://cookiewebplay.xyz/
