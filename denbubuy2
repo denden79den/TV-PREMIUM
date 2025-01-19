@@ -1399,10 +1399,11 @@ https://mantul.biz.id:443/inetwork/gayanet12/223.ts
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="FILM | INDONESIA",VISION PRIME
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="FILM | INDONESIA",VISION PRIME HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 
-
+#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="FILM | INDONESIA",VISION PRIME
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 
 
 ==============================================SPORT INDONESIA=============================================
