@@ -777,24 +777,33 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="TV | NASIONAL",MNCTV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
+#EXTINF:-1 tvg-id="INews.id" tvg-name="INews TV" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="TV | NASIONAL",INEWS TV
+#EXTVLCOPT:http-user-agent=android-R+
+#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
+https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TV | NASIONAL",INDOSIAR
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.00 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=http://dens.tv
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="TV | NASIONAL",SCTV
-http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="Moji tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="TV | NASIONAL",MOJI TV
-https://mantul.biz.id:443/inetwork/gayanet12/8251.ts
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="TV | NASIONAL",TRANS TV
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="TV | NASIONAL",TRANS7
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 #EXTINF:-1 tvg-id="NET.id" tvg-name="NET TV FHD" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch8neanq0wH_u5dVBHwxwTVKQInQYGBEd9vWf1TFi4ez5Q.png" group-title="TV | NASIONAL",NET TV
-https://mantul.biz.id:443/inetwork/gayanet12/215.ts
+#EXTVLCOPT:http-referrer=https://www.dens.tv/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0
+http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&userid=lite&chname=NET
 #EXTINF:-1 tvg-id="tvOne.id" tvg-name="TV ONE" tvg-logo="https://mantul.biz.id:443/images/lO4I6ENDRiY1iG64O8qqg05nuK2R4USmS8q11SWts7GfvEUf1OGoj9qU7QuCpUzV9oxJVE0JV-acxd2O-0n_XqMzrd6XHkoKdeiTI7EO7ea05gU6yu3wGH2NSw_g8EgETwVRQr6Psf9WzBSyma9QZJTzuelp4OJz5F1LfGGgwI8gsAdFNzWXaXegSHmQc-G0.png" group-title="TV | NASIONAL",TV ONE
-https://mantul.biz.id:443/inetwork/gayanet12/219.ts
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h224/02.m3u8
 #EXTINF:-1 tvg-id="ANTV.id" tvg-name="ANTV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yekYMmrXoUjKXN7tnGQPM44js-tusWwMsaHdKwvB-aaaRw.png" group-title="TV | NASIONAL",ANTV
 https://mantul.biz.id:443/inetwork/gayanet12/206.ts
-#EXTINF:-1 tvg-id="INews.id" tvg-name="INews TV" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="TV | NASIONAL",INEWS TV
-https://mantul.biz.id:443/inetwork/gayanet12/193.ts
 #EXTINF:-1 tvg-id="KompasTV.id" tvg-name="Kompas TV" tvg-logo="https://mantul.biz.id:443/images/pab2R7PWBHNTPmE5N3UhiLLHf2JmUPhCSjh3QT2-G7jSYCp4GDYk7GHFnYUcMYfPKlc7oz86uzkC52ltFhIL-qgje3X8JLQWmcEwzXgmi5A.png" group-title="TV | NASIONAL",KOMPAS TV
 https://mantul.biz.id:443/inetwork/gayanet12/210.ts
 #EXTINF:-1 tvg-id="MetroTV.id" tvg-name="Metro TV" tvg-logo="https://mantul.biz.id:443/images/S3qjABwxNNrSZo8bz52n6WLRCGvxOa1GP3TWmrz2yelv4h9faQNgeZ4klibiqLT0W_IqQTBrPvTnXhqzuNFujg.png" group-title="TV | NASIONAL",METRO TV
@@ -812,9 +821,11 @@ https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584468
 #EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://go4.pw/INDONESIA/BERITA_SATU.png"  group-title="TV | NASIONAL",BERITA SATU
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584478
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png"  group-title="TV | NASIONAL",13. JTV
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png"  group-title="TV | NASIONAL",JTV
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830545
 
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="TV | NASIONAL",CNN Indonesia HD
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280000_sleng.m3u8
 
 ===================================TV MALAYSIA============================
 
