@@ -1393,6 +1393,12 @@ https://mantul.biz.id:443/inetwork/gayanet12/221
 
 #EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcT7H4bHESJlD2RtAAebhClZZX0l47tB42AQTw&usqp=CAU" group-title="FILM | INDONESIA",FLIK
 https://mantul.biz.id:443/inetwork/gayanet12/223.ts
+
+#EXTINF:-1 group-title="FILM | INDONESIA" tvg-logo="https://images.indihometv.com/assets/OTT-88-MAXSTREAM-HD.png",MAXSTREAM
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="FILM | INDONESIA",VISION PRIME
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 
