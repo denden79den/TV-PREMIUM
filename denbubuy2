@@ -819,15 +819,15 @@ https://mantul.biz.id:443/inetwork/gayanet12/39.ts
 https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="MNC Sindo news HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png"  group-title="TV | NASIONAL",15. Sindonews HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584468
-#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://go4.pw/INDONESIA/BERITA_SATU.png"  group-title="TV | NASIONAL",BERITA SATU
+#EXTINF:-1 tvg-id="" tvg-name="BERITA SATU" tvg-logo="http://go4.pw/INDONESIA/BERITA_SATU.png"  group-title="TV | NASIONAL",16. BERITA SATU
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584478
-#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png"  group-title="TV | NASIONAL",JTV
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png"  group-title="TV | NASIONAL",17. JTV
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830545
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="TV | NASIONAL",CNN Indonesia HD
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="TV | NASIONAL",14. CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280000_sleng.m3u8
 
-#EXTINF:-1 tvg-id="" tvg-name="MNC SINDONEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV | NASIONAL",MNC SINDONEWS HD
+#EXTINF:-1 tvg-id="" tvg-name="MNC SINDONEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV | NASIONAL",13. SINDONEWS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
 
 ===================================TV MALAYSIA============================
