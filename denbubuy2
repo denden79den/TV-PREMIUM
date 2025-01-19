@@ -827,6 +827,9 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/830545
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cnnindo.png" group-title="TV | NASIONAL",CNN Indonesia HD
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280000_sleng.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="MNC SINDONEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV | NASIONAL",MNC SINDONEWS HD
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
+
 ===================================TV MALAYSIA============================
 
 
