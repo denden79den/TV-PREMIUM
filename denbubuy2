@@ -1383,7 +1383,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/27431
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="FILM | INDONESIA",Bioskop Indonesia
 https://mantul.biz.id:443/inetwork/gayanet12/243.ts
 
-#EXTINF:-1 group-title="group-title="FILM | INDONESIA"  group-logo="https://i.ibb.co.com/B6FStGg/unnamed-1.png" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+#EXTINF:-1 group-title="group-title="FILM | INDONESIA" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/130/cdrama/manifest.mpd
