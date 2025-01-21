@@ -710,3 +710,96 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/304029
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157584
 #EXTINF:-1 tvg-ID="" tvg-name="ID ▎TV5 MONDE " tvg-logo="https://img.logo-cdn.cc/tv5monde.png" group-title="ASIA ▎INDONESIA",ID ▎TV5 MONDE 
 http://op-group1-swiftservehd-1.dens.tv/h/h121/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=TV5MONDE_Style_HD
+
+=================================================================================================================
+
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="" group-title="TV | INDONESIA", RCTI
+http://tv.kudigital.pw:8080/28122024KM/28122024/1
+#EXTINF:-1 tvg-id="" tvg-name="CNBC" tvg-logo="" group-title="TV | INDONESIA", CNBC
+http://tv.kudigital.pw:8080/28122024KM/28122024/5
+#EXTINF:-1 tvg-id="" tvg-name="CNN" tvg-logo="" group-title="TV | INDONESIA", CNN INDONESIA
+http://tv.kudigital.pw:8080/28122024KM/28122024/6
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="" group-title="TV | INDONESIA", TV ONE
+http://tv.kudigital.pw:8080/28122024KM/28122024/7
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="" group-title="TV | INDONESIA", TVRI
+http://tv.kudigital.pw:8080/28122024KM/28122024/8
+#EXTINF:-1 tvg-id="" tvg-name="KOMPAS TV" tvg-logo="" group-title="TV | INDONESIA", KOMPAS TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/9
+#EXTINF:-1 tvg-id="" tvg-name="BTV" tvg-logo="" group-title="TV | INDONESIA", BTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/10
+#EXTINF:-1 tvg-id="" tvg-name="SCTV" tvg-logo="" group-title="TV | INDONESIA", SCTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/11
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="" group-title="TV | INDONESIA", ANTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/12
+#EXTINF:-1 tvg-id="" tvg-name="NET" tvg-logo="" group-title="TV | INDONESIA", NET TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/13
+#EXTINF:-1 tvg-id="" tvg-name="METRO TV" tvg-logo="" group-title="TV | INDONESIA", METRO TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/18
+#EXTINF:-1 tvg-id="" tvg-name="RTV" tvg-logo="" group-title="TV | INDONESIA", RTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/19
+#EXTINF:-1 tvg-id="" tvg-name="Rodja TV" tvg-logo="" group-title="TV | INDONESIA", RODJA TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/20
+#EXTINF:-1 tvg-id="" tvg-name="TRANS7" tvg-logo="" group-title="TV | INDONESIA", TRANS 7
+http://tv.kudigital.pw:8080/28122024KM/28122024/21
+#EXTINF:-1 tvg-id="" tvg-name="TRANS TV" tvg-logo="" group-title="TV | INDONESIA", TRANS TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/22
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="" group-title="TV | INDONESIA", TVRI SPORTS
+http://tv.kudigital.pw:8080/28122024KM/28122024/23
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="" group-title="TV | INDONESIA", GTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/26
+#EXTINF:-1 tvg-id="" tvg-name="INDOSIAR" tvg-logo="" group-title="TV | INDONESIA", INDOSIAR
+http://tv.kudigital.pw:8080/28122024KM/28122024/27
+#EXTINF:-1 tvg-id="" tvg-name="I NEWS" tvg-logo="" group-title="TV | INDONESIA", INEWS
+http://tv.kudigital.pw:8080/28122024KM/28122024/28
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="" group-title="TV | INDONESIA", MNCTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/29
+#EXTINF:-1 tvg-id="" tvg-name="MOJI" tvg-logo="" group-title="TV | INDONESIA", MOJI
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
+#EXTINF:-1 tvg-id="" tvg-name="ROCK ACTION" tvg-logo="" group-title="TV | INDONESIA", ROCK ACTION
+http://tv.kudigital.pw:8080/28122024KM/28122024/36
+#EXTINF:-1 tvg-id="" tvg-name="MKIDS" tvg-logo="" group-title="TV | INDONESIA", MKIDS
+http://tv.kudigital.pw:8080/28122024KM/28122024/37
+#EXTINF:-1 tvg-id="" tvg-name="MFC" tvg-logo="" group-title="TV | INDONESIA", MY FAMILY CHANNEL
+http://tv.kudigital.pw:8080/28122024KM/28122024/38
+#EXTINF:-1 tvg-id="" tvg-name="MY CINEMA" tvg-logo="" group-title="TV | INDONESIA", MY CINEMA
+http://tv.kudigital.pw:8080/28122024KM/28122024/40
+#EXTINF:-1 tvg-id="" tvg-name="K+" tvg-logo="" group-title="TV | INDONESIA", K+
+http://tv.kudigital.pw:8080/28122024KM/28122024/41
+#EXTINF:-1 tvg-id="" tvg-name="KIK" tvg-logo="" group-title="TV | INDONESIA", KIK
+http://tv.kudigital.pw:8080/28122024KM/28122024/42
+#EXTINF:-1 tvg-id="" tvg-name="HITS MOVIES" tvg-logo="" group-title="TV | INDONESIA", HITS MOVIES
+http://tv.kudigital.pw:8080/28122024KM/28122024/43
+#EXTINF:-1 tvg-id="" tvg-name="HITS" tvg-logo="" group-title="TV | INDONESIA", HITS
+http://tv.kudigital.pw:8080/28122024KM/28122024/44
+#EXTINF:-1 tvg-id="" tvg-name="CELESTIAL MOVIES" tvg-logo="" group-title="TV | INDONESIA", CELESTIAL MOVIES
+http://tv.kudigital.pw:8080/28122024KM/28122024/46
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT" tvg-logo="" group-title="TV | INDONESIA", FIGHT
+http://tv.kudigital.pw:8080/28122024KM/28122024/51
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="" group-title="TV | INDONESIA", HBO
+http://tv.kudigital.pw:8080/28122024KM/28122024/62
+#EXTINF:-1 tvg-id="" tvg-name="HBO HITS" tvg-logo="" group-title="TV | INDONESIA", HBO HITS
+http://tv.kudigital.pw:8080/28122024KM/28122024/63
+#EXTINF:-1 tvg-id="" tvg-name="HBO FAMILY" tvg-logo="" group-title="TV | INDONESIA", HBO FAMILY
+http://tv.kudigital.pw:8080/28122024KM/28122024/64
+#EXTINF:-1 tvg-id="" tvg-name="HBO SIGNATURE" tvg-logo="" group-title="TV | INDONESIA", HBO SIGNATURE
+http://tv.kudigital.pw:8080/28122024KM/28122024/65
+#EXTINF:-1 tvg-id="" tvg-name="CINEMAX" tvg-logo="" group-title="TV | INDONESIA", CINEMAX
+http://tv.kudigital.pw:8080/28122024KM/28122024/66
+#EXTINF:-1 tvg-id="" tvg-name="WB" tvg-logo="" group-title="TV | INDONESIA", WARNER BROS
+http://tv.kudigital.pw:8080/28122024KM/28122024/67
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="" group-title="TV | INDONESIA", AXN
+http://tv.kudigital.pw:8080/28122024KM/28122024/68
+#EXTINF:-1 tvg-id="" tvg-name="GALAXY PREMIUM" tvg-logo="" group-title="TV | INDONESIA", GALAXY PREMIUM
+http://tv.kudigital.pw:8080/28122024KM/28122024/69
+#EXTINF:-1 tvg-id="" tvg-name="CARTOON NETWORK" tvg-logo="" group-title="TV | INDONESIA", CARTOON NETWORK
+http://tv.kudigital.pw:8080/28122024KM/28122024/70
+#EXTINF:-1 tvg-id="" tvg-name="NICKLEDEON" tvg-logo="" group-title="TV | INDONESIA", NICKLEDEON
+http://tv.kudigital.pw:8080/28122024KM/28122024/72
+#EXTINF:-1 tvg-id="" tvg-name="ANIMAL PLANET" tvg-logo="" group-title="TV | INDONESIA", ANIMAL PLANET
+http://tv.kudigital.pw:8080/28122024KM/28122024/73
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 1" tvg-logo="" group-title="TV | INDONESIA", SPOTV 1
+http://tv.kudigital.pw:8080/28122024KM/28122024/74
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="" group-title="TV | INDONESIA", SPOTV 2
+http://tv.kudigital.pw:8080/28122024KM/28122024/75
+#EXTINF:-1 tvg-id="" tvg-name="SPOTV 2" tvg-logo="" group-title="TV | INDONESIA", BEIN SPORTS 1
+http://tv.kudigital.pw:8080/28122024KM/28122024/76
