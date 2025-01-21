@@ -1138,9 +1138,7 @@ http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34331
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="TV | NASIONAL",03. MNCTV
 http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34326
 #EXTINF:-1 tvg-id="INews.id" tvg-name="INews TV" tvg-logo="https://mantul.biz.id:443/images/Bh_KsKKmAFbCbf59m4eiZIWNpl71WJ-N2srJ_e6Sch_LdxoAluRADLiODXO_nC06a5t5F3l_0_CnPFOoVOiZJg.png" group-title="TV | NASIONAL",13. INEWS TV
-#EXTVLCOPT:http-user-agent=android-R+
-#EXTVLCOPT:http-referrer=https://www.rctiplus.com/
-https://r-plus.sedotcw3.workers.dev/index.m3u8?id=inews
+http://tv.kudigital.pw:8080/28122024KM/28122024/28
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="TV | NASIONAL",04. INDOSIAR
 http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34327
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="TV | NASIONAL",05. SCTV
@@ -1183,6 +1181,9 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280
 
 #EXTINF:-1 tvg-id="" tvg-name="MNC SINDONEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV | NASIONAL",13. SINDONEWS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
+
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co.com/DV9BD2S/tvri-sport.png" group-title="TV | INDONESIA", 20. TVRI SPORTS
+http://tv.kudigital.pw:8080/28122024KM/28122024/23
 
 ===================================TV MALAYSIA============================
 
