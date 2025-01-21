@@ -1153,8 +1153,9 @@ http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34327
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 http://op-group1-swiftservehd-1.dens.tv/h/h217/index.m3u8
 #EXTINF:-1 tvg-id="ABCAustralia.au" tvg-name="Moji tv" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="TV | NASIONAL",06. MOJI TV
-#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+'#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+'http://op-group1-swiftservehd-1.dens.tv/h/h207/index.m3u8
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="TV | NASIONAL",07. TRANS TV
 'http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
 http://viprtea.top:8080/VIP016101734802754285/785a4461460b/34324
