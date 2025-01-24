@@ -1551,3 +1551,36 @@ http://myserver.myphuket.net:25461/test2/test2/49
 http://myserver.myphuket.net:25461/test2/test2/50
 
 
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS1.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 1
+http://b1g.ooo:80/96114/96114green/35915
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS2.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 2
+http://b1g.ooo:80/96114/96114green/35914
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS3.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 3
+http://b1g.ooo:80/96114/96114green/35913
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS4.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 4
+http://b1g.ooo:80/96114/96114green/35912
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS5.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 5
+http://b1g.ooo:80/96114/96114green/35911
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-PREMIER-SPORTS6.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 6
+http://b1g.ooo:80/96114/96114green/35910
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 7
+http://b1g.ooo:80/96114/96114green/35909
+#EXTINF:-1 tvg-id="" tvg-name=" NOW PREMIER SPORTS 8" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-HK-NOW-SPORTS.png" group-title="SPORTS| NOW PREMIER", NOW PREMIER SPORTS 8
+http://b1g.ooo:80/96114/96114green/35908
+
+
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 1" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS1.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 1
+http://b1g.ooo:80/96114/96114green/697701
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 2" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS2.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 2
+http://b1g.ooo:80/96114/96114green/697702
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 3" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS3.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 3
+http://b1g.ooo:80/96114/96114green/697703
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 4" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS4.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 4
+http://b1g.ooo:80/96114/96114green/697704
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 5" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS5.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 5
+http://b1g.ooo:80/96114/96114green/697705
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 6" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS6.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 6
+http://b1g.ooo:80/96114/96114green/697706
+#EXTINF:-1 tvg-id="" tvg-name="  NOW SPORTS 7" tvg-logo="http://103.176.90.118/picons/logos/UK/NOW-SPORTS7.png" group-title="SPORTS| NOW PREMIER",  NOW SPORTS 7
+http://b1g.ooo:80/96114/96114green/697707
+
