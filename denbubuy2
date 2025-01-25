@@ -1498,6 +1498,17 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/830541
 #EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS HD" tvg-logo="http://go4.pw/EUROPE/GERMANY/FIGHT_SPORTS.png"  group-title="SPORTS | INDONESIA",FIGHT SPORTS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
 
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ya_rciw-jbw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAT9fcocdKFFyu5CrhOt9Cfjzz7IA" group-title="SPORTS | INDONESIA",VOLI HD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/hzg9mgl37hixgpb09hzma6d99280udjq0e50/hdntl=exp=1737820011~acl=*%2fhzg9mgl37hixgpb09hzma6d99280udjq0e50%2f*~data=hdntl~hmac=2902323702cffef8a722a20fc89a8cfc403b8316269636dacaf19c1f07a59f57/chunklist_720.stream.m3u8
+#EXTINF:-1 tvg-logo="https://i.ytimg.com/vi/Ya_rciw-jbw/hq720.jpg?sqp=-oaymwEhCK4FEIIDSFryq4qpAxMIARUAAAAAGAElAADIQj0AgKJD&rs=AOn4CLAT9fcocdKFFyu5CrhOt9Cfjzz7IA" group-title="SPORTS | INDONESIA",VOLI FHD
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0002/hzg9mgl37hixgpb09hzma6d99280udjq0e50/hdntl=exp=1737820011~acl=*%2fhzg9mgl37hixgpb09hzma6d99280udjq0e50%2f*~data=hdntl~hmac=2902323702cffef8a722a20fc89a8cfc403b8316269636dacaf19c1f07a59f57/chunklist_1080.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="SPORTS | INDONESIA",VOLI KOVO HD 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/2acd6r6edlevhchheiwezry1sjo3860a4qds/hdntl=exp=1737816277~acl=*%2f2acd6r6edlevhchheiwezry1sjo3860a4qds%2f*~data=hdntl~hmac=d3107dbf8b98c8dfb3611b33d7142c875fc77499967908f1cfb62843643ba70e/chunklist_720.stream.m3u8
+
+#EXTINF:-1 tvg-logo="https://img.sportcorner.id/uploads/bb/38/Liga_Voli_Korea_Selatan_6332e3b8e3.jpg" group-title="SPORTS | INDONESIA",VOLI KOVO FHD 
+https://livecloud.akamaized.net/sports/lip2_kr2/anmssgpu0004/2acd6r6edlevhchheiwezry1sjo3860a4qds/hdntl=exp=1737816277~acl=*%2f2acd6r6edlevhchheiwezry1sjo3860a4qds%2f*~data=hdntl~hmac=d3107dbf8b98c8dfb3611b33d7142c875fc77499967908f1cfb62843643ba70e/chunklist_1080.stream.m3u8
+
 
 =======================================NOW SPORTS========================================================
 
