@@ -31,21 +31,6 @@ https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
 https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
 
 
-
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 3" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV3.png" group-title="04. Premium TV",ETV Bioskop 3
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV3.m3u8
-
-
-
-#EXTINF:-1 tvg-name="" tvg-id="ETV Bioskop 4" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/ETV4.png" group-title="04. Premium TV",ETV Bioskop 4
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ETV4.m3u8
-
-
-
-
-
 ================================VISION+================================================
 
 
