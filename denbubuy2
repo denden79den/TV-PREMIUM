@@ -477,6 +477,10 @@ http://tv.kudigital.pw:8080/28122024KM/28122024/8
 http://tv.kudigital.pw:8080/28122024KM/28122024/1220
 #EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://go.erabaru.my.id/live/nusantaratv.png" group-title="VIP | TV PREMIUM 1",Nusantara TV
 http://tv.kudigital.pw:8080/28122024KM/28122024/2351
+#EXTINF:-1 tvg-id="BTV.id" tvg-logo="https://iili.io/28yoB87.png" group-title="VIP | TV PREMIUM 1",BTV
+https://b1news.beritasatumedia.com/Beritasatu/B1News_1280x720.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/2rCEOZl.png" group-title="VIP | TV PREMIUM 1",Garuda TV
+https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="Boo" tvg-logo="https://go.erabaru.my.id/live/boo.png" group-title="VIP | TV PREMIUM 1",Boo
