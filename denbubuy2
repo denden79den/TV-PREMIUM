@@ -431,6 +431,233 @@ https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
 
+==============================VIP PREMIUM 1=====================================
+
+
+#EXTM3U
+#EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://go.erabaru.my.id/live/antv.png" group-title="VIP | TV PREMIUM 1",ANTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/12
+#EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://go.erabaru.my.id/live/beritasatu.png" group-title="VIP | TV PREMIUM 1",Berita Satu
+http://tv.kudigital.pw:8080/28122024KM/28122024/10
+#EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://go.erabaru.my.id/live/cnbc-indo.png" group-title="VIP | TV PREMIUM 1",CNBC Indonesia
+http://tv.kudigital.pw:8080/28122024KM/28122024/5
+#EXTINF:-1 tvg-id="" tvg-name="CNN Indonesia" tvg-logo="https://go.erabaru.my.id/live/cnn-indo.png" group-title="VIP | TV PREMIUM 1",CNN Indonesia
+http://tv.kudigital.pw:8080/28122024KM/28122024/6
+#EXTINF:-1 tvg-id="" tvg-name="GTV" tvg-logo="https://go.erabaru.my.id/live/gtv.png" group-title="VIP | TV PREMIUM 1",GTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/26
+#EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="https://go.erabaru.my.id/live/indosiar.png" group-title="VIP | TV PREMIUM 1",Indosiar
+http://tv.kudigital.pw:8080/28122024KM/28122024/27
+#EXTINF:-1 tvg-id="" tvg-name="iNews" tvg-logo="https://go.erabaru.my.id/live/inews.png" group-title="VIP | TV PREMIUM 1",iNews
+http://tv.kudigital.pw:8080/28122024KM/28122024/28
+#EXTINF:-1 tvg-id="" tvg-name="Kompas TV" tvg-logo="https://go.erabaru.my.id/live/kompastv.png" group-title="VIP | TV PREMIUM 1",Kompas TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/9
+#EXTINF:-1 tvg-id="" tvg-name="Metro TV" tvg-logo="https://go.erabaru.my.id/live/metrotv.png" group-title="VIP | TV PREMIUM 1",Metro TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/18
+#EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://go.erabaru.my.id/live/mnctv.png" group-title="VIP | TV PREMIUM 1",MNCTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/29
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/jancok/moji.png" group-title="VIP | TV PREMIUM 1",Moji
+http://tv.kudigital.pw:8080/28122024KM/28122024/30
+#EXTINF:-1 tvg-id="" tvg-name="Net." tvg-logo="https://go.erabaru.my.id/live/nettv.png" group-title="VIP | TV PREMIUM 1",Net.
+http://tv.kudigital.pw:8080/28122024KM/28122024/13
+#EXTINF:-1 tvg-id="" tvg-name="Rajawali TV" tvg-logo="https://go.erabaru.my.id/live/rtv.png" group-title="VIP | TV PREMIUM 1",Rajawali TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/19
+#EXTINF:-1 tvg-id="" tvg-name="RCTI" tvg-logo="https://go.erabaru.my.id/live/rcti.png" group-title="VIP | TV PREMIUM 1",RCTI
+http://tv.kudigital.pw:8080/28122024KM/28122024/1
+#EXTINF:-1 tvg-id="" tvg-name="SCTV HD" tvg-logo="https://go.erabaru.my.id/live/sctv.png" group-title="VIP | TV PREMIUM 1",SCTV HD
+http://tv.kudigital.pw:8080/28122024KM/28122024/11
+#EXTINF:-1 tvg-id="" tvg-name="Trans 7" tvg-logo="https://go.erabaru.my.id/live/trans7.png" group-title="VIP | TV PREMIUM 1",Trans 7
+http://tv.kudigital.pw:8080/28122024KM/28122024/21
+#EXTINF:-1 tvg-id="" tvg-name="Trans TV" tvg-logo="https://go.erabaru.my.id/live/transtv.png" group-title="VIP | TV PREMIUM 1",Trans TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/22
+#EXTINF:-1 tvg-id="" tvg-name="TV ONE" tvg-logo="https://go.erabaru.my.id/live/tvone.png" group-title="VIP | TV PREMIUM 1",TV ONE
+http://tv.kudigital.pw:8080/28122024KM/28122024/7
+#EXTINF:-1 tvg-id="" tvg-name="TVRI" tvg-logo="https://go.erabaru.my.id/live/tvri.png" group-title="VIP | TV PREMIUM 1",TVRI
+http://tv.kudigital.pw:8080/28122024KM/28122024/8
+#EXTINF:-1 tvg-id="" tvg-name="DAAI" tvg-logo="https://go.erabaru.my.id/jancok/daai.png" group-title="VIP | TV PREMIUM 1",DAAI
+http://tv.kudigital.pw:8080/28122024KM/28122024/1220
+#EXTINF:-1 tvg-id="" tvg-name="Nusantara TV" tvg-logo="https://go.erabaru.my.id/live/nusantaratv.png" group-title="VIP | TV PREMIUM 1",Nusantara TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/2351
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Boo" tvg-logo="https://go.erabaru.my.id/live/boo.png" group-title="VIP | TV PREMIUM 1",Boo
+http://tv.kudigital.pw:8080/28122024KM/28122024/194
+#EXTINF:-1 tvg-id="" tvg-name="Aura" tvg-logo="https://go.erabaru.my.id/live/aura.png" group-title="VIP | TV PREMIUM 1",Aura
+http://tv.kudigital.pw:8080/28122024KM/28122024/197
+#EXTINF:-1 tvg-id="" tvg-name="TV6" tvg-logo="https://go.erabaru.my.id/live/tv6.png" group-title="VIP | TV PREMIUM 1",TV6
+http://tv.kudigital.pw:8080/28122024KM/28122024/201
+#EXTINF:-1 tvg-id="" tvg-name="Okey" tvg-logo="https://go.erabaru.my.id/live/okey.png" group-title="VIP | TV PREMIUM 1",Okey
+http://tv.kudigital.pw:8080/28122024KM/28122024/202
+#EXTINF:-1 tvg-id="" tvg-name="Rania" tvg-logo="https://go.erabaru.my.id/live/rania.png" group-title="VIP | TV PREMIUM 1",Rania
+http://tv.kudigital.pw:8080/28122024KM/28122024/1095
+#EXTINF:-1 tvg-id="" tvg-name="Oasis" tvg-logo="https://go.erabaru.my.id/live/oasis.png" group-title="VIP | TV PREMIUM 1",Oasis
+http://tv.kudigital.pw:8080/28122024KM/28122024/1096
+#EXTINF:-1 tvg-id="" tvg-name="Awani" tvg-logo="https://go.erabaru.my.id/live/awani.png" group-title="VIP | TV PREMIUM 1",Awani
+http://tv.kudigital.pw:8080/28122024KM/28122024/1097
+#EXTINF:-1 tvg-id="" tvg-name="TV 1" tvg-logo="https://go.erabaru.my.id/live/tv1.png" group-title="VIP | TV PREMIUM 1",TV 1
+http://tv.kudigital.pw:8080/28122024KM/28122024/1098
+#EXTINF:-1 tvg-id="" tvg-name="TV2" tvg-logo="https://go.erabaru.my.id/live/TV2.png" group-title="VIP | TV PREMIUM 1",TV2
+http://tv.kudigital.pw:8080/28122024KM/28122024/1099
+#EXTINF:-1 tvg-id="" tvg-name="TV3" tvg-logo="https://go.erabaru.my.id/live/tv3.png" group-title="VIP | TV PREMIUM 1",TV3
+http://tv.kudigital.pw:8080/28122024KM/28122024/1405
+#EXTINF:-1 tvg-id="" tvg-name="TV9" tvg-logo="https://go.erabaru.my.id/live/tv9.png" group-title="VIP | TV PREMIUM 1",TV9
+http://tv.kudigital.pw:8080/28122024KM/28122024/1406
+#EXTINF:-1 tvg-id="" tvg-name="Berita RTM" tvg-logo="https://go.erabaru.my.id/live/beritartm.png" group-title="VIP | TV PREMIUM 1",Berita RTM
+http://tv.kudigital.pw:8080/28122024KM/28122024/1407
+#EXTINF:-1 tvg-id="" tvg-name="8TV" tvg-logo="https://go.erabaru.my.id/live/8tv.png" group-title="VIP | TV PREMIUM 1",8TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/2394
+#EXTINF:-1 tvg-id="" tvg-name="TV AL HIJRAH" tvg-logo="https://go.erabaru.my.id/live/alhijrah.png" group-title="VIP | TV PREMIUM 1",TV AL HIJRAH
+http://tv.kudigital.pw:8080/28122024KM/28122024/2395
+#EXTINF:-1 tvg-id="" tvg-name="RTB Aneka" tvg-logo="https://go.erabaru.my.id/live/aneka.png" group-title="VIP | TV PREMIUM 1",RTB Aneka
+http://tv.kudigital.pw:8080/28122024KM/28122024/2397
+#EXTINF:-1 tvg-id="" tvg-name="RTB SUKMAINDERA" tvg-logo="https://go.erabaru.my.id/live/sukmaindera.png" group-title="VIP | TV PREMIUM 1",RTB SUKMAINDERA
+http://tv.kudigital.pw:8080/28122024KM/28122024/2398
+#EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://go.erabaru.my.id/live/colors.png" group-title="VIP | TV PREMIUM 1",Colors
+http://tv.kudigital.pw:8080/28122024KM/28122024/2415
+EXTINF:-1 tvg-id="" tvg-name="Showcase" tvg-logo="https://go.erabaru.my.id/live/showcase.png" group-title="VIP | TV PREMIUM 1",Showcase
+http://tv.kudigital.pw:8080/28122024KM/28122024/2563
+#EXTINF:-1 tvg-id="" tvg-name="RIA" tvg-logo="https://go.erabaru.my.id/live/ria.png" group-title="VIP | TV PREMIUM 1",RIA
+http://tv.kudigital.pw:8080/28122024KM/28122024/2564
+#EXTINF:-1 tvg-id="" tvg-name="Citra" tvg-logo="https://go.erabaru.my.id/live/citra.png" group-title="VIP | TV PREMIUM 1",Citra
+http://tv.kudigital.pw:8080/28122024KM/28122024/2565
+#EXTINF:-1 tvg-id="" tvg-name="Prima" tvg-logo="https://go.erabaru.my.id/live/prima.png" group-title="VIP | TV PREMIUM 1",Prima
+http://tv.kudigital.pw:8080/28122024KM/28122024/2566
+#EXTINF:-1 tvg-id="" tvg-name="TVS" tvg-logo="https://go.erabaru.my.id/live/tvs.png" group-title="VIP | TV PREMIUM 1",TVS
+http://tv.kudigital.pw:8080/28122024KM/28122024/2567
+
+#EXTINF:-1 tvg-id="" tvg-name="Cinema World" tvg-logo="https://go.erabaru.my.id/live/cinemaworld.png" group-title="VIP | TV PREMIUM 1",Cinema World
+http://tv.kudigital.pw:8080/28122024KM/28122024/45
+#EXTINF:-1 tvg-id="" tvg-name="Hits Movies" tvg-logo="https://go.erabaru.my.id/live/hits-movies.png" group-title="VIP | TV PREMIUM 1",Hits Movies
+http://tv.kudigital.pw:8080/28122024KM/28122024/43
+#EXTINF:-1 tvg-id="" tvg-name="My Cinema" tvg-logo="https://go.erabaru.my.id/live/mycinema.png" group-title="VIP | TV PREMIUM 1",My Cinema
+http://tv.kudigital.pw:8080/28122024KM/28122024/40
+#EXTINF:-1 tvg-id="" tvg-name="My Family" tvg-logo="https://go.erabaru.my.id/live/myfamily.png" group-title="VIP | TV PREMIUM 1",My Family
+http://tv.kudigital.pw:8080/28122024KM/28122024/38
+#EXTINF:-1 tvg-id="" tvg-name="Rock Action" tvg-logo="https://go.erabaru.my.id/live/rock-action.png" group-title="VIP | TV PREMIUM 1",Rock Action
+http://tv.kudigital.pw:8080/28122024KM/28122024/36
+#EXTINF:-1 tvg-id="" tvg-name="Thrill" tvg-logo="https://go.erabaru.my.id/live/thrill.png" group-title="VIP | TV PREMIUM 1",Thrill
+http://tv.kudigital.pw:8080/28122024KM/28122024/34
+#EXTINF:-1 tvg-id="" tvg-name="TVN Movies" tvg-logo="https://go.erabaru.my.id/live/tvn-movies.png" group-title="VIP | TV PREMIUM 1",TVN Movies
+http://tv.kudigital.pw:8080/28122024KM/28122024/32
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Sinema" tvg-logo="https://go.erabaru.my.id/live/DuniaSenima.png" group-title="VIP | TV PREMIUM 1",Dunia Sinema
+http://tv.kudigital.pw:8080/28122024KM/28122024/53
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://go.erabaru.my.id/live/hbo-id.png" group-title="VIP | TV PREMIUM 1",HBO
+http://tv.kudigital.pw:8080/28122024KM/28122024/62
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://go.erabaru.my.id/live/hbo-hits.png" group-title="VIP | TV PREMIUM 1",HBO Hits
+http://tv.kudigital.pw:8080/28122024KM/28122024/63
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://go.erabaru.my.id/live/hbo-fam.png" group-title="VIP | TV PREMIUM 1",HBO Family
+http://tv.kudigital.pw:8080/28122024KM/28122024/64
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signatures" tvg-logo="https://go.erabaru.my.id/live/hob-sig.png" group-title="VIP | TV PREMIUM 1",HBO Signatures
+http://tv.kudigital.pw:8080/28122024KM/28122024/65
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://go.erabaru.my.id/live/cinemax.png" group-title="VIP | TV PREMIUM 1",Cinemax
+http://tv.kudigital.pw:8080/28122024KM/28122024/66
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://go.erabaru.my.id/live/flik.png" group-title="VIP | TV PREMIUM 1",FLIK
+http://tv.kudigital.pw:8080/28122024KM/28122024/1090
+#EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="https://go.erabaru.my.id/live/bioskop-id.png" group-title="VIP | TV PREMIUM 1",Bioskop Indonesia
+http://tv.kudigital.pw:8080/28122024KM/28122024/1089
+
+
+#EXTINF:-1 tvg-id="" tvg-name="My Kidz" tvg-logo="https://go.erabaru.my.id/live/mkidz.png" group-title="VIP | TV PREMIUM 1",My Kidz
+http://tv.kudigital.pw:8080/28122024KM/28122024/37
+#EXTINF:-1 tvg-id="" tvg-name="ANIPLUS" tvg-logo="https://go.erabaru.my.id/live/aniplus.png" group-title="VIP | TV PREMIUM 1",ANIPLUS
+http://tv.kudigital.pw:8080/28122024KM/28122024/49
+#EXTINF:-1 tvg-id="" tvg-name="Cartoon Network" tvg-logo="https://go.erabaru.my.id/live/cartoon-network.png" group-title="VIP | TV PREMIUM 1",Cartoon Network
+http://tv.kudigital.pw:8080/28122024KM/28122024/70
+#EXTINF:-1 tvg-id="" tvg-name="Nickelodeon" tvg-logo="https://go.erabaru.my.id/live/nickeledeon.png" group-title="VIP | TV PREMIUM 1",Nickelodeon
+http://tv.kudigital.pw:8080/28122024KM/28122024/72
+#EXTINF:-1 tvg-id="" tvg-name="Zoo Moo" tvg-logo="https://go.erabaru.my.id/live/zoomoo.png" group-title="VIP | TV PREMIUM 1",Zoo Moo
+http://tv.kudigital.pw:8080/28122024KM/28122024/119
+#EXTINF:-1 tvg-id="" tvg-name="Animax" tvg-logo="https://go.erabaru.my.id/live/animax.png" group-title="VIP | TV PREMIUM 1",Animax
+http://tv.kudigital.pw:8080/28122024KM/28122024/180
+#EXTINF:-1 tvg-id="" tvg-name="PBSKids" tvg-logo="https://go.erabaru.my.id/live/pbskids.png" group-title="VIP | TV PREMIUM 1",PBSKids
+http://tv.kudigital.pw:8080/28122024KM/28122024/2396
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Hits" tvg-logo="https://go.erabaru.my.id/live/hits.png" group-title="VIP | TV PREMIUM 1",Hits
+http://tv.kudigital.pw:8080/28122024KM/28122024/44
+http://tv.kudigital.pw:8080/28122024KM/28122024/28
+#EXTINF:-1 tvg-id="" tvg-name="KIX" tvg-logo="https://go.erabaru.my.id/live/kix.png" group-title="VIP | TV PREMIUM 1",KIX
+http://tv.kudigital.pw:8080/28122024KM/28122024/42
+#EXTINF:-1 tvg-id="" tvg-name="KPlus" tvg-logo="https://go.erabaru.my.id/live/kplus.png" group-title="VIP | TV PREMIUM 1",KPlus
+http://tv.kudigital.pw:8080/28122024KM/28122024/41
+#EXTINF:-1 tvg-id="" tvg-name="Rock Enter" tvg-logo="https://go.erabaru.my.id/live/rock-enter.png" group-title="VIP | TV PREMIUM 1",Rock Enter
+http://tv.kudigital.pw:8080/28122024KM/28122024/35
+#EXTINF:-1 tvg-id="" tvg-name="TVN" tvg-logo="https://go.erabaru.my.id/live/tvn.png" group-title="VIP | TV PREMIUM 1",TVN
+http://tv.kudigital.pw:8080/28122024KM/28122024/33
+#EXTINF:-1 tvg-id="" tvg-name="Warner TV" tvg-logo="https://go.erabaru.my.id/live/warner-tv.png" group-title="VIP | TV PREMIUM 1",Warner TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/67
+#EXTINF:-1 tvg-id="" tvg-name="AXN" tvg-logo="https://go.erabaru.my.id/live/axn.png" group-title="VIP | TV PREMIUM 1",AXN
+http://tv.kudigital.pw:8080/28122024KM/28122024/68
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy Premium" tvg-logo="https://go.erabaru.my.id/live/galaxy-premium.png" group-title="VIP | TV PREMIUM 1",Galaxy Premium
+http://tv.kudigital.pw:8080/28122024KM/28122024/69
+#EXTINF:-1 tvg-id="" tvg-name="Arirang" tvg-logo="https://go.erabaru.my.id/live/arirang.png" group-title="VIP | TV PREMIUM 1",Arirang
+http://tv.kudigital.pw:8080/28122024KM/28122024/125
+#EXTINF:-1 tvg-id="" tvg-name="S One" tvg-logo="https://go.erabaru.my.id/live/s-one.png" group-title="VIP | TV PREMIUM 1",S One
+http://tv.kudigital.pw:8080/28122024KM/28122024/183
+#EXTINF:-1 tvg-id="" tvg-name="Dunia Lain" tvg-logo="https://go.erabaru.my.id/live/dunialain.png" group-title="VIP | TV PREMIUM 1",Dunia Lain
+http://tv.kudigital.pw:8080/28122024KM/28122024/1088
+#EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="https://go.erabaru.my.id/live/galaxy.png" group-title="VIP | TV PREMIUM 1",Galaxy
+http://tv.kudigital.pw:8080/28122024KM/28122024/1091
+
+
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://go.erabaru.my.id/live/natgeo.png" group-title="VIP | TV PREMIUM 1",National Geographic
+http://tv.kudigital.pw:8080/28122024KM/28122024/91
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://go.erabaru.my.id/live/wild.png" group-title="VIP | TV PREMIUM 1",Nat Geo Wild
+http://tv.kudigital.pw:8080/28122024KM/28122024/117
+http://tv.kudigital.pw:8080/28122024KM/28122024/120
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature " tvg-logo="https://go.erabaru.my.id/live/lovenature.png" group-title="VIP | TV PREMIUM 1",Love Nature 
+http://tv.kudigital.pw:8080/28122024KM/28122024/121
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://go.erabaru.my.id/live/bbce.png" group-title="VIP | TV PREMIUM 1",BBC Earth
+http://tv.kudigital.pw:8080/28122024KM/28122024/122
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://go.erabaru.my.id/live/fashiontv.png" group-title="VIP | TV PREMIUM 1",Fashion TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/123
+#EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel" tvg-logo="https://go.erabaru.my.id/live/afc.png" group-title="VIP | TV PREMIUM 1",Asian Food Channel
+http://tv.kudigital.pw:8080/28122024KM/28122024/170
+#EXTINF:-1 tvg-id="" tvg-name="Life & Style" tvg-logo="https://go.erabaru.my.id/live/lifestyle.png" group-title="VIP | TV PREMIUM 1",Life & Style
+http://tv.kudigital.pw:8080/28122024KM/28122024/888
+#EXTINF:-1 tvg-id="" tvg-name="Knowledge" tvg-logo="https://go.erabaru.my.id/live/knowledge.png" group-title="VIP | TV PREMIUM 1",Knowledge
+http://tv.kudigital.pw:8080/28122024KM/28122024/889
+#EXTINF:-1 tvg-id="" tvg-name="Food Network" tvg-logo="https://go.erabaru.my.id/live/foodnetwork.png" group-title="VIP | TV PREMIUM 1",Food Network
+http://tv.kudigital.pw:8080/28122024KM/28122024/891
+#EXTINF:-1 tvg-id="" tvg-name="4K Travel" tvg-logo="https://go.erabaru.my.id/live/travel.png" group-title="VIP | TV PREMIUM 1",4K Travel
+http://tv.kudigital.pw:8080/28122024KM/28122024/2393
+#EXTINF:-1 tvg-id="" tvg-name="Animal Planet" tvg-logo="https://go.erabaru.my.id/live/animalp.png" group-title="VIP | TV PREMIUM 1",Animal Planet
+http://tv.kudigital.pw:8080/28122024KM/28122024/73
+#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://go.erabaru.my.id/live/natgeo.png" group-title="VIP | TV PREMIUM 1",National Geographic
+http://tv.kudigital.pw:8080/28122024KM/28122024/91
+#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://go.erabaru.my.id/live/wild.png" group-title="VIP | TV PREMIUM 1",Nat Geo Wild
+http://tv.kudigital.pw:8080/28122024KM/28122024/117
+#EXTINF:-1 tvg-id="" tvg-name="Love Nature " tvg-logo="https://go.erabaru.my.id/live/lovenature.png" group-title="VIP | TV PREMIUM 1",Love Nature 
+http://tv.kudigital.pw:8080/28122024KM/28122024/121
+#EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="https://go.erabaru.my.id/live/bbce.png" group-title="VIP | TV PREMIUM 1",BBC Earth
+http://tv.kudigital.pw:8080/28122024KM/28122024/122
+#EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="https://go.erabaru.my.id/live/fashiontv.png" group-title="VIP | TV PREMIUM 1",Fashion TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/123
+
+
+#EXTINF:-1 tvg-id="" tvg-name="Mekkah TV" tvg-logo="https://go.erabaru.my.id/live/makkah.png" group-title="VIP | TV PREMIUM 1",Mekkah TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/52
+#EXTINF:-1 tvg-id="" tvg-name="Madinah TV" tvg-logo="https://go.erabaru.my.id/live/makkah.png" group-title="VIP | TV PREMIUM 1",Madinah TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/200
+#EXTINF:-1 tvg-id="" tvg-name="TV MU" tvg-logo="https://go.erabaru.my.id/live/tvmu.png" group-title="VIP | TV PREMIUM 1",TV MU
+http://tv.kudigital.pw:8080/28122024KM/28122024/715
+#EXTINF:-1 tvg-id="" tvg-name="TV 9" tvg-logo="https://play-gachor.my.id/logo/htv2/religi/tv9.png" group-title="VIP | TV PREMIUM 1",TV 9
+http://tv.kudigital.pw:8080/28122024KM/28122024/716
+#EXTINF:-1 tvg-id="" tvg-name="Al-Iman" tvg-logo="https://go.erabaru.my.id/live/aliman.png" group-title="VIP | TV PREMIUM 1",Al-Iman
+http://tv.kudigital.pw:8080/28122024KM/28122024/783
+#EXTINF:-1 tvg-id="" tvg-name="Al Wafatarim" tvg-logo="https://go.erabaru.my.id/live/alwa.png" group-title="VIP | TV PREMIUM 1",Al Wafatarim
+http://tv.kudigital.pw:8080/28122024KM/28122024/784
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://go.erabaru.my.id/live/mqtv.png" group-title="VIP | TV PREMIUM 1",MQTV
+http://tv.kudigital.pw:8080/28122024KM/28122024/787
+#EXTINF:-1 tvg-id="" tvg-name="Wesal TV" tvg-logo="https://go.erabaru.my.id/live/wesal.png" group-title="VIP | TV PREMIUM 1",Wesal TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/788
+#EXTINF:-1 tvg-id="" tvg-name="QUR'AN TV" tvg-logo="https://go.erabaru.my.id/live/kareem.png" group-title="VIP | TV PREMIUM 1",QUR'AN TV
+http://tv.kudigital.pw:8080/28122024KM/28122024/2352
+#EXTINF:-1 tvg-id="" tvg-name="Rodja" tvg-logo="https://go.erabaru.my.id/live/rodja.png" group-title="VIP | TV PREMIUM 1",Rodja
+http://tv.kudigital.pw:8080/28122024KM/28122024/20
+
+
+
+
 
 ==============================AFLAX TV===========================================
 
