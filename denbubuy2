@@ -4,6 +4,33 @@
 #EXTM3U url-tvg="https://www.bevy.be/bevyfiles/indonesia.xml,https://www.bevy.be/bevyfiles/indonesiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium3.xml,https://www.bevy.be/bevyfiles/indiapremium1.xml,https://www.bevy.be/bevyfiles/indonesiapremium4.xml,https://www.bevy.be/bevyfiles/malaysia.xml,https://www.bevy.be/bevyfiles/malaysiapremium1.xml,https://www.bevy.be/bevyfiles/malaysiapremium2.xml,https://www.bevy.be/bevyfiles/singaporepremium.xml.gz,"https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdompremium1.xml,https://www.bevy.be/bevyfiles/unitedkingdom.xml" refresh="1440" max-conn="1" refresh="24"
 
 
+
+=================================24/7=================================================
+
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="" group-title="24/7",24/7 Angry Birds Toons
+https://mantul.biz.id:443/inetwork/gayanet12/21869.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus Indonesia" tvg-logo="" group-title="24/7",24/7 BabyBus Indonesia
+https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="" group-title="24/7",24/7 Donald Duck's
+https://mantul.biz.id:443/inetwork/gayanet12/20435.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="" group-title="24/7",24/7 Doraemon
+https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Just For Laughs" tvg-logo="" group-title="24/7",24/7 Just For Laughs
+https://mantul.biz.id:443/inetwork/gayanet12/20572.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Bean Cartoon" tvg-logo="" group-title="24/7",24/7 Mr Bean Cartoon
+https://mantul.biz.id:443/inetwork/gayanet12/20396.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean Classic" tvg-logo="" group-title="24/7",24/7 Mr. Bean Classic
+https://mantul.biz.id:443/inetwork/gayanet12/21896.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom And Jerry" tvg-logo="" group-title="24/7",24/7 Tom And Jerry
+https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Upin Ipin" tvg-logo="" group-title="24/7",24/7 Upin Ipin
+https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="" group-title="24/7",24/7 Warkop DKI
+https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
+
+
 ================================VISION+================================================
 
 
@@ -1198,44 +1225,44 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
 #EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="VIP | TV PREMUIM 3",Indosiar
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", Astro Grandstand 
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="VIP | TV PREMUIM 3", Astro Grandstand 
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/prima.png" group-title="SHAREEXT@Television/MY/ASTRO", Prima
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/prima.png" group-title="VIP | TV PREMUIM 3", Prima
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1
 
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="VIP | TV PREMUIM 3", HBO Signature
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="VIP | TV PREMUIM 3", QJ
 http://perfecttv.net:8080/Perfecttv/Perfecttv/11
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="Shareext@MOVIES", &flix
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="VIP | TV PREMUIM 3", &flix
 http://perfecttv.net:8080/Perfecttv/Perfecttv/12
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="Shareext@MOVIES", &Prive
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="VIP | TV PREMUIM 3", &Prive
 http://perfecttv.net:8080/Perfecttv/Perfecttv/13
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="Shareext@MOVIES", StarMovies
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="VIP | TV PREMUIM 3", StarMovies
 http://perfecttv.net:8080/Perfecttv/Perfecttv/14
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="Shareext@MOVIES", SonyPix
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="VIP | TV PREMUIM 3", SonyPix
 http://perfecttv.net:8080/Perfecttv/Perfecttv/16
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="Shareext@MOVIES", MY CINEMA ASIA
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="VIP | TV PREMUIM 3", MY CINEMA ASIA
 http://perfecttv.net:8080/Perfecttv/Perfecttv/17
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="Shareext@MOVIES", Chinemachi
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="VIP | TV PREMUIM 3", Chinemachi
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="Shareext@MOVIES", Cinemachi Action
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="VIP | TV PREMUIM 3", Cinemachi Action
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="Shareext@MOVIES", Cinemachi Max
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="VIP | TV PREMUIM 3", Cinemachi Max
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="Shareext@MOVIES", Cinemachi Xtra
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="VIP | TV PREMUIM 3", Cinemachi Xtra
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="Shareext@MOVIES", KIX
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="VIP | TV PREMUIM 3", KIX
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1555
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="Shareext@MOVIES", Galaxy
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="VIP | TV PREMUIM 3", Galaxy
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1556
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="Shareext@MOVIES", Galaxy Premium
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="VIP | TV PREMUIM 3", Galaxy Premium
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1557
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="Shareext@MOVIES", MY CINEMA
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="VIP | TV PREMUIM 3", MY CINEMA
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1559
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="Shareext@MOVIES", MY Family Cinema
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="VIP | TV PREMUIM 3", MY Family Cinema
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
-#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="VIP | TV PREMUIM 3", Thrill
 http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
 
 
@@ -1295,7 +1322,7 @@ https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1759219752_b280
 #EXTINF:-1 tvg-id="" tvg-name="MNC SINDONEWS HD" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/8b87b060c72b157ad6ee4f1d2b025e31.png" group-title="TV | NASIONAL",13. SINDONEWS HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
 
-#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co.com/DV9BD2S/tvri-sport.png" group-title="TV | INDONESIA", 20. TVRI SPORTS
+#EXTINF:-1 tvg-id="" tvg-name="TVRI SPORT" tvg-logo="https://i.ibb.co.com/DV9BD2S/tvri-sport.png" group-title="TV | NASIONAL", 20. TVRI SPORTS
 http://tv.kudigital.pw:8080/28122024KM/28122024/23
 
 ===================================TV MALAYSIA============================
@@ -1492,12 +1519,16 @@ https://mantul.biz.id:443/inetwork/gayanet12/11539.ts
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 02
+https://mantul.biz.id:443/inetwork/gayanet12/1018.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 3
 https://mantul.biz.id:443/inetwork/gayanet12/1092
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 4
 https://mantul.biz.id:443/inetwork/gayanet12/13924
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 5
 https://mantul.biz.id:443/inetwork/gayanet12/27431
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM | BOX OFFICE",Etv Bioskop 6
+https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
 
 
 =====================================FILM INDONESIA=======================================================
