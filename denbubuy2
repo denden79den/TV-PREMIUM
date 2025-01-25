@@ -661,8 +661,7 @@ http://tv.kudigital.pw:8080/28122024KM/28122024/20
 
 
 
-==============================AFLAX TV===========================================
-
+==============================VIP PREMIUM 2===========================================
 
 #EXTINF:-1 tvg-id="" tvg-name=" RCTI" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/c663544b47ae275f4dd77540e62e0ef4.png"  group-title="VIP | TV PREMUIM 2", RCTI
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
@@ -1180,6 +1179,65 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/147174
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/282063
 #EXTINF:-1 tvg-id="" tvg-name=" Yes Sport 5 Stars" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-12/3aba02d70d9cc12068dbcefcb9b19015.png"  group-title="VIP | TV PREMUIM 2", Yes Sport 5 Stars
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/14788
+
+
+=============================VIP TV PREMIUM 3=====================================
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sctv.png" group-title="VIP | TV PREMUIM 3",SCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1574
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mnctv.png" group-title="VIP | TV PREMUIM 3",MNCTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1575
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/rcti.png" group-title="VIP | TV PREMUIM 3",RCTI
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1576
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/gtv.png" group-title="VIP | TV PREMUIM 3",GTV
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1577
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/transtv.png" group-title="VIP | TV PREMUIM 3",Trans Tv
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1602
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/trans7.png" group-title="VIP | TV PREMUIM 3",Trans7
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1603
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/indosiar.png" group-title="VIP | TV PREMUIM 3",Indosiar
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1604
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/grandstand.png" group-title="SHAREEXT@MALAY||SINGAPORE ➾ Sports", Astro Grandstand 
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1561
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/prima.png" group-title="SHAREEXT@Television/MY/ASTRO", Prima
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1
+
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/hbosingnature.png" group-title="Shareext@MOVIES", HBO Signature
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1558
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/qj.png" group-title="Shareext@MOVIES", QJ
+http://perfecttv.net:8080/Perfecttv/Perfecttv/11
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/flixhd.png" group-title="Shareext@MOVIES", &flix
+http://perfecttv.net:8080/Perfecttv/Perfecttv/12
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/privehd.png" group-title="Shareext@MOVIES", &Prive
+http://perfecttv.net:8080/Perfecttv/Perfecttv/13
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/starmovies.png" group-title="Shareext@MOVIES", StarMovies
+http://perfecttv.net:8080/Perfecttv/Perfecttv/14
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/sonypix.png" group-title="Shareext@MOVIES", SonyPix
+http://perfecttv.net:8080/Perfecttv/Perfecttv/16
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinemaasia.png" group-title="Shareext@MOVIES", MY CINEMA ASIA
+http://perfecttv.net:8080/Perfecttv/Perfecttv/17
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachi.png" group-title="Shareext@MOVIES", Chinemachi
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1551
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachiaction.png" group-title="Shareext@MOVIES", Cinemachi Action
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1552
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachimax.png" group-title="Shareext@MOVIES", Cinemachi Max
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1553
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/cinemachixtra.png" group-title="Shareext@MOVIES", Cinemachi Xtra
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1554
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/kix.png" group-title="Shareext@MOVIES", KIX
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1555
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxy.png" group-title="Shareext@MOVIES", Galaxy
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1556
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/galaxypremium.png" group-title="Shareext@MOVIES", Galaxy Premium
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1557
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/mycinema.png" group-title="Shareext@MOVIES", MY CINEMA
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1559
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/myfamilycinema.png" group-title="Shareext@MOVIES", MY Family Cinema
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1560
+#EXTINF:-1  tvg-logo="https://perfecttv.net/logo/thrill.png" group-title="Shareext@MOVIES", Thrill
+http://perfecttv.net:8080/Perfecttv/Perfecttv/1587
+
 
 
 
