@@ -1532,8 +1532,6 @@ http://b1g.ooo:80/96114/96114green/848960
 http://b1g.ooo:80/96114/96114green/848959
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | ASTRO SPORTS", Astro Grandstand FHD
 http://b1g.ooo:80/96114/96114green/709259
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name="MYS | Astro Grandstand FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="LIVE | World Sports",MYS | Astro Grandstand FHD
-http://b1g.ooo:80/96114/96114green/57502
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroGrandstand.my" tvg-name=" Astro Grandstand HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | ASTRO SPORTS", Astro Grandstand HD
 http://b1g.ooo:80/96114/96114green/709258
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="AstroFootball.my" tvg-name=" Astro Football FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | ASTRO SPORTS", Astro Football FHD
