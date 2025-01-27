@@ -308,7 +308,7 @@ http://tv.kudigital.pw:8080/28122024KM/28122024/2397
 http://tv.kudigital.pw:8080/28122024KM/28122024/2398
 #EXTINF:-1 tvg-id="" tvg-name="Colors" tvg-logo="https://go.erabaru.my.id/live/colors.png" group-title="VIP | TV PREMIUM 1",Colors
 http://tv.kudigital.pw:8080/28122024KM/28122024/2415
-EXTINF:-1 tvg-id="" tvg-name="Showcase" tvg-logo="https://go.erabaru.my.id/live/showcase.png" group-title="VIP | TV PREMIUM 1",Showcase
+#EXTINF:-1 tvg-id="" tvg-name="Showcase" tvg-logo="https://go.erabaru.my.id/live/showcase.png" group-title="VIP | TV PREMIUM 1",Showcase
 http://tv.kudigital.pw:8080/28122024KM/28122024/2563
 #EXTINF:-1 tvg-id="" tvg-name="RIA" tvg-logo="https://go.erabaru.my.id/live/ria.png" group-title="VIP | TV PREMIUM 1",RIA
 http://tv.kudigital.pw:8080/28122024KM/28122024/2564
@@ -394,11 +394,6 @@ http://tv.kudigital.pw:8080/28122024KM/28122024/1088
 http://tv.kudigital.pw:8080/28122024KM/28122024/1091
 
 
-#EXTINF:-1 tvg-id="" tvg-name="National Geographic" tvg-logo="https://go.erabaru.my.id/live/natgeo.png" group-title="VIP | TV PREMIUM 1",National Geographic
-http://tv.kudigital.pw:8080/28122024KM/28122024/91
-#EXTINF:-1 tvg-id="" tvg-name="Nat Geo Wild" tvg-logo="https://go.erabaru.my.id/live/wild.png" group-title="VIP | TV PREMIUM 1",Nat Geo Wild
-http://tv.kudigital.pw:8080/28122024KM/28122024/117
-http://tv.kudigital.pw:8080/28122024KM/28122024/120
 #EXTINF:-1 tvg-id="" tvg-name="Asian Food Channel" tvg-logo="https://go.erabaru.my.id/live/afc.png" group-title="VIP | TV PREMIUM 1",Asian Food Channel
 http://tv.kudigital.pw:8080/28122024KM/28122024/170
 #EXTINF:-1 tvg-id="" tvg-name="Life & Style" tvg-logo="https://go.erabaru.my.id/live/lifestyle.png" group-title="VIP | TV PREMIUM 1",Life & Style
