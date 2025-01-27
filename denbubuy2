@@ -9,25 +9,25 @@
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="" group-title="24/7",24/7 Angry Birds Toons
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Angry Birds Toons
 https://mantul.biz.id:443/inetwork/gayanet12/21869.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus Indonesia" tvg-logo="" group-title="24/7",24/7 BabyBus Indonesia
+#EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus Indonesia" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 BabyBus Indonesia
 https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="" group-title="24/7",24/7 Donald Duck's
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Donald Duck's
 https://mantul.biz.id:443/inetwork/gayanet12/20435.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="" group-title="24/7",24/7 Doraemon
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Doraemon
 https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Just For Laughs" tvg-logo="" group-title="24/7",24/7 Just For Laughs
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Just For Laughs" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Just For Laughs
 https://mantul.biz.id:443/inetwork/gayanet12/20572.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Bean Cartoon" tvg-logo="" group-title="24/7",24/7 Mr Bean Cartoon
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Bean Cartoon" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Mr Bean Cartoon
 https://mantul.biz.id:443/inetwork/gayanet12/20396.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean Classic" tvg-logo="" group-title="24/7",24/7 Mr. Bean Classic
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean Classic" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Mr. Bean Classic
 https://mantul.biz.id:443/inetwork/gayanet12/21896.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom And Jerry" tvg-logo="" group-title="24/7",24/7 Tom And Jerry
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Tom And Jerry" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Tom And Jerry
 https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Upin Ipin" tvg-logo="" group-title="24/7",24/7 Upin Ipin
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Upin Ipin" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Upin Ipin
 https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="" group-title="24/7",24/7 Warkop DKI
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",24/7 Warkop DKI
 https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
 
 
