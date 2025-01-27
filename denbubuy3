@@ -80,7 +80,8 @@ http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34327
 https://mantul.biz.id:443/inetwork/gayanet12/8251
 
 
-#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. TV | NASIONAL",028. AnTv
+#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. TV | NASIONAL"
+,028. AnTv
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584497
 
 #EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="02. TV | NASIONAL" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
@@ -216,7 +217,7 @@ http://tv.kudigital.pw:8080/28122024KM/28122024/9
 http://tv.kudigital.pw:8080/28122024KM/28122024/18
 #EXTINF:-1 tvg-id="" tvg-name="MNCTV" tvg-logo="https://go.erabaru.my.id/live/mnctv.png" group-title="VIP | TV PREMIUM 1",MNCTV [HD]
 http://tv.kudigital.pw:8080/28122024KM/28122024/29
-#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="https://go.erabaru.my.id/jancok/moji.png" group-title="VIP | TV PREMIUM 1",Moji [HD]
+#EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="VIP | TV PREMIUM 1",Moji [HD]
 http://tv.kudigital.pw:8080/28122024KM/28122024/30
 #EXTINF:-1 tvg-id="" tvg-name="Net." tvg-logo="https://go.erabaru.my.id/live/nettv.png" group-title="VIP | TV PREMIUM 1",NetTV [HD].
 http://tv.kudigital.pw:8080/28122024KM/28122024/13
