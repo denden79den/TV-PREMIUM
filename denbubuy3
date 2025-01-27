@@ -568,3 +568,29 @@ http://myserver.myphuket.net:25461/test2/test2/29
 http://myserver.myphuket.net:25461/test2/test2/49
 #EXTINF: -1 tvg-id="Bein Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png"  group-title="SPORTS | TRUE VISION",204. Bein Sports 3 (TrueVision)
 http://myserver.myphuket.net:25461/test2/test2/50
+
+
+
+=================================TNT SPORTS===========================================================
+
+
+#EXTINF:-1 tvg-id="btsport1.uk" tvg-name="TNT SPORTS 1  " tvg-logo="http://go4.pw/UK/bt-1.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 1  
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/17281
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 2  " tvg-logo="http://go4.pw/UK/bt-2.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 2  
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980406
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 3 FHD " tvg-logo="http://go4.pw/UK/bt-3.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980407
+#EXTINF:-1 tvg-id="btsport4.uk" tvg-name="TNT SPORTS 4 FHD" tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_4.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 4
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/311556
+#EXTINF:-1 tvg-id="btsport5.uk" tvg-name="TNT SPORTS 5 FHD" tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_5.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 5
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/311558
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 6 HD " tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_6.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 6
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980411
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 7 HD " tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_7.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 7
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980412
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 8 HD " tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_8.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 8
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980413
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 9 HD " tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_9.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 9
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980414
+#EXTINF:-1 tvg-id="" tvg-name="TNT SPORTS 10 HD " tvg-logo="http://go4.pw/AMERICA/USA/BTSPORT_10.png" group-title="SPORTS | BT SPORT (TNT)",TNT SPORTS 10
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/980415
