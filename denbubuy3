@@ -1,46 +1,45 @@
-==========================================TV LOKAL=======================================
+==========================================TV BERITA=======================================
 
-#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="01. News TV", 011. Metro TV
+#EXTINF:-1 tvg-id="Metro TV" tvg-name="Metro TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="01. TV | BERITA", 011. Metro TV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584480
 
-#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. News TV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",012. TVOne
+#EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV | BERITA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",012. TVOne
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34329
 
-#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="01. News TV", 013. Berita Satu
+#EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="01. TV | BERITA", 013. Berita Satu
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/BTV.m3u8
 
-#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="01. News TV", 014. CNN Indonesia
+#EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="01. TV | BERITA", 014. CNN Indonesia
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34403
 
-#EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="01. News TV", 015. Kompas TV
+#EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="01. TV | BERITA", 015. Kompas TV
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34332
 
-#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="01. News TV",016. CNBC Indonesia
+#EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="01. TV | BERITA",016. CNBC Indonesia
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CnBc.m3u8
 
-#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="01. News TV", 017. iNewsTV
+#EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="01. TV | BERITA", 017. iNewsTV
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34335
 
-#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="01. News TV",018. SindoNews TV
+#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="01. TV | BERITA",018. SindoNews TV
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
 
-#EXTINF:-1 group-title="01. News TV" tvg-id="bnchannel.id" tvg-logo="https://i.ibb.co.com/6wY1gG9/bn-channel-1.png",019. BN Channel HD
+#EXTINF:-1 group-title="01. TV | BERITA" tvg-id="bnchannel.id" tvg-logo="https://i.ibb.co.com/6wY1gG9/bn-channel-1.png",019. BN Channel HD
 https://flv.intechmedia.net/live/ch112.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
-#EXTINF:-1 group-title="01. News TV" tvg-id="IDTV.id" tvg-logo="https://i.ibb.co.com/GFpcnV4/idtv-2.png",020. IDTV HD
+#EXTINF:-1 group-title="01. TV | BERITA" tvg-id="IDTV.id" tvg-logo="https://i.ibb.co.com/GFpcnV4/idtv-2.png",020. IDTV HD
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
-#EXTINF:-1 tvg-id="BERITA SATU - [Channel 116].id" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co.com/ns5MQKJ/btv.png" group-title="01. News TV", 021. BTV HD
+#EXTINF:-1 tvg-id="BERITA SATU - [Channel 116].id" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co.com/ns5MQKJ/btv.png" group-title="01. TV | BERITA", 021. BTV HD
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34334
 
-#EXTINF:-1 group-title="01. News TV" tvg-logo="https://i.ibb.co.com/7kqMwGB/sea-today.png",022. SEA TODAY HD
+#EXTINF:-1 group-title="01. TV | BERITA" tvg-logo="https://i.ibb.co.com/7kqMwGB/sea-today.png",022. SEA TODAY HD
 https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
 
-#EXTINF:-1 group-title="01. News TV" tvg-id="TVRIWorld.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",023. TVRI World HD
+#EXTINF:-1 group-title="01. TV | BERITA" tvg-id="TVRIWorld.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",023. TVRI World HD
 https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
-
 
 ==========================================TV MALAYSIA=====================================
 
