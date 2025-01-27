@@ -58,7 +58,6 @@ http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34331
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | NASIONAL",021. MNC TV
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34326
 
-
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 tvg-id="NET TV - [Channel 116].id" group-title="02. TV | NASIONAL" tvg-url="tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/mhfgsnvpn/okokok/mhf/nettv.png",022. NET TV HD
@@ -103,11 +102,6 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 #EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="" tvg-logo="https://i.ibb.co.com/71Wn8v7/indonesiana-1.png",033. Indonesiana TV HD
 https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/index_1.m3u8
-
-
-#EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="TVRISport.id" tvg-logo="https://i.ibb.co.com/Ld2Sfqt/tvri-2.png",034. TVRI Sport HD
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34320
-
 
 
 ==========================================TV MALAYSIA=====================================
