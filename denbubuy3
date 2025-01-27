@@ -501,3 +501,30 @@ https://mantul.biz.id:443/inetwork/gayanet12/13924
 https://mantul.biz.id:443/inetwork/gayanet12/27431
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 6
 https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
+
+
+
+===================================SPORTS INDONESIA=============================================
+
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3f/Sportstars.png",Sportstars 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064632
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d7/Sportstars_2.png",Sportstars 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064633
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png", Soccerhttp://suprino.xyz:80/PMF3J9X/BV7HG8H/830541
+
+#EXTINF:-1 tvg-id="" tvg-name="FIGHT SPORTS HD" tvg-logo="http://go4.pw/EUROPE/GERMANY/FIGHT_SPORTS.png" group-title="SPORTS | INDONESIA",Fight Sport
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830543
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",Bein Sports 1
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088906
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",Bein Sports 2
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584510
+
+#EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",Bein Sports 3
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088907
+
+
