@@ -71,10 +71,7 @@ http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34325
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34324
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. TV | NASIONAL", 025. ScTv
-#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a79a188263724bfcaafc4a7c3b3cd8ce:4d4732d93e6720de0ef884d7106e14f7
-https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
+https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | NASIONAL", 026. Indosiar
 http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34327
