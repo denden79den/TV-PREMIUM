@@ -473,3 +473,31 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/255707
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/255708
 #EXTINF:-1 tvg-id="" tvg-name="SSC EXTRA 3 HD" tvg-logo="https://shahid.mbc.net/mediaObject/2022/Kharabsheh2/August/SSCchannels/EXTRA9/original/EXTRA9.png?height=720&width=1280" group-title="VIP | TV PREMIUM 1",SSC EXTRA 3 HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/311007
+
+
+==================================HBO & ETV BIOSKOP==============================================
+
+
+#EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://go.erabaru.my.id/live/hbo-id.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO
+http://tv.kudigital.pw:8080/28122024KM/28122024/62
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://go.erabaru.my.id/live/hbo-hits.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Hits
+http://tv.kudigital.pw:8080/28122024KM/28122024/63
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://go.erabaru.my.id/live/hbo-fam.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Family
+http://tv.kudigital.pw:8080/28122024KM/28122024/64
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signatures" tvg-logo="https://go.erabaru.my.id/live/hob-sig.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Signatures
+http://tv.kudigital.pw:8080/28122024KM/28122024/65
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://go.erabaru.my.id/live/cinemax.png" group-title="FILM  | HBO & ETV BIOSKOP",Cinemax
+
+
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 02
+https://mantul.biz.id:443/inetwork/gayanet12/1018.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop 6
+https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
