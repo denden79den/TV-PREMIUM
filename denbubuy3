@@ -198,7 +198,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
 
 #EXTM3U
 #EXTINF:-1 tvg-id="" tvg-name="ANTV" tvg-logo="https://go.erabaru.my.id/live/antv.png" group-title="VIP | TV PREMIUM 1",ANTV [HD]
-http://tv.kudigital.pw:8080/28122025KM/28122025/12
+http://tv.kudigital.pw:8080/28022025KM/28022025/12
 #EXTINF:-1 tvg-id="" tvg-name="Berita Satu" tvg-logo="https://go.erabaru.my.id/live/beritasatu.png" group-title="VIP | TV PREMIUM 1",Berita Satu [HD]
 http://tv.kudigital.pw:8080/28122024KM/28122024/10
 #EXTINF:-1 tvg-id="" tvg-name="CNBC Indonesia" tvg-logo="https://go.erabaru.my.id/live/cnbc-indo.png" group-title="VIP | TV PREMIUM 1",CNBC Indonesia [HD]
