@@ -555,3 +555,21 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112195
 
 
+===========================================TRUE SPORTS==================================================
+
+#EXTINF: -1 tvg-id="True Premiere Football 1" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD1.png"  group-title="SPORTS | TRUE VISION",200. True Premiere Football 1
+http://myserver.myphuket.net:25461/test2/test2/26
+#EXTINF: -1 tvg-id="True Premiere Football 2" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD2.png"  group-title="SPORTS | TRUE VISION",201. True Premiere Football 2
+http://myserver.myphuket.net:25461/test2/test2/27
+#EXTINF: -1 tvg-id="True Premiere Football 3" tvg-logo="https://fn.dmpcdn.com/TrueIDWeb/Home/Campaigns/Channel-True-Premier-Football-HD3.png"  group-title="SPORTS | TRUE VISION",202. True Premiere Football 3
+http://myserver.myphuket.net:25461/test2/test2/28
+#EXTINF: -1 tvg-id="True Sports 1" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png"  group-title="SPORTS | TRUE VISION",203. True Sports 1
+http://myserver.myphuket.net:25461/test2/test2/58
+#EXTINF: -1 tvg-id="True Sports 2" tvg-logo="https://img2.sport-tv-guide.live/images/tvm-station-true-sport-4-1073.png"  group-title="SPORTS | TRUE VISION",203. True Sports 2
+http://myserver.myphuket.net:25461/test2/test2/59
+#EXTINF: -1 tvg-id="Bein Sports 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports.png"  group-title="SPORTS | TRUE VISION",204. Bein Sports 1 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/29
+#EXTINF: -1 tvg-id="Bein Sports 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-2.png"  group-title="SPORTS | TRUE VISION",204. Bein Sports 2 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/49
+#EXTINF: -1 tvg-id="Bein Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/MY-Bein-Sports-3.png"  group-title="SPORTS | TRUE VISION",204. Bein Sports 3 (TrueVision)
+http://myserver.myphuket.net:25461/test2/test2/50
