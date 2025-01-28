@@ -76,9 +76,7 @@ http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | NASIONAL",027. Moji TV
 https://mantul.biz.id:443/inetwork/gayanet12/8251
 
-
-#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. TV | NASIONAL"
-,028. AnTv
+#EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. TV | NASIONAL",028. AnTv
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584497
 
 #EXTINF:-1 tvg-id="TVRI.IPTV" tvg-name="TVRI" group-title="02. TV | NASIONAL" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png",029. TvRi
