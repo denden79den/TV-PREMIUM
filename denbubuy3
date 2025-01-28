@@ -55,7 +55,7 @@ http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34322
 #EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34331
 
-#EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | NASIONAL",021. MNC TV
+#EXTINF:-1 tvg-id="" tvg-name="IDS: MNC TV VIP" tvg-logo="https://docdog.top/logo/countries/indonesia/mnctv.png" group-title="02. TV | NASIONAL",021. MNC TV
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34326
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
@@ -91,8 +91,7 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/TVRINasional
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584495
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | NASIONAL", 031. Nusantara TV HD
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
-https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34411
 
 #EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://play-gachor.my.id/logo/htv2/tv_daerah/garudatv.png",032. Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
@@ -475,15 +474,19 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/311007
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HBO" tvg-logo="https://go.erabaru.my.id/live/hbo-id.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO
-http://tv.kudigital.pw:8080/28122024KM/28122024/62
+'http://tv.kudigital.pw:8080/28122024KM/28122024/62
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34433
 #EXTINF:-1 tvg-id="" tvg-name="HBO Hits" tvg-logo="https://go.erabaru.my.id/live/hbo-hits.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Hits
-http://tv.kudigital.pw:8080/28122024KM/28122024/63
+'http://tv.kudigital.pw:8080/28122024KM/28122024/63
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34350
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://go.erabaru.my.id/live/hbo-fam.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Family
-http://tv.kudigital.pw:8080/28122024KM/28122024/64
+'http://tv.kudigital.pw:8080/28122024KM/28122024/64
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34348
 #EXTINF:-1 tvg-id="" tvg-name="HBO Signatures" tvg-logo="https://go.erabaru.my.id/live/hob-sig.png" group-title="FILM  | HBO & ETV BIOSKOP",HBO Signatures
-http://tv.kudigital.pw:8080/28122024KM/28122024/65
+'http://tv.kudigital.pw:8080/28122024KM/28122024/65
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34353
 #EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://go.erabaru.my.id/live/cinemax.png" group-title="FILM  | HBO & ETV BIOSKOP",Cinemax
-
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34355
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="FILM  | HBO & ETV BIOSKOP",Etv Bioskop
 https://mantul.biz.id:443/inetwork/gayanet12/242
