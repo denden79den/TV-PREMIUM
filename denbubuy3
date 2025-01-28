@@ -5,22 +5,22 @@
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584480
 
 #EXTINF:-1 tvg-id="tvOne - [Channel 97].id" group-title="01. TV | BERITA" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png",012. TVOne
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34329
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34329
 
 #EXTINF:-1 tvg-id="BTV" tvg-name="BTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="01. TV | BERITA", 013. Berita Satu
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/BTV.m3u8
 
 #EXTINF:-1 tvg-id="CNN Indonesia" tvg-name="CNN Indonesia" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="01. TV | BERITA", 014. CNN Indonesia
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34403
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34403
 
 #EXTINF:-1 tvg-id="KOMPAS TV - [Channel 116].id" tvg-name="KOMPAS TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="01. TV | BERITA", 015. Kompas TV
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34332
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34332
 
 #EXTINF:-1 tvg-id="CNBC" tvg-name="CNBC" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNBC.png" group-title="01. TV | BERITA",016. CNBC Indonesia
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/CnBc.m3u8
 
 #EXTINF:-1 tvg-id="iNews - [Channel 433].id" tvg-name="iNews" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="01. TV | BERITA", 017. iNewsTV
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34335
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34335
 
 #EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="01. TV | BERITA",018. SindoNews TV
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1064642
@@ -33,7 +33,7 @@ https://flv.intechmedia.net/live/ch112.m3u8
 https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
 
 #EXTINF:-1 tvg-id="BERITA SATU - [Channel 116].id" tvg-name="BERITA SATU" tvg-logo="https://i.ibb.co.com/ns5MQKJ/btv.png" group-title="01. TV | BERITA", 021. BTV HD
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34334
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34334
 
 #EXTINF:-1 group-title="01. TV | BERITA" tvg-logo="https://i.ibb.co.com/7kqMwGB/sea-today.png",022. SEA TODAY HD
 https://cdn09jtedge.indihometv.com/atm/DASH/seatoday/manifest.mpd
@@ -49,14 +49,14 @@ https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld.m3u8
 
 
 #EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" tvg-id="RCTI.id" tvg-name="ID: RCTI" group-title="02. TV | NASIONAL",019. RCTI Live
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34322
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34322
 
 
 #EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34331
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34331
 
 #EXTINF:-1 tvg-id="MNCTV" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. TV | NASIONAL",021. MNC TV
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34326
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34326
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
@@ -65,16 +65,16 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-NetTV.
 
 
 #EXTINF:-1 tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. TV | NASIONAL", 023. Trans 7
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34325
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34325
 
 #EXTINF:-1 tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. TV | NASIONAL", 024. Trans TV
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34324
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34324
 
 #EXTINF:-1 tvg-id="SCTV - [Channel 115].id" tvg-name="SCTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. TV | NASIONAL", 025. ScTv
 https://streaming.indihometv.com/atm/DASH/sctv/manifest.mpd
 
 #EXTINF:-1 tvg-id="INDOSIAR - [Channel 115].id" tvg-name="INDOSIAR" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. TV | NASIONAL", 026. Indosiar
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34327
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. TV | NASIONAL",027. Moji TV
 https://mantul.biz.id:443/inetwork/gayanet12/8251
@@ -105,15 +105,15 @@ https://dgwubfppws111.cloudfront.net/out/v1/667a86e35ddd496c886fa11598dc184d/ind
 ==========================================TV MALAYSIA=====================================
 
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="TV | MALAYSIA",PREMIER LEAGUE 1
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34535
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34535
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="TV | MALAYSIA",PREMIER LEAGUE 2
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34534
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34534
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="TV | MALAYSIA",GRANDSTAND
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34533
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34533
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="TV | MALAYSIA",FOOTBALL
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34531
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34531
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="TV | MALAYSIA",W-SPORT
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34532
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34532
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="TV | MALAYSIA",BEIN SPORTS 1 FHD
@@ -159,7 +159,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/408671
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO RANIA FHD" tvg-logo="http://go4.pw/ASIA/rania.png" group-title="TV | MALAYSIA",ASTRO RANIA FHD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052405
 #EXTINF:-1 tvg-id="" tvg-name="MY: ASTRO CITRA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="TV | MALAYSIA",ASTRO CITRA
-http://vipdikili.top:8080/VIP017141733137332272/37ede1a839db/34538
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34538
 
 
 ====================================================24/7=============================================================
