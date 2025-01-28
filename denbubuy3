@@ -145,9 +145,6 @@ http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34538
 
 ====================================================24/7=============================================================
 
-#EXTM3U
-#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
-
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Warkop DKI
 https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Angry Birds Toons
