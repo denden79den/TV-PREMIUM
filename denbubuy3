@@ -147,11 +147,14 @@ http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34538
 
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_12r2"
+
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Warkop DKI
+https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Angry Birds Toons
 https://mantul.biz.id:443/inetwork/gayanet12/21869.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus Indonesia" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",BabyBus Indonesia
 https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",2Donald Duck's
+#EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Donald Duck's
 https://mantul.biz.id:443/inetwork/gayanet12/20435.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Doraemon
 https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
@@ -165,9 +168,6 @@ https://mantul.biz.id:443/inetwork/gayanet12/21896.ts
 https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Upin Ipin" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Upin Ipin
 https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
-#EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="24/7",Warkop DKI
-https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
-
 
 ==============================VIP PREMIUM 1=====================================
 
