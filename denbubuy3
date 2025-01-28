@@ -632,6 +632,53 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png" group-title="SPORTS | NOW PREMIER", NOW Premier Prime  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112195
 
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 1 HD" tvg-logo="https://www.nowtv.now.com/media/logo/631-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 1 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381401
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 2 HD" tvg-logo="https://www.nowtv.now.com/media/logo/632-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 2 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381402
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 3 HD" tvg-logo="https://www.nowtv.now.com/media/logo/633-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 3 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381403
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 4 HD" tvg-logo="https://www.nowtv.now.com/media/logo/634-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 4 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381404
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 5 HD" tvg-logo="https://www.nowtv.now.com/media/logo/635-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 5 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381405
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 6 HD" tvg-logo="https://www.nowtv.now.com/media/logo/636-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 6 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381406
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports 7 HD" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW Sports 7 (BACKUP)
+http://xtv.ooo:8080/52882216/581881255/381407
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 1 HD" tvg-logo="https://www.nowtv.now.com/media/logo/621-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 1
+http://xtv.ooo:8080/52882216/581881255/223056
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 2 HD" tvg-logo="https://www.nowtv.now.com/media/logo/622-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 2
+http://xtv.ooo:8080/52882216/581881255/223057
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 3 HD" tvg-logo="https://www.nowtv.now.com/media/logo/623-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 3
+http://xtv.ooo:8080/52882216/581881255/223058
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 4 HD" tvg-logo="https://www.nowtv.now.com/media/logo/624-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 4
+http://xtv.ooo:8080/52882216/581881255/223059
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 5 HD" tvg-logo="https://www.nowtv.now.com/media/logo/625-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 5
+http://xtv.ooo:8080/52882216/581881255/223060
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUE 6 HD" tvg-logo="https://www.nowtv.now.com/media/logo/626-wbg-e.png" group-title="SPORTS | NOW PREMIER",NOW PREMIER LEAGUE 6
+http://xtv.ooo:8080/52882216/581881255/223061
+
+
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 1 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch638_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 1
+http://xtv.ooo:8080/52882216/581881255/381408
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 2 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch639_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 2
+http://xtv.ooo:8080/52882216/581881255/381409
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 3 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch643_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 3
+http://xtv.ooo:8080/52882216/581881255/381410
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 4 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch644_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 4
+http://xtv.ooo:8080/52882216/581881255/381411
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 5 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch645_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 5
+http://xtv.ooo:8080/52882216/581881255/381412
+#EXTINF:-1 tvg-id="" tvg-name="BeIN Sports 6 HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch646_110_80" group-title="SPORTS | NOW PREMIER",BeIN Sports 6
+http://xtv.ooo:8080/52882216/581881255/381413
+
+#EXTINF:-1 tvg-id="" tvg-name="NOW PREMIER LEAGUEus HD" tvg-logo="https://www.nowtv.now.com/media/s-logo/680_e.png" group-title="SPORTS | NOW PREMIER",NOW SPORT PLUS
+http://xtv.ooo:8080/52882216/581881255/381400
+#EXTINF:-1 tvg-id="" tvg-name="NOW Sports Prime HD" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/en_hk/color/ch630_425_305" group-title="SPORTS | NOW PREMIER",NOW SPORT PRIME
+http://xtv.ooo:8080/52882216/581881255/381399
+
 
 ===========================================TRUE SPORTS==================================================
 
