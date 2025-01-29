@@ -75,7 +75,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/584495
 #EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. TV | NASIONAL", 031. Nusantara TV HD
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34411
 
-#EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://play-gachor.my.id/logo/htv2/tv_daerah/garudatv.png",032. Garuda TV HD
+#EXTINF:-1 group-title="02. TV | NASIONAL" tvg-id="GARUDATV.id" tvg-logo="https://i.ibb.co.com/5W7whWPz/Garudatv.png",032. Garuda TV HD
 https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 
 #EXTVLCOPT:http-user-agent=ExoPlayer/2.19.1 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
