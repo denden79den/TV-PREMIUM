@@ -1175,7 +1175,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 
 
 
-#EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
+#EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://file.mk.co.kr/meet/neds/2021/06/image_readtop_2021_563047_16233130354676983.jpg",104. SPOTV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1184,7 +1184,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 
-#EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://images.now-tv.com/shares/channelPreview/img/zh_tw/color/ch671_300_216",105. SPOTV 2
+#EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",105. SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -1209,10 +1209,9 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 
 #EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="09. Sports TV",108. Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
-#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=OTFmNDAwZWEtZjI5OC0zNTAzLWE0NzktZWI2NGIxMjRmMGFm
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
-https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd|Referer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTVLCOPT:http-referrer=https://visionplus.id
+https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti-soccerchannel-hd.mpd
 
 
 #EXTINF:-1 group-title="09. Sports TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png",109. ChampionsTV1
