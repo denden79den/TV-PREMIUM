@@ -584,7 +584,24 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd|Ref
 #EXTINF:-1 group-title="04. Premium TV" tvg-id="KBS World" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://sandymcintosh.info/wp-content/uploads/2019/05/photo.png",079. KBS World
 https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-url="https://www.bevy.be/bevyfiles/malaysia.xml" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3d/Citra_Entertainment_Logo_September_2019.png/revision/latest?cb=20230215050548" group-title="04. Premium TV",079. Citra Entertainment
+#EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05cb4bbd91e34d858f6921e7196f7795:da3e19311e3a3d147607971a101c8dc3
+https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop
+https://mantul.biz.id:443/inetwork/gayanet12/242
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop 2
+https://mantul.biz.id:443/inetwork/gayanet12/1018.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop 3
+https://mantul.biz.id:443/inetwork/gayanet12/1092
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop 4
+https://mantul.biz.id:443/inetwork/gayanet12/13924
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop 5
+https://mantul.biz.id:443/inetwork/gayanet12/27431
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Premium TV",079. Etv Bioskop 6
+https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
 
 
 
