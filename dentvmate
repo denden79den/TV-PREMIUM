@@ -348,6 +348,10 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="03. Astro Go",042. ASTRO CERIA FHD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052389
 
+
+#EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="03. Astro Go" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",042. TV Okey
+https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
+
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="03. Astro Go",042. PREMIER LEAGUE 1
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34535
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="03. Astro Go",042. PREMIER LEAGUE 2
@@ -2053,12 +2057,31 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Variety 4 ⁴ᴷ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
 
-#EXTINF:-1 tvg-id="" tvg-name="Play Sports 1" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/e326a62a0113f1ce66bf3a143b614ab6.jpg" group-title="10. Sports TV 2",Play Sports 1
-http://xtv.ooo:8080/52882216/581881255/348357
-#EXTINF:-1 tvg-id="" tvg-name="Play Sports 2" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/2ec2fbcad5e371a4951d181ecf7d2b5d.jpg" group-title="10. Sports TV 2",Play Sports 2
-http://xtv.ooo:8080/52882216/581881255/348358
-#EXTINF:-1 tvg-id="" tvg-name="Play Sports 3" tvg-logo="http://s3.i3ns.net/portal/picon/2023-05/f022842b3343a7c7e20c7935d69fcfe1.jpg" group-title="10. Sports TV 2",Play Sports 3
-http://xtv.ooo:8080/52882216/581881255/348359
+
+#EXTINF:-1 group-title="10. Sports TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-051/stream.mpd
+
+
+#EXTINF:-1 group-title="10. Sports TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 2 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-052/stream.mpd
+
+
+#EXTINF:-1 group-title="10. Sports TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 3 
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Web0S; Linux/SmartTV) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/79.0.3945.79 Safari/537.36 WebAppManager
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (X11; Linux armv7l) AppleWebKit/537.36 (KHTML, like Gecko) QtWebEngine/5.9.7 Chrome/56.0.2924.122 Safari/537.36 Sky_STB_BCM7278_2019/1.0.0 (Sky, EM150UK, )
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=8ab47741930c476780515f9a00decb0a:7ab4b9ae5a48aa526e511a913b832769
+https://dcf-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-053/stream.mpd
+
+
 
 
 ====================================================HIBURAN 24/7=============================================================
