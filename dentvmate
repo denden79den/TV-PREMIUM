@@ -180,6 +180,11 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bc
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://mantul.biz.id:443/inetwork/gayanet12/4906
 
+#EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV",019. RCTI Live 2
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|Referer=https://www.visionplus.id/
+
 
 #EXTINF:-1 group-title="02. Local TV" tvg-id="" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png",020. GTV
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
