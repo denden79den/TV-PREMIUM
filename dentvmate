@@ -67,6 +67,11 @@ http://iptv12k.com:35461/654321/123456/11291
 #EXTINF:-1 tvg-id="" tvg-name="TV 9 NUSANTARA" tvg-logo="http://go4.pw/INDONESIA/TV9.png" group-title="00. Religi TV",010. TV 9 NUSANTARA
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089132
 
+#EXTINF:-1 tvg-id="" tvg-name="MNC MUSLIM" tvg-logo="http://go4.pw/INDONESIA/MNC TV.png" group-title="00. Religi TV",010. MNC MUSLIM
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584540
+
+
+
 
 
 ============================================================================================================================================================
@@ -720,7 +725,17 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/AFNHD/mpd/AFNHD.mpd
 
 
 #EXTINF:-1 group-title="05. Lifestyle TV"  tvg-logo="https://wiki.edunitas.com/_sepakbola/_baca_image.php?td=32&kodegb=Eat__Go_Transvision.png",085. Eat & Go
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/EatGo.m3u8
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#EXTHTTP:{"dt-custom-data":"eyJ1c2VySWQiOiJyZWFjdC1qdy1wbGF5ZXIiLCJzZXNzaW9uSWQiOiIxMjM0NTY3ODkiLCJtZXJjaGFudCI6ImdpaXRkX3RyYW5zdmlzaW9uIn0="}
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170342015d30907/manifest.mpd
+
+
+#EXTINF:-1 tvg-id="" tvg-name="FOOD TRAVEL OKTVNOW" tvg-logo="http://go4.pw/INDONESIA/FOOD TRAVEL OKTVNOW.png" group-title="05. Lifestyle TV",085. FOOD TRAVEL OKTVNOW
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1088913
 
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey
