@@ -386,6 +386,14 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Maxstream.m3
 
 
 
+#EXTINF:-1 tvg-id="Bioskop Indonesia" tvg-logo="https://images.indihometv.com/tvposter/bioskopindonesia.png" group-title="04. Premium TV",047. Bioskop Indonesia
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://cumbo.tauogiaslix.workers.dev/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
+https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856fd0d66d0170341bf1000905/manifest.mpd
+
 #EXTINF:-1 tvg-name="" tvg-id="Flik" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Fik.png" group-title="04. Premium TV",047. Flik
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Flik.m3u8
 
