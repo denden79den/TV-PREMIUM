@@ -64,6 +64,8 @@ https://172048-castr.akamaized.net/61e0e9a88ecf869e0a595bfa/live_feb292e0f94c11e
 #https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/OasisHD.m3u8
 http://iptv12k.com:35461/654321/123456/11291
 
+#EXTINF:-1 tvg-id="" tvg-name="TV 9 NUSANTARA" tvg-logo="http://go4.pw/INDONESIA/TV9.png" group-title="00. Religi TV",010. TV 9 NUSANTARA
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/1089132
 
 
 
@@ -125,6 +127,12 @@ https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|Referer=https://www.visionplus.id/
+
+#EXTINF:-1 tvg-id="" tvg-name="JTV" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="01. News TV",018. JTV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830545
+
+#EXTINF:-1 tvg-id="" tvg-name="SEA TODAY" tvg-logo="http://go4.pw/INDONESIA/sea_today.png" group-title="01. News TV",018. SEA TODAY
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830546
 
 
 
@@ -218,8 +226,11 @@ https://hgmtv.com:19360/garudatvlivestreaming/1080p.m3u8
 #EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="02. Local TV", 029. RTV HD
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584495
 
-#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV"", 029. Nusantara TV HD
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV", 029. Nusantara TV HD
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34411
+
+#EXTINF:-1 tvg-id="" tvg-name="DAAITV" tvg-logo="http://go4.pw/INDONESIA/DAAITV.png" group-title="02. Local TV",029. DAAITV
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584500
 
 
 ============================================================================================================================================================
@@ -717,6 +728,14 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/EatGo.m3u8
 #KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
 #EXTINF:-1 tvg-id="Entertainment - [Channel 86].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_86.png" group-title="05. Lifestyle TV",085. ENT
 https://cempedak-live-cdn.mncnow.id/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd|Referer=https://www.visionplus.id/&user-agent=Android
+
+#EXTINF:-1 tvg-id="" tvg-name="MNC INFOTAINMENT" tvg-logo="http://go4.pw/INDONESIA/MNC TV.png" group-title="05. Lifestyle TV",085. MNC INFOTAINMENT
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/830499
+
+#EXTINF:-1 tvg-id="" tvg-name="LIFESTYLE & FASHION" tvg-logo="http://go4.pw/INDONESIA/LIFESTYLE & FASHION.png" group-title="05. Lifestyle TV",085. LIFESTYLE & FASHION
+http://suprino.xyz:80/PMF3J9X/BV7HG8H/584544
+
+
 
 
 
