@@ -309,7 +309,364 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.ts
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/34721.ts
 
 
+============================================================================================================================================================
+// 02. Local TV Backup 2
+============================================================================================================================================================
 
+
+
+
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="GTV" tvg-url="" tvg-logo="https://iili.io/JMp3joP.png" 02. Local TV (Backup 2),GTV
+https://cempedak-live-cdn.mncnow.id/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="GTV"tvg-url=""tvg-logo="https://iili.io/JMp3joP.png" 02. Local TV (Backup 2),GTV [vip]
+http://opplex.tv:8080/live/mother/mother/350954.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="RCTI"tvg-logo="https://iili.io/JMp36xI.png" 02. Local TV (Backup 2), RCTI
+https://cempedak-live-cdn.mncnow.id/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="RCTI"tvg-logo="https://iili.io/JMp36xI.png" 02. Local TV (Backup 2), RCTI [vip]
+http://opplex.tv:8080/live/mother/mother/351023.ts
+#EXTINF:-1 tvg-id="SCTV" tvg-logo="https://iili.io/JMp3iiX.png" 02. Local TV (Backup 2),SCTV
+http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="MNCTV " tvg-url="" tvg-logo="https://iili.io/JMp3kla.png" 02. Local TV (Backup 2),MNC TV
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="iNews" tvg-url="" tvg-logo="https://iili.io/JV3x4Fs.png" 02. Local TV (Backup 2),iNews
+https://cempedak-live-cdn.mncnow.id/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Indosiar" tvg-url="" tvg-logo="https://iili.io/JMp3wV1.png/1280px-INDOSIAR_Logo.png" 02. Local TV (Backup 2),Indosiar [vip]
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8|user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=http://dens.tv
+#EXTINF:-1 tvg-id="Moji" tvg-url="" tvg-logo="https://iili.io/JMp3vUJ.png" 02. Local TV (Backup 2),MOJI
+http://opplex.tv:8080/live/12345678910/12345678910/350997.ts
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="TransTV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/JMp3ZUG.png" 02. Local TV (Backup 2),TransTV
+https://cempedak-live-cdn.mncnow.id/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Trans7" tvg-url="" tvg-logo="https://iili.io/JMp3Qls.png" 02. Local TV (Backup 2),Trans7
+http://vipkjbw.top:8080/live/VIP0192170801043953/c3448c66c871/34325.ts
+#EXTINF:-1 tvg-id="ANTV - [Channel 115].id"tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JMp31cb.png" 02. Local TV (Backup 2),ANTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://op-group1-swiftservehd-1.dens.tv/s/s07/01.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3pb2.png" 02. Local TV (Backup 2),VTV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3 
+https://flv.intechmedia.net/live/ch107.m3u8
+#EXTINF:-1 tvg-id="NET TV - [Channel 116].id" 02. Local TV (Backup 2) tvg-url="tvg-url="" tvg-logo="https://iili.io/JMp3URR.png",NET
+#EXTVLCOPT:http-user-agent=DENSGO/3.00.04 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+http://op-group1-swiftservesd-1.dens.tv/h/h06/01.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Rajawali TV" tvg-url="https://www.bevy.be/bevyfiles/indonesiapremium3.xml" tvg-logo="https://iili.io/JMp3PVt.png" 02. Local TV (Backup 2),RTV
+https://cempedak-live-cdn.mncnow.id/live/eds/RTV/sa_dash_vmx/RTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Berita Satu - [Channel 103].id" 02. Local TV (Backup 2) tvg-url="" tvg-logo="https://i.ibb.co.com/ZLkSwbY/BTV-Indonesia-logo.png",BTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://b1news.beritasatumedia.com/Beritasatu/B1News_960x540.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13", Drama chinese
+https://cdn09jtedge.indihometv.com/joss/130/chinesedrama/index.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
+https://cdn09jtedge.indihometv.com/joss/130/dunialain/index.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png",CITRA DRAMA
+https://cdn09jtedge.indihometv.com/joss/130/cdrama/index.m3u8?c
+#EXTINF:-1 tvg-id="MaxStream" 02. Local TV (Backup 2) tvg-url="" tvg-logo="https://i.ibb.co.com/6KWD5xp/88d32b5e8822f73d3d394bdda25f9110-icon.jpg",Allplay
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd|user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-id="MaxStream" 02. Local TV (Backup 2) tvg-url="" tvg-logo="https://iili.io/2QRtNqu.png",MaxStream
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd|user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="IMC CHANNEL" tvg-url="" tvg-logo="https://iili.io/Jmny4iG.png" 02. Local TV (Backup 2),IMC CHANNEL
+https://cempedak-live-cdn.mncnow.id/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTINF:-1 02. Local TV (Backup 2) tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ6cfPQjb7Vz3Tqr5_ZQAfb5lNC5qDvxgBirt1_4UDlMA&s", UGTV
+https://cdn.gunadarma.ac.id/streams/ugtv/ingestugtv_high.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/Inspira.png/400px-Inspira.png" 02. Local TV (Backup 2), INSPIRA
+https://inspiratv.siar.us/inspiratv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JmoB4cX.png" 02. Local TV (Backup 2), Mentari
+https://cdn09jtedge.indihometv.com/joss/134/mentaritv/chunklist_w389190176_b1044100_sleng.m3u8?Mediacorp.m3u8
+#EXTINF:-1 tvg-id="Daai TV" tvg-url="" tvg-logo="https://iili.io/JMp3WNV.png" 02. Local TV (Backup 2),DAAI
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://pull.daaiplus.com/live-DAAIPLUS/live-DAAIPLUS.m3u8|user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnQjI.png" 02. Local TV (Backup 2),Elshinta
+https://ams.juraganstreaming.com:5443/LiveApp/streams/elshintatv.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://cempedak-live-cdn.mncnow.id/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="Kompas TV" tvg-url="" tvg-logo="https://iili.io/JV3x6cG.png" 02. Local TV (Backup 2),Kompas TV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/s/s104/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Kompas_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTINF:-1 tvg-id="Metro TV - [Channel 107].id" 02. Local TV (Backup 2) tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://iili.io/JV3xZtS.png",Metro TV
+https://cempedak-live-cdn.mncnow.id/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi&referrer=https://visionplus.id
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+https://cempedak-live-cdn.mncnow.id/live/eds/TVOne-2/sa_dash_vmx/TVOne-2.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh&referrer=https://visionplus.id
+#EXTINF:-1 tvg-id="TVOne" tvg-url="" tvg-logo="https://iili.io/JV3xDo7.png" 02. Local TV (Backup 2),TVOne
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+http://op-group1-swiftservehd-1.dens.tv/h/h40/index.m3u8?app_type=web&userid=wnctpm5uf2j&chname=tvOne|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, seperti Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1 tvg-logo="https://i.ibb.co.com/Dg82FWF/Logo-Garuda-TV-3-D-Putih-Silver-Merah.png" 02. Local TV (Backup 2),Garuda TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://hgmtv.com:19360/garudatvlivestreaming/garudatvlivestreaming.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="Sindo News TV HD - [Channel 434].id"tvg-url="" tvg-logo="https://iili.io/JV3xQN2.png",SindoNews
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="IDX HD"tvg-url="" tvg-logo="https://iili.io/JV3xvtI.png",IDX
+https://cempedak-live-cdn.mncnow.id/live/eds/IDX/sa_dash_vmx/IDX.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" 02. Local TV (Backup 2),TVRI Jakarta
+https://op-group1-swiftservesd-1.dens.tv/s/s11/index.m3u8|user-agent=Mozilla/5.0 (X11; Linux x86_64)
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JMp3DJf.png" 02. Local TV (Backup 2),TVRI World
+https://ott-balancer.tvri.go.id/live/eds/TVRIWorld/hls/TVRIWorld-avc1_1500000=10003-mp4a_96000_eng=20003.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://iili.io/JMp3DJf.png" tvg-logo="https://iili.io/JMp3DJf.png"  02. Local TV (Backup 2),TVRI Sport
+#EXTVLCOPT:http-user-agent=TVRIKlik/8.0.2 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ott-balancer.tvri.go.id/live/eds/SportHD/hls/SportHD.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-logo="https://iili.io/JMp3DJf.png",TVRI Parlemen
+http://103.18.181.69:1935/golive/livestream/playlist.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id=""tvg-url="" tvg-logo="https://thumbor.prod.vidiocdn.com/A9PXp2pjYWnd8NZ0oQbwniC31So=/640x360/filters:quality(70)/vidio-web-prod-livestreaming/uploads/livestreaming/image/8815/metro-globe-network-1ab3f1.jpg",Metro Globe Network
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:mgnch.smil/chunklist_w139395680_b2692000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/rndB8XKgfvx2hk5xv3j9n9oOPUkOtj_sfZlDaaAyzTc/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvY29tbW9ucy90/aHVtYi8zLzNkL0NO/QkNfSW5kb25lc2lh/XzIwMjQuc3ZnLzIy/MHB4LUNOQkNfSW5k/b25lc2lhXzIwMjQu/c3ZnLnBuZw" tvg-url="https://bit.ly/JejeVisionEPG" 02. Local TV (Backup 2),CNBC Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://live.cnbcindonesia.com/livecnbc/smil:cnbctv.smil/chunklist_w1230509683_b384000_sleng.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JV3xSnt.png" 02. Local TV (Backup 2),CNN Indonesia
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36 
+https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w1238913108_b384000_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JMp3eKg.png" 02. Local TV (Backup 2),Magna
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://edge.medcom.id/live-edge/smil:magna.smil/chunklist_w657754957_b3884000_sleng.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="Muslim Tv" 02. Local TV (Backup 2) tvg-url=""tvg-logo="https://i.ibb.co.com/SDSTqpR/Muslim-TV.png",Muslim Tv
+https://cempedak-live-cdn.mncnow.id/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&user-agent=MNCNow/6.33.3 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1&referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/82/TvMu2021.jpg/revision/latest?cb=20210413011714" 02. Local TV (Backup 2),TVMu
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/tvmu.m3u8
+#EXTINF:-1 tvg-id="Nusantara TV" tvg-logo="https://iili.io/2gSbSY7.png" 02. Local TV (Backup 2),Nusantara TV
+https://nusantaratv.siar.us/nusantaratv/live/playlist.m3u8
+#EXTINF:-1 tvg-id="Indonesiana TV"tvg-url=""tvg-logo="https://statik.tempo.co/data/2021/09/10/id_1049771/1049771_720.jpg" 02. Local TV (Backup 2),Indonesiana TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://tvstreamcast.com/indonesiana.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-logo="https://dl.dropbox.com/scl/fi/mh9sgmzvwbqfic3tlbkci/Bnchanel.jpg?rlkey=8bn38qw1ohg6xy8wkajeu1ccv&dl=0", BN Channel
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+http://op-group1-swiftservehd-1.dens.tv/h/h39/01.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-logo="https://iili.io/2QxPb0F.jpg",IDTV
+https://b1world.beritasatumedia.com/Beritasatu/B1World_manifest.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/IGIX3o8.jpg" 02. Local TV (Backup 2),TV Kesehatan
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://5bf7b725107e5.streamlock.net/tvkesehatan/tvkesehatan/playlist.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="Bali TV"tvg-url="" tvg-logo="https://iili.io/JbtnVEu.png",Bali TV
+https://cempedak-live-cdn.mncnow.id/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+#EXTINF:-1 tvg-id="JAKTV" tvg-url="" tvg-logo="https://iili.io/Jbtnm4s.png" 02. Local TV (Backup 2),JAK TV
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JakTV.mpd|license_type=com.widevine.alpha&license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=YzZhZjI1NjMtYzEzYy0zYjkyLTg0Y2MtNmEwOTg0NDk5MTJm&referrer=https://www.visionplus.id/
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="JTV" tvg-url=""tvg-logo="https://iili.io/JbtoFZ7.png",JTV
+#EXTVLCOPT:http-user-agent=VLC/3.0.9 LibVLC/3.0.9 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch2/myStream/chunklist_w1825392864.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/d/d9/TV9NUSANTARA1.png/revision/latest?cb=20220525022727" 02. Local TV (Backup 2),TV9 Nusantara
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://5bf7b725107e5.streamlock.net/tv9/tv9/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnuBn.png" 02. Local TV (Backup 2),Sangaji TV
+https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
+#EXTVLCOPT:http-referrer=https://www.visionplus.id/
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="BandungTV.id"tvg-url=""tvg-logo="https://iili.io/Jbtnh2j.png",Bandung TV
+http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" 02. Local TV (Backup 2),Jogja TV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw"02. Local TV (Backup 2),Dhoho TV
+https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" 02. Local TV (Backup 2),Semarang TV
+http://116.254.112.74:80/hls/cakralive.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id=""tvg-url=""tvg-logo="https://iili.io/Jbtox8x.png",Kilisuci TV
+https://5bf7b725107e5.streamlock.net:443/kstv/kstv/playlist.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-id=""tvg-url=""tvg-logo="https://iili.io/Jbtncp2.png",Surabaya TV
+https://e.siar.us/live/surabayatv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dR393Cl.png" 02. Local TV (Backup 2),PJTV
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/playlist.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-id="" tvg-url=""tvg-logo="https://iili.io/JbtnMBe.png",AREK TV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/arektv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnvQ1.png" 02. Local TV (Backup 2),Batu TV
+http://117.103.69.219:8080/live/streaming/index.m3u8
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTjj4f_Jo-6NgyCWYvq4J7C7LjGccIrQzCS9g&usqp=CAU" 02. Local TV (Backup 2), Prima tv
+https://primatv.siar.us/primatv/live/playlist.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-id=""tvg-url=""tvg-logo="https://iili.io/Jbto2u2.png",JiTV
+https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)  tvg-logo="https://images.indihometv.com/logo_tvmui_small.png?v=2.0.0.13",MUI TV
+https://cdn09jtedge.indihometv.com/joss/130/muitv/index.m3u8
+#EXTINF:-1 02. Local TV (Backup 2) tvg-logo="https://i.ibb.co.com/jgkV3Fg/Instagram-post-8.png", MGI tv
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://flv.intechmedia.net/live/ch25.m3u8
+#EXTINF:-1 02. Local TV (Backup 2)tvg-logo="https://static.wikia.nocookie.net/logopedia/images/a/ab/MQTV.png/revision/latest?cb=20180920094455",MQTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1 
+https://5bf7b725107e5.streamlock.net/mqtv/mqtv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://rodja.tv/site/wp-content/uploads/2023/02/cropped-logo-RodjaTV-300x87.png" 02. Local TV (Backup 2),Rodja TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://rodjatv.com/rodjatv/live.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/7/7e/Surau_TV.png/revision/latest?cb=20180922124010" 02. Local TV (Backup 2),Surau TV
+http://fastream.xyz:8080/live/940315365tv/g1r12n/260310.ts
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/4cBiqXHYcULy6eHTh41yKT8606eTeSxuhu1eG9eA_9c/rs:fit:500:0:0:0/g:ce/aHR0cHM6Ly9pbWFn/ZXMudmlhd2F5LmNv/bS8xMTczMjA0NF8x/ODAucG5n" 02. Local TV (Backup 2),Aswaja TV
+https://warningfm.github.io/dailymotion/AswajaTV.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtouwB.png" 02. Local TV (Backup 2),Pon TV
+http://63b2dc7196c38.streamlock.net:1935/ch15/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto7MF.png" 02. Local TV (Backup 2),RBTV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+http://live.rbtvjogja.tv/481e185e-72e3-49f6-ad37-e495f911c9e4_output_0.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn72f.png" 02. Local TV (Backup 2),Riau TV
+https://63b2dc7196c38.streamlock.net:1937/riautv/myStream/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnxII.png" 02. Local TV (Backup 2),Sampit TV
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://e.siar.us/live/sampit-tv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jm9IUfR.png" 02. Local TV (Backup 2),AFB TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch54.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/dR393Cl.png" 02. Local TV (Backup 2),PJTV
+https://63b2dc7196c38.streamlock.net:1937/ch30/myStream/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="http://www.insantv.com/wp-content/uploads/sites/2/2017/05/logo.png" 02. Local TV (Backup 2),INSAN TV
+#EXTVLCOPT:http-user-agent=YouTV/1.7.12-prod.release+7b62633d (Linux;Android 9) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch1.m3u8
+#EXTINF:-1 tvg-id="" tvg-name=""tvg-url=""tvg-logo="https://iili.io/dA8evOF.png" 02. Local TV (Backup 2),Jawapos TV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w57900395.m3u8
+#EXTINF:-1 tvg-id=""tvg-name=""tvg-url=""tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/69/Logo_JPM_TV.png/200px-Logo_JPM_TV.png" 02. Local TV (Backup 2),JPM TV
+https://63b2dc7196c38.streamlock.net:1937/ch6/myStream/chunklist_w57900395.m3u8
+#EXTINF:-1 tvg-id=""tvg-name="" tvg-url=""tvg-logo="https://iili.io/dR30Mxe.png" 02. Local TV (Backup 2),Kawanua TV
+https://63b2dc7196c38.streamlock.net:1937/ch18/myStream/chunklist_w912292865.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoJyl.png" 02. Local TV (Backup 2), DUTA TV
+https://dutatv.siar.us/dutatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://static.wikia.nocookie.net/logopedia/images/e/e1/TV_Parlemen.png/revision/latest?cb=20210124115858" 02. Local TV (Backup 2), Dewan Rakyat
+https://mifntechnology.github.io/siaranMy/channels/DewanRakyat/index.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://mc.tabalongkab.go.id/wp-content/uploads/2019/04/logo-tv-tabalong.png" 02. Local TV (Backup 2),TV Tabalong
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://5bf7b725107e5.streamlock.net/tvtabalong/tvtabalong/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/JbtnEQ9.png" 02. Local TV (Backup 2),TVKU
+http://103.30.1.14:8080/hls/live.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcStiQEOclUQtYYl3k27O1CwbGLG0H2z1B36NfU4wngimA&s" 02. Local TV (Backup 2),AKTV
+https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/Jbtny3G.png" 02. Local TV (Backup 2),Jambi TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://ams.juraganstreaming.com:5443/LiveApp/streams/jambitv.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://iili.io/JbtoHv4.png" 02. Local TV (Backup 2),Jek TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch14/myStream/playlist.m3u8
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+#EXTINF:-1 tvg-id="" tvg-url="https://bit.ly/JejeVisionEPG" tvg-logo="https://upload.wikimedia.org/wikipedia/id/f/f1/Bungo_TV.png" 02. Local TV (Backup 2),Bungo TV
+https://5bf7b725107e5.streamlock.net/bungotv/bungotv/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/JbtnY74.png" 02. Local TV (Backup 2),SMTV Sumedang
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch25/myStream/chunklist_w500135136.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/5/54/RCTV_2012.png" 02. Local TV (Backup 2),RCTV Cirebon
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://v10.siar.us/rctv/live/playlist.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/Jm9IvWJ.png" 02. Local TV (Backup 2),Timor TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/timortv/myStream/chunklist_w689544014.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://jpmtelevisi.com/img/atambua.png" 02. Local TV (Backup 2),Atambua TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/atambua/myStream/chunklist_w1110314352.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/39/Padang_TV_2007.png" 02. Local TV (Backup 2),Padang TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch16/myStream/chunklist_w1993412302.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://jpmtelevisi.com/img/sabanten.png" 02. Local TV (Backup 2),Sabanten - Banten
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/sabantentv/myStream/chunklist_w1424683093.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/JbtnkhP.png" 02. Local TV (Backup 2),Batam TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch5/myStream/chunklist_w1096211175.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnSCF.png" 02. Local TV (Backup 2),BMS TV
+https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn6Yv.png" 02. Local TV (Backup 2),Dayak TV
+https://v5.siar.us/dayaktv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" 02. Local TV (Backup 2),Dhamma TV
+https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
+#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png",LINGKAR TV
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" 02. Local TV (Backup 2),BANTEN TV
+https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtnakl.png" 02. Local TV (Backup 2),TATU TV
+https://v2.siar.us/tatv/live.sdp/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/0/01/Logo_madutv.png" 02. Local TV (Backup 2),MADU TV
+https://re1.siar.us/madutv/hd720/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/2gUGOej.jpg" 02. Local TV (Backup 2), Wesaltv
+#EXTVLCOPT:http-user-agent=OTTNavigator/1.7.1.6 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://ams.juraganstreaming.com:5443/LiveApp/streams/wesaltv.m3u8
+#EXTINF:-1 tvg-logo="https://4.bp.blogspot.com/-kw-2O6-LYHU/X1q26HZsAnI/AAAAAAAAqEk/eL4AB5Lp3GUrFCDnlyBNoeiHlfXFHZtVgCLcBGAsYHQ/s1600/dmtv-channel-logo.png" 02. Local TV (Backup 2),DMTV Malang
+https://e.siar.us/live/dmtv.m3u8
+#EXTINF:-1 tvg-logo="https://lingkartv.com/assets/img/logo-square.png" 02. Local TV (Backup 2), LingkarTv 
+https://lingkartv.my.id/hls/lingkartv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoqGe.png" 02. Local TV (Backup 2), MGS TV
+https://cdn.gunadarma.ac.id/streams/mgstv/ingestmgstv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtoTuV.png" 02. Local TV (Backup 2), Prima TV
+https://primatv.siar.us/primatv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbto9af.png" 02. Local TV (Backup 2),Jaya TV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch52.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://jpmtelevisi.com/img/natuna.png" 02. Local TV (Backup 2),Natuna TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/natuna/myStream/chunklist_w1179708856.m3u8
+#EXTINF:-1 tvg-id=" tvg-url=""tvg-logo="https://iili.io/JbtnRrG.png" 02. Local TV (Backup 2),Simpang 5 TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch4/myStream/chunklist_w1782045087.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnWrb.png" 02. Local TV (Backup 2), Balikpapan TV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch10/myStream/chunklist_w1862740263.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtozyQ.png" 02. Local TV (Backup 2),PKTV
+https://ams.juraganstreaming.com:5443/LiveApp/streams/pktv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jyi8zhB.png" 02. Local TV (Backup 2),AKTV
+https://e.siar.us/live/aktv.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/JbtnNpV.png" 02. Local TV (Backup 2),Banjar TV
+https://banjartv.siar.us/banjartv/live/playlist.m3u8
+#EXTINF:-1 tvg-logo="https://iili.io/Jbtn43J.png" 02. Local TV (Backup 2),BETV
+#EXTVLCOPT:http-user-agent=YouTV/1.5.6-prod.release (Linux;Android 7.1.1) ExoPlayerLib/2.12.3
+https://flv.intechmedia.net/live/ch58.m3u8
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://iili.io/JbtouwB.png" 02. Local TV (Backup 2),PON TV Pontianak
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 6.1; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.100 Safari/537.36
+https://63b2dc7196c38.streamlock.net:1937/ch15/myStream/chunklist_w330464297.m3u8
+#EXTINF:-1 tvg-id=""tvg-url=""tvg-logo="https://iili.io/JbtnzXt.png" 02. Local TV (Backup 2),SAKTI TV
+https://saktitv.siar.us/saktitv/live/playlist.m3u8
 
 
 
