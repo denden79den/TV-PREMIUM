@@ -1481,7 +1481,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-New
 
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="07. Kids TV",098. HIP HIP HORE
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73989.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title=07. Kids TV",098. HOREE
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="07. Kids TV",098. HOREE
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73945.ts
 
 
