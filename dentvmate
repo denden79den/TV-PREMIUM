@@ -284,7 +284,7 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73607.ts
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV (Backup)",ID: TRANS7HD
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73609.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png"group-title="02. Local TV (Backup)",ID: TRANSTVHD
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV (Backup)",ID: TRANSTVHD
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73608.ts
 title="INDONESIA",ID: NET TV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73615.ts
@@ -292,11 +292,11 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73615.ts
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73618.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. Local TV (Backup)",ID: TV ONE
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73610.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png"group-title="02. Local TV (Backup)",ID: METROTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. Local TV (Backup)",ID: METROTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73611.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. Local TV (Backup)",ID: KOMPASTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73612.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png"group-title="02. Local TV (Backup)",ID: CNN INDONESIA
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (Backup)",ID: CNN INDONESIA
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73613.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (Backup)",ID: BTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73614.ts
@@ -518,7 +518,7 @@ https://cdn.gunadarma.ac.id/streams/sangajitv/ingestsangajitv.m3u8
 http://202.150.153.254:65500/bandungtvWEBSITE.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/Jbto3jS.png" group-title="02. Local TV (Backup 2)",Jogja TV
 https://mam.jogjaprov.go.id:1937/tv/jitv_720p/chunklist_w850229424.m3u8
-#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw"group-title="02. Local TV (Backup 2)",Dhoho TV
+#EXTINF:-1 tvg-logo="https://imgs.search.brave.com/2l424MY67Zj1YYcsreW8IV9oLfCYNI1X2XJdW8kMkd4/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly91cGxv/YWQud2lraW1lZGlh/Lm9yZy93aWtpcGVk/aWEvaWQvdGh1bWIv/OC84Ni9EaG9ob1RW/LnBuZy8yMDBweC1E/aG9ob1RWLnBuZw" group-title="02. Local TV (Backup 2)",Dhoho TV
 https://dhohotv.siar.us/dhohotv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnA1s.png" group-title="02. Local TV (Backup 2)",Semarang TV
 http://116.254.112.74:80/hls/cakralive.m3u8
@@ -622,7 +622,7 @@ https://5bf7b725107e5.streamlock.net/bmstv/bmstv/playlist.m3u8
 https://v5.siar.us/dayaktv/live/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnPvR.png" group-title="02. Local TV (Backup 2)",Dhamma TV
 https://b.webcache.maxindo.net.id/dhamma/dhamma.m3u8
-#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png",LINGKAR TV
+#EXTINF:-1 tvg-id="tvg-url="tvg-logo="https://lingkartv.com/assets/img/logo-square.png" group-title="02. Local TV (Backup 2)",LINGKAR TV
 https://lingkartv.my.id/hls/lingkartv.m3u8
 #EXTINF:-1 tvg-logo="https://iili.io/JbtnwkQ.png" group-title="02. Local TV (Backup 2)",BANTEN TV
 https://5bf7b725107e5.streamlock.net/bantentv/bantentv/playlist.m3u8
