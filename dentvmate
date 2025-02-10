@@ -1388,8 +1388,7 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
 http://iptv12k.com:35461/654321/123456/969
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="09. Sports TV",128. Astro Sport Plus
-#EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroSportPlus.m3u8
+https://livetvbox.live:443/live/Winston123/Winston123/5483.ts
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",129. Astro Badminton
 https://livetvbox.live:443/live/Winston123/Winston123/5482.ts
