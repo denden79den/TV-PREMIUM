@@ -2095,16 +2095,18 @@ http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80306
 #EXTINF:-1 tvg-id="" tvg-name="RMC Sport 10 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",RMC Sport 10 ⁴ᴷ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/80307
 
-
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 1 ⁴ᵏ" tvg-logo="" group-title="10. Sports TV 2",Digi Sport 1 ⁴ᵏ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86413
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 2 ⁴ᵏ" tvg-logo="" group-title="10. Sports TV 2",Digi Sport 2 ⁴ᵏ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86414
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 3 ⁴ᵏ" tvg-logo="" group-title="10. Sports TV 2",Digi Sport 3 ⁴ᵏ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86415
-#EXTINF:-1 tvg-id="" tvg-name="Digi Sport 4 ⁴ᵏ" tvg-logo="" group-title="10. Sports TV 2",Digi Sport 4 ⁴ᵏ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86416
-
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 1.png" group-title="10. Sports TV 2",DIGI SPORT 1 
+http://activefrance.net:80/UL33K17/SYC4T9D/68897
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 1.png" group-title="10. Sports TV 2",DIGI SPORT 1 
+http://activefrance.net:80/UL33K17/SYC4T9D/68898
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 " tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 2.png" group-title="10. Sports TV 2",DIGI SPORT 2 
+http://activefrance.net:80/UL33K17/SYC4T9D/68899
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 2.png" group-title="10. Sports TV 2",DIGI SPORT 2
+http://activefrance.net:80/UL33K17/SYC4T9D/68900
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 3.png" group-title="10. Sports TV 2",DIGI SPORT 3
+http://activefrance.net:80/UL33K17/SYC4T9D/68901
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 4.png" group-title="10. Sports TV 2",DIGI SPORT 4
+http://activefrance.net:80/UL33K17/SYC4T9D/68902
 
 #EXTINF:-1 tvg-id="" tvg-name="SuperSport Maximo ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Maximo ᶠᴴᴰ
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
