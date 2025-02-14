@@ -2108,30 +2108,43 @@ http://activefrance.net:80/UL33K17/SYC4T9D/68901
 #EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4" tvg-logo="http://go4.pw/EUROPE/ROMANIA/DIGI SPORT 4.png" group-title="10. Sports TV 2",DIGI SPORT 4
 http://activefrance.net:80/UL33K17/SYC4T9D/68902
 
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Maximo ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Maximo ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62981
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport La Liga ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport La Liga ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62983
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Premier League ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Premier League ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62984
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Tennis ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Tennis ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62986
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Cricket ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Cricket ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62987
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Rugby ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Rugby ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62988
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Football ᶠᴴᴰ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Football ᶠᴴᴰ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62990
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Action ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Action ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62997
-#EXTINF:-1 tvg-id="" tvg-name="^AF: SuperSport Variety 1 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Variety 1 ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62994
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 2 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Variety 2 ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62993
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 3 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Variety 3 ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62992
-#EXTINF:-1 tvg-id="" tvg-name="SuperSport Variety 4 ⁴ᴷ" tvg-logo="" group-title="10. Sports TV 2",SuperSport Variety 4 ⁴ᴷ
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/62991
+#EXTINF:-1 tvg-id="supersportaction.za" tvg-name="ACTION " tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",ACTION 
+http://activefrance.net:80/UL33K17/SYC4T9D/252112
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="FOOTBALL PLUS HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",FOOTBALL PLUS HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252100
+#EXTINF:-1 tvg-id="supersportpremierleague.za" tvg-name="PREMIER LEAGUE HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",PREMIER LEAGUE HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252098
+#EXTINF:-1 tvg-id="supersportlaliga.za" tvg-name="LA LIGA HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",LA LIGA HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252099
+#EXTINF:-1 tvg-id="supersportfootball.za" tvg-name="FOOTBALL HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",FOOTBALL HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252097
+#EXTINF:-1 tvg-id="supersportgrandstand.za" tvg-name="GRANDSTAND" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",GRANDSTAND
+http://activefrance.net:80/UL33K17/SYC4T9D/252110
+#EXTINF:-1 tvg-id="supersportmaximo1.za" tvg-name="MAXIMO 1" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",MAXIMO 1
+http://activefrance.net:80/UL33K17/SYC4T9D/252108
+#EXTINF:-1 tvg-id="supersporttennis.za" tvg-name="TENNIS HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",TENNIS HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252101
+#EXTINF:-1 tvg-id="supersportrugby.za" tvg-name="RUGBY HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",RUGBY HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252102
+#EXTINF:-1 tvg-id="supersportcricket.za" tvg-name="CRICKET HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",CRICKET HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252103
+#EXTINF:-1 tvg-id="supersportgolf.za" tvg-name="GOLF HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",GOLF HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252104
+#EXTINF:-1 tvg-id="supersportmotorsport.za" tvg-name="MOTOSPORT HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",MOTOSPORT HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252105
+#EXTINF:-1 tvg-id="supersportblitz.za" tvg-name="BLITZ HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",BLITZ HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252107
+#EXTINF:-1 tvg-id="supersportpsl.za" tvg-name="PSL" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",PSL
+http://activefrance.net:80/UL33K17/SYC4T9D/252111
+
+#EXTINF:-1 tvg-id="supersportvariety1.za" tvg-name="VARIETY 1 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",VARIETY 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252093
+#EXTINF:-1 tvg-id="supersportvariety2.za" tvg-name="VARIETY 2 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",VARIETY 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252094
+#EXTINF:-1 tvg-id="supersportvariety3.za" tvg-name="VARIETY 3 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",VARIETY 3 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252095
+#EXTINF:-1 tvg-id="supersportvariety4.za" tvg-name="VARIETY 4 HD" tvg-logo="http://go4.pw/AMERICA/USA/supersport-.png" group-title="10. Sports TV 2",VARIETY 4 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/252096
 
 
 #EXTINF:-1 group-title="10. Sports TV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/76/Telenet_Play_Sports_logo.png", PLAY SPORT 1 
