@@ -2105,11 +2105,9 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 ===================================================Sports TV 2=======================================================
 
 
-=======================================NOW SPORTS========================================================
-
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
 http://activefrance.net:80/UL33K17/SYC4T9D/438868
-#EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now 09. Sports TV 
+#EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now Sports 2  
 http://activefrance.net:80/UL33K17/SYC4T9D/438869
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="10. Sports TV 2", Now Sports 3 
 http://activefrance.net:80/UL33K17/SYC4T9D/438870
