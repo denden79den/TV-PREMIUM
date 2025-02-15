@@ -2109,7 +2109,7 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
 http://activefrance.net:80/UL33K17/SYC4T9D/438868
-#EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now Sports 2 
+#EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now 09. Sports TV 
 http://activefrance.net:80/UL33K17/SYC4T9D/438869
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="10. Sports TV 2", Now Sports 3 
 http://activefrance.net:80/UL33K17/SYC4T9D/438870
@@ -2334,6 +2334,62 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=dXS
 #EXTINF:-1 group-title="10. Sports TV 2" tvg-id="spotvprime.kr" tvg-logo="https://cdn.spotvnow.co.kr/src/upload/image/20240304/784ba49d34bc3b29f93ab906a3adabc0.png",SPOTV Prime Plus
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
+
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 1" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 1
+http://activefrance.net:80/UL33K17/SYC4T9D/325613
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 2" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 2
+http://activefrance.net:80/UL33K17/SYC4T9D/325612
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 3" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 3
+http://activefrance.net:80/UL33K17/SYC4T9D/325611
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 4" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 4
+http://activefrance.net:80/UL33K17/SYC4T9D/325610
+#EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 5" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 5
+http://activefrance.net:80/UL33K17/SYC4T9D/325609
+
+
+#EXTINF:-1 tvg-id="supersport1.al" tvg-name="SUPER SPORT 1 FHD" tvg-logo="http://go4.pw/ALBANIA/S1.png" group-title="10. Sports TV 2",SUPER SPORT 1 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/491819
+#EXTINF:-1 tvg-id="supersport2.al" tvg-name="SUPER SPORT 2 FHD" tvg-logo="http://go4.pw/ALBANIA/S2.png" group-title="10. Sports TV 2",SUPER SPORT 2 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/762534
+#EXTINF:-1 tvg-id="supersport3.al" tvg-name="SUPER SPORT 3 FHD" tvg-logo="http://go4.pw/ALBANIA/S3.png" group-title="10. Sports TV 2",SUPER SPORT 3 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1112121
+#EXTINF:-1 tvg-id="supersport4.al" tvg-name="SUPER SPORT 4 FHD" tvg-logo="http://go4.pw/ALBANIA/S4.png" group-title="10. Sports TV 2",SUPER SPORT 4 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/491810
+#EXTINF:-1 tvg-id="supersport5.al" tvg-name="SUPER SPORT 5 HD" tvg-logo="http://go4.pw/ALBANIA/S5.png" group-title="10. Sports TV 2",SUPER SPORT 5 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53763
+#EXTINF:-1 tvg-id="supersport6.al" tvg-name="SUPER SPORT 6 FHD" tvg-logo="http://go4.pw/ALBANIA/S6.png" group-title="10. Sports TV 2",SUPER SPORT 6 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/53762
+#EXTINF:-1 tvg-id="supersport7.al" tvg-name="SUPER SPORT 7 HD" tvg-logo="http://go4.pw/ALBANIA/S7.png" group-title="10. Sports TV 2",SUPER SPORT 7 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53761
+
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 1 HD" tvg-logo="http://go4.pw/ALBANIA/T1.png" group-title="10. Sports TV 2",TRING SPORT 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53757
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 2 HD" tvg-logo="http://go4.pw/ALBANIA/T2.png" group-title="10. Sports TV 2",TRING SPORT 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53756
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 3 HD" tvg-logo="http://go4.pw/ALBANIA/T3.png" group-title="10. Sports TV 2",TRING SPORT 3 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/150350
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 4 HD" tvg-logo="http://go4.pw/ALBANIA/T4.png" group-title="10. Sports TV 2",TRING SPORT 4 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/150351
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 5 FHD" tvg-logo="http://go4.pw/ALBANIA/tringsport5.png" group-title="10. Sports TV 2",TRING SPORT 5 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1069672
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 6 FHD" tvg-logo="http://go4.pw/ALBANIA/TRINGSPORT.png" group-title="10. Sports TV 2",TRING SPORT 6 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1150574
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 7 FHD" tvg-logo="http://go4.pw/ALBANIA/TRINGSPORT.png" group-title="10. Sports TV 2",TRING SPORT 7 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1150575
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 8 FHD" tvg-logo="http://go4.pw/ALBANIA/TRINGSPORT.png" group-title="10. Sports TV 2",TRING SPORT 8 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1150576
+#EXTINF:-1 tvg-id="" tvg-name="TRING SPORT 9 FHD" tvg-logo="http://go4.pw/ALBANIA/TRINGSPORT.png" group-title="10. Sports TV 2",TRING SPORT 9 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/1150577
+
+#EXTINF:-1 tvg-id="k-sport1.al" tvg-name="K SPORT 1 HD" tvg-logo="http://go4.pw/ALBANIA/K1.png" group-title="10. Sports TV 2",K SPORT 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53752
+#EXTINF:-1 tvg-id="k-sport2.al" tvg-name="K SPORT 2 HD" tvg-logo="http://go4.pw/ALBANIA/K2.png" group-title="10. Sports TV 2",K SPORT 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53751
+#EXTINF:-1 tvg-id="k-sport3.al" tvg-name="K SPORT 3 HD" tvg-logo="http://go4.pw/ALBANIA/K3.png" group-title="10. Sports TV 2",K SPORT 3 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53750
+#EXTINF:-1 tvg-id="k-sport4.al" tvg-name="K SPORT 4 HD" tvg-logo="http://go4.pw/ALBANIA/K4.png" group-title="10. Sports TV 2",K SPORT 4 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/53749
+
 
 
 
