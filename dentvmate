@@ -2108,25 +2108,25 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 =======================================NOW SPORTS========================================================
 
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112207
 http://activefrance.net:80/UL33K17/SYC4T9D/438868
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now Sports 2 
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112206
 http://activefrance.net:80/UL33K17/SYC4T9D/438869
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-3.png" group-title="10. Sports TV 2", Now Sports 3 
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112205
 http://activefrance.net:80/UL33K17/SYC4T9D/438870
 #EXTINF:-1  tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-4.png" group-title="10. Sports TV 2", Now Sports 4  
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112204
 http://activefrance.net:80/UL33K17/SYC4T9D/438871
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-5.png" group-title="10. Sports TV 2", Now Sports 5 
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112203
 http://activefrance.net:80/UL33K17/SYC4T9D/438872
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-6.png" group-title="10. Sports TV 2", Now Sports 6
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112202
 http://activefrance.net:80/UL33K17/SYC4T9D/438873
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-7.png" group-title="10. Sports TV 2", Now Sports 7 
-'http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201
+##http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112201
 http://activefrance.net:80/UL33K17/SYC4T9D/438874
 
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="10. Sports TV 2", NOW Premier Sports 1  
