@@ -2137,16 +2137,28 @@ http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112196
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-7.png" group-title="10. Sports TV 2", NOW Premier Prime  
 http://exm3u.123tv.to:8080/PsV8ILRBYZ/XVPZxk62WC/112195
 
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 1 ⁴ᵏ" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-1.png" group-title="10. Sports TV 2",Hub Premier 1 ⁴ᵏ
-https://livetvbox.live:443/live/Winston123/Winston123/148158.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 2 ⁴ᵏ" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-2.png" group-title="10. Sports TV 2",Hub Premier 2 ⁴ᵏ
-https://livetvbox.live:443/live/Winston123/Winston123/148159.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 3 ⁴ᵏ" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-3.png" group-title="10. Sports TV 2",Hub Premier 3 ⁴ᵏ
-https://livetvbox.live:443/live/Winston123/Winston123/148160.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 4 ⁴ᵏ" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-4.png" group-title="10. Sports TV 2",Hub Premier 4 ⁴ᵏ
-https://livetvbox.live:443/live/Winston123/Winston123/148161.ts
-#EXTINF:-1 tvg-id="" tvg-name="Hub Premier 5 ⁴ᵏ" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Premier-5.png" group-title="10. Sports TV 2",Hub Premier 5 ⁴ᵏ
-https://livetvbox.live:443/live/Winston123/Winston123/148162.ts
+#EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="HUB PREMIER 01  " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 01  
+http://activefrance.net:80/UL33K17/SYC4T9D/324806
+#EXTINF:-1 tvg-id="Hub.Premier.2" tvg-name="HUB PREMIER 02 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 02 
+http://activefrance.net:80/UL33K17/SYC4T9D/324807
+#EXTINF:-1 tvg-id="Hub.Premier.3" tvg-name="HUB PREMIER 03 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 03 
+http://activefrance.net:80/UL33K17/SYC4T9D/324808
+#EXTINF:-1 tvg-id="Hub.Premier.4" tvg-name="HUB PREMIER 04 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 04 
+http://activefrance.net:80/UL33K17/SYC4T9D/324809
+#EXTINF:-1 tvg-id="Hub.Premier.5" tvg-name="HUB PREMIER 05 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 05 
+http://activefrance.net:80/UL33K17/SYC4T9D/324810
+#EXTINF:-1 tvg-id="Hub.Premier.6" tvg-name="HUB PREMIER 06 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 06 
+http://activefrance.net:80/UL33K17/SYC4T9D/324811
+#EXTINF:-1 tvg-id="Hub.Premier.7" tvg-name="HUB PREMIER 07 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 07 
+http://activefrance.net:80/UL33K17/SYC4T9D/324812
+#EXTINF:-1 tvg-id="Hub.Premier.8" tvg-name="HUB PREMIER 08 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 08 
+http://activefrance.net:80/UL33K17/SYC4T9D/324813
+#EXTINF:-1 tvg-id="Hub.Premier.9" tvg-name="HUB PREMIER 09 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 09 
+http://activefrance.net:80/UL33K17/SYC4T9D/324814
+#EXTINF:-1 tvg-id="Hub.Premier.10" tvg-name="HUB PREMIER 10 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/324815
+#EXTINF:-1 tvg-id="Hub.Premier.11" tvg-name="HUB PREMIER 11 " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="10. Sports TV 2",HUB PREMIER 11 
+http://activefrance.net:80/UL33K17/SYC4T9D/324816
 
 
 #EXTINF:-1 tvg-id="" tvg-name="HUB SPORTS 1" tvg-logo="http://go4.pw/ASIA/INDIAN/HUB SPORTS 5.png" group-title="10. Sports TV 2",HUB SPORTS 1
@@ -2335,6 +2347,8 @@ https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_on2_540&sid=dXS
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/131.0.0.0 Safari/537.36
 https://live-jp-kr130.kacooltoys.com/watch/live.m3u8?video=spotv_prime_540&sid=vs3q0KnoaggBafKcq0PCBjhXC7mRqtyFtkn54RON&secret=66d397ec1f0030b4ee7f4a63d109f4c6&time=1737314920|Referer=https://kakotv.com/
 
+#EXTINF:-1 tvg-id="fubosportsnetwork.us" tvg-name="US - FUBO SPORTS NETWORK" tvg-logo="http://go4.pw/AMERICA/USA/fubo-sports.png" group-title="10. Sports TV 2",FUBO SPORTS NETWORK
+http://activefrance.net:80/UL33K17/SYC4T9D/200924
 #EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 1" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 1
 http://activefrance.net:80/UL33K17/SYC4T9D/325613
 #EXTINF:-1 tvg-id="" tvg-name="FUBO SPORTS 2" tvg-logo="http://go4.pw/EUROPE/GERMANY/FUBO_BIG.png" group-title="10. Sports TV 2",FUBO SPORTS 2
@@ -2389,6 +2403,61 @@ http://activefrance.net:80/UL33K17/SYC4T9D/53751
 http://activefrance.net:80/UL33K17/SYC4T9D/53750
 #EXTINF:-1 tvg-id="k-sport4.al" tvg-name="K SPORT 4 HD" tvg-logo="http://go4.pw/ALBANIA/K4.png" group-title="10. Sports TV 2",K SPORT 4 HD
 http://activefrance.net:80/UL33K17/SYC4T9D/53749
+
+#EXTINF:-1 tvg-id="looksport.ro" tvg-name="RO - PRIMA SPORT 1 HD" tvg-logo="http://go4.pw/EUROPE/ROMANIA/PRIMA SPORT 1 HD.png" group-title="10. Sports TV 2",RO - PRIMA SPORT 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/68913
+#EXTINF:-1 tvg-id="" tvg-name="RO - PRIMA Sport2 HD" tvg-logo="http://go4.pw/EUROPE/ROMANIA/PRIMA Sport2 HD.png" group-title="10. Sports TV 2",RO - PRIMA Sport2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/816104
+#EXTINF:-1 tvg-id="" tvg-name="RO - PRIMA Sport3 HD" tvg-logo="http://go4.pw/EUROPE/ROMANIA/PRIMA Sport3 HD.png" group-title="10. Sports TV 2",RO - PRIMA Sport3 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/816105
+
+#EXTINF:-1 tvg-id="" tvg-name="UFC TV HD" tvg-logo="http://go4.pw/AMERICA/USA/UFC.png" group-title="10. Sports TV 2",UFC TV HD
+http://activefrance.net:80/UL33K17/SYC4T9D/71943
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="WWE NETWORK | HD" tvg-logo="http://go4.pw/AMERICA/USA/WWE.png" group-title="10. Sports TV 2",WWE NETWORK | HD
+http://activefrance.net:80/UL33K17/SYC4T9D/71942
+#EXTINF:-1 tvg-id="" tvg-name="WORLD FISHING NETWORK | HD" tvg-logo="http://go4.pw/AMERICA/USA/WORLDFISHINGNETWORK.png" group-title="10. Sports TV 2",WORLD FISHING NETWORK | HD
+http://activefrance.net:80/UL33K17/SYC4T9D/71975
+#EXTINF:-1 tvg-id="wwe.us" tvg-name="VIP - WWE SUPERSLAM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WWE.png" group-title="10. Sports TV 2",VIP - WWE SUPERSLAM UHD
+http://activefrance.net:80/UL33K17/SYC4T9D/711406
+
+
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport1.png" group-title="10. Sports TV 2",CANAL+ SPORT 1
+http://activefrance.net:80/UL33K17/SYC4T9D/194767
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="http://go4.pw/AFRICA/CANAL+/Canal+Sport2.png" group-title="10. Sports TV 2",CANAL+ SPORT 2
+http://activefrance.net:80/UL33K17/SYC4T9D/194766
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 3" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport3.png" group-title="10. Sports TV 2",CANAL+ SPORT 3
+http://activefrance.net:80/UL33K17/SYC4T9D/194765
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 4" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport4.png" group-title="10. Sports TV 2",CANAL+ SPORT 4
+http://activefrance.net:80/UL33K17/SYC4T9D/194764
+#EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 5" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport5.png" group-title="10. Sports TV 2",CANAL+ SPORT 5
+http://activefrance.net:80/UL33K17/SYC4T9D/194763
+
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 1 FHD" tvg-logo="http://go4.pw/germany/bluesport.png" group-title="10. Sports TV 2",BLUE SPORT 1 FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/498726
+#EXTINF:-1 tvg-id="" tvg-name="BLUE SPORT 2 FHD " tvg-logo="http://go4.pw/germany/bluesport.png" group-title="10. Sports TV 2",BLUE SPORT 2 FHD 
+http://activefrance.net:80/UL33K17/SYC4T9D/498725
+
+#EXTINF:-1 tvg-id="" tvg-name="LFC FHD" tvg-logo="http://go4.pw/UK/lfc.png" group-title="10. Sports TV 2",LFC FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/348275
+#EXTINF:-1 tvg-id="mutv.uk" tvg-name=" MUTV FHD" tvg-logo="http://go4.pw/UK/mut.png" group-title="10. Sports TV 2", MUTV FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/348278
+#EXTINF:-1 tvg-id="laligatv.uk" tvg-name="LA LIGA TV FHD" tvg-logo="http://go4.pw/EUROPE/SPAIN/laliga.png" group-title="10. Sports TV 2",LA LIGA TV FHD
+http://activefrance.net:80/UL33K17/SYC4T9D/912772
+#EXTINF:-1 tvg-id="beinsports1en.qa" tvg-name="BEIN SPORTS 1 ENGLISH HD" tvg-logo="http://go4.pw/bein/bein-sports-english-1.png" group-title="10. Sports TV 2",BEIN SPORTS 1 ENGLISH HD
+http://activefrance.net:80/UL33K17/SYC4T9D/348325
+#EXTINF:-1 tvg-id="beinsports2en.qa" tvg-name="BEIN SPORTS 2 ENGLISH HD" tvg-logo="http://go4.pw/bein/bein-sports-english-2.png" group-title="10. Sports TV 2",BEIN SPORTS 2 ENGLISH HD
+http://activefrance.net:80/UL33K17/SYC4T9D/575400
+#EXTINF:-1 tvg-id="92news.uk" tvg-name="PREMIER SPORTS 1 HD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="10. Sports TV 2",PREMIER SPORTS 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/17271
+#EXTINF:-1 tvg-id="premiersports2.uk" tvg-name="PREMIER SPORTS 2 HD" tvg-logo="http://go4.pw/EUROPE/UK/PREMIERSPORT-1.png" group-title="10. Sports TV 2",PREMIER SPORTS 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/266684
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 1 HD" tvg-logo="http://go4.pw/UK/VIAP.png" group-title="10. Sports TV 2",VIAPLAY 1 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/748421
+#EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 2 HD" tvg-logo="http://go4.pw/UK/VIAP.png" group-title="10. Sports TV 2",VIAPLAY 2 HD
+http://activefrance.net:80/UL33K17/SYC4T9D/748422
+
+
+
 
 
 
@@ -4828,6 +4897,62 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016cf0b533f
 #KODIPROP:inputstream.adaptive.license_key=https://sckuy12.kingtvpremium.workers.dev/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cc90ac43c0e/manifest.mpd
+
+
+==========================================LIVE EVENT======================================================
+
+
+
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 01 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT", OPTUS 01 
+http://activefrance.net:80/UL33K17/SYC4T9D/450713
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 02 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT", OPTUS 02 
+http://activefrance.net:80/UL33K17/SYC4T9D/450714
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 03 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT", OPTUS 03 
+http://activefrance.net:80/UL33K17/SYC4T9D/450715
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 04 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 04 
+http://activefrance.net:80/UL33K17/SYC4T9D/450716
+#EXTINF:-1 tvg-id="" tvg-name=" OPTUS 05" tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT", OPTUS 05
+http://activefrance.net:80/UL33K17/SYC4T9D/450717
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 06 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 06 
+http://activefrance.net:80/UL33K17/SYC4T9D/450718
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 07 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 07 
+http://activefrance.net:80/UL33K17/SYC4T9D/450719
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 08 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 08 
+http://activefrance.net:80/UL33K17/SYC4T9D/450720
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 09 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 09 
+http://activefrance.net:80/UL33K17/SYC4T9D/450721
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 10 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/450722
+#EXTINF:-1 tvg-id="" tvg-name="  OPTUS 11 " tvg-logo="http://go4.pw/UK/optus.png" group-title="14. LIVE EVENT",  OPTUS 11 
+http://activefrance.net:80/UL33K17/SYC4T9D/450723
+
+
+#EXTINF:-1 tvg-id="1.peac" tvg-name="PEACOCK EVENT 01  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 01  
+http://activefrance.net:80/UL33K17/SYC4T9D/311142
+#EXTINF:-1 tvg-id="2.peac" tvg-name="PEACOCK EVENT 02  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 02  
+http://activefrance.net:80/UL33K17/SYC4T9D/311143
+#EXTINF:-1 tvg-id="3.peac" tvg-name="PEACOCK EVENT 03   " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 03   
+http://activefrance.net:80/UL33K17/SYC4T9D/311144
+#EXTINF:-1 tvg-id="4.peac" tvg-name="PEACOCK EVENT 04  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 04  
+http://activefrance.net:80/UL33K17/SYC4T9D/311145
+#EXTINF:-1 tvg-id="5.peac" tvg-name="PEACOCK EVENT 05 HD  : " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 05 HD  : 
+http://activefrance.net:80/UL33K17/SYC4T9D/311146
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 06   " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 06   
+http://activefrance.net:80/UL33K17/SYC4T9D/311147
+#EXTINF:-1 tvg-id="7.peac" tvg-name="PEACOCK EVENT 07  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 07  
+http://activefrance.net:80/UL33K17/SYC4T9D/311148
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 08  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 08  
+http://activefrance.net:80/UL33K17/SYC4T9D/311149
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 09  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 09  
+http://activefrance.net:80/UL33K17/SYC4T9D/311150
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 10 " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 10 
+http://activefrance.net:80/UL33K17/SYC4T9D/311151
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 11  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 11  
+http://activefrance.net:80/UL33K17/SYC4T9D/311152
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 12 " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 12 
+http://activefrance.net:80/UL33K17/SYC4T9D/311153
+#EXTINF:-1 tvg-id="" tvg-name="PEACOCK EVENT 13  " tvg-logo="http://go4.pw/AMERICA/PEACOK.png" group-title="14. LIVE EVENT",PEACOCK EVENT 13  
+http://activefrance.net:80/UL33K17/SYC4T9D/311154
 
 
 
