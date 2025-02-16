@@ -2132,12 +2132,12 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name=" Astro Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8d68f28d23ef38bdfeecd26b7c613e3d.png" group-title="10. Sports TV 2", Astro Premier League
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157556
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/146068
 #EXTINF:-1 tvg-id="" tvg-name=" Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="10. Sports TV 2", Astro Premier League 2
-http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157557
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
 #EXTINF:-1 tvg-id="" tvg-name=" Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="10. Sports TV 2", Astro Grandstand
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
-#EXTINF:-1 tvg-id="" tvg-name=" Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="10. Sports TV 2", Astro Football
+#EXTINF:-1 tvg-id="" tvg-name=" Astro Football" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="10. Sports TV 2", Astro Football
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157558
 
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
