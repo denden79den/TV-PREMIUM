@@ -317,9 +317,9 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73613.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (No Acak)",ID: CNN INDONESIA 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162137
-#EXTINF:-1 tvg-id="iNewsTV" tvg-name="iNewsTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. Local TV (No Acak)",017. iNewsTV
+#EXTINF:-1 tvg-id="iNewsTV" tvg-name="iNewsTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. Local TV (No Acak)",iNewsTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
-#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. Local TV (No Acak)",018. SindoNews TV
+#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. Local TV (No Acak)",SindoNews TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165058
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (No Acak)",ID: BTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73614.ts
