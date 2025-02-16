@@ -2131,6 +2131,15 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/NBA.m3u8
 ===================================================Sports TV 2=======================================================
 
 
+#EXTINF:-1 tvg-id="" tvg-name=" Astro Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/8d68f28d23ef38bdfeecd26b7c613e3d.png" group-title="10. Sports TV 2", Astro Premier League
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157556
+#EXTINF:-1 tvg-id="" tvg-name=" Astro Premier League 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/7d0cb2ffdc9d756faa5b5e5825d8f9c4.png" group-title="10. Sports TV 2", Astro Premier League 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157557
+#EXTINF:-1 tvg-id="" tvg-name=" Astro Grandstand" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/c51712f19f8e63a52275fc6410b89b32.png" group-title="10. Sports TV 2", Astro Grandstand
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
+#EXTINF:-1 tvg-id="" tvg-name=" Astro Football" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2020-12/a24abde2dc683d551ebfae1f0820315c.png" group-title="10. Sports TV 2", Astro Football
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157558
+
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
 http://activefrance.net:80/UL33K17/SYC4T9D/438868
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-2.png" group-title="10. Sports TV 2", Now Sports 2  
@@ -2433,7 +2442,10 @@ http://activefrance.net:80/UL33K17/SYC4T9D/71975
 #EXTINF:-1 tvg-id="wwe.us" tvg-name="VIP - WWE SUPERSLAM UHD" tvg-logo="http://logo.protv.cc/picons-dino/logos/WWE.png" group-title="10. Sports TV 2",VIP - WWE SUPERSLAM UHD
 http://activefrance.net:80/UL33K17/SYC4T9D/711406
 
-
+#EXTINF:-1 tvg-id="" tvg-name=" Canal+ Foot" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-01/1ef307d2ff7e452d2d95f3d340717ed9.png" group-title="10. Sports TV 2", Canal+ Foot
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297372
+#EXTINF:-1 tvg-id="" tvg-name=" CANAL+ Premier League" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c3de2632d14e7fa3ab5145cb9e455c55.png" group-title="10. Sports TV 2", CANAL+ Premier League
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297425
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 1" tvg-logo="http://go4.pw/AFRICA/CANAL+/canal+sport1.png" group-title="10. Sports TV 2",CANAL+ SPORT 1
 http://activefrance.net:80/UL33K17/SYC4T9D/194767
 #EXTINF:-1 tvg-id="" tvg-name="CANAL+ SPORT 2" tvg-logo="http://go4.pw/AFRICA/CANAL+/Canal+Sport2.png" group-title="10. Sports TV 2",CANAL+ SPORT 2
@@ -2468,6 +2480,31 @@ http://activefrance.net:80/UL33K17/SYC4T9D/266684
 http://activefrance.net:80/UL33K17/SYC4T9D/748421
 #EXTINF:-1 tvg-id="" tvg-name="VIAPLAY 2 HD" tvg-logo="http://go4.pw/UK/VIAP.png" group-title="10. Sports TV 2",VIAPLAY 2 HD
 http://activefrance.net:80/UL33K17/SYC4T9D/748422
+#EXTINF:-1 tvg-id="" tvg-name=" FS1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/30569238d01ed9c7e8f50b4f61c70865.png" group-title="10. Sports TV 2", FS1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/756
+#EXTINF:-1 tvg-id="" tvg-name=" FS2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/856321c9d4796d595d69b69d276520c9.png" group-title="10. Sports TV 2", FS2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/757
+#EXTINF:-1 tvg-id="" tvg-name=" Sportsman Channel" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-07/4d3be2d2fe87b116a6880e896bf6f45e.png" group-title="10. Sports TV 2", Sportsman Channel
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/30847
+#EXTINF:-1 tvg-id="" tvg-name=" Stadium" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-08/f70621511670129bfd2d128584861d17.jpeg" group-title="10. Sports TV 2", Stadium
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/29657
+#EXTINF:-1 tvg-id="" tvg-name=" WWE" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/7aa56e010e1692d81998e1d89d270aa2.png" group-title="10. Sports TV 2", WWE
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2373
+#EXTINF:-1 tvg-id="" tvg-name=" WWE Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-01/5f8155f02f2a362c6530ca51263e739a.png" group-title="10. Sports TV 2", WWE Network
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/297333
+#EXTINF:-1 tvg-id="" tvg-name=" Yes Network" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/bd46af2bc793aca671bf0647dd212dd7.png" group-title="10. Sports TV 2", Yes Network
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/5519
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Sports Ten 1 (Sony Ten 1)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/f7ec94d2b4c2e3b83bda0bae7c00ebc6.png" group-title="10. Sports TV 2", Sony Sports Ten 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16622
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Sports Ten 2 (Sony Ten 2)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-06/66d71926201b36679fa69b5ad6fa8a7a.png" group-title="10. Sports TV 2", Sony Sports Ten 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16621
+#EXTINF:-1 tvg-id="" tvg-name=" Sony Sports Ten 3 (Sony Ten 3)" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-12/aeb289d5fd8b53e456a0f84e884a97ed.jpg" group-title="10. Sports TV 2", Sony Sports Ten 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/56191
+#EXTINF:-1 tvg-id="" tvg-name=" Star Sports Select 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2d7119865b2ca6df10a38de08a4d6644.png" group-title="10. Sports TV 2", Star Sports Select 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/82628
+#EXTINF:-1 tvg-id="" tvg-name=" Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="10. Sports TV 2", Star Sports Select 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16619
+
 
 
 
