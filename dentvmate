@@ -260,82 +260,82 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/584500
 
 
 ============================================================================================================================================================
-// 02. Local TV Backup
+// 02. Local TV No Acak
 ============================================================================================================================================================
 
 
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV (Backup)",ID: RCTI
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV (No Acak)",ID: RCTI
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73606.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV (Backup)",ID: RCTI 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: RCTI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV (No Acak)",ID: RCTI 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157591
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. Local TV (Backup)",ID: MNCTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. Local TV (No Acak)",ID: MNCTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73616.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. Local TV (Backup)",ID: MNCTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: MNC TV HD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/69/MNCTV_logo.png" group-title="02. Local TV (No Acak)",ID: MNCTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. Local TV (Backup)",ID: GTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. Local TV (No Acak)",ID: GTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73619.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. Local TV (Backup)",ID: GTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: GTV HD" tvg-logo="https://merryriana.com/assets/images/template/sponsor/globaltv.png" group-title="02. Local TV (No Acak)",ID: GTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157578
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. Local TV (Backup)",ID: SCTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. Local TV (No Acak)",ID: SCTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73607.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. Local TV (Backup)",ID: SCTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: SCTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png" group-title="02. Local TV (No Acak)",ID: SCTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162141
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. Local TV (Backup)",ID: INDOSIAR
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. Local TV (No Acak)",ID: INDOSIAR
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73617.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. Local TV (Backup)",ID: INDOSIAR 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png" group-title="02. Local TV (No Acak)",ID: INDOSIAR 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
-#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. Local TV (Backup)",Moji TV
+#EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. Local TV (No Acak)",Moji TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV (Backup)",ID: TRANS7HD
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV (No Acak)",ID: TRANS7HD
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73609.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV (Backup)",ID: TRANS7HD 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS7 HD" tvg-logo="https://www.lowongankerjaterupdate.com/wp-content/uploads/2022/12/LOGO-Trans-7.png" group-title="02. Local TV (No Acak)",ID: TRANS7HD 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162502
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV (Backup)",ID: TRANSTVHD
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV (No Acak)",ID: TRANSTVHD
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73608.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV (Backup)",ID: TRANSTVHD
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TRANS TV HD" tvg-logo="https://www.transtv.co.id/layout/new/src/images/logo/logowhite.png" group-title="02. Local TV (No Acak)",ID: TRANSTVHD
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162503
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV (Backup)",ID: NET TV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV (No Acak)",ID: NET TV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73615.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV (Backup)",ID: NET TV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NETTV HD" tvg-logo="https://assets.kompasiana.com/items/album/2017/05/21/logo1-59219cbc129373a15b6c75bd.png?t=o&v=740&x=416" group-title="02. Local TV (No Acak)",ID: NET TV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/80292
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. Local TV (Backup)",ID: ANTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. Local TV (No Acak)",ID: ANTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73618.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. Local TV (Backup)",ID: ANTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: ANTV HD" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png group-title="02. Local TV (No Acak)",ID: ANTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165072
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. Local TV (Backup)",ID: TV ONE
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. Local TV (No Acak)",ID: TV ONE
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73610.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. Local TV (Backup)",ID: TV ONE 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVONE HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVOne.png" group-title="02. Local TV (No Acak)",ID: TV ONE 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/266808
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. Local TV (Backup)",ID: METROTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. Local TV (No Acak)",ID: METROTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73611.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. Local TV (Backup)",ID: METROTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: METRO TV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MetroTV.png" group-title="02. Local TV (No Acak)",ID: METROTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165059
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: KOMPAS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. Local TV (Backup)",ID: KOMPASTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: KOMPAS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/KompasTV.png" group-title="02. Local TV (No Acak)",ID: KOMPASTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165060
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (Backup)",ID: CNN INDONESIA
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (No Acak)",ID: CNN INDONESIA
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73613.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (Backup)",ID: CNN INDONESIA 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: CNN HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/CNN.png" group-title="02. Local TV (No Acak)",ID: CNN INDONESIA 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162137
-#EXTINF:-1 tvg-id="iNewsTV" tvg-name="iNewsTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. Local TV (Backup)",017. iNewsTV
+#EXTINF:-1 tvg-id="iNewsTV" tvg-name="iNewsTV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/InewsTV.png" group-title="02. Local TV (No Acak)",017. iNewsTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157579
-#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. Local TV (Backup)",018. SindoNews TV
+#EXTINF:-1 tvg-id="SindoNews TV" tvg-name="SindoNews TV" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/SindoNewsTV.png" group-title="02. Local TV (No Acak)",018. SindoNews TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165058
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (Backup)",ID: BTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (No Acak)",ID: BTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73614.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (Backup)",ID: BTV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: BTV HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/BTV.png" group-title="02. Local TV (No Acak)",ID: BTV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162513
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. Local TV (Backup)",ID: TVRI
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. Local TV (No Acak)",ID: TVRI
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73620.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. Local TV (Backup)",ID: TVRI 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: TVRI HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/TVRI.png" group-title="02. Local TV (No Acak)",ID: TVRI 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162504
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. Local TV (Backup)",ID: JTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. Local TV (No Acak)",ID: JTV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73627.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. Local TV (Backup)",ID: JTV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: JTV HD" tvg-logo="http://go4.pw/INDONESIA/jtv.png" group-title="02. Local TV (No Acak)",ID: JTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165091
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV (Backup)",ID: NUSANTARATV
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV (No Acak)",ID: NUSANTARATV
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/34721.ts
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV (Backup)",ID: NUSANTARATV 2
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: NUSANTARA TV HD" tvg-logo="https://i.ibb.co.com/s5bxYq5/nusantara-tv-2.png" group-title="02. Local TV (No Acak)",ID: NUSANTARATV 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166410
 
 #EXTINF:-1 group-title="02. Local TV (NASIONAL)" tvg-logo="https://blogger.googleusercontent.com/img/a/AVvXsEjxw6WRd9xYbW32DdRtj_Ss1zxwzbZdqoe_mECGfdY7kdD56GphocBouJKs3yAUt8yg1rWI-0eHCgCdYYX8AQOqH0-Hz3egnZ_Tc5tiGl223c5a6DLSYpuumq5satujOP_0Y7Dyron_DPfs15Rw_E3Oe9UJ3Fvv2sc8YTv3gqig7p3RboYEfkOG4aV5QbE", MNCTV 
