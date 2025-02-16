@@ -2504,7 +2504,24 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/56191
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/82628
 #EXTINF:-1 tvg-id="" tvg-name=" Star Sports Select 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c82b1ed84b02cbae99a2a741355dd041.png" group-title="10. Sports TV 2", Star Sports Select 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/16619
-
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV +" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/22ccb6d1c637d9b6a63d83100af972f3.png" group-title="10. Sports TV 2", SPORT TV +
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1481
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/10be017cdc71bdd0663e43b50d2926b6.png" group-title="10. Sports TV 2", SPORT TV 1
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1483
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 2" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/66ccdb4bc6b73efa2357ab9984b31af4.png" group-title="10. Sports TV 2", SPORT TV 2
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1486
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 3" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/d77db9165e33a177ada687f34441b6d5.png" group-title="10. Sports TV 2", SPORT TV 3
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1489
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 4" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/3d6b227803c54e2924e81ead82561df7.png" group-title="10. Sports TV 2", SPORT TV 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1492
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 5" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/85b1b813eeaec60854f25192a7d9519c.png" group-title="10. Sports TV 2", SPORT TV 5
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1495
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 6" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-11/adc5a80016d265446beedb25b16f1610.png" group-title="10. Sports TV 2", SPORT TV 6
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/281487
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV 7" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2024-08/fb8e8de4a84598487721068559d42f2c.svg" group-title="10. Sports TV 2", SPORT TV 7
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/305284
+#EXTINF:-1 tvg-id="" tvg-name=" SPORT TV NBA" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-02/45d618d3296d49449610eccddda0f2b3.png" group-title="10. Sports TV 2", SPORT TV NBA
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/2051
 
 
 
