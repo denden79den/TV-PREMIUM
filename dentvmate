@@ -1531,28 +1531,17 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/ArenaBola2.m
 
 
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague1.png" group-title="09. Sports TV", 124. Astro.PL.1
-http://iptv12k.com:35461/654321/123456/7990
-
-
-
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1722
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 2.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPremierLeague2.png" group-title="09. Sports TV",125. Astro.P.L.2
-http://iptv12k.com:35461/654321/123456/7988
-
-
-
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1721
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 3.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroGrandstand.png" group-title="09. Sports TV",126. Astro Grandstand
-http://m1-max.dns-speedy.com:80/529C1C/7446D7/656972
-
-
-
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1720
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="09. Sports TV",127. Astro Football
-http://iptv12k.com:35461/654321/123456/969
-
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/1719
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="09. Sports TV",128. Astro Sport Plus
-https://livetvbox.live:443/live/Winston123/Winston123/5483.ts
-
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/71079
 #EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="09. Sports TV",129. Astro Badminton
-https://livetvbox.live:443/live/Winston123/Winston123/5482.ts
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/71105
 
 #EXTINF:-1 tvg-id="WSports" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/WSports.png" group-title="09. Sports TV",130. Astro WSports
 #EXTVLCOPT:http-user-agent=ExoPlayerLib/2.19.1 Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -2139,6 +2128,8 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306491
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/306492
 #EXTINF:-1 tvg-id="" tvg-name=" Astro Football" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroFootball.png" group-title="10. Sports TV 2", Astro Football
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157558
+#EXTINF:-1 tvg-id="ASTRO SUPERSPORT 4.my" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium2.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="10. Sports TV 2",Astro Badminton
+http://newlife3.wanicelife.com:8880/DAALM2649/VMzahzpF6W/71105
 
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-1.png" group-title="10. Sports TV 2", Now Sports 1  
 http://activefrance.net:80/UL33K17/SYC4T9D/438868
