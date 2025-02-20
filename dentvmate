@@ -2756,6 +2756,143 @@ http://b1g.ooo:80/96114/96114green/21037
 http://b1g.ooo:80/96114/96114green/11969
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSportsUltimate.uk" tvg-name="TNT Sports Ultimate 4K HDR" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" group-title="10. Sports TV 3",TNT Sports Ultimate 4K HDR
+http://b1g.ooo:80/96114/96114green/697067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 50FPS
+http://b1g.ooo:80/96114/96114green/697057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 HD
+http://b1g.ooo:80/96114/96114green/697061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 50FPS
+http://b1g.ooo:80/96114/96114green/697056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 HD
+http://b1g.ooo:80/96114/96114green/697059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 50FPS
+http://b1g.ooo:80/96114/96114green/697055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 HD
+http://b1g.ooo:80/96114/96114green/697058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="10. Sports TV 3",TNT Sports 4 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="10. Sports TV 3",TNT Sports 4 HD
+http://b1g.ooo:80/96114/96114green/697060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" group-title="10. Sports TV 3",TNT Sports 5 HD
+http://b1g.ooo:80/96114/96114green/697062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports6.uk" tvg-name="TNT Sports 6 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-6.png" group-title="10. Sports TV 3",TNT Sports 6 HD
+http://b1g.ooo:80/96114/96114green/697063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports7.uk" tvg-name="TNT Sports 7 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-7.png" group-title="10. Sports TV 3",TNT Sports 7 HD
+http://b1g.ooo:80/96114/96114green/697064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports8.uk" tvg-name="TNT Sports 8 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-8.png" group-title="10. Sports TV 3",TNT Sports 8 HD
+http://b1g.ooo:80/96114/96114green/697065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports9.uk" tvg-name="TNT Sports 9 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" group-title="10. Sports TV 3",TNT Sports 9 HD
+http://b1g.ooo:80/96114/96114green/697066
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSportsUltimate.uk" tvg-name="TNT Sports Ultimate 4K HDR" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" group-title="10. Sports TV 3",TNT Sports Ultimate 4K HDR
+http://b1g.ooo:80/96114/96114green/697067
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 50FPS
+http://b1g.ooo:80/96114/96114green/697057
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697054
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="10. Sports TV 3",TNT Sports 1 HD
+http://b1g.ooo:80/96114/96114green/697061
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 50FPS
+http://b1g.ooo:80/96114/96114green/697056
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697053
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="10. Sports TV 3",TNT Sports 2 HD
+http://b1g.ooo:80/96114/96114green/697059
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 50FPS
+http://b1g.ooo:80/96114/96114green/697055
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697052
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="10. Sports TV 3",TNT Sports 3 HD
+http://b1g.ooo:80/96114/96114green/697058
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="10. Sports TV 3",TNT Sports 4 FHD HEVC
+http://b1g.ooo:80/96114/96114green/697051
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="10. Sports TV 3",TNT Sports 4 HD
+http://b1g.ooo:80/96114/96114green/697060
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" group-title="10. Sports TV 3",TNT Sports 5 HD
+http://b1g.ooo:80/96114/96114green/697062
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports6.uk" tvg-name="TNT Sports 6 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-6.png" group-title="10. Sports TV 3",TNT Sports 6 HD
+http://b1g.ooo:80/96114/96114green/697063
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports7.uk" tvg-name="TNT Sports 7 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-7.png" group-title="10. Sports TV 3",TNT Sports 7 HD
+http://b1g.ooo:80/96114/96114green/697064
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports8.uk" tvg-name="TNT Sports 8 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-8.png" group-title="10. Sports TV 3",TNT Sports 8 HD
+http://b1g.ooo:80/96114/96114green/697065
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports9.uk" tvg-name="TNT Sports 9 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" group-title="10. Sports TV 3",TNT Sports 9 HD
+http://b1g.ooo:80/96114/96114green/697066
+
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="TS Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="10. Sports TV 3",TS Star Sports Select 1 FHD
+http://b1g.ooo:80/96114/96114green/8008
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselect1hd.in" tvg-name="D2H Star Sports Select 1 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select_1hd.jpg" group-title="10. Sports TV 3",D2H Star Sports Select 1 FHD
+http://b1g.ooo:80/96114/96114green/161938
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="TS Star Sports Select 2 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg" group-title="10. Sports TV 3",TS Star Sports Select 2 FHD
+http://b1g.ooo:80/96114/96114green/7886
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="starsportsselecthd2.in" tvg-name="D2H Star Sports Select 2 FHD" tvg-logo="http://b1g.fun/logos2/star_sports_select2.jpg" group-title="10. Sports TV 3",D2H Star Sports Select 2 FHD
+http://b1g.ooo:80/96114/96114green/188294
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="TS Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="10. Sports TV 3",TS Sony Ten 1 FHD
+http://b1g.ooo:80/96114/96114green/7885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="D2H Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="10. Sports TV 3",D2H Sony Ten 1 FHD
+http://b1g.ooo:80/96114/96114green/161922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="TS Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="10. Sports TV 3",TS Sony Ten 2 FHD
+http://b1g.ooo:80/96114/96114green/16119
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="D2H Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="10. Sports TV 3",D2H Sony Ten 2 FHD
+http://b1g.ooo:80/96114/96114green/161923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="TS Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="10. Sports TV 3",TS Sony Ten 3 FHD
+http://b1g.ooo:80/96114/96114green/16120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="D2H Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="10. Sports TV 3",D2H Sony Ten 3 FHD
+http://b1g.ooo:80/96114/96114green/161924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 3" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="10. Sports TV 3",TS Sony Sports Ten 3
+http://b1g.ooo:80/96114/96114green/865913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Ten 4 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="10. Sports TV 3",TS Sony Ten 4 FHD
+http://b1g.ooo:80/96114/96114green/865914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Ten 4" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="10. Sports TV 3",TS Sony Ten 4
+http://b1g.ooo:80/96114/96114green/865917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="TS Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="10. Sports TV 3",TS Sony Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/9085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="D2H Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="10. Sports TV 3",D2H Sony Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/161921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="D2H Sony Ten 5 Hd" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="10. Sports TV 3",D2H Sony Ten 5 Hd
+http://b1g.ooo:80/96114/96114green/689429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 5 FHD" tvg-logo="" group-title="10. Sports TV 3",Sony Sports Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/865916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sony Sports Ten 5" tvg-logo="" group-title="10. Sports TV 3",Sony Sports Ten 5
+http://b1g.ooo:80/96114/96114green/865915
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="TS Sports 18 1 FHD" tvg-logo="http://b1g.fun/logos2/sports18.jpg" group-title="10. Sports TV 3",Sports 18 1 FHD
+http://b1g.ooo:80/96114/96114green/415465
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports FHD" tvg-logo="http://b1g.fun/logos2/ten_sports.jpg" group-title="10. Sports TV 3",Ten Sports FHD
+http://b1g.ooo:80/96114/96114green/7972
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports HD" tvg-logo="http://b1g.fun/logos2/ten_sports.jpg" group-title="10. Sports TV 3",Ten Sports HD
+http://b1g.ooo:80/96114/96114green/239424
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="True Premiere Football 1 HD" tvg-logo="" group-title="10. Sports TV 3",True Premiere Football 1 HD
+http://b1g.ooo:80/96114/96114green/732431
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="True Premiere Football 2" tvg-logo="" group-title="10. Sports TV 3",True Premiere Football 2
+http://b1g.ooo:80/96114/96114green/732430
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="True Premiere Football 3 HD" tvg-logo="" group-title="10. Sports TV 3",True Premiere Football 3 HD
+http://b1g.ooo:80/96114/96114green/732429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="True Premiere Football 4 HD" tvg-logo="" group-title="10. Sports TV 3",True Premiere Football 4 HD
+http://b1g.ooo:80/96114/96114green/732428
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="True Premiere Football 5 HD" tvg-logo="" group-title="10. Sports TV 3",True Premiere Football 5 HD
+http://b1g.ooo:80/96114/96114green/732427
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="beIN Sports 1" tvg-logo="" group-title="10. Sports TV 3",beIN Sports 1
+http://b1g.ooo:80/96114/96114green/732426
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="beIN Sports 2 HD" tvg-logo="" group-title="10. Sports TV 3",beIN Sports 2 HD
+http://b1g.ooo:80/96114/96114green/732425
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="beIN Sports 2" tvg-logo="" group-title="10. Sports TV 3",beIN Sports 2
+http://b1g.ooo:80/96114/96114green/732424
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="beIN Sports 3 HD" tvg-logo="" group-title="10. Sports TV 3",beIN Sports 3 HD
+http://b1g.ooo:80/96114/96114green/732423
+
+
 
 
 ====================================================HIBURAN 24/7=============================================================
