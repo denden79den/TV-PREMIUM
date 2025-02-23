@@ -575,8 +575,7 @@ https://play.accolamedia.id/accola/maleo.stream/playlist.m3u8
 =====================================FILM INDONESIA=======================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="Bioskop Indonesia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/c160471d97eadb4d67e82e6915754e96.png" group-title="07. FILM | INDONESIA",Bioskop Indonesia
-https://mantul.biz.id:443/inetwork/gayanet12/243.ts
-
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264801
 
 #EXTINF:-1 tvg-id="" tvg-name="CITRA DRAMA" tvg-logo="https://images.indihometv.com/logo_cdrama_ver1.png" group-title="07. FILM | INDONESIA",Citra Drama
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -604,12 +603,8 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 
-#EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="07. FILM | INDONESIA",VISION PRIME HD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
-
 #EXTINF:-1 tvg-id="" tvg-name="VISION PRIME" tvg-logo="http://go4.pw/INDONESIA/VISION_PRIME.png" group-title="07. FILM | INDONESIA",VISION PRIME
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
- 
 
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/hh/hbo_my.png" group-title="08. FILM | HBO",HBO
 http://iptv12k.com:35461/654321/123456/2121
