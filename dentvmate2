@@ -3684,6 +3684,29 @@ https://op-group1-swiftservehd-1.dens.tv/h/h91/index.m3u8
 //Collected by @mimipipi22 menampilkan playlist >>> INDIHOME
 //========================================================================
 
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/4h24ykirm05ua2wqencj6/Transtv-hometv.png?rlkey=5mtjlavl9u7kf120titf01trh&dl=0" group-title="14. VIP | INDIHOME",TRANS TV
+https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
+
+#EXTINF:-1  tvg-logo="https://dl.dropbox.com/scl/fi/muzopp7vxrzfjy84czt39/trans7.png?rlkey=dx7dgobfx7rb95ol1w163ac88&dl=0" group-title="14. VIP | INDIHOME",TRANS 7
+https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-id="" tvg-logo="https://dl.dropbox.com/scl/fi/56dlz8bncke07134ez0fk/Tvone-hometv.png?rlkey=z8tvu08dgjbwz72s4oy8n9wck&dl=0" group-title="14. VIP | INDIHOME"",TVONE
+https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
+
+#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR
+https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
+
+#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", MOJI
+https://streaming.indihometv.com/atm/DASH/moji/manifest.mpd
+
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="14. VIP | INDIHOME",Allplay Ent
+https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
+
+#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
+#EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
+https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
+
 #EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://images.indihometv.com/logo_hitsnow_ver1.png",HITS NOW
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
