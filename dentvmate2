@@ -3727,17 +3727,6 @@ https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="14. VIP | INDIHOME",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
 
-
-#EXTINF:-1 group-title="14. VIP | INDIHOME"  tvg-logo="https://i.ibb.co/60xH5KT/Spotv-1-hometv.jpg",SPOTV
-https://streaming.indihometv.com/atm/DASH/beib1/index.m3u8
-#EXTINF:-1 group-title="14. VIP | INDIHOME"  tvg-logo="https://i.ibb.co/85XFV75/Spotv-2-hometv.jpg"",SPOTV 2
-https://streaming.indihometv.com/atm/DASH/beib2/index.m3u8
-
-
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
-#EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="14. VIP | INDIHOME",Allplay Ent
-https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
-
 #EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-id="MTATV.id" tvg-logo="https://iptv.urfan.web.id/logo/mtatv.png",MTA TV
 #EXTVLCOPT:http-user-agent=IndiHomeTV/8.7.12 (Linux;Android 15.0.0;) ExoPlayerLib/2.19.1
 https://streaming.indihometv.com/atm/DASH/mtatv/manifest.mpd
