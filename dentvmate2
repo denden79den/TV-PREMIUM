@@ -3696,9 +3696,6 @@ https://streaming.indihometv.com/atm/DASH/tvone/manifest.mpd
 #EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", INDOSIAR
 https://streaming.indihometv.com/atm/DASH/indosiar/manifest.mpd
 
-#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://play-gachor.my.id/logo/htv2/lokal/indosiar.png", MOJI
-https://streaming.indihometv.com/atm/DASH/moji/manifest.mpd
-
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="14. VIP | INDIHOME",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
