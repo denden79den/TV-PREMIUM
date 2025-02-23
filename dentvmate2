@@ -3813,7 +3813,7 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052690
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",104. SPOTV
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 1
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3822,7 +3822,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",105. SPOTV 2
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_428.png",SPOTV 2
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3831,20 +3831,20 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.m
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",106. Sportstars 1
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://www.mncvision.id/userfiles/image/channel/channel_102.png",Sportstars 1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd|Referer=https://www.visionplus.id/
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/sportstars2.png",107. Sportstars 2
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/sportstars2.png",Sportstars 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
 https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd|Referer=https://www.visionplus.id/
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/sportstars3.png",107. Sportstars 3
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="http://x1.cdn.broiptv.com/img/sportstars3.png",Sportstars 3
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://drmvplus.h3ll0.workers.dev/?no=114&type=drm
 #EXTVLCOPT:http-referrer=https://visionplus.id/
@@ -3852,7 +3852,7 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSpor
 https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
 
 
-#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="15. SPORTS | INDONESIA",108. Soccer Channel
+#EXTINF:0 tvg-id="" tvg-name="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6a/SoccerChannel2020.png" group-title="15. SPORTS | INDONESIA",Soccer Channel
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
 #KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MTI3MTQzMjItYjdkNi0zNGVkLThkZjEtNDVkOWFkNDUwZDJh
 #EXTVLCOPT:http-referrer=https://visionplus.id
@@ -3860,7 +3860,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png",109. ChampionsTV1
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_1.png",ChampionsTV1
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -3868,7 +3868,7 @@ https://dsgtq5sngxkde.cloudfront.net/live/eds/rcti-soccerchannel-hd/sa_dash/rcti
 https://video.jasoncreak8.workers.dev/play.mpd?id=17938&type=dash
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png",110. ChampionsTV2
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_2.png",ChampionsTV2
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -3877,7 +3877,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6686&type=dash
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png",111. ChampionsTV3
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_3.png",ChampionsTV3
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha 
@@ -3887,7 +3887,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_5.png",112. ChampionsTV5
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_5.png",ChampionsTV5
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -3896,7 +3896,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=6786&type=dash
 https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash 
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_6.png",113. ChampionsTV6
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Champions_TV_6.png",ChampionsTV6
 #EXTVLCOPT:http-user-agent=VidioPlayer/6.41.11 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
@@ -3904,7 +3904,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9182&type=dash
 #KODIPROP:inputstream.adaptive.license_key=https://video.jasoncreak8.workers.dev/play?id=9183&type=drm 
 https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",114. Bein Sports 1
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID1.png",Bein Sports 1
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3912,7 +3912,7 @@ https://video.jasoncreak8.workers.dev/play.mpd?id=9183&type=dash
 #https://cempedak-cdn-fly.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd|referer=https://www.visionplus.id/
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",115. Bein Sports 2
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID2.png",Bein Sports 2
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -3921,7 +3921,7 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN01/sa_dash_vmx/BEIN01.mpd
 https://cempedak-live-cdn.mncnow.id/live/eds/BEIN02/sa_dash_vmx/BEIN02.mpd
 
 
-#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",116. Bein Sports 3
+#EXTINF:-1 group-title="15. SPORTS | INDONESIA" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein.ID3.png",Bein Sports 3
 ##EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
