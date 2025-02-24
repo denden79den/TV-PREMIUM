@@ -3735,6 +3735,9 @@ https://streaming.indihometv.com/atm/DASH/KOMPAS_TV/manifest.mpd
 #EXTINF:-1 tvg-id="METRO TV - [Channel 116].id" tvg-name="METRO TV" tvg-logo="https://images.indihometv.com/logo_metrotv_big1.png" group-title="14. VIP | INDIHOME", 13. METRO TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/METRO_TV/manifest.mpd
 
+#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-id="mentaritv.id" tvg-logo="https://i.postimg.cc/pTypkfGy/mentari.png",14. MENTARI TV
+https://cdn08jtedge.indihometv.com/dassdvr/134/mentaritv/manifest.mpd
+
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/assets/ALLPLAY-HD-OTT-88.png" group-title="14. VIP | INDIHOME",Allplay Ent
 https://streaming.indihometv.com/atm/DASH/useeprime/manifest.mpd
