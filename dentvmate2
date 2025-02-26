@@ -629,6 +629,21 @@ http://iptv12k.com:35461/654321/123456/1888
 #EXTINF:-1  tvg-logo="https://www.lyngsat-logo.com/logo/tv/cc/cinemax_asia.png" group-title="08. FILM | HBO",Cinemax
 http://iptv12k.com:35461/654321/123456/2114
 
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop
+https://mantul.biz.id:443/user010223/user010223/242
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 2
+https://mantul.biz.id:443/user010223/user010223/1018.ts
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 3
+https://mantul.biz.id:443/user010223/user010223/1092
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 4
+https://mantul.biz.id:443/user010223/user010223/13924
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 5
+https://mantul.biz.id:443/user010223/user010223/27431
+#EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 6
+https://mantul.biz.id:443/user010223/user010223/28138.ts
+
+
+
 
 #EXTINF:-1 tvg-id="Cinemachi" tvg-name="Cinemachi" tvg-logo="https://www.mncvision.id/userfiles/image/channel/Cinemachi.png" group-title="09. FILM | BOX OFFICE",Cinemchi
 #KODIPROP:inputstream.adaptive.license_type=clearkey
