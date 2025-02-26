@@ -178,7 +178,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/5/4028c68572841ba301729cd58bc
 
 #EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV",019. RCTI Live
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1  Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://mantul.biz.id:443/inetwork/gayanet12/4906
+https://mantul.biz.id:443/user010223/user010223/4906
 
 #EXTINF:-1  tvg-id="RCTI - [Channel 80].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/RCTIlive.png" group-title="02. Local TV",019. RCTI Live 2
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -229,7 +229,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c685651d7bcc01651f0b6d2
 #EXTINF:-1  tvg-id="SCTV" tvg-name="SCTV" group-title="02. Local TV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/sctv-large.png",025. ScTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1 
-https://mantul.biz.id:443/inetwork/gayanet12/432
+https://mantul.biz.id:443/user010223/user010223/432
 
 
 #EXTINF:-1 tvg-id="Indosiar.id" tvg-name="Indosiar" group-title="02. Local TV" tvg-logo="https://iconape.com/wp-content/files/ok/285361/png/indosiar-logo.png",026. Indosiar
@@ -237,7 +237,7 @@ https://mantul.biz.id:443/inetwork/gayanet12/432
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 
 #EXTINF:-1 tvg-url="" tvg-id="MOJI" tvg-name="Moji" tvg-logo="https://wikiwandv2-19431.kxcdn.com/_next/image?url=https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/Moji_blue.svg/langid-640px-Moji_blue.svg.png&w=640&q=50" group-title="02. Local TV",027. Moji TV
-https://mantul.biz.id:443/inetwork/gayanet12/8251
+https://mantul.biz.id:443/user010223/user010223/8251
 
 #EXTINF:-1 tvg-name="" tvg-id="ANTV" tvg-logo="https://d290ny10omyv12.cloudfront.net/images/antv-large.png" group-title="02. Local TV",028. AnTv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
@@ -885,17 +885,17 @@ https://kbsworld-ott.akamaized.net/hls/live/2002341/kbsworld/01.m3u8
 https://atemecdnbalancer-voe.sysln.id/live/eds/CitraEntertainmentHD/mpd/CitraEntertainmentHD.mpd
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop
-https://mantul.biz.id:443/inetwork/gayanet12/242
+https://mantul.biz.id:443/user010223/user010223/242
 #EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop 2
-https://mantul.biz.id:443/inetwork/gayanet12/1018.ts
+https://mantul.biz.id:443/user010223/user010223/1018.ts
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop 3
-https://mantul.biz.id:443/inetwork/gayanet12/1092
+https://mantul.biz.id:443/user010223/user010223/1092
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop 4
-https://mantul.biz.id:443/inetwork/gayanet12/13924
+https://mantul.biz.id:443/user010223/user010223/13924
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop 5
-https://mantul.biz.id:443/inetwork/gayanet12/27431
+https://mantul.biz.id:443/user010223/user010223/27431
 #EXTINF:-1 tvg-id="" tvg-name="Etv Bioskop 06" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="04. Movie Box Office",079. Etv Bioskop 6
-https://mantul.biz.id:443/inetwork/gayanet12/28138.ts
+https://mantul.biz.id:443/user010223/user010223/28138.ts
 
 
 
@@ -3163,25 +3163,25 @@ http://b1g.ooo:80/96114/96114green/732423
 ====================================================HIBURAN 24/7=============================================================
 
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Warkop DKI" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Warkop DKI
-https://mantul.biz.id:443/inetwork/gayanet12/21250.ts
+https://mantul.biz.id:443/user010223/user010223/21250.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Angry Birds Toons" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Angry Birds Toons
-https://mantul.biz.id:443/inetwork/gayanet12/21869.ts
+https://mantul.biz.id:443/user010223/user010223/21869.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 BabyBus Indonesia" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",BabyBus Indonesia
-https://mantul.biz.id:443/inetwork/gayanet12/25349.ts
+https://mantul.biz.id:443/user010223/user010223/25349.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Donald Duck's" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Donald Duck's
-https://mantul.biz.id:443/inetwork/gayanet12/20435.ts
+https://mantul.biz.id:443/user010223/user010223/20435.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Doraemon" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Doraemon
-https://mantul.biz.id:443/inetwork/gayanet12/20164.ts
+https://mantul.biz.id:443/user010223/user010223/20164.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Just For Laughs" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Just For Laughs
-https://mantul.biz.id:443/inetwork/gayanet12/20572.ts
+https://mantul.biz.id:443/user010223/user010223/20572.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mr Bean Cartoon" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Mr Bean Cartoon
-https://mantul.biz.id:443/inetwork/gayanet12/20396.ts
+https://mantul.biz.id:443/user010223/user010223/20396.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Mr. Bean Classic" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Mr. Bean Classic
-https://mantul.biz.id:443/inetwork/gayanet12/21896.ts
+https://mantul.biz.id:443/user010223/user010223/21896.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Tom And Jerry" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Tom And Jerry
-https://mantul.biz.id:443/inetwork/gayanet12/20397.ts
+https://mantul.biz.id:443/user010223/user010223/20397.ts
 #EXTINF:-1 tvg-id="" tvg-name="24/7 Upin Ipin" tvg-logo="https://i.ibb.co.com/xjffcn3/24JAM.png" group-title="11. Hiburan 24/7",Upin Ipin
-https://mantul.biz.id:443/inetwork/gayanet12/19132.ts
+https://mantul.biz.id:443/user010223/user010223/19132.ts
 
 
 =========================================================Vision+===============================================
