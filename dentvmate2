@@ -5838,4 +5838,24 @@ http://b1g.ooo:80/96114/96114green/732424
 http://b1g.ooo:80/96114/96114green/732423
 
 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-1.png" group-title="SPORTS | SUPERSPORTS",MY| ASTRO SUPERSPORTS 1 HD [SP]
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=571245&extension=ts&play_token=lHARUUwvYP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-2.png" group-title="SPORTS | SUPERSPORTS",MY| ASTRO SUPERSPORTS 2 HD [SP]
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=571248&extension=ts&play_token=7q1bn5eiJf
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-3.png" group-title="SPORTS | SUPERSPORTS",MY| ASTRO SUPERSPORTS 3 HD [SP]
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=571247&extension=ts&play_token=r6H5QmsXHd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/logos/ASTRO-SUPERSPORTS-4.png" group-title="SPORTS | SUPERSPORTS",MY| ASTRO SUPERSPORTS 4 HD [SP]
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=571246&extension=ts&play_token=XGA8IFhGIO
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FUBO-SPORTS-NETWORK.jpg" group-title="SPORTS | SUPERSPORTS",US| FUBO SPORTS NETWORK HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=91895&extension=ts&play_token=o287dhnyHd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FUBO-SPORTS-TV.jpeg" group-title="SPORTS | SUPERSPORTS",US| FUBO SPORTS 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=738902&extension=ts&play_token=ItJ0QJeS1K
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FUBO-SPORTS-TV.jpeg" group-title="SPORTS | SUPERSPORTS",US| FUBO SPORTS 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=738901&extension=ts&play_token=XKlHSQYQkr
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FUBO-SPORTS-TV.jpeg" group-title="SPORTS | SUPERSPORTS",US| FUBO SPORTS 4 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=738899&extension=ts&play_token=2YneJjC9sh
+
+
 
