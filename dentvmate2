@@ -3780,7 +3780,7 @@ https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="14. VIP | INDIHOME", 09. NET.ᴴᴰ 2
-https://cdngb196.indihometv.com/atm/DASH/net/manifest.mpd
+https://cdngb196.indihometv.com/dassdr/133/net/manifest.mpd
 
 #EXTINF:-1 tvg-id="RTV - [Channel 116].id" tvg-name="RTV" tvg-logo="https://images.indihometv.com/logo_rtv_big1.png" group-title="14. VIP | INDIHOME", 11. RTV ᴴᴰ
 https://cdngb196.indihometv.com/atm/DASH/RAJAWALI_TV/manifest.mpd
