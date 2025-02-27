@@ -3828,13 +3828,17 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 #KODIPROP:inputstream.adaptive.manifest_type=dash 
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/134/indikids/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/indikids/manifest.mpd
 
 
-#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://images.indihometv.com/logo_antvnew_small.png",ANTV 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/antv/manifest.mpd
+https://cdn08jtedge.indihometv.com/dassdvr/133/antv/manifest.mpd
+
 
 #EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://images.indihometv.com/logo_alquran_small1.png?v=2.0.0.13",AL QURAN AL KAREEM
 #KODIPROP:inputstream.adaptive.license_type=clearkey
