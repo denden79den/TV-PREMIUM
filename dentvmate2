@@ -607,15 +607,15 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/0ccfe41056aa7d1274f1fc80abe17ea3.png" group-title="08. FILM | HBO",HBO 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png" group-title="08. FILM | HBO",HBO 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/43c918deb93b6cb276bc97bc3316d66a.png" group-title="08. FILM | HBO",HBO Family 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png" group-title="08. FILM | HBO",HBO Family 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/00e312e6e408859a759d2cb679bf2f28.png" group-title="08. FILM | HBO",HBO Hits 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png" group-title="08. FILM | HBO",HBO Hits 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/b918a4f6087d1550bed78481f3fd878e.png" group-title="08. FILM | HBO",HBO Signature 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png" group-title="08. FILM | HBO",HBO Signature 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/42d29b03357fec1753cf970323f02e04.png" group-title="08. FILM | HBO",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png" group-title="08. FILM | HBO",Cinemax
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
