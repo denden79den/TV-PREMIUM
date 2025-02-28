@@ -5241,7 +5241,20 @@ http://ktpremium.xyz:2095/live/QPP76780098/A904599/73989.ts
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73945.ts
 
 
+========================================BRI LIGA 1=======================================================
 
+
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",PLAY 1 (BRI liga 1)
+http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",PLAY 2 (BRI liga 1)
+https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",channel 1
+https://mantul.biz.id:443/user010223/user010223/242
+#EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",channel 2
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
+
+
+============================================SPORTS INDONESIA===============================================
 
 
 #EXTINF:-1 group-title="SPORTS | INDONESIA" tvg-logo="https://www.visionplus.id/images/repository/656/656-LOGO-m.png",SPOTV 1
