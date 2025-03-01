@@ -3778,6 +3778,9 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_big1.png" group-title="14. VIP | INDIHOME", 07. TRANS TV ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_big1.png" group-title="14. VIP | INDIHOME", 07. TRANS TV ᴴᴰ 2
+https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
+
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_big1.png" group-title="14. VIP | INDIHOME", 08. TRANS 7 ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
 
