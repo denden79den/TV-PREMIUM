@@ -3779,10 +3779,18 @@ https://streaming.indihometv.com/atm/DASH/inews/manifest.mpd
 https://streaming.indihometv.com/atm/DASH/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_transtv_big1.png" group-title="14. VIP | INDIHOME", 07. TRANS TV ᴴᴰ 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 8.0.0;) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/78.0.3904.90 Mobile Safari/537.36
+#KODIPROP:inputstreamaddon=inputstream.adaptive 
+#KODIPROP:inputstream.adaptive.manifest_type=dash 
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey 
+#KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
 https://cdn08jtedge.indihometv.com/dassdvr/133/transtv/manifest.mpd
 
 #EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_big1.png" group-title="14. VIP | INDIHOME", 08. TRANS 7 ᴴᴰ
 https://streaming.indihometv.com/atm/DASH/trans7/manifest.mpd
+
+#EXTINF:-1 tvg-logo="https://images.indihometv.com/logo_trans7_big1.png" group-title="14. VIP | INDIHOME", 08. TRANS 7 ᴴᴰ 2
+https://cdn08jtedge.indihometv.com/dassdvr/133/trans7/manifest.mpd
 
 #EXTINF:-1 tvg-id="NET - [Channel 116].id" tvg-name="NET" tvg-logo="https://images.indihometv.com/logo_net_ver1.png" group-title="14. VIP | INDIHOME", 09. NET.ᴴᴰ
 https://cdn08jtedge.indihometv.com/dassdvr/133/net/manifest.mpd
