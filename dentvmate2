@@ -5473,6 +5473,21 @@ http://iptv12k.com:35461/654321/123456/21720
 #EXTINF:-1  tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Now-Sports-7.png" group-title="SPORTS | NOW", Now Sports 7 
 http://iptv12k.com:35461/654321/123456/21718
 
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 1" tvg-logo="https://www.nowtv.now.com/media/s-logo/611_e.png" group-title="SPORTS | NOW",Now Sport 1
+http://15.235.144.67:35461/654321/123456/21684
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 2" tvg-logo="https://img2.sport-tv-guide.live/images/tv-station-now-sports-2-1990.png" group-title="SPORTS | NOW",Now Sport 2
+http://15.235.144.67:35461/654321/123456/21686
+#EXTINF:-1 tvg-id="" tvg-name="Now 体育3 Sports 3 " tvg-logo="https://www.nowtv.now.com/media/s-logo/633_e.png" group-title="SPORTS | NOW",Now 体育3 Sports 3 
+http://15.235.144.67:35461/654321/123456/21688
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 4" tvg-logo="https://www.nowtv.now.com/media/s-logo/634_e.png" group-title="SPORTS | NOW",Now Sport 4
+http://15.235.144.67:35461/654321/123456/21724
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 5" tvg-logo="https://www.nowtv.now.com/media/s-logo/635_e.png" group-title="SPORTS | NOW",Now Sport 5
+http://15.235.144.67:35461/654321/123456/21722
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 6 " tvg-logo="https://www.nowtv.now.com/media/logo/636-dbg-e.png" group-title="SPORTS | NOW",Now Sport 6 
+http://15.235.144.67:35461/654321/123456/21720
+#EXTINF:-1 tvg-id="" tvg-name="Now Sport 7" tvg-logo="https://www.nowtv.now.com/media/logo/637-wbg-e.png" group-title="SPORTS | NOW",Now Sport 7
+http://15.235.144.67:35461/654321/123456/21718
+
 
 
 #EXTINF:-1 tvg-id="Hub.Premier.1" tvg-name="HUB PREMIER 01  " tvg-logo="http://go4.pw/UK/hub.premier.png" group-title="SPORTS | HUB PREMIER",HUB PREMIER 01  
