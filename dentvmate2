@@ -607,6 +607,9 @@ https://cdn08jtedge.indihometv.com/dassdvr/194/maxstream/manifest.mpd
 http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 
 
+==================================FILM HBO====================================
+
+
 #EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png" group-title="08. FILM | HBO",HBO 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
 #EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png" group-title="08. FILM | HBO",HBO Family 1080
@@ -639,6 +642,14 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="08. FILM | HBO",HBO HD
+http://15.235.144.67:35461/654321/123456/599
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="08. FILM | HBO",HBO Hits
+http://15.235.144.67:35461/654321/123456/598
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="08. FILM | HBO",HBO Family
+http://15.235.144.67:35461/654321/123456/597
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="08. FILM | HBO",HBO Signature my
+http://15.235.144.67:35461/654321/123456/596
 
 #EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop
 https://mantul.biz.id:443/user010223/user010223/242
