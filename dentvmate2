@@ -5992,5 +5992,77 @@ http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=738901&extens
 #EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/FUBO-SPORTS-TV.jpeg" group-title="SPORTS | SUPERSPORTS",US| FUBO SPORTS 4 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=738899&extension=ts&play_token=2YneJjC9sh
 
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER1.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 1 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032529&extension=ts&play_token=aL7uSkXMiZ
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER2.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 2 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032528&extension=ts&play_token=yzd0hnt5gd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER2.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 2 UHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032518&extension=ts&play_token=uogchfwVRl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER3.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 3 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032527&extension=ts&play_token=ohVygFoXDj
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER4.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 4 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032526&extension=ts&play_token=WxERpCFp5a
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 5 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032525&extension=ts&play_token=xPnfBCymvN
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 6 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032524&extension=ts&play_token=2L1D9593Z1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 7 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032523&extension=ts&play_token=VUajakjQs1
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 8 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032522&extension=ts&play_token=w6dqMfh9Y5
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 9 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032521&extension=ts&play_token=PLiSr9sSUC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 10 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032520&extension=ts&play_token=LPEnT4guvL
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/HUB-PREMIER.png" group-title="SPORTS | SUPERSPORTS",HUB PREMIER 11 FHD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=1032519&extension=ts&play_token=z5gVGBwjFI
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HUB-SPORTS-1.png" group-title="SPORTS | SUPERSPORTS",HUB SPORTS 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=941573&extension=ts&play_token=aHhLl5fkCe
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HUB-SPORTS-2.png" group-title="SPORTS | SUPERSPORTS",HUB SPORTS 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=941572&extension=ts&play_token=jqQdIkCCjD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/HUB-SPORTS-3.png" group-title="SPORTS | SUPERSPORTS",HUB SPORTS 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=941571&extension=ts&play_token=yjg1Fk5zit
+
+
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS MAXIMO HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425666&extension=ts&play_token=tcOwZobB79
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS ACTION HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425668&extension=ts&play_token=Xi7od0g6GP
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="SPORTS | SUPERSPORTS", SUPER SPORTS PLAY 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425313&extension=ts&play_token=67jqPdp9XU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_2.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PLAY 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425311&extension=ts&play_token=fxXX3ov2tU
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-premier-league.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239078&extension=ts&play_token=GaPSXPplBm
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS LIGA HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239076&extension=ts&play_token=RaeMpDZ58c
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport_tennis.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS TENNIS HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425314&extension=ts&play_token=7BRMSRCAt6
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_blitz.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS BLITZ HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425310&extension=ts&play_token=peXuuGZJzh
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_psl.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PSL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239077&extension=ts&play_token=rKQIm0rhbC
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_golf.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS GOLF HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425667&extension=ts&play_token=RBusmV2T62
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS GRANDSTAND HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239079&extension=ts&play_token=iwPFp6lKaO
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-motorsport.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS MOTORSPORT HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239082&extension=ts&play_token=DmNyQUmT3y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS FOOTBALL HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239083&extension=ts&play_token=Sr1rR2Ea1Y
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_rugby.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS RUGBY HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239086&extension=ts&play_token=P456fUGoQ2
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS CRICKET HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239087&extension=ts&play_token=a1XTswTKfl
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 1 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239081&extension=ts&play_token=fBsSTrF5k0
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 2 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239080&extension=ts&play_token=cd5DfS4ewd
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-3.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 3 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239085&extension=ts&play_token=yxgzIqC1ID
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-variety-4.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 4 HD
+http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239084&extension=ts&play_token=leWzNCS7J0
+
 
 
