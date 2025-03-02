@@ -6065,44 +6065,104 @@ http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=941572&extens
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=941571&extension=ts&play_token=yjg1Fk5zit
 
 
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS MAXIMO HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_maximo.png" group-title="SPORTS | SUPERSPORTS", MAXIMO HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425666&extension=ts&play_token=tcOwZobB79
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS ACTION HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_action.png" group-title="SPORTS | SUPERSPORTS", ACTION HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425668&extension=ts&play_token=Xi7od0g6GP
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="SPORTS | SUPERSPORTS", SUPER SPORTS PLAY 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_1.png" group-title="SPORTS | SUPERSPORTS", PLAY 1 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425313&extension=ts&play_token=67jqPdp9XU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_2.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PLAY 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_2.png" group-title="SPORTS | SUPERSPORTS", PLAY 2 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425311&extension=ts&play_token=fxXX3ov2tU
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-premier-league.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PL HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-premier-league.png" group-title="SPORTS | SUPERSPORTS", PL HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239078&extension=ts&play_token=GaPSXPplBm
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS LIGA HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_liga.png" group-title="SPORTS | SUPERSPORTS", LA LIGA HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239076&extension=ts&play_token=RaeMpDZ58c
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport_tennis.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS TENNIS HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport_tennis.png" group-title="SPORTS | SUPERSPORTS", TENNIS HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425314&extension=ts&play_token=7BRMSRCAt6
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_blitz.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS BLITZ HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_blitz.png" group-title="SPORTS | SUPERSPORTS", BLITZ HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425310&extension=ts&play_token=peXuuGZJzh
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_psl.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS PSL HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_psl.png" group-title="SPORTS | SUPERSPORTS", PSL HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239077&extension=ts&play_token=rKQIm0rhbC
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_golf.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS GOLF HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_golf.png" group-title="SPORTS | SUPERSPORTS", GOLF HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=425667&extension=ts&play_token=RBusmV2T62
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS GRANDSTAND HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_grandstand.png" group-title="SPORTS | SUPERSPORTS", GRANDSTAND HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239079&extension=ts&play_token=iwPFp6lKaO
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-motorsport.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS MOTORSPORT HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-motorsport.png" group-title="SPORTS | SUPERSPORTS", MOTORSPORT HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239082&extension=ts&play_token=DmNyQUmT3y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS FOOTBALL HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_football.png" group-title="SPORTS | SUPERSPORTS", FOOTBALL HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239083&extension=ts&play_token=Sr1rR2Ea1Y
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_rugby.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS RUGBY HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_rugby.png" group-title="SPORTS | SUPERSPORTS", RUGBY HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239086&extension=ts&play_token=P456fUGoQ2
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS CRICKET HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_cricket.png" group-title="SPORTS | SUPERSPORTS", CRICKET HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239087&extension=ts&play_token=a1XTswTKfl
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 1 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-1.png" group-title="SPORTS | SUPERSPORTS", VARIETY 1 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239081&extension=ts&play_token=fBsSTrF5k0
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 2 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-2.png" group-title="SPORTS | SUPERSPORTS", VARIETY 2 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239080&extension=ts&play_token=cd5DfS4ewd
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-3.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 3 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/SUPERSPORT_variety-3.png" group-title="SPORTS | SUPERSPORTS", VARIETY 3 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239085&extension=ts&play_token=yxgzIqC1ID
-#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-variety-4.png" group-title="SPORTS | SUPERSPORTS", SUPERSPORTS VARIETY 4 HD
+#EXTINF:-1 tvg-logo="http://103.176.90.118/picons/logos/UK/supersport-variety-4.png" group-title="SPORTS | SUPERSPORTS", VARIETY 4 HD
 http://mag.4k365.xyz:80/play/live.php?mac=00:1A:79:C6:F4:C0&stream=239084&extension=ts&play_token=leWzNCS7J0
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | SUPERSPORTS",Astro Grandstand
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium123/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | SUPERSPORTS",Astro Football
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium124/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | SUPERSPORTS",Astro Premier League
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium125/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | SUPERSPORTS",Astro Premier League 2
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium126/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 1 Premium
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium134/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 2 Premium
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://ddy6new.koskoros.ru/ddy6/premium135/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 3 Premium
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://ddy6new.koskoros.ru/ddy6/premium139/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 1 Serbia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium429/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 2 Serbia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium430/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 3 Serbia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium431/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 4 Serbia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium581/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 1 Croatia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://ddy6new.koskoros.ru/ddy6/premium432/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 2 Croatia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://zekonew.koskoros.ru/zeko/premium433/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 3 Croatia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://ddy6new.koskoros.ru/ddy6/premium434/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
+
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22new.png" group-title="SPORTS | SUPERSPORTS",Arena Sport 4 Croatia
+#EXTVLCOPT:http-origin=https://pkpakiplay.xyz/
+https://windnew.koskoros.ru/wind/premium580/mono.m3u8|referer=https://pkpakiplay.xyz/&user-agent=Mozilla/5.0 (iPhone; CPU iPhone OS 13_2_3 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.0.3 Mobile/15E148 Safari/604.1
 
 
 
