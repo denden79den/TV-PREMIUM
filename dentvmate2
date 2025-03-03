@@ -3533,6 +3533,13 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 http://op-group1-swiftservehd-1.dens.tv/h/h217/02.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://i.ibb.co/SyXzvhs/Moji-hometv.jpg",Moji
 http://op-group1-swiftservesd-1.dens.tv/s/s41/index.m3u8|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="13. VIP | DENS.TV",TRANSTV
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
+#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="13. VIP | DENS.TV",TRANS7
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
+https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/8.jpg",Antv
 http://op-group1-swiftservehd-1.dens.tv/s/s07/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=antv|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="http://www.dens.tv/images/channel-logo/7.jpg",TV One
@@ -3551,6 +3558,8 @@ http://op-group1-swiftservesd-1.dens.tv/h/h06/index.m3u8?app_type=web&amp;userid
 http://op-group1-swiftservehd-1.dens.tv/h/h10/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=RTV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/122.jpg",Magna Channel
 http://op-group1-swiftservehd-1.dens.tv/h/h24/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Magna_Channel|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
+#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",TVRI Nasional
+http://rr3.dens.tv/s/s11/index.m3u8
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/38.jpg",ANIPLUS HD
 #EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/107.jpg",DensPlay
 http://op-group1-swiftservehd-1.dens.tv/h/h246/index1.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=DensPlay|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
@@ -3650,37 +3659,14 @@ http://rr3.dens.tv/h/h193/index.m3u8
 http://rr3.dens.tv/h/h194/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",My Kidz(rr)
 http://rr3.dens.tv/h/h191/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",NET(rr)
-http://rr3.dens.tv/h/h06/index.m3u8
+
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",Rodja TV(rr)
 http://rr3.dens.tv/s/s14/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",Shanghai Dragon(rr)
 http://rr3.dens.tv/s/s29/index.m3u8
 #EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",Thrill(rr)
 http://rr3.dens.tv/s/s34/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",TVRI Nasional(rr)
-http://rr3.dens.tv/s/s11/index.m3u8
-#EXTINF:-1  tvg-logo="https://raw.githubusercontent.com/mimipipi22/lalajo/refs/heads/main/Streaming/mimipipi22.png" group-title="13. VIP | DENS.TV",TVRI Sport(rr)
-http://rr3.dens.tv/s/s107/index.m3u8
 
-
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="13. VIP | DENS.TV",TRANSTV_detik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/transtv/smil:transtv.smil/chunklist.m3u8
-#EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="13. VIP | DENS.TV",TRANS7_detik
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0
-https://video.detik.com/trans7/smil:trans7.smil/chunklist.m3u8
-
-#EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/133.jpg", .KBS Korea
-http://op-group1-swiftservehd-1.dens.tv/h/h241/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_Korea_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/134.jpg", .KBS World
-http://op-group1-swiftservehd-1.dens.tv/h/h243/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=KBS_World_Free_Trial-|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/130.jpg", .Dance TV
-http://op-group1-swiftservehd-1.dens.tv/h/h250/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Dance_TV|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/98.jpg", .Motorvision+
-http://op-group1-swiftservehd-1.dens.tv/h/h09/01.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=Motorvision%2B|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
-#EXTINF:-1 group-title="13. VIP | DENS.TV" tvg-logo="https://www.dens.tv/images/channel-logo/104.jpg", .FREEDOM
-http://op-group1-swiftservehd-1.dens.tv/h/h101/index.m3u8?app_type=web&amp;userid=wnctpm5uf2j&amp;chname=FREEDOM|user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/97.0.4692.99 Safari/537.36&referrer=http://www.dens.tv/
 
 #EXTINF:-1 tvg-logo="https://i.ibb.co/N3HbgWQ/IMG-20220828-165715.jpg" group-title="13. VIP | DENS.TV",TV9 NUSANTARA 
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:101.0) Gecko/20100101 Firefox/101.0 
