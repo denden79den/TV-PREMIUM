@@ -5776,7 +5776,17 @@ https://raw.githubusercontent.com/hendroagung2904/IDH/refs/heads/main/IDH-Davinc
 #EXTINF:-1 tvg-id="Moonbug - [Channel 40].id" tvg-url="https://www.bevy.be/bevyfiles/indonesia.xml" group-title="17. TV | KIDS" tvg-logo="https://www.visionplus.id/images/repository/909/162909-LOGO-m.png",098. Moonbug
 https://cempedak-live-cdn.mncnow.id/live/eds/BabyTV-NewHD/sa_dash_vmx/BabyTV-NewHD.mpd
 
-#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="17. TV | KIDS",098. HIP HIP HORE
+#EXTINF:-1 tvg-id="11" group-title="17. TV | KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEi06UwMiLyI74sEEDwf0-rwndLGrLvQi7tp1QHv82q1wkKhIARAAOwOkKOmvQgBdjKnA4wd8Sl2QEPkY4VJA2MlneSwgdaa1tEVPQtOBhkT-kssOTkcJFcEgRTpq3i8QhyphenhyphenKuzPey326K70RzIjhHBc3O3OAeMqHavxuSq6LwqEgsC4SJWy7L-MINH38Vbt4/s700/MENTARI%20TV.png",MENTARI TV V
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#EXTVLCOPT:http-user-agent=Mozilla/5.0
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=8237&type=hls
+
+#EXTINF:-1group-title="17. TV | KIDS" tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgSxHiLHOvb3v9SUfEoW79ek24EXuPQqR0GRkL83AQLPJl-gB6aiPE7RP0qomgTiIiJ3JKdhyphenhyphenL8q7Cjtzgn5I_N9v-8lekKzfg2Rj3tFAoBn5uM1lT0dH2as8IrzFM_T9kc9VOfvmWfFjDYngOKbEQHMa-hK8dTZXyOTUvDS_aUlPQk7m9jMWsazay0zHZK/s700/HIP%20HOP%20HOREE!.png", HIP HIP HOREE!
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleCoreMedia/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+https://myvidio.tvnid.workers.dev/01/stream.m3u8?id=7052&type=hls
+
+#EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="17. TV | KIDS",098. HIP HIP HORE 2
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73989.ts
 #EXTINF:-1 tvg-id="ccm.my" tvg-name="ID: Indosiar HD" group-title="17. TV | KIDS",098. HOREE
 http://ktpremium.xyz:2095/live/QPP76780098/A904599/73945.ts
