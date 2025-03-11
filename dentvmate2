@@ -8633,7 +8633,7 @@ http://b1g.ooo:80/96114/96114green/839236
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="HK | Now HK Sports 4K 1 UHD" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | PREMIUM 3",HK | Now HK Sports 4K 1 UHD
 http://b1g.ooo:80/96114/96114green/699625
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="LIVE | EPL Hub",EPL | Now Sports 4K
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSports4K.hk" tvg-name="EPL | Now Sports 4K" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-4K.png" group-title="SPORTS | PREMIUM 3",EPL | Now Sports 4K
 http://b1g.ooo:80/96114/96114green/174942
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="NowSportsPremierLeague1.hk" tvg-name="HK | Now HK Premier Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/05/Now-Sports-HK-1.png" group-title="SPORTS | PREMIUM 3",HK | Now HK Premier Sports 1
 http://b1g.ooo:80/96114/96114green/35915
@@ -8823,8 +8823,6 @@ http://b1g.ooo:80/96114/96114green/263669
 http://b1g.ooo:80/96114/96114green/24662
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | PTV SPORTS SD" tvg-logo="http://b1g.fun/logos2/ptv_sports.jpg" group-title="SPORTS | PREMIUM 3",PK | PTV SPORTS SD
 http://b1g.ooo:80/96114/96114green/11488
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ptv Bolan SD" tvg-logo="http://b1g.fun/logos2/ptv_bolan.jpg" group-title="PK | Entertainment",PK | Ptv Bolan SD
-http://b1g.ooo:80/96114/96114green/291389
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports FHD" tvg-logo="http://b1g.fun/logos2/ten_sports.jpg" group-title="SPORTS | PREMIUM 3",PK | Ten Sports FHD
 http://b1g.ooo:80/96114/96114green/7972
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | Ten Sports HD" tvg-logo="http://b1g.fun/logos2/ten_sports.jpg" group-title="SPORTS | PREMIUM 3",PK | Ten Sports HD
