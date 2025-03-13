@@ -7549,6 +7549,13 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS | ASTRO",Astro Badminton
 http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
 
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS | ASTRO",Astro Arena
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29658.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS | ASTRO",Astro Arena 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/13111.m3u8
+
+
 ==============================================SPORTS SONYTEN===========================================================
 
 
