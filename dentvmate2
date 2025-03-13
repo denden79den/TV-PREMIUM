@@ -7535,23 +7535,29 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | ASTRO",Astro Premier League 2
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86294
+http://exm3u.extraott.com:900/live/1103581436/4099381829/6589.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | ASTRO",Astro Grandstand 
 http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | ASTRO",Astro Football
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86296
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600422.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS | ASTRO",Astro Sports Plus
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
+
+#EXTINF:-1 tvg-name="" tvg-logo="" group-title="SPORTS | ASTRO",Astro Badminton
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
 
 ==============================================SPORTS SONYTEN===========================================================
 
 
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 1 HD 
-https://mhdstream.com/sliv/stream.php?id=7541236|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29566.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 2 HD 
-https://mhdstream.com/sliv/stream.php?id=96585698|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29565.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 3 HD 
-https://mhdstream.com/sliv/stream.php?id=36523652|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
+http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
 #EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 5 HD 
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
