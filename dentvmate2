@@ -8929,6 +8929,14 @@ http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/501970
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/501965
 #EXTINF:-1 tvg-id="playsports3.be" tvg-name="|BE| PLAY SPORTS 3 HD" tvg-logo="http://logo.ottcst.info/PLAYSPORTS3.png" group-title="SPORTS | PREMIUM 3",|BE| PLAY SPORTS 3 HD
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/501960
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Play Sports 1 (HD)" tvg-name="Play Sports 1 (HD)" tvg-logo="http://logo.ottcst.info/PLAYSPORTS1.png" group-title="SPORTS | PREMIUM 3",Play Sports 1 (HD)
+http://b1g.ooo:80/96114/96114green/790257
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Play Sports 2 (HD)" tvg-name="Play Sports 2 (HD)" tvg-logo="http://logo.ottcst.info/PLAYSPORTS2.png" group-title="SPORTS | PREMIUM 3",Play Sports 2 (HD)
+http://b1g.ooo:80/96114/96114green/790255
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="Play Sports 3 (HD)" tvg-name="Play Sports 3 (HD)" tvg-logo="http://logo.ottcst.info/PLAYSPORTS3.png" group-title="SPORTS | PREMIUM 3",Play Sports 3 (HD)
+http://b1g.ooo:80/96114/96114green/790253
+
 #EXTINF:-1 tvg-id="elevenproleague1nl.be" tvg-name="|BE| ELEVEN PRO LEAGUE 1 HD" tvg-logo="http://logo.ottcst.info/ELEVENPROLEAGUE.png" group-title="SPORTS | PREMIUM 3",|BE| ELEVEN PRO LEAGUE 1 HD
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/501913
 #EXTINF:-1 tvg-id="elevenproleague2nl.be" tvg-name="|BE| ELEVEN PRO LEAGUE 2 4K" tvg-logo="http://logo.ottcst.info/ELEVENPROLEAGUE.png" group-title="SPORTS | PREMIUM 3",|BE| ELEVEN PRO LEAGUE 2 4K
