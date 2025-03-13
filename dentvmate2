@@ -8967,7 +8967,14 @@ http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/325879
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/325880
 #EXTINF:-1 tvg-id="" tvg-name="|MY| ASTRO SUPERSPORTS 4 HD" tvg-logo="http://logo.ottcst.info/ASTROSUPERSPORT4HD.png" group-title="SPORTS | PREMIUM 3",|MY| ASTRO SUPERSPORTS 4 HD
 http://iqtvplus.com:80/GYIJY8ZIAM/GZF6HT7YWR/325881
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO BADMINTON HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600423.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO BADMINTON FHD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600424.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO BADMINTON 2 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600425.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO BADMINTON 2 FHD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600426.m3u8
 
 
 
