@@ -8811,6 +8811,36 @@ http://b1g.ooo:80/96114/96114green/7972
 http://b1g.ooo:80/96114/96114green/239424
 
 
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 1 FHD
+http://b1g.ooo:80/96114/96114green/7885
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten1hd.in" tvg-name="Sony Ten 1 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten1.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 1 FHD
+http://b1g.ooo:80/96114/96114green/161922
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 2 FHD
+http://b1g.ooo:80/96114/96114green/16119
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten2hd.in" tvg-name="Sony Ten 2 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten2.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 2 FHD
+http://b1g.ooo:80/96114/96114green/161923
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 3 FHD
+http://b1g.ooo:80/96114/96114green/16120
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonyten3hd.in" tvg-name="Sony Ten 3 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten3.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 3 FHD
+http://b1g.ooo:80/96114/96114green/161924
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Sports Ten 3" tvg-logo="" group-title="SPORTS | PREMIUM 3",Sony Sports Ten 3
+http://b1g.ooo:80/96114/96114green/865913
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Ten 4 FHD" tvg-logo="" group-title="SPORTS | PREMIUM 3",Sony Ten 4 FHD
+http://b1g.ooo:80/96114/96114green/865914
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Ten 4" tvg-logo="" group-title="SPORTS | PREMIUM 3",Sony Ten 4
+http://b1g.ooo:80/96114/96114green/865917
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/9085
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="sonysixhd.in" tvg-name="Sony Ten 5 FHD" tvg-logo="http://b1g.fun/logos2/sony_ten5.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/161921
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Ten 5 Hd" tvg-logo="http://b1g.fun/logos2/sony_ten4.jpg" group-title="SPORTS | PREMIUM 3",Sony Ten 5 Hd
+http://b1g.ooo:80/96114/96114green/689429
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Sports Ten 5 FHD" tvg-logo="" group-title="SPORTS | PREMIUM 3",Sony Sports Ten 5 FHD
+http://b1g.ooo:80/96114/96114green/865916
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="Sony Sports Ten 5" tvg-logo="" group-title="SPORTS | PREMIUM 3",Sony Sports Ten 5
+http://b1g.ooo:80/96114/96114green/865915
+
+
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportaction.za" tvg-name="DSTV | SS Action FHD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | PREMIUM 3",DSTV | SS Action FHD
 http://b1g.ooo:80/96114/96114green/678484
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="supersportaction.za" tvg-name="DSTV | SS Action HD" tvg-logo="https://03mcdecdnimagerepository.blob.core.windows.net/epguideimage/channel/HD7.png" group-title="SPORTS | PREMIUM 3",DSTV | SS Action HD
