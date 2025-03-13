@@ -8772,39 +8772,37 @@ http://b1g.ooo:80/96114/96114green/709251
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="SPOTV2.my" tvg-name="SPOTV 2 FHD" tvg-logo="https://s9.gifyu.com/images/SUl6w.webp" group-title="SPORTS | PREMIUM 3",SPOTV 2 FHD
 http://b1g.ooo:80/96114/96114green/709250
 
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSportsUltimate.uk" tvg-name="UK-TNT Sports Ultimate 4K HDR" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-4K.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports Ultimate 4K HDR
-http://b1g.ooo:80/96114/96114green/697067
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="UK-TNT Sports 1 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 1 50FPS
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",TNT Sports 1 50FPS
 http://b1g.ooo:80/96114/96114green/697057
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="UK-TNT Sports 1 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 1 FHD HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",TNT Sports 1 FHD HEVC
 http://b1g.ooo:80/96114/96114green/697054
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="UK-TNT Sports 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 1 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport1.uk" tvg-name="TNT Sports 1 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-1.png" group-title="SPORTS | PREMIUM 3",TNT Sports 1 HD
 http://b1g.ooo:80/96114/96114green/697061
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="UK-TNT Sports 2 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 2 50FPS
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",TNT Sports 2 50FPS
 http://b1g.ooo:80/96114/96114green/697056
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="UK-TNT Sports 2 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 2 FHD HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",TNT Sports 2 FHD HEVC
 http://b1g.ooo:80/96114/96114green/697053
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="UK-TNT Sports 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 2 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport2.uk" tvg-name="TNT Sports 2 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-2.png" group-title="SPORTS | PREMIUM 3",TNT Sports 2 HD
 http://b1g.ooo:80/96114/96114green/697059
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="UK-TNT Sports 3 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 3 50FPS
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 50FPS" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",TNT Sports 3 50FPS
 http://b1g.ooo:80/96114/96114green/697055
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="UK-TNT Sports 3 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 3 FHD HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",TNT Sports 3 FHD HEVC
 http://b1g.ooo:80/96114/96114green/697052
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="UK-TNT Sports 3 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 3 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport3.uk" tvg-name="TNT Sports 3 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-3.png" group-title="SPORTS | PREMIUM 3",TNT Sports 3 HD
 http://b1g.ooo:80/96114/96114green/697058
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="UK-TNT Sports 4 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 4 FHD HEVC
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 FHD HEVC" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="SPORTS | PREMIUM 3",TNT Sports 4 FHD HEVC
 http://b1g.ooo:80/96114/96114green/697051
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="UK-TNT Sports 4 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 4 HD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="btsport4.uk" tvg-name="TNT Sports 4 HD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-4.png" group-title="SPORTS | PREMIUM 3",TNT Sports 4 HD
 http://b1g.ooo:80/96114/96114green/697060
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports5.uk" tvg-name="UK-TNT Sports 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 5 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports5.uk" tvg-name="TNT Sports 5 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-5.png" group-title="SPORTS | PREMIUM 3",TNT Sports 5 FHD
 http://b1g.ooo:80/96114/96114green/697062
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports6.uk" tvg-name="UK-TNT Sports 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-6.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 6 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports6.uk" tvg-name="TNT Sports 6 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-6.png" group-title="SPORTS | PREMIUM 3",TNT Sports 6 FHD
 http://b1g.ooo:80/96114/96114green/697063
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports7.uk" tvg-name="UK-TNT Sports 7 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-7.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 7 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports7.uk" tvg-name="TNT Sports 7 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-7.png" group-title="SPORTS | PREMIUM 3",TNT Sports 7 FHD
 http://b1g.ooo:80/96114/96114green/697064
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports8.uk" tvg-name="UK-TNT Sports 8 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-8.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 8 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports8.uk" tvg-name="TNT Sports 8 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-8.png" group-title="SPORTS | PREMIUM 3",TNT Sports 8 FHD
 http://b1g.ooo:80/96114/96114green/697065
-#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports9.uk" tvg-name="UK-TNT Sports 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" group-title="SPORTS | PREMIUM 3",UK-TNT Sports 9 FHD
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="TNTSports9.uk" tvg-name="TNT Sports 9 FHD" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/07/TNT-Sports-9.png" group-title="SPORTS | PREMIUM 3",TNT Sports 9 FHD
 http://b1g.ooo:80/96114/96114green/697066
 
 #EXTINF:-1 xui-id="{XUI_ID}" tvg-id="" tvg-name="PK | A SPORTS FHD" tvg-logo="http://b1g.fun/logos2/A_sportshd.jpg" group-title="SPORTS | PREMIUM 3",PK | A SPORTS FHD
