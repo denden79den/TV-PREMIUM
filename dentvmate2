@@ -8977,7 +8977,14 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/401600425.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/401600426.m3u8
 
 
-
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO SPORTS PLUS HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600405.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO SPORTS PLUS FHD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO SPORTS PLUS 2 HD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600407.m3u8
+#EXTINF:-1 tvg-logo="" group-title="SPORTS | PREMIUM 3", ASTRO SPORTS PLUS 2 FHD
+http://exm3u.extraott.com:900/live/1103581436/4099381829/401600420.m3u8
 
 
 ===============================SUPERSPORTS================================
