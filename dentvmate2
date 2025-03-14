@@ -7569,6 +7569,21 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
 
+============================================Hub Sports=================================================
+
+
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports1.sg" tvg-name="Hub Sports 1" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-1.png" group-title="SPORTS | HUB SPORTS",Hub Sports 1
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36305.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports2.sg" tvg-name="Hub Sports 2" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-2.png" group-title="SPORTS | HUB SPORTS",Hub Sports 2
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36304.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports3.sg" tvg-name="Hub Sports 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-3.png" group-title="SPORTS | HUB SPORTS",Hub Sports 3
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36303.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports4.sg" tvg-name="Hub Sports 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-4.png" group-title="SPORTS | HUB SPORTS",Hub Sports 4
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
+#EXTINF:-1 xui-id="{XUI_ID}" tvg-id="HubSports5.sg" tvg-name="Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORTS | HUB SPORTS",Hub Sports 5
+http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
+
+
 
 
 ============================================SPORTS NOW=================================================
