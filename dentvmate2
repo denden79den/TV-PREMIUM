@@ -556,6 +556,73 @@ http://103.18.181.69:1935/golive/livestream/playlist.m3u8
 https://lingkartv.my.id/hls/lingkartv.m3u8
 
 
+============================================TV DIGITAL=========================================
+
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐INDOSIAR
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1https://ktvindonesia.my.id/live/PLKINGTV03/27022025/585.tsv2
+
+EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐RCTI
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/ssctv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐SCTV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/581.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tpi..jpg.png" group-title="02. TV | DIGITAL⭐",⭐MNC TV
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/579.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/antvoke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐ANTV 
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/565.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/gtvv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐GTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/578.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/transtvlama..jpg.png" group-title="02. TV | DIGITAL⭐",⭐TRANS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/576.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tv7..jpg.png" group-title="02. TV | DIGITAL⭐",⭐TRANS 7
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/577.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpeg" group-title="02. TV | DIGITAL⭐",⭐MOJI
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/584.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/tvone..jpg.png" group-title="02. TV | DIGITAL⭐",⭐TV ONE
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/562.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/metrrotv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐METRO TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/563.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/kompastv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐ KOMPAS TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/564.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/nettv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐NET TV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/574.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logoettv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐RTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
+
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingang" group-title="02. TV | DIGITAL⭐",⭐VTV
+#EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/560.ts
+
+
 
 
 #EXTINF:-1 tvg-id="Vision Prime HD - [Channel 1].id" tvg-logo="https://iili.io/JZInBLX.png" group-title="03. TV | HIBURAN",Vision Prime
