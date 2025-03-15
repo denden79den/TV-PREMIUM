@@ -564,9 +564,10 @@ https://lingkartv.my.id/hls/lingkartv.m3u8
 https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
 
 #EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/indosiaroke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐INDOSIAR
-#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1https://ktvindonesia.my.id/live/PLKINGTV03/27022025/585.tsv2
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV03/27022025/585.tsv2
 
-EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐RCTI
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logopancingan/rctioke..jpg.png" group-title="02. TV | DIGITAL⭐",⭐RCTI
 #EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/580.ts
 
