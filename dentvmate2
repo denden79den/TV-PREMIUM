@@ -7510,18 +7510,30 @@ https://cempedak-live-cdn.mncnow.id/live/eds/BEIN03/sa_dash_vmx/BEIN03.mpd
 
 =======================================SPORTS ASTRO=============================================
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS | ASTRO ⭐",⭐ GRANDSTAND
+https://dl.dropboxusercontent.com/scl/fi/2tifg7mgp9u25h58n1jda/astro-grandstand.m3u8?rlkey=p7fx1uz3hod2uj3y6bij49gpt&st=x1k1tqx4
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="SPORTS | ASTRO",Astro Premier League 
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86293
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rqvP4nh.png" group-title="SPORTS | ASTRO ⭐",⭐ GRANDSTAND
+https://dl.dropboxusercontent.com/scl/fi/nvgecgl2a8uimyyibkdoz/astro-grandstand-B.m3u8?rlkey=hkbfhjgsw7g7e8prkxks2ejr9&st=g6g8adq8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="SPORTS | ASTRO",Astro Premier League 2
-http://exm3u.extraott.com:900/live/1103581436/4099381829/6589.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS | ASTRO ⭐",⭐ PREMIER LEAGUE
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium125/mono.m3u8
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="SPORTS | ASTRO",Astro Grandstand 
-http://client.newsborntvs.info:80/FatmirKraja/kGKd64cm3/86295
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS | ASTRO ⭐",⭐ PREMIER LEAGUE
+https://dl.dropboxusercontent.com/scl/fi/8j83akcs2pet2acby9clo/astro-premier-league.m3u8?rlkey=216kkgmqjys5dvie1dd9u6nfx&st=t4rjm5rx
 
-#EXTINF:-1 tvg-name="" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="SPORTS | ASTRO",Astro Football
-http://exm3u.extraott.com:900/live/1103581436/4099381829/401600422.m3u8
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS | ASTRO ⭐",⭐ PREMIER LEAGUE 2
+https://dl.dropboxusercontent.com/scl/fi/v62daschtmn6nf0ohhxjj/astro-premier-league-2.m3u8?rlkey=llelik9nx5wamydul7tuesld6&st=r2669uk9
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/rPMWJq5.png" group-title="SPORTS | ASTRO ⭐",⭐ PREMIER LEAGUE 2
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (iPhone14,6; U; CPU iPhone OS 15_4 like Mac OS X) AppleWebKit/602.1.50 (KHTML, like Gecko) Version/10.0 Mobile/19E241 Safari/602.1
+#EXTVLCOPT:http-referrer=https://tvcanale.live/
+https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8
+
+#EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS | ASTRO ⭐",⭐ FOOTBALL
+https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
 #EXTINF:-1 tvg-name="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" tvg-logo="" group-title="SPORTS | ASTRO",Astro Sports Plus
 http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
