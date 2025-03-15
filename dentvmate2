@@ -7549,6 +7549,52 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
 
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 1 
+http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 2
+http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
+
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 3
+http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
+
+#KODIPROP:inputstream=inputstream.ffmpegdirect
+#KODIPROP:mimetype=video/mp2t
+#KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
+#KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
+#KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 4
+http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
+
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 5
+http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
+http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63499
+
+
+
+
+
 ============================================Hub Sports=================================================
 
 
@@ -7564,6 +7610,25 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
 
 
+============================================DIGI Sports=================================================
+
+#EXTINF:-1 group-title="SPORTS | DIGI ⭐" tvg-logo="https://i.imgur.com/N4JqWOO.png", DIGI SPORT 1
+https://dl.dropboxusercontent.com/scl/fi/3r8z54axfeltka1qacgsm/DIGI-SPORT-1.m3u8?rlkey=ypcx2kagkwnu8324i0ad7ohpt
+#EXTINF:-1 group-title="SPORTS | DIGI ⭐" tvg-logo="https://i.imgur.com/xhwYAj2.png", DIGI SPORT 2
+https://dl.dropboxusercontent.com/scl/fi/12nzokidzi32ivnl4vz06/DIGI-SPORT-2.m3u8?rlkey=8m9qph9br9xeoyrrzh1j200uf
+#EXTINF:-1 group-title="SPORTS | DIGI ⭐" tvg-logo="https://i.imgur.com/mIY63ZL.png", DIGI SPORT 3
+https://dl.dropboxusercontent.com/scl/fi/yezr03ou6ae751oxfk9oc/DIGI-SPORT-3.m3u8?rlkey=evw52arcyvwspw4chgmqm9q5z
+#EXTINF:-1 group-title="SPORTS | DIGI ⭐" tvg-logo="https://i.imgur.com/VGtk3wd.png", DIGI SPORT 4
+https://dl.dropboxusercontent.com/scl/fi/uz44vhdvijb7itd7l0zq6/DIGI-SPORT-4.m3u8?rlkey=woochb942b34itrttdwfi5mm5
+
+#EXTINF:-1 tvg-id="digisport1.ro" tvg-name="DIGI SPORT 1 FHD ⚽" tvg-logo="https://ewsat.com/img/DIGI_SPORT_1.png" group-title="SPORTS | DIGI ⭐",DIGI SPORT 1 FHD
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/22397
+#EXTINF:-1 tvg-id="digisport2.ro" tvg-name="DIGI SPORT 2 FHD ⚽" tvg-logo="https://cdn.imgbin.com/20/6/3/imgbin-digi-sport-3-hd-sport1-digi-tv-sport1-RPbNx0zmeAk0eMB7BUfxrJhND.jpg" group-title="SPORTS | DIGI ⭐",DIGI SPORT 2 FHD
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/22399
+#EXTINF:-1 tvg-id="digisport3.ro" tvg-name="DIGI SPORT 3 FHD ⚽" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/c/cb/Digi_sport3_hu.png" group-title="SPORTS | DIGI ⭐",DIGI SPORT 3 FHD
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/22401
+#EXTINF:-1 tvg-id="digisport4.ro" tvg-name="DIGI SPORT 4 FHD ⚽" tvg-logo="https://static.wikia.nocookie.net/tvfanon6528/images/f/f7/Digi_Sport_4_%282015-.n.v.%29.png" group-title="SPORTS | DIGI ⭐",DIGI SPORT 4 FHD
+http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXylq3W/22403
 
 
 ============================================SPORTS NOW=================================================
