@@ -8128,6 +8128,10 @@ http://m1-max.dns-speedy.com:80/529C1C/7446D7/391884
 
 ==========================BEIN SPORTS========================================
 
+#EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS | BEIN SPORTS⭐",⭐ BEIN SPORTS 1 EN
+https://dl.dropboxusercontent.com/scl/fi/no1l111eomk53m9dscx7r/beinen1.m3u8?rlkey=515fu1im8yqziqmb4mbci0b94&st=g06sqoia
+#EXTINF: -1 tvg-logo="https://i.imgur.com/idusxGE.png" group-title="SPORTS | BEIN SPORTS⭐",⭐ BEIN SPORTS 2 EN
+https://dl.dropboxusercontent.com/scl/fi/42ewu9rmfbiy0ossufv34/beinen2.m3u8?rlkey=cfd01zjm09c53do9lx6alnzh6&st=zkvw65j8
 
 #EXTINF: -1 tvg-logo="https://i.imgur.com/XVDob8K.png" group-title="SPORTS | BEIN SPORTS⭐",⭐ BEIN SPORTS 1
 https://dl.dropboxusercontent.com/scl/fi/0hfxpcckdtsntypk0real/beinar1_2.m3u8?rlkey=lwf9yrzy9kb6mz7f9egr2zplb&st=qajpbgbo
@@ -8147,6 +8151,119 @@ https://dl.dropboxusercontent.com/scl/fi/xvy1p8bo4bkcd4na7s2ng/beinar7.m3u8?rlke
 https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlkey=wahbp7q07dxr6khxgnmfrfqbu&st=3hy5nclh
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS | BEIN SPORTS⭐",⭐ BEIN SPORTS 9
 https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
+
+
+
+#EXTINF:-1 tvg-ID="beinsports1.fr" tvg-name="FR ▎BEIN SPORTS 1 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports1.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS 1 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130937
+#EXTINF:-1 tvg-ID="beinsports2.fr" tvg-name="FR ▎BEIN SPORTS 2 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports2.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS 2 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130939
+#EXTINF:-1 tvg-ID="beinsports3.fr" tvg-name="FR ▎BEIN SPORTS 3 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports3.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS 3 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130940
+#EXTINF:-1 tvg-ID="bein4max.fr" tvg-name="FR ▎BEIN SPORTS MAX 4 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsportsmax4.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 4 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130954
+#EXTINF:-1 tvg-ID="bein5max.fr" tvg-name="FR ▎BEIN SPORTS MAX 5 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/beinsportsmax5.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 5 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130955
+#EXTINF:-1 tvg-ID="bein6max.fr" tvg-name="FR ▎BEIN SPORTS MAX 6 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/beinsportsmax6.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 6 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130956
+#EXTINF:-1 tvg-ID="bein7max.fr" tvg-name="FR ▎BEIN SPORTS MAX 7 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/beinsportsmax7.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 7 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130957
+#EXTINF:-1 tvg-ID="bein8max.fr" tvg-name="FR ▎BEIN SPORTS MAX 8 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/beinsportsmax8.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 8 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130958
+#EXTINF:-1 tvg-ID="bein9max.fr" tvg-name="FR ▎BEIN SPORTS MAX 9 HD 4ᴋ" tvg-logo="http://img.logo-cdn.cc/beinsportsmax9.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 9 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/130959
+#EXTINF:-1 tvg-ID="" tvg-name="FR ▎BEIN SPORTS MAX 10 HD 4ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsportsmax10.png" group-title="SPORTS | BEIN SPORTS⭐",FR ▎BEIN SPORTS MAX 10 HD 4ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/712476
+
+
+
+#EXTINF:-1 tvg-ID="beinsportsglobal.qa" tvg-name="UK ▎BEIN SPORTS GLOBAL HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS GLOBAL HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112437
+#EXTINF:-1 tvg-ID="beinsportsnba.qa" tvg-name="UK ▎BEIN SPORT NBA FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORT NBA FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112438
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="UK ▎BEIN SPORTS ENGLISH 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS ENGLISH 1 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112452
+#EXTINF:-1 tvg-ID="beinsports1en.qa" tvg-name="UK ▎BEIN SPORTS ENGLISH 1 HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS ENGLISH 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/762823
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="UK ▎BEIN SPORTS ENGLISH 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS ENGLISH 2 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112453
+#EXTINF:-1 tvg-ID="beinsports2en.qa" tvg-name="UK ▎BEIN SPORTS ENGLISH 2 HD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS ENGLISH 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/762825
+#EXTINF:-1 tvg-ID="beinsports1.qa" tvg-name="UK ▎BEIN SPORTS 1 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 1 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112449
+#EXTINF:-1 tvg-ID="beinsports2.qa" tvg-name="UK ▎BEIN SPORTS 2 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 2 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112450
+#EXTINF:-1 tvg-ID="beinsports3.qa" tvg-name="UK ▎BEIN SPORTS 3 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 3 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112451
+#EXTINF:-1 tvg-ID="beinsports4.qa" tvg-name="UK ▎BEIN SPORTS 4 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 4 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112443
+#EXTINF:-1 tvg-ID="beinsports5.qa" tvg-name="UK ▎BEIN SPORTS 5 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 5 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112444
+#EXTINF:-1 tvg-ID="beinsports6.qa" tvg-name="UK ▎BEIN SPORTS 6 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 6 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112445
+#EXTINF:-1 tvg-ID="beinsports7.qa" tvg-name="UK ▎BEIN SPORTS 7 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 7 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/112446
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎BEIN SPORTS 8 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 8 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/899112
+#EXTINF:-1 tvg-ID="" tvg-name="UK ▎BEIN SPORTS 9 FHD" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",UK ▎BEIN SPORTS 9 FHD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/899113
+
+
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS NBA HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS NBA HD 8ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968419
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 1 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 1 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897626
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 1 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 1 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968402
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 2 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 2 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897627
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 2 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 2 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968403
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 3 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 3 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897628
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 3 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 3 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968404
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 4 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 4 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897629
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 4 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 4 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968405
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 5 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 5 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897630
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 5 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 5 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968406
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 6 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 6 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897631
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 6 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 6 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968407
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 7 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 7 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897632
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 7 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 7 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968408
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 8 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 8 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897633
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 8 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 8 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968409
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 9 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 9 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/897634
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS 9 HD 8ᴋ S2" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS 9 HD 8ᴋ S2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968410
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS ENGLISH 1 HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS ENGLISH 1 HD 8ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968413
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS FRENCH 1 HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS FRENCH 1 HD 8ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968411
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS FRENCH 2 HD 8ᴋ" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS FRENCH 2 HD 8ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968412
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS XTRA 1 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS XTRA 1 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968414
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS XTRA 2 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS XTRA 2 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968415
+#EXTINF:-1 tvg-ID="" tvg-name="BEIN ▎BEIN SPORTS XTRA 3 HD 8ᴋ S1" tvg-logo="https://img.logo-cdn.cc/beinsports.png" group-title="SPORTS | BEIN SPORTS⭐",BEIN ▎BEIN SPORTS XTRA 3 HD 8ᴋ S1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/968416
+
+
+
+
+
 
 ====================================play sports==============================================
 
