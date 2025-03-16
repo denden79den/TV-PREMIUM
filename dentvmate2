@@ -7609,7 +7609,7 @@ https://zekonew.iosplayer.ru/zeko/premium126/mono.m3u8
 #EXTINF: -1 tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS | ASTRO ⭐",⭐ FOOTBALL
 https://dl.dropboxusercontent.com/scl/fi/jw5wavd21hz9ycl1rrb8u/astro-football.m3u8?rlkey=0fbixc4mgz8g0ur4sv3v8109g&st=fnrvosop
 
-#EXTINF:-1 tvg-name="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" tvg-logo="" group-title="SPORTS | ASTRO ⭐",Astro Sports Plus
+#EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | ASTRO ⭐",Astro Sports Plus
 http://exm3u.extraott.com:900/live/1103581436/4099381829/401600406.m3u8
 
 #EXTINF:-1 tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | ASTRO ⭐",Astro Badminton
