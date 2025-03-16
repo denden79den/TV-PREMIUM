@@ -7721,6 +7721,29 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/36302.m3u8
 #EXTINF:-1 tvg-id="HubSports5.sg" tvg-name="Hub Sports 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2023/08/Hub-Sports-5.png" group-title="SPORTS | HUB SPORTS",Hub Sports 5
 http://exm3u.extraott.com:900/live/1103581436/4099381829/36301.m3u8
 
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 1" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER1.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289436
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 2" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER2.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 2
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289440
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 3" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER3.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 3
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289441
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 4" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER4.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 4
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289443
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 5" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER5.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 5
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289444
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 6" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER6.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 6
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289445
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 7" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER7.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 7
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289447
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 8" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 8
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289448
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 9" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 9
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289449
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 10" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 10
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289451
+#EXTINF:-1 tvg-ID="" tvg-name="HUB PREMIER 11" tvg-logo="https://img.logo-cdn.cc/HUB PREMIER11.png" group-title="SPORTS | HUB SPORTS",HUB PREMIER 11
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1289452
+
 
 ============================================DIGI Sports=================================================
 
@@ -7758,6 +7781,9 @@ https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3
 http://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS | FIGHT ⭐",⭐ UNIFI SPORTS
 https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
+#EXTINF:-1 group-title="SPORTS | FIGHT ⭐" tvg-logo="https://i.imgur.com/pj6zyon.png📺",⭐STRONGMAN CHAMPIONS LEAGUE
+https://3f4b9dde8740443b9b90459fc7b67cdd.mediatailor.us-east-1.amazonaws.com/v1/manifest/04fd913bb278d8775298c26fdca9d9841f37601f/Samsung-gb_StrongmanChampionsLeague/e21d95be-bbb1-442c-bd84-71813dc764ce/0.m3u8
+
 
 
 ============================================SPORTS NOW=================================================
