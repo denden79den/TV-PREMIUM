@@ -7651,13 +7651,13 @@ https://dl.dropboxusercontent.com/scl/fi/sztcvxxnqr4xd59btv4de/bein_my3.m3u8?rlk
 ==============================================SPORTS SONYTEN===========================================================
 
 
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 1 HD 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten_HD.png" group-title="SPORTS | SONY TEN⭐", SONY Ten 1 HD 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/29566.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 2 HD 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten2_HD.png" group-title="SPORTS | SONY TEN⭐", SONY Ten 2 HD 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/29565.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 3 HD 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Ten3_HD.png" group-title="SPORTS | SONY TEN⭐", SONY Ten 3 HD 
 http://exm3u.extraott.com:900/live/1103581436/4099381829/29564.m3u8
-#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="SPORTS | SONY TEN", SONY Ten 5 HD 
+#EXTINF:-1 tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images//Six_HD.png" group-title="SPORTS | SONY TEN⭐", SONY Ten 5 HD 
 https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com/sliv/&key=thenayeemparvez
 
 
@@ -7666,7 +7666,7 @@ https://mhdstream.com/sliv/stream.php?id=985663256|Referer=https://mhdstream.com
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 1 
+#EXTINF:-1 tvg-id="" tvg-url="" tvg-logo="https://i.imgur.com/MbTpnwO.png" group-title="SPORTS | SONY TEN⭐",SONY SPORTS TEN 1 
 http://tv.cloudcdn.me:80/live.ts?channelId=289&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 
@@ -7676,7 +7676,7 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63537
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 2
+#EXTINF:-1 tvg-logo="https://i.imgur.com/LJGok7x.png" group-title="SPORTS | SONY TEN⭐",SONY SPORTS TEN 2
 http://tv.cloudcdn.me:80/live.ts?channelId=290&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
 
@@ -7686,7 +7686,7 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63536
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 3
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TWNbDTu.png" group-title="SPORTS | SONY TEN⭐",SONY SPORTS TEN 3
 http://tv.cloudcdn.me:80/live.ts?channelId=291&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 
@@ -7695,14 +7695,27 @@ http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63535
 #KODIPROP:inputstream.ffmpegdirect.is_realtime_stream=true
 #KODIPROP:inputstream.ffmpegdirect.open_mode=ffmpeg
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=ts
-#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 4
+#EXTINF:-1 tvg-logo="https://i.imgur.com/TqTashc.png" group-title="SPORTS | SONY TEN⭐",SONY SPORTS TEN 4
 http://tv.cloudcdn.me:80/live.ts?channelId=105349&uid=15301&deviceMac=00:1A:79:1D:53:3F
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/1441526
 
-#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SPORTS | SONY TEN",SONY SPORTS TEN 5
+#EXTINF:-1 tvg-logo="https://i.imgur.com/YEH5jdY.png" group-title="SPORTS | SONY TEN⭐",SONY SPORTS TEN 5
 http://mutant.arrox.top:80/play/live.php?mac=00:1A:79:FF:04:8C&stream=487335&extension=m3u8
 http://m1-max.dns-speedy.com:80/JOSHUAUGO5386/506D4C/63499
 
+#EXTINF:-1 tvg-ID="sonyten1.in" tvg-name="SPORTS | SONY TEN 1 HD" tvg-logo="https://img.logo-cdn.cc/ten1.png" group-title="SPORTS | SONY TEN⭐",SPORTS | SONY TEN 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63537
+#EXTINF:-1 tvg-ID="sonyten2.in" tvg-name="SPORTS | SONY TEN 2 HD" tvg-logo="https://img.logo-cdn.cc/ten2.png" group-title="SPORTS | SONY TEN⭐",SPORTS | SONY TEN 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63536
+#EXTINF:-1 tvg-ID="sonyten3.in" tvg-name="SPORTS | SONY TEN 3 HD" tvg-logo="https://img.logo-cdn.cc/ten3.png" group-title="SPORTS | SONY TEN⭐",SPORTS | SONY TEN 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63535
+#EXTINF:-1 tvg-ID="sonysix.in" tvg-name="SPORTS |SONY TEN 5 HD" tvg-logo="https://img.logo-cdn.cc/sonysix.png" group-title="SPORTS | SONY TEN⭐",SPORTS | SONY TEN 5 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63499
+
+#EXTINF:-1 tvg-ID="starsportsselect1.in" tvg-name="SPORTS |STAR SPORTS SELECT 1 HD" tvg-logo="https://img.logo-cdn.cc/starsports1.png" group-title="SPORTS | SONY TEN⭐",SPORTS |STAR SPORTS SELECT 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63539
+#EXTINF:-1 tvg-ID="starsportsselect2.in" tvg-name="SPORTS |STAR SPORTS SELECT 2 HD" tvg-logo="https://img.logo-cdn.cc/starsports2.png" group-title="SPORTS | SONY TEN⭐",SPORTS |STAR SPORTS SELECT 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/63498
 
 
 
