@@ -1408,39 +1408,39 @@ http://suprino.xyz:80/PMF3J9X/BV7HG8H/584531
 ==================================FILM HBO====================================
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png" group-title="08. FILM | HBO",HBO 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO 1080" tvg-logo="https://i.ibb.co.com/L9rY2tN/hbo.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197972
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png" group-title="08. FILM | HBO",HBO Family 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family 1080" tvg-logo="https://i.ibb.co.com/0GWjcWV/hbofamily.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Family 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197055
-#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png" group-title="08. FILM | HBO",HBO Hits 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Hits 1080" tvg-logo="https://i.ibb.co.com/8mgc3qG/hbohits.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Hits 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196480
-#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png" group-title="08. FILM | HBO",HBO Signature 1080
+#EXTINF:-1 tvg-id="" tvg-name="HBO Signature 1080" tvg-logo="https://i.ibb.co.com/4TFkw0B/hbosignature.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Signature 1080
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/221948
-#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png" group-title="08. FILM | HBO",Cinemax
+#EXTINF:-1 tvg-id="" tvg-name="Cinemax" tvg-logo="https://i.ibb.co.com/WfRpvsJ/cinemax.png" group-title="08. FILM | HBO & ETV BIOSKOP",Cinemax
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/197964
 
 
-#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="08. FILM | HBO",CINEMAX 720
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/cinemax.png" group-title="08. FILM | HBO & ETV BIOSKOP",CINEMAX 720
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/2156.ts
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="08. FILM | HBO",HBO 720
+#EXTINF:0 tvg-id="ID" tvg-name="HBO" ch-number="105" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbo.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO 720
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/210.ts
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="08. FILM | HBO",HBO Hits 720
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Hits" ch-number="107" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbohits.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Hits 720
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/591.ts
 
-#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="08. FILM | HBO",HBO Family Asia 720
+#EXTINF:0 tvg-id="" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbofam.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Family Asia 720
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/592.ts
 
-#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="08. FILM | HBO",HBO Signature 720
+#EXTINF:0 tvg-id="ID" tvg-name="HBO Signature" ch-number="106" tvg-logo="https://raw.githubusercontent.com/Iqbalbala/CHANNEL/main/hbosig.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Signature 720
 #EXTVLCOPT:http-user-agent=Player (Linux; Android 12)
 http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 
-#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="08. FILM | HBO",HBO (TRANS)
+#EXTINF:-1 tvg-id="HBO.my" tvg-name="HBO HD" tvg-logo="https://i.loli.net/2021/10/07/qKaC82rwGmOuAdX.jpg" group-title="08. FILM | HBO & ETV BIOSKOP",HBO (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1449,7 +1449,7 @@ http://nonton.site:8080/live/DZqjznfyyn/3Q9O2vucT6/26597.ts
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b970b53/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="08. FILM | HBO",HBO Hits (TRANS)
+#EXTINF:-1 tvg-id="HBOHits.id" tvg-name="HBO Hits" tvg-logo="https://i.loli.net/2021/10/07/w8Seb17JIRvBfrP.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Hits (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1458,7 +1458,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856b6088c3016b87d64b9
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf67379f/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="08. FILM | HBO",HBO Family (TRANS)
+#EXTINF:-1 tvg-id="" tvg-name="HBO Family" tvg-logo="https://i.loli.net/2021/10/07/6pUeHjzMhctCgu2.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Family (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1467,7 +1467,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d054fbf6
 https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927fe37a4/manifest.mpd
 
 
-#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="08. FILM | HBO",HBO Signature (TRANS)
+#EXTINF:-1 tvg-id="HBOSignature.id" tvg-name="HBO Signature my" tvg-logo="https://i.loli.net/2021/10/07/w2BW4vgHC6PTEMf.png" group-title="08. FILM | HBO & ETV BIOSKOP",HBO Signature (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1475,7 +1475,7 @@ https://cdnjkt4.transvision.co.id:1000/live/master/4/4028c6856c3db2cc016d055927f
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0ca37a2/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="08. FILM | HBO",CINEMAX (TRANS)
+#EXTINF:-1 tvg-logo="https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEhzjgvIIQKQiVAnbTBFd4WRMJ8Hp831ngGwJ6fkMvTV9Ctxy0iaLYWbnJeP4uxntytGI1kFZGiti-SMOEvGlAxy_2o0pcU_NdCr0elKrR6R-4BpT4MEFSh3AxkpEKvsBlCamLIxQk1NfTziREdEiN3oPOXLzBZTSGRy86UOEzUXYSt0Zq2fk4muQpcdiehQ/s700/CINEMAX.png" group-title="08. FILM | HBO & ETV BIOSKOP",CINEMAX (TRANS)
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
 #KODIPROP:inputstream.adaptive.manifest_type=dash
 #KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
@@ -1483,13 +1483,23 @@ https://cdnjkt4.transvision.co.id:1000/live/master/3/4028c6856c3db2cc016d0552e0c
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/108.0.0.0 Safari/537.36
 https://cdnjkt4.transvision.co.id:1000/live/master/1/4028c6856c3db2cc016cdbfc4a1934bf/manifest.mpd
 
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",Etv Bioskop
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 2
+#EXTINF:-1 tvg-id="24KitchenPortugal.pt" tvg-name="Etv Bioskop 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",Etv Bioskop 2
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 3
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",Etv Bioskop 3
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO",Etv Bioskop 4
+#EXTINF:-1 tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",Etv Bioskop 4
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
+
+
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",ID: ETV BIOSKOP 01
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",ID: ETV BIOSKOP 02
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",ID: ETV BIOSKOP 03
+http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
+#EXTINF:-1 tvg-id="" tvg-name="ID: ETV BIOSKOP 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="08. FILM | HBO & ETV BIOSKOP",ID: ETV BIOSKOP 04
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 
 
@@ -6043,7 +6053,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166409
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166416
 #EXTINF:-1 tvg-id="" tvg-name="BBC Earth" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-04/6f66017709d5d2bd93d4dd0e028a7e80.png" group-title="15. TV | PREMIUM",BBC Earth
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165106
-#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",BBC Lifestyle
+#EXTINF:-1 tvg-id="" tvg-name="BBC Lifestyle" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",BBC Lifestyle
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264747
 #EXTINF:-1 tvg-id="" tvg-name="beIN Sports 1" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2025-02/60151b52e1e8004606612eeb01f3fbde.png" group-title="15. TV | PREMIUM",beIN Sports 1
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/295289
@@ -6075,7 +6085,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298510
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298511
 #EXTINF:-1 tvg-id="" tvg-name="Channel News Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ef1ee75b73bdfcb0056cd605e00a2bca.png" group-title="15. TV | PREMIUM",Channel News Asia
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157602
-#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",Chinese Drama
+#EXTINF:-1 tvg-id="" tvg-name="Chinese Drama" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",Chinese Drama
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298516
 #EXTINF:-1 tvg-id="" tvg-name="CinemaWorld" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/67979916a84e98b9942945379c1e648b.png" group-title="15. TV | PREMIUM",CinemaWorld
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165082
@@ -6111,17 +6121,17 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298524
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264765
 #EXTINF:-1 tvg-id="" tvg-name="Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="15. TV | PREMIUM",Ent
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157581
-#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 01" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",ETV BIOSKOP 01
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 01" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",ETV BIOSKOP 01
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298526
-#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 02" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",ETV BIOSKOP 02
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 02" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",ETV BIOSKOP 02
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298513
-#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 03" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",ETV BIOSKOP 03
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 03" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",ETV BIOSKOP 03
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298514
-#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 04" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",ETV BIOSKOP 04
+#EXTINF:-1 tvg-id="" tvg-name="ETV BIOSKOP 04" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",ETV BIOSKOP 04
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298529
 #EXTINF:-1 tvg-id="" tvg-name="Fashion TV" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/1b93a982149c1ae794f98d2c80c5bf5d.png" group-title="15. TV | PREMIUM",Fashion TV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298530
-#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",FLIK
+#EXTINF:-1 tvg-id="" tvg-name="FLIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",FLIK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 #EXTINF:-1 tvg-id="" tvg-name="Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="15. TV | PREMIUM",Galaxy
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264773
@@ -6165,7 +6175,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/287423
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157590
 #EXTINF:-1 tvg-id="" tvg-name="IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="15. TV | PREMIUM",IMC
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264769
-#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",Indi Kids
+#EXTINF:-1 tvg-id="" tvg-name="Indi Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",Indi Kids
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298539
 #EXTINF:-1 tvg-id="" tvg-name="Indosiar" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ce86013bab079cc94d323717c9006e24.png" group-title="15. TV | PREMIUM",Indosiar
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162138
@@ -6205,7 +6215,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298548
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165054
 #EXTINF:-1 tvg-id="" tvg-name="Moji" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/e7f70e39cc40ff59938530edbd768d4f.png" group-title="15. TV | PREMIUM",Moji
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298550
-#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM",MQTV
+#EXTINF:-1 tvg-id="" tvg-name="MQTV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM",MQTV
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298551
 #EXTINF:-1 tvg-id="" tvg-name="MTA 7 Asia" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-07/291c3c364ac79b346426329acea392dd.png" group-title="15. TV | PREMIUM",MTA 7 Asia
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162522
@@ -6351,7 +6361,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162509
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/196459
 #EXTINF:-1 tvg-id="" tvg-name="ID: TV One" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-10/1ff4e1118db486e897f955e9733419e2.png" group-title="15. TV | PREMIUM 2",ID: TV One
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/296214
-#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",ID: TVKU
+#EXTINF:-1 tvg-id="" tvg-name="ID: TVKU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM 2",ID: TVKU
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/166709
 #EXTINF:-1 tvg-id="" tvg-name="ID: Animax" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/ac69997f647a6e4b289ee8a647d0dfbd.png" group-title="15. TV | PREMIUM 2",ID: Animax
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165081
@@ -6389,7 +6399,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298524
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264765
 #EXTINF:-1 tvg-id="" tvg-name="ID: Ent" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2021-07/aae56ad9266b920e324b5de943da25ae.png" group-title="15. TV | PREMIUM 2",ID: Ent
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157581
-#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",ID: FLIK
+#EXTINF:-1 tvg-id="" tvg-name="ID: FLIK" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM 2",ID: FLIK
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165095
 #EXTINF:-1 tvg-id="" tvg-name="ID: Galaxy" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/dddbae34f8fafd015e5221a02075ad19.png" group-title="15. TV | PREMIUM 2",ID: Galaxy
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264773
@@ -6417,7 +6427,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264750
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/157590
 #EXTINF:-1 tvg-id="" tvg-name="ID: IMC" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/2b58230b601a563bb26eb0e8adc69e5d.png" group-title="15. TV | PREMIUM 2",ID: IMC
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/264769
-#EXTINF:-1 tvg-id="" tvg-name="ID: Indi Kids" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",ID: Indi Kids
+#EXTINF:-1 tvg-id="" tvg-name="ID: Indi Kids" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM 2",ID: Indi Kids
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298539
 #EXTINF:-1 tvg-id="" tvg-name="ID: My Cinema" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/a33da8890f49577c3a90507a07c8815d.png" group-title="15. TV | PREMIUM 2",ID: My Cinema
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298553
@@ -6427,7 +6437,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298554
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/165107
 #EXTINF:-1 tvg-id="" tvg-name="ID: nickelodeon" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2022-01/e1dd8b2c9477e9c047fc597e8835eebb.png" group-title="15. TV | PREMIUM 2",ID: nickelodeon
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/162510
-#EXTINF:-1 tvg-id="" tvg-name="ID: ONE" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",ID: ONE
+#EXTINF:-1 tvg-id="" tvg-name="ID: ONE" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM 2",ID: ONE
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298563
 #EXTINF:-1 tvg-id="" tvg-name="ID: Rock Entertaiment" tvg-logo="http://s3.i3ns.net:2052/portal/picon/2023-05/9a6cf4f6391f4d39f34c0a04a208e4c1.png" group-title="15. TV | PREMIUM 2",ID: Rock Entertaiment
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298565
@@ -6589,7 +6599,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/298471
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/1124
 #EXTINF:-1 tvg-id="" tvg-name="UK: TNT Sports 6" tvg-logo="https://www.lyngsat.com/logo/tv/tt/tnt-sports-uk-us-uk.png" group-title="15. TV | PREMIUM 2",UK: TNT Sports 6
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/47961
-#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass" tvg-logo="http://s3.i3ns.net:2052/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",UK: UFC Fight Pass
+#EXTINF:-1 tvg-id="" tvg-name="UK: UFC Fight Pass" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdFbLfqLOSDv-houfb34E1x9k9pNsl2dd59A&usqp=CAU" group-title="15. TV | PREMIUM 2",UK: UFC Fight Pass
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/280280
 #EXTINF:-1 tvg-id="" tvg-name="UK: ViaPlay 1 [vip]" tvg-logo="http://s3.i3ns.net/cs/etc/blank-icon.png" group-title="15. TV | PREMIUM 2",UK: ViaPlay 1 [vip]
 http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/303939
