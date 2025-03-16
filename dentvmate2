@@ -7747,6 +7747,8 @@ https://dl.dropboxusercontent.com/scl/fi/tv7zvfforxg6r10d465kp/UFC-FIGHT-PASS.m3
 #EXTVLCOPT:http-referrer=https://www.visionplus.id/
 #EXTINF:-1 group-title="SPORTS | FIGHT ⭐" tvg-logo="https://i.imgur.com/kPB5ml2.png", FIGHT SPORTS
 http://cempedak-live-cdn.mncnow.id/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+#EXTINF:-1 tvg-logo="https://i.imgur.com/lsEzEWY.png" group-title="SPORTS | FIGHT ⭐",⭐ UNIFI SPORTS
+https://unifi-live01.secureswiftcontent.com/UnifiHD/live11.mpd
 
 
 ============================================SPORTS NOW=================================================
