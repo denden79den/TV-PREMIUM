@@ -29,19 +29,11 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
-#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="01. TV | NASIONAL",Indosiar (Vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=205
-
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="01. TV | NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=052861ebedab473089d0e7480d0c5b63:4d51aa0304af98c449fdec1548a199f9
 https://atemeshield1-voe.sysln.id/live/eds/MOJIOChannel/mpd/MOJIOChannel.mpd
-
-#EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="01. TV | NASIONAL",Moji (Vidio)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Linux; Android 14; Google TV Streamer Build/UTT3.240625.001.K5; wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0 Chrome/130.0.6723.60 Mobile Safari/537.36 
-https://elitestreamid.xyz/scripts/vidio/hls.php/stream.m3u8?id=206
 
 #KODIPROP:inputstream.adaptive.license_type=clearkey 
 #KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
@@ -591,7 +583,7 @@ https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/576.ts
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV03/27022025/577.ts
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpeg" group-title="02. TV | DIGITAL⭐",⭐MOJI
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/moji.jpg" group-title="02. TV | DIGITAL⭐",⭐MOJI
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV03/27022025/584.ts
 
@@ -611,7 +603,7 @@ https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/564.ts
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/574.ts
 
-#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logoettv..jpg.png" group-title="02. TV | DIGITAL⭐",⭐RTV
+#EXTINF:-1 tvg-id="1" tvg-logo="https://mastertv.tech/logo/Logomod/rtvvv.jpg" group-title="02. TV | DIGITAL⭐",⭐RTV
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
 
@@ -619,6 +611,31 @@ https://ktvindonesia.my.id/live/PLKINGTV03/27022025/561.ts
 #EXTVLCOPT:http-user-agent=OTTOTT Navigator/1.7.1.2 (Linux;Android 31; en; YSZOHAAANZ) ExoPlayerLib/2.15.1
 https://ktvindonesia.my.id/live/PLKINGTV03/27022025/560.ts
 
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/btvv.png.jpg" group-title="02. TV | DIGITAL⭐",⭐BTV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logopancingan/tvrilama..jpg.png" group-title="02. TV | DIGITAL⭐",⭐TVRI📺
+https://cempedak-live-cdn.mncnow.id/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/jaktv..png.jpg" group-title="02. TV | DIGITAL⭐",⭐Jaktv📺
+https://cempedak-live-cdn.mncnow.id/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://mrpw.ptmnc01.verspective.net/?deviceId=MDA5MmI1NjctOWMyMS0zNDYyLTk0NDAtODM5NGQ1ZjdlZWRi
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#EXTINF:-1 tvg-logo="https://mastertv.tech/logo/Logomod/jtvvv.png.jpg" group-title="02. TV | DIGITAL⭐",⭐JTV📺
+https://cempedak-live-cdn.mncnow.id/live/eds/JTV/sa_dash_vmx/JTV.mpd
 
 
 
