@@ -8101,6 +8101,15 @@ https://dl.dropboxusercontent.com/scl/fi/o49pnhaujarrmst8vn1eu/beinar8.m3u8?rlke
 #EXTINF: -1 tvg-logo="https://i.imgur.com/zVe4amY.png" group-title="SPORTS | BEIN SPORTS⭐",⭐ BEIN SPORTS 9
 https://dl.dropboxusercontent.com/scl/fi/t5t2mcrc1krrdqdltz6g4/beinar9.m3u8?rlkey=kbmouwhsa35pu5a701alljo9z&st=h99fkpab
 
+====================================play sports==============================================
+
+#EXTINF:-1 tvg-ID="playsports1.be" tvg-name="PLAY SPORTS 1 HD" tvg-logo="http://img.logo-cdn.cc/playsports1.png" group-title="SPORTS | PLAY",PLAY SPORTS 1 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/73239
+#EXTINF:-1 tvg-ID="playsports2.be" tvg-name="PLAY SPORTS 2 HD" tvg-logo="http://img.logo-cdn.cc/playsports2.png" group-title="SPORTS | PLAY",PLAY SPORTS 2 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/73240
+#EXTINF:-1 tvg-ID="" tvg-name="PLAY SPORTS 3 HD" tvg-logo="http://img.logo-cdn.cc/playsports3.png" group-title="SPORTS | PLAY",PLAY SPORTS 3 HD
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/536000
+
 
 ====================================OPTUS SPORTS==============================================
 
