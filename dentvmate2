@@ -6875,10 +6875,7 @@ http://aflaxtv.xyz:8080/test_acct/ohbo1veifa4AhD/14788
 
 
 #EXTINF:-1 group-title="16. MALAYSIA | ASTRO" tvg-id="boohd.my" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/MyBoo.png",030. Boo 
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/111.0.0.0 Firefox/101.0 Safari/537.36 Edg/111.0.1661.43
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Boo.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/29626.m3u8
 
 #EXTINF:-1 tvg-id="Dunia Sinema HD" tvg-name="" tvg-logo="https://iili.io/H88dhB4.png" group-title="16. MALAYSIA | ASTRO",031. Dunia Sinema
 #EXTVLCOPT:http-user-agent=VLC/3.2.21 LibVLC/3.2.21
@@ -6914,16 +6911,10 @@ http://perfecttv.net:8080/Perfecttv/Perfecttv/2
 
 
 #EXTINF:-1 tvg-id="Astro Citra" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroCitra.png" group-title="16. MALAYSIA | ASTRO",037. Astro Citra
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroCitra.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/400200335.m3u8
 
 #EXTINF:-1 tvg-id="Astro Ria" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRia.png" group-title="16. MALAYSIA | ASTRO",038. Astro Ria
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRia.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/191867.m3u8
 
 #EXTINF:-1 tvg-id="Astro Prima" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroPrima.png" group-title="16. MALAYSIA | ASTRO",039. Astro Prima
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
@@ -6932,24 +6923,18 @@ https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroPrima.m
 
 
 #EXTINF:-1 tvg-id="Astro Aura" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroAura.png" group-title="16. MALAYSIA | ASTRO",040. Astro Aura
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroAura.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/13073.m3u8
 
 #EXTINF:-1 tvg-id="Astro Rania" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroRania.png" group-title="16. MALAYSIA | ASTRO",041. Astro Rania
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/AstroRania.m3u8
-
-
+http://extraott.com:900/live/3162523972/3791698850/191866.m3u8
 
 #EXTINF:-1 tvg-id="Astro Sensasi" tvg-name="" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSensasi.png" group-title="16. MALAYSIA | ASTRO",042. Astro Sensasi
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/Sensasi.m3u8
 
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CERIA FHD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/85/Astro_Ceria.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO CERIA FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052389
-
+http://opplex.tv:8080/mother/mother/388726
+http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34590
 
 #EXTINF:-1 tvg-id="Okey" tvg-url="https://www.bevy.be/bevyfiles/malaysiapremium1.xml" group-title="16. MALAYSIA | ASTRO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/b/b9/Okey_RTM.png",042. TV Okey
 https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
@@ -6957,43 +6942,51 @@ https://d25tgymtnqzu8s.cloudfront.net/smil:okey/manifest.mpd
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 1" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_1_2024.png" group-title="16. MALAYSIA | ASTRO",042. PREMIER LEAGUE 1
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34535
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 2" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Premier_League_2_2024.png" group-title="16. MALAYSIA | ASTRO",042. PREMIER LEAGUE 2
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34534
+http://extraott.com:900/live/3162523972/3791698850/6589.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 3" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro_Grandstand_2024.png" group-title="16. MALAYSIA | ASTRO",042. GRANDSTAND
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34533
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 4" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/10/Astro-Football.png" group-title="16. MALAYSIA | ASTRO",042. FOOTBALL
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34531
+http://extraott.com:900/live/3162523972/3791698850/401600422.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SUPERSPORT 5" tvg-logo="https://b1gchlogos.xyz/wp-content/uploads/2024/09/W-Sport.png" group-title="16. MALAYSIA | ASTRO",042. W-SPORT
-http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34532
+http://extraott.com:900/live/3162523972/3791698850/13027.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="16. MALAYSIA | ASTRO", 042. ASTRO BADMINTON HD
+http://extraott.com:900/live/3162523972/3791698850/401600423.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO BADMINTON FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO BADMINTON FHD
+http://extraott.com:900/live/3162523972/3791698850/401600424.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS HD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO SPORTS PLUS HD
+http://extraott.com:900/live/3162523972/3791698850/401600405.m3u8
+#EXTINF:-1 tvg-id="" tvg-name="MY| ASTRO SPORTS PLUS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO SPORTS PLUS FHD
+http://extraott.com:900/live/3162523972/3791698850/401600406.m3u8
 
 
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="16. MALAYSIA | ASTRO",042. BEIN SPORTS 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052431
+http://extraott.com:900/live/3162523972/3791698850/13120.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 2 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="16. MALAYSIA | ASTRO",042. BEIN SPORTS 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052425
+http://extraott.com:900/live/3162523972/3791698850/13119.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="BEIN SPORTS 3 FHD" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="16. MALAYSIA | ASTRO",042. BEIN SPORTS 3 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052429
+http://extraott.com:900/live/3162523972/3791698850/13118.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV FHD" tvg-logo="http://go4.pw/ASIA/SPOTV.png" group-title="16. MALAYSIA | ASTRO",042. SPOTV 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052591
+http://extraott.com:900/live/3162523972/3791698850/13132.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SPOTV 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/SPOTV_2.png" group-title="16. MALAYSIA | ASTRO",042. SPOTV 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052590
+http://extraott.com:900/live/3162523972/3791698850/13131.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA FHD" tvg-logo="http://go4.pw/ASIA/ASTRO.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO ARENA 1 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052375
+http://extraott.com:900/live/3162523972/3791698850/29658.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA 2 FHD" tvg-logo="http://go4.pw/ASIA/MALAYSIA/ASTRO_ARENA_2.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO ARENA 2 FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052373
+http://extraott.com:900/live/3162523972/3791698850/13111.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 1" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO ARENA BOLA 1
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131941
+http://extraott.com:900/live/3162523972/3791698850/401550644.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO ARENA BOLA 2" tvg-logo="http://go4.pw/ASIA/bola.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO ARENA BOLA 2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1131942
+http://extraott.com:900/live/3162523972/3791698850/401550643.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO CRICKET FHD" tvg-logo="http://go4.pw/ASIA/CRICKET.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO CRICKET FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052393
+http://extraott.com:900/live/3162523972/3791698850/6587.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="ASTRO PREMIER FHD" tvg-logo="http://go4.pw/ASIA/PREMIER.png" group-title="16. MALAYSIA | ASTRO",042. ASTRO PREMIER FHD
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052402
+http://extraott.com:900/live/3162523972/3791698850/13127.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 1" tvg-logo="http://go4.pw/ASIA/TEN.png" group-title="16. MALAYSIA | ASTRO",042. SONY TEN 1
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052689
+http://extraott.com:900/live/3162523972/3791698850/29566.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 2" tvg-logo="http://go4.pw/ASIA/TEN2.png" group-title="16. MALAYSIA | ASTRO",042. SONY TEN 2
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052690
+http://extraott.com:900/live/3162523972/3791698850/29565.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="SONY TEN 3" tvg-logo="http://go4.pw/ASIA/TEN3.png" group-title="16. MALAYSIA | ASTRO",042. SONY TEN 3
-http://suprino.xyz:80/PMF3J9X/BV7HG8H/1052691
+http://extraott.com:900/live/3162523972/3791698850/29564.m3u8
 
 
 ===============================
