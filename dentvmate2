@@ -7783,6 +7783,16 @@ http://hades1.xyz:8080/R5JU4Ib1YjBOXnITIfVvU44bJr7TJ2/Rr9xlloATZ4cZZTufFPBuOGUXy
 
 #EXTINF:-1 tvg-logo="https://i.imgur.com/87GJt4s.png" group-title="SPORTS | FIGHT ⭐", WWE NETWORK HD
 https://dl.dropboxusercontent.com/scl/fi/q65xh47mh0hirtzqhkv0a/wwenetwork.m3u8?rlkey=o8n4xd9tl3t6pwgumiery618g&st=skhsjhnl
+#EXTINF:-1 tvg-ID="" tvg-name="NL ▎WWE TV HD 8ᴋ" tvg-logo="http://img.logo-cdn.cc/wwenetwork.png" group-title="SPORTS | FIGHT ⭐",NL ▎WWE TV HD 8ᴋ
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/98145
+#EXTINF:-1 tvg-ID="" tvg-name="GENERAL ▎WWE CHANNEL" tvg-logo="https://img.logo-cdn.cc/wwenetwork.png" group-title="SPORTS | FIGHT ⭐",GENERAL ▎WWE CHANNEL
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/118032
+#EXTINF:-1 tvg-ID="" tvg-name="AR ▎ OSN WWE " tvg-logo="https://img.logo-cdn.cc/osnplus.png" group-title="SPORTS | FIGHT ⭐",AR ▎ OSN WWE 
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1445965
+#EXTINF:-1 tvg-ID="" tvg-name="AR ▎ WWE FRIDAY NIGHT SMACKDOWN" tvg-logo="https://img.logo-cdn.cc/signal.png" group-title="SPORTS | FIGHT ⭐",AR ▎ WWE FRIDAY NIGHT SMACKDOWN
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1446301
+#EXTINF:-1 tvg-ID="" tvg-name="AR ▎ WWE SMACKDOWN 1" tvg-logo="https://img.logo-cdn.cc/signal.png"group-title="SPORTS | FIGHT ⭐",AR ▎ WWE SMACKDOWN 1
+http://m1-max.dns-speedy.com:80/529C1C/7446D7/1446302
 #EXTINF:-1 tvg-logo="https://i.imgur.com/Hqt15Ff.png" group-title="SPORTS | FIGHT ⭐", IMPACT WRESTLING
 https://d2p372oxiwmcn1.cloudfront.net/hls/1080p/playlist.m3u8
 #EXTINF: -1 tvg-id="ufc fight pass" tvg-logo="https://i.imgur.com/ih4aYFc.png" group-title="SPORTS | FIGHT ⭐", UFC FIGHT PASS
