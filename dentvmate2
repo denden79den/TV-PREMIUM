@@ -7638,6 +7638,15 @@ http://exm3u.extraott.com:900/live/1103581436/4099381829/29658.m3u8
 #EXTINF:-1 tvg-name="" tvg-logo="https://lo1.in/MALAY/astroarn2.png" group-title="SPORTS | ASTRO ⭐",Astro Arena 2
 http://exm3u.extraott.com:900/live/1103581436/4099381829/13111.m3u8
 
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY1.png" group-title="SPORTS | ASTRO ⭐",⭐ MY: BEIN SPORTS 1
+https://dl.dropboxusercontent.com/scl/fi/bnl0puibcfv6do96q0o3o/bein_my1.m3u8?rlkey=1e46nhcf27ii5nupxe81zjd8p
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY2.png" group-title="SPORTS | ASTRO ⭐",⭐ MY: BEIN SPORTS 2
+https://dl.dropboxusercontent.com/scl/fi/f0mlfvd3xizf8goi3odh6/bein_my2.m3u8?rlkey=znludjyid0jgd4rcg20pruota
+#EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS | ASTRO ⭐",⭐ MY: BEIN SPORTS 3
+https://dl.dropboxusercontent.com/scl/fi/sztcvxxnqr4xd59btv4de/bein_my3.m3u8?rlkey=j0tzio68tf1hor2bzieev5112
+
+
+
 
 ==============================================SPORTS SONYTEN===========================================================
 
