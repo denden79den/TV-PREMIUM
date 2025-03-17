@@ -7481,7 +7481,8 @@ http://op-group1-swiftservehd-1.dens.tv/h/h235/02.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",PLAY 2 (BRI liga 1)
 https://raw.githubusercontent.com/whs4030/WahyuIPTV/refs/heads/main/IndosiarHD.m3u8
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",channel 1
-https://mantul.biz.id:443/user010223/user010223/60
+#EXTVLCOPT:http-user-agent=OTT Navigator/1.7.1.2 (Linux;Android 31; en; ZUPAMNZVUB) ExoPlayerLib/2.15.1
+https://ktvindonesia.my.id/live/PLKINGTV/gx6kCTa3DE/585.ts
 #EXTINF:-1 tvg-logo="https://img.thesports.com/football/competition/b1e228ad69b6a2c235047e0a13ceb391.png" group-title="SPORTS | BRI LIGA 1",channel 2
 http://viphomal.xyz:8080/VIP0192170801043953/c3448c66c871/34327
 
