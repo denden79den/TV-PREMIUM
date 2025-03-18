@@ -3860,6 +3860,772 @@ https://d1abp075u76pbq.cloudfront.net/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
 
 
 
+*****************NEW VISION+ 4****************
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars1.jpg" group-title="10. VIP | VISION+ 4",,Sportstars
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=531c6d50e3e9f9ba66446f624f492289:d769d9ae238bdd424f8bcdcdc9a3801f
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports-HD/sa_dash_vmx/MNCSports-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars2.jpg" group-title="10. VIP | VISION+ 4",,Sportstars 2
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45fec91ce1f19b6b1f31d69dcfaaf6cd:843e228ab109e9aa6c4822ee4ad05d7d
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports2-HD/sa_dash_vmx/MNCSports2-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars3.jpg" group-title="10. VIP | VISION+ 4",,Sportstars 3
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fadd2720deff5925ab86df0819cd7775:f67ff08c7ebc779f6a6fcfc83835f65b
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars3.jpg" group-title="10. VIP | VISION+ 4",,Sportstars 3
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=https://starhub.toda.my.id/drm1.php?id=114&token=ANd9GcSBUZlMdM19x65pLwDvE0EmInAogaJkSoZXb2O81fOOxtWpG-zBYqvr3UYEkno&s
+#https://d1abp075u76pbq.cloudfront.net/live/eds/MNCSports3-HD/sa_dash_vmx/MNCSports3-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars4.jpg" group-title="10. VIP | VISION+ 4",,Sportstars 4
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b81b1942c65f35547ced1bff074206a5:a07dc4d86f51db7195f4b7e2abe9d9e8
+#https://d1abp075u76pbq.cloudfront.net/live/eds/Sportstar4/sa_dash_vmx/Sportstar4.mpd
+
+#EXTINF:-1 group-title="10. VIP | VISION+ 4", tvg-id="SPORTSTARS 3" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars3.jpg",SPORTSTARS 3
+#KODIPROP:inputstream.adaptive.license_type=com.widevine.alpha
+#KODIPROP:inputstream.adaptive.license_key=https://starhub.toda.my.id/drm1.php?id=114&token=ANd9GcSBUZlMdM19x65pLwDvE0EmInAogaJkSoZXb2O81fOOxtWpG-zBYqvr3UYEkno&s
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://d2xz2v5wuvgur6.cloudfront.net/out/v1/6f5596513af749c19d0bcdac013dda3c/index.mpd
+
+#EXTINF:-1 group-title="10. VIP | VISION+ 4", tvg-id="SPORTSTARS 4" tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Sportstars4.jpg",SPORTSTARS 4
+#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
+#KODIPROP:inputstream.adaptive.license_key=bdfa22bee48d443e825f05a217526df8:542ece949283f22969d10c2381fb00c9
+#EXTVLCOPT:http-referrer=https://visionplus.id
+#https://d3b0v7fggu5zwm.cloudfront.net/out/v1/1bdda9bb5aa7415f821ca0eb8b0e8f89/index.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Soccer%20Channel%20.jpg" group-title="10. VIP | VISION+ 4",,Soccer Channel
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4d38060bf41b3c29df0ec950ece6b5da:7ee9506b13480491d79b71c062ab5366
+https://d1abp075u76pbq.cloudfront.net/live/eds/soccerchannel-test/sa_dash_vmx/soccerchannel-test.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20SpoTV1.jpg" group-title="10. VIP | VISION+ 4",,SPOTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV-HD/sa_dash_vmx/SPOTV-HD.mpd
+
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20SpoTV2.jpg" group-title="10. VIP | VISION+ 4",,SPOTV2
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/SPOTV2-HD/sa_dash_vmx/SPOTV2-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/9.%20Fight%20Sports%20.jpg" group-title="10. VIP | VISION+ 4",,Fight Sports
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d2159ffe3be22ed4916a6abe4d58d265:3e4efcec08d5d5c18a403b7048a43638
+https://d1abp075u76pbq.cloudfront.net/live/eds/FightSports/sa_dash_vmx/FightSports.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.RCTI.jpg" group-title="10. VIP | VISION+ 4",,RCTI
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9ba3e153ef8956d6e2b0684fcf74f58f:dbc28cb5c6426080f984a5b6d436bb30
+https://d1abp075u76pbq.cloudfront.net/live/eds/RCTI-DD/sa_dash_vmx/RCTI-DD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.GTV.jpg" group-title="10. VIP | VISION+ 4",,GTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=88f6c7cbd793374cb5f12d7e26dcd63b:e82daa7c7bfb03d99327463fdbd37336
+https://d1abp075u76pbq.cloudfront.net/live/eds/GTV-HD/sa_dash_vmx/GTV-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.MNCTV.jpg" group-title="10. VIP | VISION+ 4",,MNC TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=828e0aba9825c3546a2831e4c0c36f7f:f85d3dcd38981368ab3da597e97ebdcc
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCTV-HD/sa_dash_vmx/MNCTV-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20Trans7.jpg" group-title="10. VIP | VISION+ 4",,Trans TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=334950781f60a66f5e58324b70ac675d:73caca97be8999ce9cfeb3babad8669d
+https://d1abp075u76pbq.cloudfront.net/live/eds/TransTV-2/sa_dash_vmx/TransTV-2.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20TransTV.jpg" group-title="10. VIP | VISION+ 4",,Trans 7
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26bd60e03bbed7819eea0b27075a1897:d221ba6a6ab66e3083c001d2c4a3e5c5
+https://d1abp075u76pbq.cloudfront.net/live/eds/Trans7-2/sa_dash_vmx/Trans7-2.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20NET.jpg" group-title="10. VIP | VISION+ 4",,NET TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
+https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.iNEWS.jpg" group-title="10. VIP | VISION+ 4",,INews
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a31cf5136789514b7e12b9cc99307c84:980e54d671ffc2b2f4cf54e75cae0ac2
+https://d1abp075u76pbq.cloudfront.net/live/eds/iNewsTV-HDD/sa_dash_vmx/iNewsTV-HDD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20MetroTV.jpg" group-title="10. VIP | VISION+ 4",,Metro TV 
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4497473c5b978655ce62de7873e04174:6af319f8d82351f8c3b18c9abdfdef4d
+https://d1abp075u76pbq.cloudfront.net/live/eds/Metro-TV2/sa_dash_vmx/Metro-TV2.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20KompasTV.jpg" group-title="10. VIP | VISION+ 4",,Kompas TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=493fd10e609dd02ae97964f438e7e530:695cf9896182c52f1c3a25820e7778f5
+https://d1abp075u76pbq.cloudfront.net/live/eds/KompasTV/sa_dash_vmx/KompasTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20TVONE.jpg" group-title="10. VIP | VISION+ 4",,TVONE
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=90204c05545f95a262bb0d3ac45de870:0e80f2a19fdf8da476bf695cd9570bb2
+https://d1abp075u76pbq.cloudfront.net/live/eds/TVOne/sa_dash_vmx/TVOne.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20BTV.jpg" group-title="10. VIP | VISION+ 4",,Berita Satu
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d022ff3be9391a16a8436261059806b0:e6dd32d6a257f900acb52a82d898bb81
+https://d1abp075u76pbq.cloudfront.net/live/eds/BeritaSatu/sa_dash_vmx/BeritaSatu.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20IDX.jpg" group-title="10. VIP | VISION+ 4",,IDX
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fbdbe252e6354b175852d1929c42d848:7a8bb14fcf8fd0b896ab41c29a78aae0
+https://d1abp075u76pbq.cloudfront.net/live/eds/IDX/sa_dash_vmx/IDX.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20MNCNews.jpg" group-title="10. VIP | VISION+ 4",,MNC News
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=26cc3e3343858d3986322f16e10b5823:0ad735e707e1c79bc550efa49f2ea4bd
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCnews-HDD/sa_dash_vmx/MNCnews-HDD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20ANTV.jpg" group-title="10. VIP | VISION+ 4",,ANTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/ANTV/sa_dash_vmx/ANTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20DaaiTV.jpg" group-title="10. VIP | VISION+ 4",,DAAI TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eb7c09e964e89e668266ea31f2710ffa:0a9832e32206fff46674b8210c9b6897
+https://d1abp075u76pbq.cloudfront.net/live/eds/DAAITV/sa_dash_vmx/DAAITV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20RTV.jpg" group-title="10. VIP | VISION+ 4",,RTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=30384ee5424eab4afdff34d7a59e0ef9:5f3d2f2c194266ae9a28210f8976cbe0
+https://d1abp075u76pbq.cloudfront.net/live/eds/RTV/sa_dash_vmx/RTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20TVRI.jpg" group-title="10. VIP | VISION+ 4",,TVRI
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ca65af90adc5e3ddb180e16426bb67da:b6f87a3a128dbd75ead036f596edeae7
+https://d1abp075u76pbq.cloudfront.net/live/eds/PemersatuBangsa/sa_dash_vmx/PemersatuBangsa.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20JakTV.jpg" group-title="10. VIP | VISION+ 4",,JAKTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f2c9087e5432ce2c2f4ae8e1fd77ae4c:f7a50262991ca7d505fce1572a7f0c2a
+https://d1abp075u76pbq.cloudfront.net/live/eds/JakTV/sa_dash_vmx/JakTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20JTV.jpg" group-title="10. VIP | VISION+ 4",,JTV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=10e203f655014b5d18b0c85a6c72c809:acdcd0b65014e4929c6296171bdfebad
+https://d1abp075u76pbq.cloudfront.net/live/eds/JTV/sa_dash_vmx/JTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20BaliTV.jpg" group-title="10. VIP | VISION+ 4",,Bali TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c6bb2f182bc8c5905c2636153ac36249:152b81c5cd1306bb83993290193063cb
+https://d1abp075u76pbq.cloudfront.net/live/eds/BaliTV/sa_dash_vmx/BaliTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/1.%20BandungTV.jpg" group-title="10. VIP | VISION+ 4",,Bandung TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a7fd43751f24d64a16f6f4d289ebd395:2ef65773d541ccaf8ba61a3d141711f0
+https://d1abp075u76pbq.cloudfront.net/live/eds/BandungTV/sa_dash_vmx/BandungTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20Bloomberg%20.jpg" group-title="10. VIP | VISION+ 4",,Bloomberg TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=272401a5b200375e49a4712cf39f369c:39d7bc2faf1f13b8a2bb106b617e604a
+https://d1abp075u76pbq.cloudfront.net/live/eds/Bloomberg/sa_dash_vmx/Bloomberg.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20Euronews%20.jpg" group-title="10. VIP | VISION+ 4",,EuroNews
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9acec565e4d5e994523b3b18e0a7521e:a16eb03e31229b194ec4b45c3cb80b46
+https://d1abp075u76pbq.cloudfront.net/live/eds/EuroNews/sa_dash_vmx/EuroNews.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20France24.jpg" group-title="10. VIP | VISION+ 4",,France 24 English
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2968b8d8884c66ebfc54b53bee1070ee:7182638b386cb06e211b6771c1a10861
+https://d1abp075u76pbq.cloudfront.net/live/eds/France24/sa_dash_vmx/France24.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20CNA.jpg" group-title="10. VIP | VISION+ 4",,CNA
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e1ae750e09889a610744516182c8e95a:2f7aa7b21102d05a986a4212c4afa06f
+https://d1abp075u76pbq.cloudfront.net/live/eds/ChannelNewsAsia/sa_dash_vmx/ChannelNewsAsia.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20BBC%20world%20news.jpg" group-title="10. VIP | VISION+ 4",,BBC News
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=82e458dc5613eaaa2608de8d190f1637:c25659bd78913e93e3fddace99a964c1
+https://d1abp075u76pbq.cloudfront.net/live/eds/BBCWorldNews/sa_dash_vmx/BBCWorldNews.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20CNBC.jpg" group-title="10. VIP | VISION+ 4",,CNBC Asia
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a6de9ad0c51e2673f543b71ac5a54211:533886c95819317d48fd079d78c3d757
+https://d1abp075u76pbq.cloudfront.net/live/eds/CNBC/sa_dash_vmx/CNBC.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20ABC%20Australia%20.jpg" group-title="10. VIP | VISION+ 4",,ABC Australia
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+https://d1abp075u76pbq.cloudfront.net/live/eds/AustraliaPlus/sa_dash_vmx/AustraliaPlus.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20Al%20Jazeera%20.jpg" group-title="10. VIP | VISION+ 4",,Al Jazeera English
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59b86c4bc0dc5de64bdfafe5152cc8f1:014e41ad9ec2997fe29d3c3bc372491f
+https://d1abp075u76pbq.cloudfront.net/live/eds/AlJazeeraInternational/sa_dash_vmx/AlJazeeraInternational.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20DW.jpg" group-title="10. VIP | VISION+ 4",,DW English
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4472db9a36186f11703d04a4adbbf279:f00791bacba0575927de6cf15cfcd9d9
+https://d1abp075u76pbq.cloudfront.net/live/eds/DW/sa_dash_vmx/DW.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20TV5%20Monde.jpg" group-title="10. VIP | VISION+ 4",,TV 5 Monde
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1b411a92f60bd9751d9637e849d3a632:d9bbfb8e1d34089daf5cc0c3ca17c694
+https://d1abp075u76pbq.cloudfront.net/live/eds/TV5/sa_dash_vmx/TV5.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20Russia%20Today%20.jpg" group-title="10. VIP | VISION+ 4",,Russia Today
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ec5705bb82f3e66b054de048287fd3a4:7819a6f6427b7c7764a514abe8173b02
+https://d1abp075u76pbq.cloudfront.net/live/eds/RTEnglish/sa_dash_vmx/RTEnglish.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20TRT%20World.jpg" group-title="10. VIP | VISION+ 4",,TRT World
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2664cc86dfb0f48e6b3f792dd4e8983c:5fc5b980db05c4450482b4bd7cda39fe
+https://d1abp075u76pbq.cloudfront.net/live/eds/TRTWorld/sa_dash_vmx/TRTWorld.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20Fox%20News%20.jpg" group-title="10. VIP | VISION+ 4",,Fox News
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a547a31e9c19c36f94d120a83f61f92d:7e86ccfba721e3297b73fc9e2b07628d
+https://d1abp075u76pbq.cloudfront.net/live/eds/FoxNews/sa_dash_vmx/FoxNews.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20NHK%20.jpg" group-title="10. VIP | VISION+ 4",,NHK World
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=62ce01c83653c3f20af6bcafc6979fe6:f1325e71f440c06f7e93d7551cb4014a
+https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldTV/sa_dash_vmx/NHKWorldTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20NHK%20Premium%20.jpg" group-title="10. VIP | VISION+ 4",,NHK World Premium
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a56d6a274eb073cdf94754bd0ffe3335:10ad173ac7249bc42c8390c090ca09e3
+https://d1abp075u76pbq.cloudfront.net/live/eds/NHKWorldPremium/sa_dash_vmx/NHKWorldPremium.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20CGTN.jpg" group-title="10. VIP | VISION+ 4",,CGTN
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=725ccd861fa88300c0e1d258b20bc9b1:ab190baece633191b7201cb96d065bbb
+https://d1abp075u76pbq.cloudfront.net/live/eds/CGTN/sa_dash_vmx/CGTN.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/2.%20SeaToday.jpg" group-title="10. VIP | VISION+ 4",,SEA Today 
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dfb76a400a6af053881f7fff14483323:aa5af1f3edb3abd10a68b8f7e7c0b1ad
+https://d1abp075u76pbq.cloudfront.net/live/eds/SEA-Channel/sa_dash_vmx/SEA-Channel.mpd
+
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Cinemachi.jpg" group-title="10. VIP | VISION+ 4",,Cinemachi
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeea0c2986e91a13eacd590ad1ebfe43:0acc16bd84921489f67bad19e4099cae
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-HD/sa_dash_vmx/Cinemachi-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Cinemachi%20Extra%20.jpg" group-title="10. VIP | VISION+ 4",,Cinemachi Xtra
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b64eee6360b118d0d90329cc2c9e4c60:4e97aa6422b26ffb372647dbd0a7683c
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Xtra-HD/sa_dash_vmx/Cinemachi-Xtra-HD.mpd
+ 
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Cinemachi%20Max.jpg" group-title="10. VIP | VISION+ 4",,Cinemachi Max
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6c256f70830647e4bdf654d86e710ed5:fe41e9bcbae52f9d233407f7488bca5f
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Max-HD/sa_dash_vmx/Cinemachi-Max-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Cinemachi%20Kids.jpg" group-title="10. VIP | VISION+ 4",,Cinemachi Kids
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ebe6190a3cfbbed4ec34e4d9c7a30e1e:d161b1f737e2aee9501149406c8abe9e
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Kids-HD/sa_dash_vmx/Cinemachi-Kids-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Cinemachi%20Action%20.jpg" group-title="10. VIP | VISION+ 4",,Cinemachi Action
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fba45325e2cd8355972ede4981f43b2a:d88a4bdd67f89cd21eb074c81de1b994
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cinemachi-Action/sa_dash_vmx/Cinemachi-Action.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Paramount%20Network%20.jpg" group-title="10. VIP | VISION+ 4",,Paramount Network
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=faa79feb03b3ebf0e4566e649cb938f0:2d5e77223719fb1af573cbeab56bb16a
+https://d1abp075u76pbq.cloudfront.net/live/eds/Paramount-HD/sa_dash_vmx/Paramount-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Rock%20Action%20.jpg" group-title="10. VIP | VISION+ 4",,Rock Action
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b9c123fbf587e6524b2706bd960c7f67:d2aaac6845b33627cdce1272feac5acc
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockaction/sa_dash_vmx/Rockaction.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Tvn%20Movies.jpg" group-title="10. VIP | VISION+ 4",,TVN Movies
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=45c004003b09719751adb885d28d491f:fe82bc3ffe00477c833812fae74caed7
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvNMovies/sa_dash_vmx/tvNMovies.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Calestial%20Classic%20.jpg" group-title="10. VIP | VISION+ 4",,Celestial Movies
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=13aecb26aeee22bc86920045f22d134d:80aa44d998c7c0cc221c96d26730fe9b
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialMovie/sa_dash_vmx/CelestialMovie.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20CCM.jpg" group-title="10. VIP | VISION+ 4",,CCM
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=12da619438b3748da206142216d0943b:6958377109d34561ad20645319cec62c
+https://d1abp075u76pbq.cloudfront.net/live/eds/CelestialClassic/sa_dash_vmx/CelestialClassic.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3%20Thrill%20.jpg" group-title="10. VIP | VISION+ 4",,Thrill
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=06e7e95fdb30086d24111f300c9d91f1:9431050f760f692bfd396bbd84cb5161
+https://d1abp075u76pbq.cloudfront.net/live/eds/Thrill/sa_dash_vmx/Thrill.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3%20Cinema%20World%20.jpg" group-title="10. VIP | VISION+ 4",,Cinema World HD
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=958df746f24f371dffc95e7cd714fbd7:fbd6e4540b9a917a27da8be01542f53f
+https://d1abp075u76pbq.cloudfront.net/live/eds/CinemaWorld/sa_dash_vmx/CinemaWorld.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Hits%20Movie%20.jpg" group-title="10. VIP | VISION+ 4",,HITS Movies
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5d9684b1737e3b68801b4cff7225d4bb:902e7634820c26a8ff36f3708f0191d4
+https://d1abp075u76pbq.cloudfront.net/live/eds/HitsMovies/sa_dash_vmx/HitsMovies.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20iMC.jpg" group-title="10. VIP | VISION+ 4",,IMC
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1a551e30ef88a5a121dcea6a74a3aee7:b0f3de006d6e31e967a5bc41be086e64
+https://d1abp075u76pbq.cloudfront.net/live/eds/IndonesiaMovieChannels-HD/sa_dash_vmx/IndonesiaMovieChannels-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Galaxy%20.jpg" group-title="10. VIP | VISION+ 4",,Galaxy
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e5c40292f8d01b1d5f0c6b3904d73104:bcb2ac12e11c69594ba217bfe8714efe
+https://d1abp075u76pbq.cloudfront.net/live/eds/Galaxy-HD/sa_dash_vmx/Galaxy-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Galaxy%20Premium%20.jpg" group-title="10. VIP | VISION+ 4",,Galaxy Premium
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7bc29ff5f405dff971e3a326223fe26c:06849a953a38da997b31bacf433cc74a
+https://d1abp075u76pbq.cloudfront.net/live/eds/GalaxyPremium-HD/sa_dash_vmx/GalaxyPremium-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20My%20Cinema%20Family%20.jpg" group-title="10. VIP | VISION+ 4",,My Family Channel
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyFamily/sa_dash_vmx/MyFamily.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20My%20Cinema.jpg" group-title="10. VIP | VISION+ 4",,My Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema/sa_dash_vmx/MyCinema.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20My%20Cinema%20Asia.jpg" group-title="10. VIP | VISION+ 4",,My Cinema Asia
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=4310edb8b9ffe79abb40bacafa778ec3:aebb7e86d8a336d9a93d3dd8a41153cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MyCinema-Asia/sa_dash_vmx/MyCinema-Asia.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Zee%20Bioskop.jpg" group-title="10. VIP | VISION+ 4",,Zee Bioskop
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9e7df70530006bef067327cefde82c0e:b92b6a2aba522bd9bb2d07cf241e7398
+https://d1abp075u76pbq.cloudfront.net/live/eds/ZeeBIOSKOP/sa_dash_vmx/ZeeBIOSKOP.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20TvN.jpg" group-title="10. VIP | VISION+ 4",,TVN
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=742131dbcb507c31502eb60b32be6bb8:209f03c525bbbc9fd8652aa7a9cc5cb0
+https://d1abp075u76pbq.cloudfront.net/live/eds/tvN/sa_dash_vmx/tvN.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20One%20HD.jpg" group-title="10. VIP | VISION+ 4",,One
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=7b212a67ce3e8b056af85b890e3de811:428a68fac3d97a5fae0f695edcee6346
+https://d1abp075u76pbq.cloudfront.net/live/eds/SetOne/sa_dash_vmx/SetOne.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Arirang.jpg" group-title="10. VIP | VISION+ 4",,Arirang TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9bc202de2b177ff5bb64dacb0ab3fd8d:d71b81338f16bf009608665b08a49197
+https://d1abp075u76pbq.cloudfront.net/live/eds/Arirang/sa_dash_vmx/Arirang.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20AXN.jpg" group-title="10. VIP | VISION+ 4",,AXN
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c5d5297a84f8b2de977f07286345c591:bdb773d6d25303b75a396b8040cfaf8c
+https://d1abp075u76pbq.cloudfront.net/live/eds/AXN/sa_dash_vmx/AXN.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20KiX%20.jpg" group-title="10. VIP | VISION+ 4",,KIX
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fe761e8fac143d40510e70825dad0b20:eed9fb0b4e254e9104ef98e8a7035387
+https://d1abp075u76pbq.cloudfront.net/live/eds/KIX/sa_dash_vmx/KIX.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Rock%20Entertainment%20.jpg" group-title="10. VIP | VISION+ 4",,Rock Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/Rockentertainment/sa_dash_vmx/Rockentertainment.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20Hits.jpg" group-title="10. VIP | VISION+ 4",,HITS
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=78d17d4851a5e9eede96f283b15ec053:c5ae33f70cc967fe107b35eb7225f52a
+https://d1abp075u76pbq.cloudfront.net/live/eds/HITS/sa_dash_vmx/HITS.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20FMN.jpg" group-title="10. VIP | VISION+ 4",,FMN
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=009a1278e0755ed82e70df01460e90c3:12d010a918431785676c4fd63ef648bd
+https://d1abp075u76pbq.cloudfront.net/live/eds/FMN/sa_dash_vmx/FMN.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20Vision%20Prime.jpg" group-title="10. VIP | VISION+ 4",,Vision Prime HD
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=50056951f6d5f5fbaf286cd99c965379:4ec78e3b7d66d1db3815a127f792b604
+https://d1abp075u76pbq.cloudfront.net/live/eds/VisionPrime/sa_dash_vmx/VisionPrime.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20Ok%20TV.jpg" group-title="10. VIP | VISION+ 4",,OK TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/OKTV/sa_dash_vmx/OKTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20ENT%20(Entertainment).jpg" group-title="10. VIP | VISION+ 4",,Entertainment
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e97187c5c7978ad9fc48943df7ed9045:36af3adb3e7c4edd9286e7412fc5f596
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCEntertainment/sa_dash_vmx/MNCEntertainment.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20Global%20Network%20.jpg" group-title="10. VIP | VISION+ 4",,Global Trekker
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8b27270c10422acdf2b70c296c8ddb29:32ca577ab5b577a31cc61eb847642fa8
+https://d1abp075u76pbq.cloudfront.net/live/eds/Globaltrekker/sa_dash_vmx/Globaltrekker.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20Lifetime%20.jpg" group-title="10. VIP | VISION+ 4",,Lifetime
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=8bd8efd4840c37f50f8a053f92e9b015:7f8b3b508bb394919dab1b6e91e7bacf
+https://d1abp075u76pbq.cloudfront.net/live/eds/Lifetime/sa_dash_vmx/Lifetime.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20Okezone.jpg" group-title="10. VIP | VISION+ 4",,Okezone TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eeba2c9c08078d2a729328dbcd1e002b:19090336609b8f4fee1e7aea837a10d9
+https://d1abp075u76pbq.cloudfront.net/live/eds/LifeStyleFashion/sa_dash_vmx/LifeStyleFashion.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/4.%20Celebrities%20.jpg" group-title="10. VIP | VISION+ 4",,Celebrities TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a17bbb3d95ba22f0fa680bba609340f6:cb682391dc1830d2cec8ca9d4ce681cc
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCInfotainment/sa_dash_vmx/MNCInfotainment.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20History%20.jpg" group-title="10. VIP | VISION+ 4",,History
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2ccaa7d9731c2e69fa5344c5a547b836:d23fb6a3c73eb7ab8ad19ca841db0fb5
+https://d1abp075u76pbq.cloudfront.net/live/eds/History/sa_dash_vmx/History.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20Outdoor%20Channel%20.jpg" group-title="10. VIP | VISION+ 4",,Outdoor
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=05457a5e16a76fe666a22cc7ae2c6548:626e37901bfb985e994d714e9f9de1b5
+https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoChannel/sa_dash_vmx/NatGeoChannel.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20Love%20Nature%20.jpg" group-title="10. VIP | VISION+ 4",,Love Nature
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c3066eaa0984588f78d12dcdb75ef88b:4e98eb4927941bff51ea526d223fa16d
+https://d1abp075u76pbq.cloudfront.net/live/eds/NatGeoWild/sa_dash_vmx/NatGeoWild.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20CGTN.jpg" group-title="10. VIP | VISION+ 4",,CGTN Documentary
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=87354c602dcabe0eef472f2a68f6685a:518ecaa33b9f05494f8cfaa7dd56a968
+https://d1abp075u76pbq.cloudfront.net/live/eds/CGTN_Doc/sa_dash_vmx/CGTN_Doc.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20Crime%20Investigation%20.jpg" group-title="10. VIP | VISION+ 4",,Crime Investigation
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=dc6157edc80fa15e6b6f23e695d461e4:7c068dd99c87e0ab1efc635bb77adcb4
+https://d1abp075u76pbq.cloudfront.net/live/eds/CrimeInvestigation/sa_dash_vmx/CrimeInvestigation.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/5.%20BBC%20Earth%20.jpg" group-title="10. VIP | VISION+ 4",,BBC Earth
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c154c12b5f8336cc9cbef82fb5cc0ab4:5c365427c75eacf217255effcb5fff3e
+https://d1abp075u76pbq.cloudfront.net/live/eds/BBCEarth-HD/sa_dash_vmx/BBCEarth-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20Animax.jpg" group-title="10. VIP | VISION+ 4",,Animax
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=6344a8272809245e3fa9d926099528c3:93b6c4ff420c6864a6294f6d223d9b2c
+https://d1abp075u76pbq.cloudfront.net/live/eds/Animax/sa_dash_vmx/Animax.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20Zoomoo.jpg" group-title="10. VIP | VISION+ 4",,ZooMoo
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5ff6154f28d6950063f9f5b4db7be009:93cac38fd15124acce5b658896df0a25
+https://d1abp075u76pbq.cloudfront.net/live/eds/Zoomoo/sa_dash_vmx/Zoomoo.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20DreamWorks%20.jpg" group-title="10. VIP | VISION+ 4",,Dreamworks
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=57d2ac9210cfbca3596cc679a01c8b29:d5e35c0f39c76adf24853d7ea18c71e7
+https://d1abp075u76pbq.cloudfront.net/live/eds/Dreamwork-HD/sa_dash_vmx/Dreamwork-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20CBeebies.jpg" group-title="10. VIP | VISION+ 4",,CBeebies
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=194891b41223a5f1ec2beff1c95e2f53:eeb1fb2ec011f9563653495f9ac427b1
+https://d1abp075u76pbq.cloudfront.net/live/eds/Cbeebies/sa_dash_vmx/Cbeebies.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20Nic%20jr.jpg" group-title="10. VIP | VISION+ 4",,Nick Jr
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=f71ca09f57ea09e27ee63d7d1f0d0e31:8a07ef45b4a18973ef12f8da482dcec0
+https://d1abp075u76pbq.cloudfront.net/live/eds/NickJr-HDD/sa_dash_vmx/NickJr-HDD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20Nickelodeon%20.jpg" group-title="10. VIP | VISION+ 4",,Nickelodeon
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=785024598882dc751652cea2bce44b8e:56a40e58acd59965e865947dd719108d
+https://d1abp075u76pbq.cloudfront.net/live/eds/Nickelodeon/sa_dash_vmx/Nickelodeon.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/6.%20Kids%20TV.jpg" group-title="10. VIP | VISION+ 4",,Kids TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=17340c4223a4674b1b7da8d8d9e11174:11a73aad2c75ddf338840b08fb915993
+https://d1abp075u76pbq.cloudfront.net/live/eds/KidsChannel/sa_dash_vmx/KidsChannel.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/3.%20My%20Cinema%20Kids.jpg" group-title="10. VIP | VISION+ 4",,My Kidz
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a2dd864fc95998efd52979e5f732e029:4f705ca934ba3ef5513fea618d4f938d
+https://d1abp075u76pbq.cloudfront.net/live/eds/My-Kids/sa_dash_vmx/My-Kids.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/7.%20MusicTV.jpg" group-title="10. VIP | VISION+ 4",,Music TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0bea88ab972e06760a04712cc423d841:4039d607f88f1b1f677e4beb6ee66637
+https://d1abp075u76pbq.cloudfront.net/live/eds/MusicChannel/sa_dash_vmx/MusicChannel.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/7.%20MTV%20Live.jpg" group-title="10. VIP | VISION+ 4",,MTV Live
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=5b9753643572b0c6c467793b50900029:ebeda1cf36dae2b0bdedf1065129ea93
+https://d1abp075u76pbq.cloudfront.net/live/eds/MTV/sa_dash_vmx/MTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/7.%20MTV%2090's.jpg" group-title="10. VIP | VISION+ 4",,MTV 90S
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=37ef71f668c1c1126595be0f557587f5:008df022d78a9ec318a745cf8365b048
+https://d1abp075u76pbq.cloudfront.net/live/eds/MTV-90-HD/sa_dash_vmx/MTV-90-HD.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20Al%20Qur'an%20Al%20Kareem.jpg" group-title="10. VIP | VISION+ 4",,Al Quran Al Kareem TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=67fe3ac3ca111c9bdd6e8480091dc13c:7d05fb1ff7705c1e452ff7e1b841a1b8
+https://d1abp075u76pbq.cloudfront.net/live/eds/AlQuranAlKareem/sa_dash_vmx/AlQuranAlKareem.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20TawafTV.jpg" group-title="10. VIP | VISION+ 4",,Tawaf TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=552bc18038d025c26ead432fa521f83a:beab0589d5f15d4a56278c7df913b263
+https://d1abp075u76pbq.cloudfront.net/live/eds/TawafTV/sa_dash_vmx/TawafTV.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20MuslimTV.jpg" group-title="10. VIP | VISION+ 4",,Muslim TV
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=eefa1c34afba72f8fe902b061632528f:334cde07f6ebe092c0ae0521591d73cf
+https://d1abp075u76pbq.cloudfront.net/live/eds/MNCMuslim/sa_dash_vmx/MNCMuslim.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20TV9.jpg" group-title="10. VIP | VISION+ 4",,TV9
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=ce1a653fafa780cd4a8747c08872e3ab:d83bcf72b3f5a3d09674602b06caaa71
+https://d1abp075u76pbq.cloudfront.net/live/eds/TV9/sa_dash_vmx/TV9.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.Life.jpg" group-title="10. VIP | VISION+ 4",,Life
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cdd9eab3335c9abd97e27d89852d8ee5:1a88565a73164fd886dd0e7fe66059b8
+https://d1abp075u76pbq.cloudfront.net/live/eds/Life/sa_dash_vmx/Life.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.TVMU.jpg" group-title="10. VIP | VISION+ 4",,TV Muhammadiyah
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2fa7625e3470d5e9429f64150614f9a5:c495ad0e82e2266fd207934327c71ce3
+https://d1abp075u76pbq.cloudfront.net/live/eds/TVMuhammadiyah/sa_dash_vmx/TVMuhammadiyah.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20Reformed21.jpg" group-title="10. VIP | VISION+ 4",,Reformed 21
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=1acfe74d40e91e0368324b074c256bab:f3211e3f8079a8584ac77afda2b0e119
+https://d1abp075u76pbq.cloudfront.net/live/eds/Reformed21/sa_dash_vmx/Reformed21.mpd
+
+#EXTHTTP:{"Referer": "https://www.visionplus.id/", "User-Agent": "MNCNow/6.33.0"}
+#EXTINF:0 tvg-logo="https://raw.githubusercontent.com/JustinAgerton/TheIndos/main/V%2B/8.%20EWTN.jpg" group-title="10. VIP | VISION+ 4",,EWTN
+#KODIPROP:inputstream.adaptive.manifest_type=auto
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=cb2393dc078c4b708cce148304db1ea7:78437d7ccfe7a3a220c53180eb5bdeb1
+https://d1abp075u76pbq.cloudfront.net/live/eds/EWTN/sa_dash_vmx/EWTN.mpd
+
+
+
+
+
 
 //========================================================================
 //Collected by @mimipipi22 menampilkan playlist >>> FIRSTMEDIA
