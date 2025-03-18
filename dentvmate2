@@ -8424,6 +8424,12 @@ https://dl.dropboxusercontent.com/scl/fi/f0mlfvd3xizf8goi3odh6/bein_my2.m3u8?rlk
 #EXTINF: -1 tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/Bein-MY3.png" group-title="SPORTS | ASTRO ⭐",⭐ MY: BEIN SPORTS 3
 https://dl.dropboxusercontent.com/scl/fi/sztcvxxnqr4xd59btv4de/bein_my3.m3u8?rlkey=j0tzio68tf1hor2bzieev5112
 
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="MY: Astro Supersport Football" tvg-logo="https://i.imgur.com/wnC7tTD.jpeg" group-title="SPORTS | ASTRO ⭐",MY: Astro Supersport Football
+https://starshare.org:443/live/Money12345/Money12345/5480.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="MY: Astro SuperSport Badminton" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroBadminton.png" group-title="SPORTS | ASTRO ⭐",MY: Astro SuperSport Badminton
+https://starshare.org:443/live/Money12345/Money12345/5482.ts
+#EXTINF:-1 tvg-id="4seven.uk" tvg-name="MY: Astro Supersport Plus" tvg-logo="https://raw.githubusercontent.com/whs4030/Logo/refs/heads/main/AstroSportsPlus.png" group-title="SPORTS | ASTRO ⭐",MY: Astro Supersport Plus
+https://starshare.org:443/live/Money12345/Money12345/5483.ts
 
 
 
