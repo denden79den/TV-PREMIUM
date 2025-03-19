@@ -29,6 +29,9 @@ https://atemecdnbalancer-voe.sysln.id/live/eds/SCTVHD/mpd/SCTVHD.mpd
 #KODIPROP:inputstream.adaptive.license_key=5eaddccd893a47ac8b65f9b31963a3ae:881afa67ea57b41c1822d745d67559e6
 https://atemecdnbalancer-voe.sysln.id/live/eds/IndosiarHD/mpd/IndosiarHD.mpd
 
+#EXTINF:-1 tvg-id="Indosiar.id" tvg-logo="https://iili.io/JMp3wV1.png" group-title="01. TV | NASIONAL",Indosiar 2
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4646
+
 #EXTINF:-1 tvg-id="Moji.id" tvg-logo="https://iili.io/JMp3vUJ.png" group-title="01. TV | NASIONAL",Moji
 #EXTVLCOPT:http-user-agent=ExoPlayerDemo/2.15.1 (Linux; Android 13) ExoPlayerLib/2.15.1
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -64,6 +67,9 @@ https://flv.intechmedia.net/live/ch107.m3u8
 #KODIPROP:inputstream.adaptive.license_key=6b7bbcf1d511a56e6b3ceda392e4fa33:d1766244d7c1c44efd4c67aafae3ee7b
 #EXTVLCOPT:http-referrer=https://visionplus.id/
 https://d1abp075u76pbq.cloudfront.net/live/eds/NetTV-HD/sa_dash_vmx/NetTV-HD.mpd
+
+#EXTINF:-1 tvg-id="NET TV.id" tvg-logo="https://iili.io/2Sg7qyF.png" group-title="01. TV | NASIONAL",MDTV 2
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4658
  
 #EXTINF:-1 tvg-id="RTV.id" tvg-logo="https://iili.io/JMp3PVt.png" group-title="01. TV | NASIONAL",RTV
 #KODIPROP:inputstream.adaptive.license_type=clearkey
@@ -92,7 +98,8 @@ https://edge.medcom.id/live-edge/smil:magna.smil/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Metro TV.id" tvg-logo="https://iili.io/JV3xZtS.png" group-title="01. TV | NASIONAL",Metro TV
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/109.0.0.0 Safari/537.36
-https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+#https://edge.medcom.id/live-edge/smil:metro.smil/playlist.m3u8
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4655
  
 #EXTINF:-1 tvg-id="CNN Indonesia.id" tvg-logo="https://iili.io/JV3xSnt.png" group-title="01. TV | NASIONAL",CNN Indonesia
 https://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w891045790_b384000_sleng.m3u8
@@ -6671,8 +6678,8 @@ https://cdn08jtedge.indihometv.com/dassdvr/133/history/manifest.mpd
 #EXTINF:-1 group-title="14. VIP | INDIHOME" tvg-logo="https://images.indihometv.com/logo_dunialain_small.png?v=2.0.0.13",DUNIA LAIN
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=69646b755f3130303030303030303030:e4a2359b05563399f1d9adfce641724a
-https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
-
+#https://cdn08jtedge.indihometv.com/dassdvr/130/dunialain/manifest.mpd
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4625
 
 #EXTVLCOPT:http-referrer=https://www.indihometv.com/
 #KODIPROP:inputstreamaddon=inputstream.adaptive 
@@ -7852,7 +7859,8 @@ http://line.protv.cc:80/play/live.php?mac=00:1A:79:12:35:0A&stream=1016545&exten
 #KODIPROP:inputstream.ffmpegdirect.stream_mode=timeshift
 #KODIPROP:inputstream.ffmpegdirect.manifest_type=hls
 #EXTINF:-1 group-title="17. TV | KIDS" tvg-id="" tvg-url="" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/Fun_Planet.png",098. Fun Planet
-https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+#https://nonton.site:8443/live/DZqjznfyyn/3Q9O2vucT6/3479.m3u8
+http://megaott.live:8080/XBdfvNyhnYrc/zjLVCQnaEY6q/4645
 
 #KODIPROP:inputstream=inputstream.ffmpegdirect
 #KODIPROP:mimetype=application/x-mpegURL
